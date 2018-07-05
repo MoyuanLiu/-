@@ -1,0 +1,71 @@
+sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
+LYQ-LY064-G0-L	X001D8CJFN	B01N4NCSUX	Summer Mae Chiffon Short Sleeve V-neck Dress Knee Length Ruched Dress for Women G0 L	1	0	0	1
+LYQ-ZQ1117-BD-2XL	X001MNP99R	B077GS3C1X	Women Lace Dress Long Sleeve Loose Tunic Tops Stitching Casual Blouses Burgundy XXL	2	1	1	0
+LYQ-ZQ1880-ZL-XL	X001KC8CUX	B074N28J1W	Lace Mini Dress for Women Party Bodycon Spaghetti Strap Halter Floral Cocktail Dress Navy XL	1	0	0	1
+LYQ-ZQ3550-E0-5X	X001JBBPEZ	B071ZYZ4WT	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	1	0	0	1
+LYQ-ZQ3550-PI-3X	X001LAAVM1	B071JLRTDQ	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	5	0	5	0
+LYQ-ZQ3550-PI-4X	X001LOLZYP	B071WJY8WZ	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	10	0	10	0
+LYQ-ZQ3550-E0-3X	X001JBB29D	B071FZWXQ8	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	2	1	0	1
+LYQ-ZQ3550-E0-M	X001KTGKGT	B071FZWYWN	WOMEN'S BOUTIQUE Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	2	1	0	1
+LYQ-ZQ3550-PI-S	X001KQXTCP	B071JLRH8Z	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	1	0	0	1
+YZ-HM111-K0-M	X001E2ZSUL	B06XWQGYFH	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	2	0	1	1
+YZ-HM111-K0-L	X001DZX0A9	B06XWQQ8BD	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	1	1	0	0
+YZ-HM111-K0-XL	X001E7AJTV	B06XWQSHYX	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	24	1	20	3
+YZ-HM1728-ZL-XL	X001FVIB3H	B071DV9G8Z	Summer Mae Womens One Piece Floral Lace Swimwear Printed Multi-Rope Harness Bathing Suit	1	0	0	1
+YZ-HM1727-Pi-M	X001CF3A1T	B06W5JMC3G	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink M	4	0	0	4
+YZ-HM1728-ZL-S-New	X001O23YIT	B078TCMCWF	Summer Mae One Piece Floral Lace Swimwear Printed Multi-Rope Harness Bikini	1	1	0	0
+YZ-HM1728-ZL-M	X001FVWNB3	B071DV9D1Q	Summer Mae Womens One Piece Floral Lace Swimwear Printed Multi-Rope Harness Bathing Suit	15	0	15	0
+YZ-HM1727-Pi-2XL	X001DGZV3R	B06XRGKYBC	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink 2XL	2	1	1	0
+YZ-HM1727-Pi-3XL	X001DFML9P	B06XRW7ZB3	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink 3XL	1	0	0	1
+YZ-HM1727-Pi-L	X001CDPKJ1	B06WGVW1TW	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink L	34	1	26	7
+YZ-HM1727-Pi-XL	X001CDPKIR	B06WRXM3GY	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink XL	87	4	78	5
+YZ-HM241-G0-L	X001B2BX85	B01MCW20WY	Summer Mae Womens Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear,Arm Green(halter),L(US size:6-8)	1	1	0	0
+YZ-HM1727-Pi-S	X001CDN20Z	B06VYFC3HZ	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink S	1	0	0	1
+YZ-HM2508-R0-M	X001GU23SB	B071KKDKCC	Summer Bay Women's Halter Swimsuit One Piece Swimwear Sexy Summer Swimsuit	1	1	0	0
+YZ-HM7035-DJG0-M	X001HPTUV3	B07214CVZK	Summer Mae Women Sexy Leaves Print Lace Up Padding One Piece Monokini Swimsuit Bikini	1	0	0	1
+YZ-HMBKN17015-OR-XL	X001G4N6GZ	B072HN8VX9	Summer Mae Women's Sexy Bandage Bikini Set Push-up Padded 2 Piece Swimsuit Swimwear	3	2	1	0
+YZ-SUBL03-K0-M	X001T37WDB	B07DNXW5SB	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	70	1	67	2
+YZ-SUBL03-K0-S	X001T37QD7	B07DNWTWYZ	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	1	0	0	1
+YZ-SUZQ388-W0-M	X001S6HRKH	B07D35DJ26	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	4	1	1	2
+YZ-SUZQ388-W0-S	X001S6K7MH	B07D322V4M	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	2	1	0	1
+YZ-SUZQ388-W0-L	X001S8489X	B07D33PXF9	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	1	1	0	0
+YZ-SUZQ388-W0-XL	X001S6K7MR	B07D32N4L4	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	1	1	0	0
+YZ-SUZQ388-K0-L	X001QIBP37	B07CCMGJKF	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	1	0	1	0
+YZ-SUZQ388-K0-M	X001QGSM5D	B07BPWRCZZ	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	4	1	1	2
+YZ-SUZQ187-K0-3X	X001R8Z6D1	B07CH7K683	Women Maternity Pregnancy Halter Black Floral Tankini Swimsuit	1	1	0	0
+YZ-SUZQ388-K0-S	X001QGSM53	B07C97VM95	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	1	1	0	0
+YZ-SUZQ388-K0-XS	X001QIBOFB	B07BPSHDV6	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	2	0	0	2
+YZ-SUZQBL03-R2-3X	X001S9C321	B07D4B1TLQ	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear Pink	1	1	0	0
+YZ-SUZQBL03-B0-XL	X001QYLQQR	B07C323BGV	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	1	0	0	1
+YZ-ZQ1521BL4XL	X0014MV0V7	B01GJPBB7U	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L Leaves	1	1	0	0
+YZ-ZQ1521BF5XL	X0015HZULR	B01GJPDNQ2	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	2	2	0	0
+YZ-ZQ1521RF4XL	X0016IPCX1	B01GJPCTJO	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	2	1	1	0
+YZ-ZQ1521WP4XL	X0014N7UDX	B01GJPBP4E	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	1	0	0	1
+YZ-ZQ1521RF2XL	X001B4ZO5L	B01GJPCE9O	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	1	0	0	1
+YZ-ZQ1521KF3XL	X0015Z11NF	B01I2I96ME	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	1	0	0	1
+YZ-ZQ1521GF5XL	X0014LFUOV	B01GJPDY52	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	5	2	1	2
+YZ-ZQ1521RF3XL	X001AY2HZR	B01GJPCQQK	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	1	0	0	1
+YZ-ZQ1521KF5XL	X00160QMIN	B01I2I95SO	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	1	0	0	1
+YZ-ZQ1521GW5XL	X001AVQ2GF	B01GJPBG4I	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	1	0	0	1
+YZ-ZQ1521BF4XL	X0016JQJZ5	B01GJPD8YY	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	1	0	0	1
+YZ-ZQ1521GF2XL	X0014MM5L1	B01GJPD542	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	2	0	1	1
+YZ-ZQ1521BF2XL	X00191NLEH	B01GJPD21S	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	2	1	1	0
+YZ-ZQ15905-K0-M	X001F3NHUR	B071CDDRHX	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	1	0	0	1
+YZ-ZQ1617-BH-3XL	X001ECMQVF	B01MS460RR	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit, Blue Floral, 3XL ASIAN/14-16 (US)	2	1	1	0
+YZ-ZQ15905-W0-S	X001F3NJBJ	B06ZZG68SC	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	1	1	0	0
+YZ-ZQ16598R0L	X0016AJVM7	B01IMZ2QGK	Summer Mae Women's American Open-BackRed White Blue Patriotic Tankini M	3	0	0	3
+YZ-ZQBL03-B0-2XL	X001ODSUSR	B0792THM1S	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	1	1	0	0
+YZ-ZQBL03-B0-M	X001OF6J6P	B06ZZJ46LT	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	4	2	0	2
+YZ-ZQBL03-R2-2XL	X001OF796T	B0792TD85L	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	2	0	0	2
+YZ-ZQBL03-K0-XL	X001CZLO3Z	B01N1ELDWA	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Halter Swimwear	2	1	0	1
+YZ-ZQBL03-K0-S	X001E1ZG63	B01N406GK7	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Halter Swimwear	1	0	0	1
+YZ-ZQBL03-R2-S	X001OF6JVZ	B0792SW5YQ	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	1	1	0	0
+YZ-ZQBL03-K0-M	X001D0OK6R	B01N74K227	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Halter Swimwear	6	3	3	0
+YZ-ZQMICAIK0XL	X001DOPPG7	B01HZ9S1GS	Summer Mae Stylish Cross Back Camo Tankini Set for Women	1	1	0	0
+YZ-ZQBL03-K0-L	X001D0OK6H	B01MYM265E	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Halter Swimwear	2	0	2	0
+YZ-ZQBL03-R2-L	X001OF5ES9	B0792SSMZK	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	2	1	1	0
+YZ-ZQBL03-R2-XL	X001OF5T7Z	B0792TY4YT	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	1	0	0	1
+YZ-ZQBL03-K0-2X	X001F98FCV	B071L9XNCJ	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Tank Swimwear	3	1	0	2
+YZ-ZQadn1601-B1-XL	X001CR3LYX	B01M366JZA	Summer Mae Women's Attractive Floral Print One Piece Swimsuit Adjustable Swimwear	1	0	0	1
+YZ-ZQQ9227-K0-S	X001FZDO85	B07233M5T8	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	2	1	1	0
+YZ-ZQadn1601-B1-M	X001CR3SEL	B01M366E1Z	Summer Mae Women's Attractive Floral Print One Piece Swimsuit Adjustable Swimwear	1	0	0	1

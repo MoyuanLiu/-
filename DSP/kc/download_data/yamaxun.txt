@@ -1,0 +1,153 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity
+00-1VZ1-IH69	X001MR5RYF	B004H09KEQ		Unknown					0	0	0	0	0		0	0	0
+06-LI7A-IZ44	X001HAG5XJ	B0052K03KA	Premier Dead Sea Essential Face Cleanser for Men	New	11.59	No		Yes	196	189	1	6	196	0.01	0	0	0
+0Z-KJNM-D56T	X001HAAVTN	B00157ZFC0	Premier Dead Sea Body Butter Herbal Scent	New	19.99	No		Yes	113	113	0	0	113	0.09	0	0	0
+1M-3M12-58YS	X001BK07GL	B002DYY35Y	Premier Dead Sea Mineral Body Treatment - Salt Scrub - Lemon Aroma	New	17.39	No		Yes	0	0	0	0	0	0.01	0	0	0
+1N-I8OQ-5NL6	X001E28I03	B00D6L6NY2	Premier Dead Sea Para-pharmaceutical Exfoliating Facial Gel 125 ML/ 4.25 FL.OZ	New	25.99	No		Yes	0	0	0	0	0	0	0	0	0
+2N-C2ZT-YSNI	X001CPXTFL	B0016VW618	Premier Usa Dead Sea shaving Cream for Men All Skin	New	15.59	No		Yes	42	41	0	1	42	0	0	0	0
+3E-OBBY-DIEZ	X001BZ317N	B00157XFNQ	Premier Active Moisture Complex - Normal to Dry Skin	New	39.59	No		Yes	59	58	1	0	59	0.02	0	0	0
+3S-1QX9-6RRP	X001MU9L2B	B001DXOWA2	Premier Dead Sea Ageless Future Cell Renewal Cream	New	49.99	No		Yes	43	41	1	1	43	0.02	0	0	0
+40-G0ZX-HJNG	X001EVO9BV	B00022AUVA	Premier Dead Sea Age Defying/Anti Age Cream	New	33.99	No		Yes	0	0	0	0	0	0.02	0	0	0
+44-WCRW-ZLHB	X001B6RTON	B004HTXUNE		Unknown					0	0	0	0	0		0	0	0
+54-2HQR-70OB	X001FPB0BN	B00115TXRE		Unknown					9	0	0	9	9		0	0	0
+58-6A0P-DRT9	X001K6GUYT	B001278VEW	Premier Dead Sea Professional Peeling Mask	New	39.49	No		Yes	61	61	0	0	61	0.02	0	0	0
+5D-ZS9Q-CYOL	X001A8Y035	B003Y7D0HQ	Premier Dead Sea Pearl White Cream Complex, 2.04-Fluid Ounce	New	60.99	No		Yes	2	2	0	0	2	0.02	0	0	0
+5S-TEQM-ZWF1	B000VEWF2Q	B000VEWF2Q		Unknown					1	0	1	0	1		0	0	0
+5X-E8TX-UKIW	X00171A4VR	B002DYY35Y	Premier Dead Sea Mineral Body Treatment - Salt Scrub - Lemon Aroma	New	17.39	No		Yes	16	14	0	2	16	0.01	0	0	0
+6T-8V8W-3S67	X0015FXF93	B000VF5WVG	Premier by Dead Sea Premier Luxury Collection Milk Cleanser, 8.5 fl oz	New	29.00	No		Yes	2	0	0	2	2	0.05	0	0	0
+7K-XLQF-24PG	B000VEWF2Q	B000VEWF2Q		Unknown					1	0	1	0	1		0	0	0
+8V-1JSS-5D7M	X001GR4BZ7	B004H02GDI	Dead Sea Premier Beautifying Nail Kit Milk and Honey - Body Lotion,Cuticle Oil,Nail File,Buffing Block	Unknown	0.00	No		Yes	0	0	0	0	0	0.08	0	0	0
+8X-ORFA-L07U	X001C0RCFJ	B003CEA88U		Unknown					0	0	0	0	0		0	0	0
+97-6SJH-1LTA	X001FB4RML	B001561M00	Premier Dead Sea Intensive Biox Thermal Beauty Mask**NEW IN BOX**SAME IN MALL**	New	53.49	No		Yes	0	0	0	0	0	0.03	0	0	0
+A5-X9GB-M912	X001K0ZSB1	B002DL9M2G	Premier Dead Sea Luxurious Anti-aging Neck Cream, 2.04 oz	New	39.21	No		Yes	1	1	0	0	1	0.02	0	0	0
+B000VEWF2Q	B000VEWF2Q	B000VEWF2Q		Unknown					1	0	1	0	1		0	0	0
+BM-6KQ2-02X2	X001FBQ32N	B004HFNFU6		Unknown					0	0	0	0	0		0	0	0
+BU-8SVS-Q5LV	X001CN96RX	B008YFY9TQ		Unknown					0	0	0	0	0		0	0	0
+C3-311K-550X	X001BKSZX3	B00115TXRE		Unknown					0	0	0	0	0		0	0	0
+CF-7C1X-596L	X001MPQ9NZ	B003Y7EU16	Premier Dead Sea Day Cream Complex (for normal to dry skin)	New	53.59	No		Yes	92	92	0	0	92	0.02	0	0	0
+DA-BINR-0UIS	X001FKUA5Z	B002KFR628		Unknown					0	0	0	0	0		0	0	0
+DI-JC1L-4Y5S	X001K11AK3	B0010BBCFK		Unknown					0	0	0	0	0		0	0	0
+DM-LSF9-NGGG	X001C13LRB	B002QSD1YQ	Dead Sea Premier Moisture Cream for Normal to Dry Skin	New	61.99	No		Yes	0	0	0	0	0	0.02	0	0	0
+DW-MG8E-BMQG	X0014UY1GP	B00157ZFC0	Premier Dead Sea Body Butter Herbal Scent	New	19.99	No		Yes	4	4	0	0	4	0.09	0	0	0
+E8-GWV1-AJMB	X001HQT6B1	B008YFY9TQ	Premier Dead Sea Aromatic Body Butter- Milk and Honey, 175ml	New	36.00	No		Yes	48	0	48	0	48	0.1	0	0	0
+EW-ERSE-5U59	X001FZUCWV	B0012IVH2O	premier dead sea body butter milk & honey scent Plastic Jar	Unknown	0.00	No		Yes	0	0	0	0	24	0.01	24	0	0
+GE-EMV6-4E4J	X001K2PX4L	B003CEA88U	Gratiae Organics Facial Cleansing Lotion, 6.8 Ounce	Unknown	0.00	No		Yes	0	0	0	0	0	0.01	0	0	0
+GX-HUMS-YACQ	X001CYMUZ7	B000VEXG2E		Unknown					0	0	0	0	0		0	0	0
+HF-I2e-AABS	X001QEZ2HB	B000VER1RU	Premier Dead Sea Biox Intensive Age Cream/Anti-age Complex, 2.0400-Fluid Ounce	New	63.99	No		Yes	82	71	2	9	82	0.02	0	0	0
+HF-T9QA-X3JZ	X001FD46M5	B001561M00	Premier Dead Sea Intensive Biox Thermal Beauty Mask**NEW IN BOX**SAME IN MALL**	New	53.49	No		Yes	28	28	0	0	76	0.03	48	0	0
+HF-a10e-MINM	X001REQDTV	B0010BBCFK	Premier Dead Sea Miracle Noir Mask, 2.04 Fluid Ounce	New	39.98	No		Yes	43	41	0	2	83	0.07	40	0	0
+HF-a136e-MHBB	X001S7U39D	B0012IVH2O	premier dead sea body butter milk & honey scent Plastic Jar	New	15.98	No		Yes	0	0	0	0	0	0.01	0	0	0
+HF-a14e-NICC	X001Q1F5TT	B00117D9MW	Premier Dead Sea Night Cream Complex, 2.04 Fluid Ounce	New	35.39	No		Yes	0	0	0	0	48	0.04	48	0	0
+HF-a1e-LCMC	X001Q1E9CX	B000VF5WVG	Premier by Dead Sea Premier Luxury Collection Milk Cleanser, 8.5 fl oz	New	28.39	No		Yes	57	56	0	1	111	0.05	54	0	0
+HF-a21e-SCFM	X001PZ5OB5	B0010OMN4G	Premier Dead Sea Shaving Cream for Men, Tube, 4.2268-Fluid Ounce	New	17.39	No		Yes	40	38	0	2	40	0.02	0	0	0
+HF-a22e-EFCM	X001PZ8W37	B0052K03KA	Premier Dead Sea Essential Face Cleanser for Men	New	22.99	Yes	0	No	0	0	0	0	0	0.01	0	0	0
+HF-a2e-STSP	X001Q1E9DH	B004H07KKC	Premier Dead Sea Skin Toner for Normal/Oily Skin, Pink, 8.4535-Fluid Ounce	New	40.99	Yes	27	No	0	0	0	0	0	0.01	0	0	0
+HF-a33e-LUHC	X001Q1F5U3	B004HTXUNE	Premier Dead Sea Luxury Hand Cream 125ml/4.25fl.oz	New	13.59	No		Yes	57	57	0	0	57	0.01	0	0	0
+HF-a36e-LMCM	X001PZ8W87	B002DV0KDQ	Premier Dead Sea Luxury Moisture Cream for Multi-Use	New	17.49	Yes	0	No	0	0	0	0	0	0.01	0	0	0
+HF-a37e-FCMG	X001PZ8W3H	B004H09KEQ	Premier Dead Sea Luxury Facial Cleanser with Micro Grains, 4.25-Fluid Ounce	New	22.49	No		Yes	74	74	0	0	74	0.01	0	0	0
+HF-a49e-CBSM	X001Q1GDMH	B000V7DONW	Dead Sea Premier Collagen, Beta-Carotene & Seaweed Mask	New	60.99	No		Yes	0	0	0	0	0	0.04	0	0	0
+HF-a53e-PRPM	X001PZ8VN3	B001278VEW	Premier Dead Sea Professional Peeling Mask	New	39.49	Yes	4	No	0	0	0	0	0	0.02	0	0	0
+HF-a56e-EYES	X001QBJD9R	B00115TXRE	Dead Sea Premier Eye Serum.	New	45.99	No		Yes	62	61	0	1	86	0.02	24	0	0
+HF-a5e-NCFM	X001RDEZG5	B003NQ7P0Q	Premier Dead Sea Nourishing Cream for Men (tube)	New	17.99	No		Yes	1	0	1	0	73	0.05	72	0	0
+HF-a69e-PEFG	X001PZ8VND	B00BD3OU72	Premier Dead Sea Para-pharmaceutical Exfoliating Facial Gel, Brown, 4.3958-Fluid Ounce	New	25.69	No		Yes	81	78	1	2	81	0.01	0	0	0
+HF-a69e-PEFGX	X001S7TZTR	B0016Q1RI6	Premier Dead Sea Para-pharmaceutical Exfoliating Facial Gel, Brown, 4.25-Fluid Ounce	New	29.79	No		Yes	0	0	0	0	48	0.06	48	0	0
+HF-a6e-LASS	X001Q0JMV7	B002DYY35Y	Premier Dead Sea Mineral Body Treatment - Salt Scrub - Lemon Aroma	New	17.39	No		Yes	114	108	4	2	234	0.01	120	0	0
+HF-a76e-GCSS	X001Q1EZ2R	B004H02HA0	Premier Dead Sea Aromatherapy Mineral Body Treatment, Gold Cap, Salt Scrub, 425-Grams	New	16.99	No		Yes	0	0	0	0	48	0.01	48	0	0
+HF-a77e-TSSS	X001REPG53	B004H07J80	Premier Dead Sea Aromatherapy Mineral Body Treatment, Silver, Salt Scrub, 425-Grams	New	17.98	No		Yes	4	0	1	3	4	0.02	0	0	0
+HF-a80e-BTBM	X001S9JE3R	B001561M00	Premier Dead Sea Intensive Biox Thermal Beauty Mask**NEW IN BOX**SAME IN MALL**	New	53.49	No		Yes	52	51	1	0	52	0.03	0	0	0
+HF-a81e-MHBB	B07F1BV5CC	B07F1BV5CC	Premier Dead Sea Aromatic Body Butter- Milk and Honey, 175ml	New	33.99	No		Yes	0	0	0	0	24	0	24	0	0
+HF-a81e-MHBB-GM	X001QSB8L1	B008YFY9TQ	Premier Dead Sea Aromatic Body Butter- Milk and Honey, 175ml	New	25.98	Yes	10	No	0	0	0	0	0	0.1	0	0	0
+HF-a82e-RPBB	X001TJPHH3	B00158196K	Premier Dead Sea Body Butter Passion Fruit Scent	New	20.99	No		Yes	0	0	0	0	72	0.02	72	0	0
+HF-a85e-RFPM	X001PZ8VYR	B00G71LV3Q	Premier By Dead Sea Premier Refining Facial Peeling Mask 2.04oz, 60ml	New	44.99	No		Yes	77	77	0	0	77	0.02	0	0	0
+HF-b3e-PWCC	X001Q09JSN	B003Y7D0HQ	Premier Dead Sea Pearl White Cream Complex, 2.04-Fluid Ounce	New	60.99	No		Yes	48	48	0	0	48	0.02	0	0	0
+HF-c1e-MCND	X001Q1E1BR	B00384AO7O	Dead Sea Premier Moisture Cream (for very dry & sensitive skin)	New	36.34	No		Yes	38	38	0	0	38	0.02	0	0	0
+HF-c5e-SRLM	X001Q1GDN1	B003Y7CMF2	Premier Dead Sea Instant Stretching and Revitalizing Lifting Mask - 2.04 oz Ounce	New	38.99	No		Yes	0	0	0	0	0	0.02	0	0	0
+HF-c7e-LANC	X001S9JTKZ	B002DL9M2G	Premier Dead Sea Luxurious Anti-aging Neck Cream, 2.04 oz	New	39.21	No		Yes	89	87	1	1	185	0.02	96	0	0
+HF-f11a-HNCT	X001Q1GDMR	B004X9BTGI	Gratiae Organicss Hand and Nail Care Treatment, 4.08 Ounce	New	11.59	No		Yes	0	0	0	0	0	0	0	0	0
+HF-f12-FACL	X001Q0JYFL	B003CEA88U	Gratiae Organics Facial Cleansing Lotion, 6.8 Ounce	New	20.99	No		Yes	0	0	0	0	48	0.01	48	0	0
+HF-f15b-EXBS	X001Q09LV3	B004OEUPGM	Exfoliating Body Scrub (Passion Fruit and Lime)	New	33.00	No		Yes	0	0	0	0	0	0.02	0	0	0
+HF-f2-LIFT	X001Q0JMUX	B004X9BSG4	Gratiae Organics Lifting Facial Mask, 1.7 Ounce	New	25.50	No		Yes	0	0	0	0	0	0.02	0	0	0
+HF-f24-ACPF	X001TJVS53	B004X9BRU6	Gratiae Organics Aha Cleansing and Peeling Foam, 5.1 Ounce	New	29.99	No		Yes	0	0	0	0	48	0.02	48	0	0
+HF-f6a-EXBS	X001Q0JYFV	B01G3AIYJO	Gratiae Organic Beauty By Nature Exfoliating Body Scrub, Apple/Green Tea and Ginger by Gratiae Organic Beauty By Nature	New	30.99	Yes	0	No	0	0	0	0	0	0.03	0	0	0
+HF-f6b-EXBS	X001PZ5OAV	B004X9BTFY	Gratiae Organics Exfoliating Body Scrub, Passion Fruit and Lime, 425-Grams	New	29.45	No		Yes	0	0	0	0	0	0.01	0	0	0
+HF-f9a-GSBB	X001RDSOA3	B004OF47N8	Silky Body Butter (Apple, Green Tea, and Ginger)5.95 ounces	New	9.50	No		Yes	0	0	0	0	24	0.02	24	0	0
+HF-g104e-PCFS	X001S7TVY1	B00117F5PG	Premier Dead Sea Vitamin Concentrated Facial Serum, Vitamin E and C, 1.7-Fluid Ounce	New	64.59	No		Yes	17	16	0	1	113	0.05	96	0	0
+HF-g1e-AFDM	X001PZ8VYH	B001DXQDL8	Premier Dead Sea Ageless Future Detoxifying Mask, All Skin Types, 2.04-Fluid Ounce	New	39.19	No		Yes	0	0	0	0	0	0.08	0	0	0
+HF-g2e-ACRC	X001TJW5HD	B001DXOWA2	Premier Dead Sea Ageless Future Cell Renewal Cream	New	49.99	No		Yes	0	0	0	0	24	0.02	24	0	0
+HF-l3e-TEYG	X001PZ8VNN	B00383XLTS	Premier Dead Sea Biox Intensive Age Treatment Eye Cream Gel	New	50.99	No		Yes	80	80	0	0	80	0.01	0	0	0
+HF-n2ae-NBNK	X001R7T2N7	B004H02GDI	Dead Sea Premier Beautifying Nail Kit Milk and Honey - Body Lotion,Cuticle Oil,Nail File,Buffing Block	New	14.99	No		Yes	0	0	0	0	52	0.08	52	0	0
+HF-w1e-PSOR	X001Q09JSD	B004H02GHY	Premier Dead Sea Psoricalm, Very Dry Face, Body, or Scalp with Red Scaly Patches, 3.3814-Fluid Ounce	New	34.80	No		Yes	0	0	0	0	0	0.02	0	0	0
+IM-YEIX-VVX8	X001HAFDZ5	B0016VW618	Premier Usa Dead Sea shaving Cream for Men All Skin	New	15.99	No		Yes	113	112	0	1	113	0	0	0	0
+JQ-N6LK-OQ03	X001B547J9	B01JSONMH6	Gratiae Organic Beauty Renewing Peeling Gel	New	46.99	No		Yes	41	39	0	2	41	0.02	0	0	0
+KN-2B5X-YB0L	X001EXCH95	B003CEA88U		Unknown					1	0	1	0	1		0	0	0
+KN-QWP1-D5XB	X001HBSA3V	B004OF9EPO	Gratiae AHA Cleansing and Peeling Foam	New	19.39	No		Yes	72	68	1	3	72	0.01	0	0	0
+KP-1178-XPKV	X001K6ASLP	B00158196K	Premier Dead Sea Body Butter Passion Fruit Scent	New	20.99	No		Yes	38	35	2	1	38	0.02	0	0	0
+L1-BT23-OVPU	X001HQV4JX	B002DV0KDQ	Premier Dead Sea Luxury Moisture Cream for Multi-Use	New	16.99	No		Yes	165	164	0	1	165	0.01	0	0	0
+L7-N9M4-0P6X	X001B6DY5L	B004HFNFU6		Unknown					0	0	0	0	0		0	0	0
+LF-QRR8-VUXE	X001HAJ883	B003NQ7P0Q		Unknown					0	0	0	0	0		0	0	0
+LH-V26Y-FVKV	B000VEWF2Q	B000VEWF2Q		Unknown					1	0	1	0	1		0	0	0
+LY-0LSI-94LS	X001FOKKQ5	B00117F5PG	Premier Dead Sea Vitamin Concentrated Facial Serum, Vitamin E and C, 1.7-Fluid Ounce	New	38.99	No		Yes	0	0	0	0	0	0.05	0	0	0
+M5-BNRC-2A6O	X001DQGBGD	B004X9BRRO		Unknown					0	0	0	0	0		0	0	0
+MY16055K0L	B0761V7L2R	B0761V7L2R	ZAIAI Womens Hooded Warm Winter Faux Fur Lined Parkas Anoraks Long Coats Black L	New	34.39	No		Yes	11	11	0	0	24	0.56	13	0	0
+MY16055K0M	B0761QBHM9	B0761QBHM9	ZAIAI Womens Hooded Warm Winter Faux Fur Lined Parkas Anoraks Long Coats Black M	New	42.99	No		Yes	12	12	0	0	25	0.56	13	0	0
+MY16055K0S	B0761S8TXR	B0761S8TXR	ZAIAI Womens Hooded Warm Winter Faux Fur Lined Parkas Anoraks Long Coats Black S	New	38.80	No		Yes	14	14	0	0	27	0.56	13	0	0
+MY16055K0XL	B0761N3HJ3	B0761N3HJ3	Womens Hooded Warm Winter Faux Fur Lined Parkas Anoraks Long Coats Black XL	New	39.99	No		Yes	12	12	0	0	25	0.56	13	0	0
+MY16055K0XXL	B0761R93J2	B0761R93J2	ZAIAI Womens Hooded Warm Winter Faux Fur Lined Parkas Anoraks Long Coats Black XXL	New	34.39	No		Yes	14	14	0	0	27	0.56	13	0	0
+MY16055MSL	B0761S59N6	B0761S59N6	ZAIAI Womens Wool Jacket Coat Outwear Parka Overcoat Beige L	New	42.99	No		Yes	6	6	0	0	6	0.56	0	0	0
+MY16055MSM	B0761NM1NH	B0761NM1NH	ZAIAI Womens Wool Jacket Coat Outwear Parka Overcoat Beige M	New	38.39	No		Yes	8	8	0	0	8	0.56	0	0	0
+MY16055MSS	B0761Q9VPH	B0761Q9VPH	ZAIAI Womens Wool Jacket Coat Outwear Parka Overcoat Beige S	New	42.99	No		Yes	7	7	0	0	7	0.56	0	0	0
+MY16055MSXL	B0761Q7KPX	B0761Q7KPX	ZAIAI Womens Wool Jacket Coat Outwear Parka Overcoat Beige XL	New	42.99	No		Yes	7	7	0	0	7	0.56	0	0	0
+MY16055MSXXL	B0761QW2JK	B0761QW2JK	ZAIAI Womens Wool Jacket Coat Outwear Parka Overcoat Beige XXL	New	40.60	No		Yes	7	7	0	0	7	0.56	0	0	0
+MY16055ZQL	B0761PXTK8	B0761PXTK8	ZAIAI Womens Hooded Warm Coats Parkas With Fax Fur Jackets Navy L	New	42.49	No		Yes	0	0	0	0	0	0.56	0	0	0
+MY16055ZQM	B0761Q4YF6	B0761Q4YF6	Womens Hooded Warm Coats Parkas With Fax Fur Jackets Navy M	New	42.99	No		Yes	1	0	1	0	1	0.56	0	0	0
+MY16055ZQS	B0761PL2N2	B0761PL2N2	Womens Hooded Warm Coats Parkas With Fax Fur Jackets Navy S	New	34.39	No		Yes	7	7	0	0	7	0.56	0	0	0
+MY16055ZQXL	B0761RRL7M	B0761RRL7M	ZAIAI Womens Hooded Warm Coats Parkas With Fax Fur Jackets Navy XL	New	34.39	No		Yes	6	6	0	0	6	0.56	0	0	0
+MY16055ZQXXL	B0761NGYTK	B0761NGYTK	Womens Hooded Warm Coats Parkas With Fax Fur Jackets Navy XXL	New	42.49	No		Yes	4	4	0	0	4	0.56	0	0	0
+MY71107K0L	B0761PSPTJ	B0761PSPTJ	ZAIAI Women's Parkas Anoraks Long Coats with Removable Faux Fur Trim Hood Black L	New	38.99	No		Yes	13	11	1	1	25	1.15	12	0	0
+MY71107K0M	B0761PWSG1	B0761PWSG1	ZAIAI Women's Parkas Anoraks Long Coats with Removable Faux Fur Trim Hood Black M	New	42.99	No		Yes	10	10	0	0	22	1.06	12	0	0
+MY71107K0S	B0761PDMGN	B0761PDMGN	ZAIAI Women's Parkas Anoraks Long Coats with Removable Faux Fur Trim Hood Black S	New	39.05	No		Yes	14	13	0	1	26	1.12	12	0	0
+MY71107K0XL	B0761PVQYZ	B0761PVQYZ	ZAIAI Women's Parkas Anoraks Long Coats with Removable Faux Fur Trim Hood Black XL	New	42.99	No		Yes	8	7	1	0	20	1.11	12	0	0
+MY71107K0XXL	B0761NLN4R	B0761NLN4R	ZAIAI Women's Parkas Anoraks Long Coats with Removable Faux Fur Trim Hood Black XXL	New	42.99	No		Yes	0	0	0	0	12	1.11	12	0	0
+MY71107MSL	B0761P4LKC	B0761P4LKC	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Beige L	New	34.39	No		Yes	6	6	0	0	6	1.11	0	0	0
+MY71107MSM	B0761NJPNM	B0761NJPNM	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Beige M	New	42.99	No		Yes	6	6	0	0	6	1.11	0	0	0
+MY71107MSS	B0761NM3SZ	B0761NM3SZ	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Beige S	New	42.49	No		Yes	5	5	0	0	5	1.11	0	0	0
+MY71107MSXL	B0761NNM84	B0761NNM84	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Beige XL	New	42.99	No		Yes	4	4	0	0	4	1.11	0	0	0
+MY71107MSXXL	B0761PTZY2	B0761PTZY2	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Beige XXL	New	42.99	No		Yes	1	1	0	0	1	1.11	0	0	0
+MY71107ZQL	B0761NJH9L	B0761NJH9L	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Navy L	New	42.99	No		Yes	1	1	0	0	1	1.11	0	0	0
+MY71107ZQM	B0761P4LK2	B0761P4LK2	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Navy M	New	42.99	No		Yes	5	5	0	0	5	1.01	0	0	0
+MY71107ZQS	B0761N286T	B0761N286T	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Navy S	New	42.99	No		Yes	8	8	0	0	8	1.11	0	0	0
+MY71107ZQXL	B0761NG4W8	B0761NG4W8	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Navy XL	New	42.99	No		Yes	1	1	0	0	1	1.11	0	0	0
+MY71107ZQXXL	B0761PV7ZS	B0761PV7ZS	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Navy XXL	New	42.99	No		Yes	0	0	0	0	0	1.11	0	0	0
+MY71115K0L	B0761NMRB4	B0761NMRB4	ZAIAI Women's Coat With Fur Hood With 90% Down Parka Puffer Jacket Black M	New	39.99	No		Yes	11	11	0	0	23	0.78	12	0	0
+MY71115K0M	B0761NNDWM	B0761NNDWM	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Black S	New	34.39	No		Yes	12	12	0	0	24	0.78	12	0	0
+MY71115K0S	B0761PDHV5	B0761PDHV5	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Black XS	New	34.39	No		Yes	15	15	0	0	27	0.78	12	0	0
+MY71115K0XL	B0761NGWJD	B0761NGWJD	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Black L	New	42.99	No		Yes	15	15	0	0	27	0.78	12	0	0
+MY71115K0XXL	B0761SKR3P	B0761SKR3P	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Black XL	New	42.99	No		Yes	13	12	0	1	25	0.78	12	0	0
+MY71115MSL	B0761NFTQC	B0761NFTQC	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Beige M	New	34.39	No		Yes	8	8	0	0	8	0.78	0	0	0
+MY71115MSM	B0761PV952	B0761PV952	ZAIAI Women's Coat With Fur Hood With 90% Down Parka Puffer Jacket Beige M	New	34.39	No		Yes	6	6	0	0	6	0.78	0	0	0
+MY71115MSS	B0761NHB1Y	B0761NHB1Y	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Beige XS	New	42.99	No		Yes	7	7	0	0	7	0.78	0	0	0
+MY71115MSXL	B0761PWB12	B0761PWB12	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Beige L	New	34.39	No		Yes	8	8	0	0	8	0.78	0	0	0
+MY71115MSXXL	B0761N46BN	B0761N46BN	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Beige XL	New	34.39	No		Yes	6	6	0	0	6	0.78	0	0	0
+MY71115ZQL	B0761S2M63	B0761S2M63	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy M	New	40.04	No		Yes	8	8	0	0	8	0.78	0	0	0
+MY71115ZQM	B0761MXCJB	B0761MXCJB	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy S	New	42.99	No		Yes	6	6	0	0	6	0.78	0	0	0
+MY71115ZQS	B0761R6ZG2	B0761R6ZG2	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy XS	New	34.39	No		Yes	8	8	0	0	8	0.78	0	0	0
+MY71115ZQXL	B0761PBXCV	B0761PBXCV	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy L	New	42.99	No		Yes	1	1	0	0	1	0.78	0	0	0
+MY71115ZQXXL	B0761MLYTQ	B0761MLYTQ	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy XL	New	42.99	No		Yes	0	0	0	0	0	0.78	0	0	0
+NL-JZZU-6KCF	B000VEWF2Q	B000VEWF2Q		Unknown					1	0	1	0	1		0	0	0
+OL-FWF1-1Z13	X001HQOP3Z	B004OF47N8		Unknown					0	0	0	0	0		0	0	0
+PG-UDJF-U1WZ	B000VEWF2Q	B000VEWF2Q		Unknown					1	0	1	0	1		0	0	0
+PJ-CPH7-5MXE	X001K0YGJ1	B01G3AIYJO	Gratiae Organic Beauty By Nature Exfoliating Body Scrub, Apple/Green Tea and Ginger by Gratiae Organic Beauty By Nature	New	15.99	No		Yes	113	87	11	15	113	0.03	0	0	0
+PP-7C5M-OKFZ	X001K6E0FZ	B00GU2QXVC	Premier Dead Sea Refining Moisture Cream	New	44.99	Yes	18	No	60	0	0	60	60	0.02	0	0	0
+PV-OG2H-VHEI	X0017633GF	B004X9BTGI	Gratiae Organicss Hand and Nail Care Treatment, 4.08 Ounce	New	11.99	No		Yes	7	6	0	1	7	0	0	0	0
+PW-89MW-RR8Y	X001K6FG17	B004H07KKC	Premier Dead Sea Skin Toner for Normal/Oily Skin, Pink, 8.4535-Fluid Ounce	New	40.99	No		Yes	130	130	0	0	130	0.01	0	0	0
+QW-6H25-PV48	X001HQHY2T	B003NJKS48	Dead Sea Premier Luxury Milk Cleanser	New	30.69	No		Yes	60	60	0	0	60	0.04	0	0	0
+R0-9P3N-MM7G	X001B57XHH	B0016VW618	Premier Usa Dead Sea shaving Cream for Men All Skin	New	15.59	No		Yes	156	156	0	0	156	0	0	0	0
+R5-W9D5-YCXW	X001K0TWEZ	B004H02HA0		Unknown					0	0	0	0	0		0	0	0
+SM-LSLQ-C3QE	X001B6AOMR	B004X9BSG4	Gratiae Organics Lifting Facial Mask, 1.7 Ounce	New	25.99	No		Yes	7	0	0	7	7	0.02	0	0	0
+U9-B86F-U3BU	B000VEWF2Q	B000VEWF2Q		Unknown					1	0	1	0	1		0	0	0
+UH-SMM5-RLVI	X001DH914L	B004H02HA0		Unknown					0	0	0	0	0		0	0	0
+VR-3PK8-48QD	X001DF2XE3	B004H07J80		Unknown					0	0	0	0	0		0	0	0
+WS-NIZA-VBTG	X001B8U5KV	B001DXQDL8		Unknown					0	0	0	0	0		0	0	0
+YI-LW70-5D1O	X001BZTC67	B003Y7CMF2	Premier Dead Sea Instant Stretching and Revitalizing Lifting Mask - 2.04 oz Ounce	New	38.59	No		Yes	22	21	0	1	22	0.02	0	0	0
+ZV-TBFW-N9Y2	X001EXA445	B00022AUVA		Unknown					0	0	0	0	0		0	0	0
+ZW-A85T-DGVQ	X001HQLM2R	B000VER1RU	Premier Dead Sea Biox Intensive Age Cream/Anti-age Complex, 2.0400-Fluid Ounce	Unknown	0.00	No		Yes	0	0	0	0	0	0.02	0	0	0

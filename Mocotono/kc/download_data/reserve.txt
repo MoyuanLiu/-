@@ -1,0 +1,196 @@
+sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
+CA171-Sa911-M	B073PQD5PP	B073PQD5PP	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Sapphire,Medium	18	8	0	10
+CA084-H16-L	B06XYK4HHR	B06XYK4HHR	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts Muti Plaid 16 Large	1	0	0	1
+CA171-Sa911-S	B073PQXDQX	B073PQXDQX	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Sapphire,Small	18	13	0	5
+CA084-H10-XL	B06XPY2C9Q	B06XPY2C9Q	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts White and Red X-Large	1	0	0	1
+CA084-H10-S	B06XPV79C5	B06XPV79C5	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts White and Red Small	2	1	1	0
+CA171-LG907-M	B073PQ8R7W	B073PQ8R7W	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Light Gray,Medium	1	0	1	0
+CA084-H2-L	B06XPW817S	B06XPW817S	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts Coffee and Grass Green Large	2	1	1	0
+CA171-Sa911-L	B073PQLFVZ	B073PQLFVZ	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Sapphire,Large	3	0	0	3
+CA084-H15-L	B06XPBMYD7	B06XPBMYD7	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts Muti Plaid Large	2	0	1	1
+CA171-G912-L	B073PQDCYM	B073PQDCYM	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Green,Large	1	1	0	0
+CA084-H16-XL	B06XYHPM34	B06XYHPM34	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts Muti Plaid 16 X-Large	1	1	0	0
+CA084-H2-M	B06XPCX29X	B06XPCX29X	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts Coffee and Grass Green Medium	1	0	0	1
+CS-BBS003-LB-M	B078JBBY1F	B078JBBY1F	MOCOTONO Men's Long Sleeve Denim Double-Pocket Shirt Light Blue Medium	1	0	0	1
+CS-BBS003-LB-S	B078JFH21B	B078JFH21B	MOCOTONO Men's Long Sleeve Denim Double-Pocket Shirt Light Blue Small	1	1	0	0
+CS-BBS003-LB-L	B078JFBBFF	B078JFBBFF	MOCOTONO Men's Long Sleeve Denim Double-Pocket Shirt Light Blue Large	4	1	2	1
+CS-BS003-LB-L	B078JFBBFF	B078JFBBFF	MOCOTONO Men's Long Sleeve Denim Double-Pocket Shirt Light Blue Large	4	1	2	1
+CS-BS003-LB-M	B078JBBY1F	B078JBBY1F	MOCOTONO Men's Long Sleeve Denim Double-Pocket Shirt Light Blue Medium	1	0	0	1
+CS-BS003-LB-S	B078JFH21B	B078JFH21B	MOCOTONO Men's Long Sleeve Denim Double-Pocket Shirt Light Blue Small	1	1	0	0
+CS-BS032-GN1-XXL	B07C3W2JY6	B07C3W2JY6	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Green 1 XX-Large	2	0	0	2
+CS-BUSB031-RD1-XL	B078VYLFD9	B078VYLFD9	MOCOTONO Men's Long Sleeve Flannel Plaid Checkered Button Down Casual Dress Shirts Red1 X-Large	1	0	1	0
+CS-BUSB031-GN2-XXL	B078VZ2JPL	B078VZ2JPL	MOCOTONO Men's Long Sleeve Flannel Plaid Checkered Button Down Casual Dress Shirts Green2 XX-Large	1	1	0	0
+CS-BS032-GN1-XL	B07C3RHLYS	B07C3RHLYS	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Green 1 X-Large	1	1	0	0
+CS-BUSB031LHY-YL1-XL	X001SUEZ35	B078VYLWMR	MOCOTONO Men's Long Sleeve Flannel Plaid Checkered Button Down Casual Dress Shirts Yellow1 X-Large	8	0	8	0
+CS-BUSB031LHY-YL1-XXL	X001STXDLB	B078VZHFNC	MOCOTONO Men's Long Sleeve Flannel Plaid Checkered Button Down Casual Dress Shirts Yellow1 XX-Large	2	0	2	0
+CS-BUSB032-GN1-XXL	B07C3W2JY6	B07C3W2JY6	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Green 1 XX-Large	2	0	0	2
+CS-BUSB031LHY-YL1-L	X001SUEWJ7	B078W1DFNY	MOCOTONO Men's Long Sleeve Flannel Plaid Checkered Button Down Casual Dress Shirts Yellow1 Large	1	0	1	0
+CS-BUSB032-GN1-XL	B07C3RHLYS	B07C3RHLYS	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Green 1 X-Large	1	1	0	0
+CS-BUSB032-BL-M	B07CC3XJ81	B07CC3XJ81	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Blue Medium	2	1	1	0
+CS-BUSB032-RD-L	B07C3YBYX7	B07C3YBYX7	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Red Large	1	0	0	1
+CS-LHY009-BK-XXL	X001T33AJ1	B07518CGWW	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Black XX-Large	9	1	8	0
+CS-LHY009-BL-L	X001T1S89Z	B07516JWHJ	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Blue Large	11	1	10	0
+CS-LHY009-LB1-L	X001T1S89P	B07518JBB9	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Blue & Navy Large	11	0	10	1
+CS-LHY032-NB-M	X001T5UWKJ	B07C3PGX1T	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Navy Medium	1	0	0	1
+CS-LHY032-BL-L	X001T60RHL	B07C3PPB63	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Blue Large	2	1	1	0
+CS-LHY009-CF-XL	X001T2RYDF	B07519TQN3	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Coffee X-Large	1	1	0	0
+CS-LHY032-GN1-S	X001T54CTV	B07CC3X9WJ	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Green 1 Small	3	0	0	3
+CS-LHY009-GN-XL	X001T205RR	B07513ZMT5	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Green X-Large	15	0	15	0
+CS-LHY032-YL-XL	X001T4SMTD	B07C3RFRDP	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Yellow X-Large	1	0	0	1
+CS-LHY009-GN-L	X001T34MJX	B07515PMRM	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Green Large	21	0	20	1
+CS-LHY032-NB-S	X001T4KPKR	B07C3WZSPL	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Navy Small	1	1	0	0
+CS-LHY009-GN-XXL	X001T2RYWL	B07513C7Z5	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Green XX-Large	10	0	10	0
+CS-LHY009-GN-M	X001T2RZ9X	B075155VLL	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Green Medium	10	0	10	0
+CS-LY084-H16-L	B06XYK4HHR	B06XYK4HHR	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts Muti Plaid 16 Large	1	0	0	1
+CS-LY084-H10-XL	B06XPY2C9Q	B06XPY2C9Q	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts White and Red X-Large	1	0	0	1
+CS-LY084-H10-S	B06XPV79C5	B06XPV79C5	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts White and Red Small	2	1	1	0
+CS-LY085-LG907-L	B06XZ1S7LJ	B06XZ1S7LJ	Men's Solid Color Oxford Long Sleeve Button Down Casual Shirt Light Gray Large	1	1	0	0
+CS-LY084-H2-L	B06XPW817S	B06XPW817S	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts Coffee and Grass Green Large	2	1	1	0
+CS-LY084-H15-L	B06XPBMYD7	B06XPBMYD7	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts Muti Plaid Large	2	0	1	1
+CS-LY084-H16-XL	B06XYHPM34	B06XYHPM34	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts Muti Plaid 16 X-Large	1	1	0	0
+CS-LY084-H2-M	B06XPCX29X	B06XPCX29X	MOCOTONO Men's Long Sleeve Plaid Button Down Cotton Casual Shirts Coffee and Grass Green Medium	1	0	0	1
+CS-LY085-ZL918-S	B06XZ1D6S1	B06XZ1D6S1	Men's Solid Color Oxford Long Sleeve Button Down Casual Shirt Navy Blue Small	2	1	1	0
+CS-LY085-W902-M	B06XYWTJPL	B06XYWTJPL	Men's Solid Color Oxford Long Sleeve Button Down Casual Shirt White Medium	1	1	0	0
+CS-LY085-PI908-S	B06XYZZB9L	B06XYZZB9L	Men's Solid Color Oxford Long Sleeve Button Down Casual Shirt Pink Small	3	2	1	0
+CS-LY085-LG907-M	B06XYL6KXB	B06XYL6KXB	Men's Solid Color Oxford Long Sleeve Button Down Casual Shirt Light Gray Medium	1	0	0	1
+CS-LY086-B0-XL	B06XPMVRFF	B06XPMVRFF	MOCOTONO Men's Denim Long Sleeve Pocket Casual Dress Shirt Denim Blue Tag Asian XL/US L	1	0	0	1
+CS-LY085-WR917-M	B06XYZBB55	B06XYZBB55	Men's Solid Color Oxford Long Sleeve Button Down Casual Shirt Wine Red Medium	1	0	0	1
+CS-LY085-WR917-S	B06XYZKJKL	B06XYZKJKL	Men's Solid Color Oxford Long Sleeve Button Down Casual Shirt Wine Red Small	1	1	0	0
+CS-LY170-G912-S	B073PPVWW3	B073PPVWW3	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Green, Small	2	1	1	0
+CS-LY170-G912-M	B073PPNNCM	B073PPNNCM	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Green, Medium	1	1	0	0
+CS-LY171-G912-L	B073PQDCYM	B073PQDCYM	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Green,Large	1	1	0	0
+CS-LY166-K33-2-L	B071VYBSVW	B071VYBSVW	MOCOTONO Men's Long Sleeve Flannel Plaid Dress Shirt Western Button Down Shirts Green Large	3	1	0	2
+CS-LY171-Sa911-M	B073PQD5PP	B073PQD5PP	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Sapphire,Medium	18	8	0	10
+CS-LY181-ZL918-M	B073PPT396	B073PPT396	Men's Oxford Long Sleeve Button Down Casual Dress Shirt,Navy Blue,Medium	1	0	0	1
+CS-LY171-Sa911-S	B073PQXDQX	B073PQXDQX	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Sapphire,Small	18	13	0	5
+CS-LY171-LG907-M	B073PQ8R7W	B073PQ8R7W	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Light Gray,Medium	1	0	1	0
+CS-LY181-Sa911-S	B073PQW6NB	B073PQW6NB	Men's Oxford Long Sleeve Button Down Casual Dress Shirt,Sapphire,Small	2	2	0	0
+CS-LY171-Sa911-L	B073PQLFVZ	B073PQLFVZ	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Sapphire,Large	3	0	0	3
+CS-LY181-W902-XXL	B073PPFMBV	B073PPFMBV	Men's Oxford Long Sleeve Button Down Casual Dress Shirt,White,XX-Large	1	0	0	1
+CS-LY181-PI908-XL	B073PQ9M5T	B073PQ9M5T	Men's Oxford Long Sleeve Button Down Casual Dress Shirt,Pink,X-Large	1	0	0	1
+CS-LY181-LG907-M	B073PQ5WVC	B073PQ5WVC	MOCOTONO Men's Oxford Long Sleeve Button Down Casual Dress Shirt,Light Gray,Medium	1	0	0	1
+CS-SB002-RD-L	B074DV3L9Z	B074DV3L9Z	MOCOTONO Men's Long Sleeve Regular Fit Plaid Button Down Casual Shirts Red Large	3	0	2	1
+CS-SB005-YL-XL	B074NYLRYY	B074NYLRYY	MOCOTONO Men's Long Sleeve Cotton Plaid Button Down Casual Shirts Yellow X-Large	1	0	0	1
+CS-SB005-BL2-M	B074P5N47J	B074P5N47J	MOCOTONO Men's Long Sleeve Cotton Plaid Button Down Casual Shirts Sapphire Medium	1	1	0	0
+CS-SB003-B0-L	B074PN8TB2	B074PN8TB2	Men's Long Sleeve Denim Solid Double-Pocket Shirt Blue Large	3	1	2	0
+CS-SB006-RD1-L	B074NZVFT4	B074NZVFT4	MOCOTONO Men's Long Sleeve Standard Fit Plaid Checked Button up Casual Shirts Red Large	1	0	1	0
+CS-SB009-GN-XL	B07513ZMT5	B07513ZMT5	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Green X-Large	1	0	0	1
+CS-SB007-GR-L	B07514NWBK	B07514NWBK	MOCOTONO Mens Oxford Long Sleeve Solid Standard Fit Button Down Casual Dress Shirts Gray Large	2	1	1	0
+CS-SB007-BL-XXL	B0751368L2	B0751368L2	MOCOTONO Mens Oxford Long Sleeve Solid Standard Fit Button Down Casual Dress Shirts Blue XX-Large	1	1	0	0
+CS-SB007-LB-S	B07512JPLR	B07512JPLR	MOCOTONO Mens Oxford Long Sleeve Solid Standard Fit Button Down Casual Dress Shirts Light Blue Small	2	1	1	0
+CS-SB009-LB1-M	B07515NL7P	B07515NL7P	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Blue & Navy Medium	2	1	1	0
+CS-SB009-BK-XL	B07516WWNF	B07516WWNF	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Black X-Large	2	1	1	0
+CS-SB009-BL-S	B07514LH9K	B07514LH9K	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Blue Small	1	0	0	1
+CS-SB007-LG-XXL	B0751BCTDL	B0751BCTDL	MOCOTONO Mens Oxford Long Sleeve Solid Standard Fit Button Down Casual Dress Shirts Light Green XX-Large	1	1	0	0
+CS-SB009-GN-XXL	B07513C7Z5	B07513C7Z5	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Green XX-Large	2	1	0	1
+CS-SB009-BL-XXL	B07515RB6G	B07515RB6G	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Blue XX-Large	1	0	0	1
+CS-SB009-GN-L	B07515PMRM	B07515PMRM	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Green Large	1	1	0	0
+CS-SB009-BK-L	B07515SYYK	B07515SYYK	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Black Large	1	1	0	0
+CS-SB009-BK-M	B07514NV93	B07514NV93	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Black Medium	1	1	0	0
+CS-SB009-LB1-S	B075131VPH	B075131VPH	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Blue & Navy Small	1	0	0	1
+CS-SB009-LB1-XL	B074ZY4X2Q	B074ZY4X2Q	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Blue & Navy X-Large	3	1	1	1
+CS-SB030-GR-XL	B078W1C6NX	B078W1C6NX	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Gray, X-Large	1	0	0	1
+CS-SB009-RD-S	B07512LVFK	B07512LVFK	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Red Small	1	0	0	1
+CS-SB032-GN1-XXL	B07C3W2JY6	B07C3W2JY6	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Green 1 XX-Large	2	0	0	2
+CS-SB030-YL-S	B078W1DC66	B078W1DC66	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Yellow, Small	1	0	0	1
+CS-SB030-BL-L	B078W1C8KL	B078W1C8KL	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Sky Blue, Large	1	0	0	1
+CS-SB030-WR-S	X001SPBZYR	B07DG4W15X	Men's Short Sleeve Oxford Button Down Casual Shirt	1	0	0	1
+CS-SB030-WT-XL	B078W14T3V	B078W14T3V	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Light White, X-Large	5	3	1	1
+CS-SB030-YL-XL	B078VZCF7R	B078VZCF7R	Men's Short Sleeve Oxford Button Down Casual Shirt, Yellow, X-Large	3	1	0	2
+CS-SB030-BL-S	B078VZHXDQ	B078VZHXDQ	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Sky Blue, Small	1	0	0	1
+CS-SB030-WT-M	B078W1RK6T	B078W1RK6T	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Light White, Medium	2	1	1	0
+CS-SB030-WT-L	B078W1ZVMK	B078W1ZVMK	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Light White, Large	6	5	0	1
+CS-SB009-YL-L	B07515DW7Z	B07515DW7Z	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Yellow Large	15	0	15	0
+CS-SB009-YL-XL	B075132NT4	B075132NT4	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Yellow X-Large	15	0	15	0
+CS-SB030-BK-XL	B078W1K5YJ	B078W1K5YJ	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Black, X-Large	2	2	0	0
+CS-SB030-YL-M	B078W1415D	B078W1415D	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Yellow, Medium	1	1	0	0
+CS-SB030-BL-XXL	B078VZB69X	B078VZB69X	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Sky Blue, XX-Large	1	0	0	1
+CS-SB032-GN1-XL	B07C3RHLYS	B07C3RHLYS	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Green 1 X-Large	1	1	0	0
+CS-SB030-BK-M	B078W1DC69	B078W1DC69	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Black, Medium	1	0	0	1
+CS-SB030-NY-XXL	X001SPBM2H	B07DG3FV9J	Men's Short Sleeve Oxford Button Down Casual Shirt	1	1	0	0
+CS-SB030-WR-XXL	X001SOET6T	B07DG33RXF	Men's Short Sleeve Oxford Button Down Casual Shirt	2	0	0	2
+CS-SB030-NY-M	X001SOGGGF	B07DG2SX37	Men's Short Sleeve Oxford Button Down Casual Shirt	1	1	0	0
+CS-SB030-BL-XL	B078W1MBSF	B078W1MBSF	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Sky Blue, X-Large	1	1	0	0
+CS-SB030-BL-M	B078VZKK67	B078VZKK67	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Sky Blue, Medium	2	1	1	0
+CS-SB032-BL-M	B07CC3XJ81	B07CC3XJ81	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Blue Medium	2	1	1	0
+CS-SB032-RD-L	B07C3YBYX7	B07C3YBYX7	MOCOTONO Men's Short Sleeve Floral Print Button Down Casual Shirt Red Large	1	0	0	1
+CS-SB009-YL-XXL	B07519XDJ8	B07519XDJ8	MOCOTONO Men's Short Sleeve Plaid Checkered Button Down Casual Shirts Yellow XX-Large	12	2	10	0
+CS-SB170-LB916-M	B0788L6MCP	B0788L6MCP	Men's Short Sleeve Oxford Button Down Casual Shirt Light Blue Medium	1	0	1	0
+CS-SB170-Sa911-M	B0788KB8S4	B0788KB8S4	Men's Short Sleeve Oxford Button Down Casual Shirt Sapphire Medium	5	2	2	1
+CS-SB166-K33-2-M	B079165SZW	B079165SZW	MOCOTONO Men's Long Sleeve Flannel Plaid Dress Shirt Western Button Down Shirts Green Medium	2	0	0	2
+CS-SB170-PI908-XXL	B0788J3G9C	B0788J3G9C	Men's Short Sleeve Oxford Button Down Casual Shirt XX-Large	3	0	3	0
+CS-SB166-K33-2-S	B07916G773	B07916G773	MOCOTONO Men's Long Sleeve Flannel Plaid Dress Shirt Western Button Down Shirts Green Small	2	0	0	2
+CS-SB170-Sa911-XL	B0788MX8HG	B0788MX8HG	Men's Short Sleeve Oxford Button Down Casual Shirt Sapphire X-Large	7	3	2	2
+CS-SB170-PI908-XL	B0788HF2PK	B0788HF2PK	Men's Short Sleeve Oxford Button Down Casual Shirt Pink X-Large	2	1	0	1
+CS-SB170-LG907-XXL	B0788L9M7W	B0788L9M7W	Men's Short Sleeve Oxford Button Down Casual Shirt Light Gray XX-Large	14	1	10	3
+CS-SB170-LB916-XL	B0788J8BPY	B0788J8BPY	Men's Short Sleeve Oxford Button Down Casual Shirt Light Blue X-Large	3	1	0	2
+CS-SB170-PI908-M	B0788MSVZ1	B0788MSVZ1	Men's Short Sleeve Oxford Button Down Casual Shirt Pink Medium	2	2	0	0
+CS-SB170-G912-L	B0788NH1LR	B0788NH1LR	Men's Short Sleeve Oxford Button Down Casual Shirt Green Large	1	1	0	0
+CS-SB170-LB916-XXL	B0788KFGJY	B0788KFGJY	Men's Short Sleeve Oxford Button Down Casual Shirt	1	1	0	0
+CS-SB170-LG907-M	B0788LCKVR	B0788LCKVR	Men's Short Sleeve Oxford Button Down Casual Shirt Light Gray Medium	10	2	7	1
+CS-SB170-Sa911-S	B0788KKY5L	B0788KKY5L	Men's Short Sleeve Oxford Button Down Casual Shirt Sapphire Small	11	0	10	1
+CS-SB170-LB916-L	B0788K28NT	B0788K28NT	Men's Short Sleeve Oxford Button Down Casual Shirt Light Blue Large	8	3	2	3
+CS-SB166-K33-2-XXL	B079168DXM	B079168DXM	MOCOTONO Men's Long Sleeve Flannel Plaid Dress Shirt Western Button Down Shirts Green XX-Large	1	0	0	1
+CS-SB170-Sa911-L	B0788NY1L5	B0788NY1L5	Men's Short Sleeve Oxford Button Down Casual Shirt Sapphire Large	12	6	2	4
+CS-SB170-LG907-XL	B0788JG8QZ	B0788JG8QZ	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Light Gray, X-Large	4	3	1	0
+CS-SB170-W902-L	B0788MPWXH	B0788MPWXH	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, White, Large	3	1	0	2
+CS-SB166-K33-2-L	B071VYBSVW	B071VYBSVW	MOCOTONO Men's Long Sleeve Flannel Plaid Dress Shirt Western Button Down Shirts Green Large	3	1	0	2
+CS-SB170-WR917-XXL	B0788JCP1X	B0788JCP1X	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Maroon, XX-Large	3	2	0	1
+CS-SB170-W902-XL	B0788LH3L3	B0788LH3L3	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, White, X-Large	4	2	0	2
+CS-SB170-WR917-L	B0788L573R	B0788L573R	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Maroon, Large	6	2	3	1
+CS-SB171-ZL918-L	B0788N1XXM	B0788N1XXM	MOCOTONO Men's Long Sleeve Oxford Regular Fit Button Down Casual Shirt Navy Blue Large	5	2	3	0
+CS-SB170-W902-S	B0788JN51X	B0788JN51X	Men's Short Sleeve Oxford Button Down Casual Shirt White Small	4	2	1	1
+CS-SB170-WR-XL	X001QZNLSH	B073PPP5ZG	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Maroon, X-Large	4	1	1	2
+CS-SB170-ZL918-L	B0788KMQJK	B0788KMQJK	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Navy, Large	1	0	0	1
+CS-SB170-ZL918-XXL	B0788KLC8Q	B0788KLC8Q	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Navy, XX-Large	2	0	0	2
+CS-SB170-W902-XXL	B0788NVVCB	B0788NVVCB	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, White, XX-Large	1	0	1	0
+CS-SB171-LG907-L	B0788LX4R2	B0788LX4R2	MOCOTONO Men's Long Sleeve Oxford Regular Fit Button Down Casual Shirt Light Gray Large	3	2	1	0
+CS-SB170-WR917-M	B0788KYP6Y	B0788KYP6Y	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Maroon, Medium	22	0	21	1
+CS-SB170-ZL918-S	B0788LH11M	B0788LH11M	Men's Short Sleeve Oxford Button Down Casual Shirt Navy Blue Small	1	0	0	1
+CS-SB171-W902-L	B0788R2MXR	B0788R2MXR	MOCOTONO Men's Long Sleeve Oxford Regular Fit Button Down Casual Shirt White Large	1	0	0	1
+CS-SB181-WR917-XL	B0789C9VYH	B0789C9VYH	MOCOTONO Men's Oxford Long Sleeve Button Down Casual Dress Shirt,Wine Red,X-Large	2	1	1	0
+CS-SB181-WR917-M	B0789BVM4L	B0789BVM4L	MOCOTONO Men's Oxford Long Sleeve Button Down Casual Dress Shirt,Wine Red,Medium	1	0	0	1
+CS-SB181-LG907-L	B07899ZPHF	B07899ZPHF	MOCOTONO Men's Oxford Long Sleeve Button Down Casual Dress Shirt,Light Gray,Large	4	0	0	4
+CS-SB181-LG907-XL	B0789C7SK6	B0789C7SK6	MOCOTONO Men's Oxford Long Sleeve Button Down Casual Dress Shirt,Light Gray,X-Large	3	0	0	3
+KZ-LHYX001-GRY-L	X001SR0CUD	B07DHDJKYV	MOCOTONO Women's Plus Size Elastic Waist Wide Leg Linen Cropped Pants Grey Large	3	1	0	2
+KZ-LHY001-GRY-XL	X001SQWM7Z	B07DHFBB7D	MOCOTONO Women's Plus Size Elastic Waist Wide Leg Linen Cropped Pants Grey X-Large	3	2	0	1
+KZ-LHY001-BLK-XL	X001SRZUDR	B07DHDXBXW	MOCOTONO Women's Plus Size Elastic Waist Wide Leg Linen Cropped Pants Black X-Large	2	1	0	1
+MY-021-GR-XL	B07C4PDQWL	B07C4PDQWL	MOCOTONO Men's V-Neck Long Sleeve Pullover Casual Sweater Light Gray X-Large	1	1	0	0
+MY-BS011-WT-M	B07CMMGJGG	B07CMMGJGG	MOCOTONO Men's V Neck Pullover Sweater Long Sleeve Cotton Casual Sweat Dress,White,Small	1	0	1	0
+MY-BS011-DG-L	B07CMRJSK1	B07CMRJSK1	MOCOTONO Men's V Neck Pullover Sweater Long Sleeve Cotton Casual Sweat Dress,Dark Gray,Medium	1	0	0	1
+MY-BS027-BK-L	X001SV7RTD	B078T9CXWY	MOCOTONO Men's V-Neck Cotton Sleeveless Sweater Casual Vest Black Large	1	0	1	0
+MY-LYRound020-DG-S	B073XJYHF5	B073XJYHF5	MOCOTONO Men's Long Sleeve Crew Neck Pullover Knit Sweater Dark Green Small	1	0	0	1
+MY-LYPoint021-NY-L	B0788F4HMX	B0788F4HMX	MOCOTONO Men's V-Neck Long Sleeve Pullover Casual Sweater Navy Large	2	1	1	0
+MY-LYRound020-OR-XL	B073XJCNJ1	B073XJCNJ1	MOCOTONO Men's Long Sleeve Crew Neck Pullover Knit Sweater Orange X-Large	2	2	0	0
+MY-LYPoint021-W0-L	B073XKD3LL	B073XKD3LL	MOCOTONO Men's V-Neck Long Sleeve Pullover Casual Sweater White Large	2	0	0	2
+MY-LYPoint021-GR-L	B073XL4P7Q	B073XL4P7Q	MOCOTONO Men's V-Neck Long Sleeve Pullover Casual Sweater Light Gray Large	2	1	0	1
+MY-LYPoint021-K0-XL	B073XK7RVB	B073XK7RVB	MOCOTONO Men's V-Neck Long Sleeve Pullover Casual Sweater Black X-Large	1	1	0	0
+MY-SB011JR-CF-XL	B0786WHKTF	B0786WHKTF	MOCOTONO Men's V Neck Pullover Fleece Lined Cotton Sweater Coffee Large	1	0	0	1
+MY-SB026-RD-L	B078SKTQ7J	B078SKTQ7J	MOCOTONO Mens Long Sleeve Turtle Neck Zip Pullover Sweater Red Large	2	1	1	0
+MY-SB027-GN-XL	B078TC2XC1	B078TC2XC1	MOCOTONO Men's V-Neck Cotton Sleeveless Sweater Casual Vest Green X-Large	1	0	1	0
+MY-SBPoint021-NY-L	X001SV95HZ	B0788F4HMX	MOCOTONO Men's V-Neck Long Sleeve Pullover Casual Sweater Navy Large	5	0	5	0
+MY-SBPoint021-BK-M	X001SW06RH	B073XK1K4N	MOCOTONO Men's V-Neck Long Sleeve Pullover Casual Sweater Black Medium	2	1	1	0
+MY-SB027-LG-XL	B078TCG9L1	B078TCG9L1	MOCOTONO Men's V-Neck Cotton Sleeveless Sweater Casual Vest Light Grey X-Large	1	1	0	0
+POLO-1503-NY-2XL	B078HXK3S1	B078HXK3S1	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Navy Blue XXL	1	1	0	0
+POLO-1503-GR-M	B0788LXZHN	B0788LXZHN	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Grey M	1	0	0	1
+POLO-1503-RD-L	B0788KNNJ7	B0788KNNJ7	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Red L	1	0	1	0
+POLO-1503-NY-L	B078HS362X	B078HS362X	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Navy Blue L	1	0	1	0
+POLO-SB014-NY-S	B076CZ1HNN	B076CZ1HNN	MOCOTONO Men's Long Sleeve Casual Golf Polo Shirt Navy Blue Small	1	1	0	0
+POLO-1503-RD-M	B0788LK2N3	B0788LK2N3	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Red M	2	1	1	0
+POLO-1503-BK-S	B0788MSNZ9	B0788MSNZ9	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Black S	1	1	0	0
+POLO-SB1503-NY-M	X001T3DL6X	B0728K5VXT	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Navy Blue M	3	0	3	0
+MY-SBRound020-NY-XL	X001SW06R7	B07C4RDLSK	MOCOTONO Men's Long Sleeve Crew Neck Pullover Knit Sweater Navy X-Large	2	0	2	0
+MY-SBRound020-GR-S	X001SW06HH	B073XKL2LF	MOCOTONO Men's Long Sleeve Crew Neck Pullover Knit Sweater Gray Small	3	0	3	0
+POLO-1503-RD-2XL	B0788QHJLM	B0788QHJLM	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Red XXL	1	1	0	0
+POLO-1503-WT-L	B0788GKNWC	B0788GKNWC	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top White L	1	0	0	1
+POLO-1503-NY-S	B078HZ3731	B078HZ3731	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Navy Blue S	1	1	0	0
+POLO-1503-BK-XL	B0788M9Z9R	B0788M9Z9R	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Black XL	1	0	0	1
+SHIRT-SB002-RD-L	B074DV3L9Z	B074DV3L9Z	MOCOTONO Men's Long Sleeve Regular Fit Plaid Button Down Casual Shirts Red Large	3	0	2	1
+POLO-SB1503-WT-M	X001T248RF	B0788N79K3	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top White M	2	0	2	0
+WQS-BN-1503-GR-M	B0788LXZHN	B0788LXZHN	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Grey M	1	0	0	1
+WQS-BN-1503-RO-L	B0788KNNJ7	B0788KNNJ7	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Red L	1	0	1	0
+WQS-BN-1503-RO-M	B0788LK2N3	B0788LK2N3	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Red M	2	1	1	0
+WQS-BN-1503-KO-S	B0788MSNZ9	B0788MSNZ9	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Black S	1	1	0	0
+WQS-BN-1503-RO-2XL	B0788QHJLM	B0788QHJLM	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Red XXL	1	1	0	0
+WQS-BN-1503-WO-L	B0788GKNWC	B0788GKNWC	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top White L	1	0	0	1
+WQS-BN-1503-KO-XL	B0788M9Z9R	B0788M9Z9R	MOCOTONO Men's Long Sleeve Casual Collared Polo Shirt Top Black XL	1	0	0	1

@@ -1,0 +1,22 @@
+sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
+BA-FLQ02-BO-6	B075N3N55V	B075N3N55V	Lastia 24 pcs Shatterproof Decorative Balls Ornaments for Holiday Party Home Blue 2.36"	1	0	0	1
+BA-FLQ02-SI-6	B075N1KNHS	B075N1KNHS	Lastia 24 pcs Shatterproof Decorative Balls Ornaments for Holiday Party Home Silver 2.36"	6	0	0	6
+CWB-WF021-CF-M	B0779W8MFG	B0779W8MFG	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Camouflage M	1	0	0	1
+GT-WFTFGT200-214	B076JBP5ZS	B076JBP5ZS	Tapestry Wall Hanging Mandala Hippie Psychedelic Bohemian Elephant Beach Towel Boho Bedspread Zebra Forest Queen Size 59 x 79inches	4	0	4	0
+QLQ-LUHM121-WO	X001RWF56Z	B07CXM3QD3	Lastia Hair Drain Catcher Clog Remover Bathroom Tub Strainer Cleaner Tool for Drain Cleaning(2 Pack)	9	2	0	7
+SB-LUHM100-B0	X001TCP13Z	B07DVH33X4	Lastia Mesh Beach Tote Bag with Zipper Top and Insulated Picnic Cooler and Free Get A Bonus Waterproof Cellphone Case Blue	1	0	0	1
+SB-LUHM100-K0	X001TCPQ8P	B07DVBN2KT	Lastia Mesh Beach Tote Bag with Zipper Top and Insulated Picnic Cooler and Free Get A Bonus Waterproof Cellphone Case Black	1	0	0	1
+SQ-LUHM304	X001SVW7FH	B07DKWSJ1Z	Lastia Summer Light Weight Water Gun Pool Beach Swimming Water Soaker for Kids and Adults 8 PCS (11.8In)	3	1	1	1
+XK-YIWUJS-GY-6IN	X001S9EYFP	B07D4GQKTL	Lastia 4x6 Picture Frame Multi Photo Frames Set Wall or Tabletop Display	2	2	0	0
+ZYL-FLQ06-BF-40	B076P8S1LC	B076P8S1LC	Dirty Clothes Laundry Storage Basket for Bedroom Bathroom Kids Linen Cotton White and Batman 15.7"x15.7"x19.7"	6	4	1	1
+ST-LAHM-LG-001	X001TCQWE7	B07DVJW5HD	Set of 9 Grey Beverage Chill Rocks Whiskey Rocks Reusable Drinking Ice Stones Chilling Stones Gift Set	17	0	17	0
+YQ-LUHM-F111	X001RLGE4X	B07CQJ8G3M	Bamboo Forks 3.5 Inch, Mini Food Picks for Party, Banquet, Buffet, Catering, and Daily Life. Two Prongs - Blunt End Toothpicks for Appetizer, Cocktail, Fruit, Pastry, Dessert. (One Pack of 110 PCS)	1	1	0	0
+SNT-LUHM001-DX	X001T66GQR	B07DQPRJPR	Clothes and toys organizer Waterproof hamper Foldable laundry basket for storage(Elephant,13.8x13.8x17.7In)	2	0	0	2
+SNH-LUHM001-Y0	X001T65KC3	B07DQL4VVL	Small Foldable Storage Basket waterproof Oxford Storage Bins for Toy Storage(Yellow,7.9x5.5x6.3In)	1	0	0	1
+SQ-LUHM204	X001SVTC8H	B07DKXSV9P	Lastia Summer Light Weight Water Gun Pool Beach Swimming Water Soaker for Kids and Adults 8 PCS (7.9In)	5	2	3	0
+ZDD-FLQ08-PO-28	B075R92YGF	B075R92YGF	Lastia Camping Tripod Stool for Fishing Hiking Outdoor Four Legs Purple 11"x11"x13.7"	1	1	0	0
+ZYL-FLQ2013-YO-36	B078JQVN4Q	B078JQVN4Q	Collapsible Laundry Storage Basket for Bedroom Bathroom Kids Cotton with EVA Lining White 14.3"x14.3"x14.9"	3	0	3	0
+ZYL-FLQ06-BG-40	B075RCQD9P	B075RCQD9P	Laundry Storage Basket Bin for Bedroom Bathroom Kids Linen Cotton White and Plaid 15.7"x15.7"x19.7"	2	0	0	2
+ZYL-FLQ06-TZ-40	B075R4RWDL	B075R4RWDL	Waterproof Laundry Storage Basket for Bedroom Bathroom Kids Linen Cotton White and Rabbits 15.7"x15.7"x19.7"	2	1	1	0
+ZYL-FLQ2013-RO-36	B078JQ7B7M	B078JQ7B7M	Storage Basket Bin for Bedroom Bathroom Kids Cotton with EVA Lining White 14.3"x14.3"x14.9"	6	0	6	0
+ZYL-FLQ59-BF-32	B078JQ3KLW	B078JQ3KLW	Folding Storage Cube Basket for Bedroom Bathroom Kids Cotton Linen White and Batman 12.5"x12.5"x12.5"	2	1	0	1

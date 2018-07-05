@@ -1,0 +1,310 @@
+sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
+BS-BN-1501-KO-3XL	X000PNPNTX	B071N9PTC4	Summer Mae Polo Elégant à Col Mao avec Bordure Blanche pour Homme XL Noir	1	0	0	1
+BS-BN-1501-WO-4XL	X000PN3O5D	B071Y6HHFS	Summer Mae Polo Elégant à Col Mao avec Bordure Blanche pour Homme 2XL Blanc	2	2	0	0
+BS-BN-1501-KO-XL	X000PN3O53	B071XX591N	Summer Mae Polo Elégant à Col Mao avec Bordure Blanche pour Homme M Noir	2	0	1	1
+BS-BN-1501-GR-4XL	X000PNKRT9	B071N9PLPJ	Summer Mae Polo Elégant à Col Mao avec Bordure Blanche pour Homme 2XL Gris	1	0	0	1
+BS-BN-1501-BO-XL	X000PN3O2B	B071RGN23Z	Summer Mae Polo Elégant à Col Mao avec Bordure Blanche pour Homme M Bleu	3	0	0	3
+BS-BN-1501-RO-4XL	X000PN3O21	B071XXJL4R	Summer Mae Polo Elégant à Col Mao avec Bordure Blanche pour Homme 2XL Rouge	1	1	0	0
+BS-BN-1501-RO-2XL	X000PNK1PJ	B071DJKWRB	Summer Mae Polo Elégant à Col Mao avec Bordure Blanche pour Homme L Rouge	1	1	0	0
+BS-BN-1501-WO-3XL	X000PNPNJN	B0711149ZH	Summer Mae Polo Elégant à Col Mao avec Bordure Blanche pour Homme XL Blanc	1	0	0	1
+BS-BN-1501-KO-2XL	X000PNPNK7	B0711153ZT	Summer Mae Polo Elégant à Col Mao avec Bordure Blanche pour Homme L Noir	1	1	0	0
+BS-BN-1501-GR-2XL	X000PN3O7L	B071N9PNNJ	Summer Mae Polo Elégant à Col Mao avec Bordure Blanche pour Homme L Gris	3	0	0	3
+BS-HB3555-KO-L	X000PPXJP1	B06XH5FTSX	Summer Mae Women's Triangle Push Up Bikini Set with a Shell Design	3	0	0	3
+BS-MY-1503-W0-L	X000PIVXHT	B06W2GP6PJ	Summer Mae Women's One Piece Push Up Slim Swimsuit Bathing Swimwear, Large	2	1	0	1
+BS-MY-1503-W0-2XL	X000PJY3EX	B06W52N684	Summer Mae Women's One Piece Push Up Slim Swimsuit Bathing Swimwear	2	1	1	0
+BS-HB3555-PI-S	X000OHISX3	B06XH65K15	Summer Mae Women's Triangle Push Up Bikini Set with a Shell Design	2	0	0	2
+BS-MY-1503-K0-M	X000PKUOC7	B06VSZVQPR	Summer Mae Women's One Piece Push Up Slim Swimsuit Bathing Swimwear	2	1	0	1
+BS-MY-1503-K0-L	X000PJY3GV	B06WLH8K89	Summer Mae Women's One Piece Push Up Slim Swimsuit Bathing Swimwear	3	1	0	2
+BS-HB3555-PI-L	X000OJEZ6F	B06XH78YXT	Summer Mae Women's Triangle Push Up Bikini Set with a Shell Design	2	1	0	1
+BS-MY-1503-K0-3XL	X000PJY3H5	B06VT64ZXD	Summer Mae Women's One Piece Push Up Slim Swimsuit Bathing Swimwear	3	1	1	1
+BS-HB4032-R1-L	X000P1BFDD	B06XSCQC98	Summer Mae Women's Short Off-The-shoulder Flared Dress with Floral Printings	1	0	0	1
+BS-MY-1503-K0-2XL	X000PISR41	B06WCZXF3W	Summer Mae Women's One Piece Push Up Slim Swimsuit Bathing Swimwear, XX-Large	3	1	1	1
+BS-MY-1503-W0-M	X000PISR3H	B06WLHGK71	Summer Mae Women's One Piece Push Up Slim Swimsuit Bathing Swimwear	4	1	3	0
+BS-HB4032-RO-XXL	X000P1QT8T	B06XS6MPRY	Summer Mae Women's Short Off-The-shoulder Flared Dress with Floral Printings	1	0	0	1
+BS-PW2025-K0-3XL	X000OMAM2D	B06W54R1BX	Summer Mae Swimwear One Piece Floral Shaping-body Swimsuit	2	1	0	1
+BS-WH0028-W0-S	X000OUNGCN	B06XRVXFVD	Summer Mae Women One Piece Off-shoulder Vintage Volants Front Swimwear Swimming Costume	1	0	0	1
+BS-PW-YH115-M3-S	X000P7UNIZ	B071D831NB	Summer Mae Women's Vintage Baroque Printed Ethnic Style Loose Casual Tunic Dress Party dress	1	0	0	1
+BS-PW2025-K0-2XL	X000OMAG0B	B06W2JPMW2	Summer Mae Swimwear One Piece Floral Shaping-body Swimsuit	3	1	1	1
+BS-PW2025-K0-XL	X000OMAG01	B06WGP4C1W	Summer Mae Swimwear One Piece Floral Shaping-body Swimsuit	1	1	0	0
+BS-WH0028-W0-L	X000OUUW2Z	B06XRFZ12B	Summer Mae Women One Piece Off-shoulder Vintage Volants Front Swimwear Swimming Costume	2	0	0	2
+BS-WH17015-SZ-XXXL	X000Q1K2EZ	B071KFH1YX	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	0	0	1
+BS-WH17015-C0-L	X000Q1JY7B	B071GTKCRH	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	1	0	0
+BS-WH17015-SZ-L	X000Q0JHUL	B072N7W1XB	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	0	0	1
+BS-WH17015-B0-XXL	X000Q1JPP7	B071KFHNV3	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	2	1	1	0
+BS-WH17015-B0-XXXL	X000Q0HQBX	B071GTJV35	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	0	0	1
+BS-WH16032-R0-XL	X000Q2UTLZ	B072Q5D925	Summer Mae Women's Tank Ruched Tummy Control One Piece Swimsuit	1	0	0	1
+BS-WH16032-B0-XL	X000QNCM73	B071ZRZC5J	Summer Mae Women's Tank Ruched Tummy Control One Piece Swimsuit	1	0	0	1
+BS-WH17015-K0-L	X000Q1JID1	B072R4R3XN	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	0	1	0
+BS-WH16032-K0-M	X000Q2YZUV	B072Q4PFGH	Summer Mae Women's Tank Ruched Tummy Control One Piece Swimsuit	1	0	1	0
+BS-WH17015-C0-XXXL	X000Q1JIDB	B072R4R3Y1	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	2	0	0	2
+BS-WH17015-B0-XL	X000Q0JA35	B071GTK6BT	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	0	0	1
+BS-WH16032-B0-L	X000QNCUA7	B071FSXGJ9	Summer Mae Women's Tank Ruched Tummy Control One Piece Swimsuit	1	0	0	1
+BS-WH1731-R0-XL	X000OUZBFD	B06XYN88Q8	Summer Mae Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set	21	1	13	7
+BS-WH17017-G0-XL	X000QA5RLJ	B0721PTYSL	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	36	9	27	0
+BS-WHBH1704-K0-XL	X000Q01PID	B0734VZ32T	Summer Mae Women's Maternity Pregnancy Halter Printed Padding Tankini Swimsuit	16	0	16	0
+BS-WH17017-B0-XXXL	X000Q1NXPP	B071KBQNZ5	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	41	6	35	0
+BS-WHC19-R0-XL	X000Q45FU3	B072LX6J94	Summer Mae Women's Two Pieces Bikini Set Twist Bandeau Classical Strapless Swimsuit Red XL	1	0	0	1
+BS-WH1731-K0-M	X000PG5T0N	B06ZYG4ST4	Summer Mae Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set	23	4	16	3
+BS-WH81677-Y0-XL	X000Q6AB6J	B071K8JDJM	Summer Mae Women's Retro Printed Two Piece Padded Swimming Costume Tankini Set With Shorts	1	0	1	0
+BS-WHBH1704-K0-3XL	X000Q0260J	B0734S5GHL	Summer Mae Women's Maternity Pregnancy Halter Printed Padding Tankini Swimsuit, XXX-Large	2	0	2	0
+BS-WH1731-K0-S	X000PKRWZT	B071YC8FZY	Summer Mae Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set	5	2	0	3
+BS-WH17017-G0-L	X000Q9UY5J	B072KK8C49	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	21	1	20	0
+BS-WH1731-R0-L	X000OUT0VT	B06XZ1KL11	Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set, Large	20	4	10	6
+BS-WH17015-ZL-M	X000Q1JY85	B072N7VJKP	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	0	1	0
+BS-WH17017-B0-XL	X000Q0267R	B072R2PPXQ	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	36	12	24	0
+BS-WHBH1704-K0-S	X000Q00BF1	B0734TM5VJ	Summer Mae Women's Maternity Pregnancy Halter Printed Padding Tankini Swimsuit	2	0	0	2
+BS-WH17017-G0-S	X000Q9UY59	B071X8SLCH	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	4	0	2	2
+BS-WH17017-B0-S	X000Q0YEBD	B0721PV6W2	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	12	1	11	0
+BS-WH17017-B0-M	X000Q24RQD	B071X8SKR8	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	37	12	23	2
+BS-WHBH1704-K0-L	X000Q0093P	B0734T5SPK	Summer Mae Women's Maternity Pregnancy Halter Printed Padding Tankini Swimsuit	19	3	15	1
+BS-WH1731-P0-XXL	X000QNCSRH	B074TFZS2G	Summer Mae Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set	2	0	0	2
+BS-WHBH1704-K0-2XL	X000Q01P51	B0734WHFTC	Summer Mae Women's Maternity Pregnancy Halter Printed Padding Tankini Swimsuit, XX-Large	2	1	1	0
+BS-WH1731-K0-XXL	X000PDZMW1	B071YCFJHT	Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set	10	3	2	5
+BS-WH17017-G0-XXL	X000Q9VNKT	B071X8SH7Y	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	4	0	4	0
+BS-WHC19-K0-M	X000Q69IK9	B0728K5SC8	Summer Mae Women's Two Pieces Bikini Set Twist Bandeau Classical Strapless Swimsuit Black M	1	0	0	1
+BS-WH17017-B0-XXL	X000Q0HQBN	B072R2RYSM	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	13	1	12	0
+BS-WH81677-B0-XL	X000Q69TQH	B071K8J9Q1	Summer Mae Women's Retro Printed Two Piece Padded Swimming Costume Tankini Set with Shorts	2	0	0	2
+BS-WH1731-P0-XL	X000QNCM6T	B074TCM5BV	Summer Mae Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set	1	1	0	0
+BS-WH1731-K0-L	X000PG63PX	B071RBF645	Summer Mae Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set	20	3	4	13
+BS-WH17015-ZL-XXXL	X000Q0JA3P	B072KN3KBK	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	1	0	0
+BS-WH1731-K0-XL	X000PDZO0V	B06ZXW62V9	Summer Mae Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set	23	2	16	5
+BS-WH17017-K0-L	X000Q0YEGN	B071GQQD7Y	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	35	0	31	4
+BS-WH17017-K0-M	X000Q24POR	B071X8SHY6	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	18	1	17	0
+BS-WH17017-G0-XXXL	X000Q69S3L	B071KBQJB1	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	23	0	22	1
+BS-WH1731-R0-XXL	X000OW9BNT	B06XZ13X21	Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set	4	1	0	3
+BS-WH1731-R0-S	X000OUZ9ZZ	B06XZ27GZV	Summer Mae Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set	1	0	0	1
+BS-WH81677-Y0-L	X000Q69UHF	B0721MLN6J	Summer Mae Women's Retro Printed Two Piece Padded Swimming Costume Tankini Set With Shorts	1	0	0	1
+BS-WH81677-B0-L	X000Q69HWN	B071K8JQQW	Summer Mae Women's Retro Printed Two Piece Padded Swimming Costume Tankini Set with Shorts	2	1	0	1
+BS-WHBH1704-K0-M	X000Q01PJH	B0734QXT7Q	Summer Mae Women's Maternity Pregnancy Halter Printed Padding Tankini Swimsuit	21	0	19	2
+BS-WH1731-P0-L	X000QNCSV3	B074TFT5SG	Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set	1	0	1	0
+BS-WH17017-K0-XXL	X000Q253DT	B071X8SL2L	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	18	6	12	0
+BS-WH1731-R0-M	X000OW4GG1	B06XYZ3CBT	Women's Cute Ruffles Strap High Waisted Bathing Suits Crop Top Flounce Bikini Set, Medium	14	3	2	9
+CS-LY084-H16-M	X000PZORGL	B06XYHWH3G	Summer Mae Men's Long Sleeve Button Down Cotton Plaid Casual Shirts	1	1	0	0
+CS-LY166-B28-3-XXL	X000R4M73P	B072FMY4JZ	Mocotono Men's Casual Long Sleeve Regular Fit Flannel Plaid Button Down Western Shirts Navy XX-Large	1	0	0	1
+CS-LY166-K73-2-XXL	X000R5B7H1	B072LTDN7F	Mocotono Men's Casual Long Sleeve Regular Fit Flannel Plaid Button Down Western Shirts Black XX-Large	1	0	1	0
+CS-LY170-LB916-M	X000PYEMIZ	B073PQ752P	Mocotono Men's Solid Color Oxford Short Sleeve Button Down Casual Shirt Blue Medium	1	1	0	0
+CS-LY170-ZL918-M	X000PYEMUX	B073PPP5ZQ	Mocotono Men's Solid Color Oxford Short Sleeve Button Down Casual Shirt Dark Blue Medium	1	0	0	1
+CS-LY170-LG907-XXL	X000PZ0RAV	B073PQFZ61	Mocotono Men's Solid Color Oxford Short Sleeve Button Down Casual Shirt Grey XX-Large	9	0	9	0
+CS-LY170-PI908-M	X000PZ1DLN	B073PQ115V	Mocotono Men's Solid Color Oxford Short Sleeve Button Down Casual Shirt Pink Medium	1	0	1	0
+CS-LY170-Sa911-XL	X000PZ0KUN	B073PPYPXZ	Mocotono Men's Solid Color Oxford Short Sleeve Button Down Casual Shirt Sky Blue X-Large	1	0	0	1
+CS-LY181-LB916-L	X000PYEMPN	B073PQDRHR	Summer Mae Men's Solid Color 100% Cotton Oxford Long Sleeve Button Down Casual Shirt	1	0	0	1
+CS-LY170-PI908-XXL	X000PZ0LZ7	B073PPMWTH	Mocotono Men's Solid Color Oxford Short Sleeve Button Down Casual Shirt Pink XX-Large	1	0	1	0
+CS-LY170-WR917-L	X000PYEMIF	B073PPT6WC	Mocotono Men's Solid Color Oxford Short Sleeve Button Down Casual Shirt Red Large	1	0	0	1
+CS-LY171-WR917-XL	X000PZ0S7N	B073PQ3DVN	Mocotono 100% Cotton Men's Solid Color Oxford Casual Shirt Long Sleeve Regular Fit	2	1	1	0
+CS-LY170-Sa911-XXL	X000PYB2J7	B073PPT4YQ	Mocotono Men's Solid Color Oxford Short Sleeve Button Down Casual Shirt Sky Blue XX-Large	1	0	0	1
+CS-LY171-G912-S	X000PYEMKX	B073PP2Q5W	100% Cotton Men's Solid Color Oxford Casual Shirt Long Sleeve Regular Fit	1	1	0	0
+CS-LY171-WR917-XXL	X000PZ0RPL	B073PQ61JH	100% Cotton Men's Solid Color Oxford Casual Shirt Long Sleeve Regular Fit	1	0	0	1
+CS-SB030-YL-L	B078W14YQ1	B078W14YQ1	Mocotono Men's Short Sleeve Shirts/Summer Casual Shirt/50% Cotton 50% Polyester Yellow Large	1	0	1	0
+CS-SB030-GR-L	B078W1JJNK	B078W1JJNK	Mocotono Men's Short Sleeve Shirts/Summer Casual Shirt/50% Cotton 50% Polyester Gray Large	1	0	1	0
+EUTK-J01H-SH-4	X000RCMXJF	B075TT424W	Teenking Boy's Fleece Outdoor Jacket 4-5 Years	2	1	1	0
+EUTK-J01H-GR-8	X000RCMIOP	B075TX4636	Teenking Boy's Fleece Outdoor Jacket 10-11 Years	1	1	0	0
+KZ-CSM073-N5-36	B07717NFRR	B07717NFRR	Mocotono Herren Corduroy Cotton Trousers Winter Warm Casual Stretch Pants Coffee 35	3	3	0	0
+LYQ-BS-K1010-B0-XS	X000NIDB8Z	B01M7XMBP9	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	1	0
+LYQ-BS-K1010-G0-L	X000NICQR7	B01MQPQDX8	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	2	0	2	0
+LYQ-BS-K1010-K0-S	X000NG4573	B01KO0SAIE	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	1	0	0
+LYQ-BS-K1010-N0-M	X000NI8JKZ	B01M22DT7M	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	0	1
+LYQ-BS-K1010-N0-XL	X000NI96E3	B01M7NHI4J	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	12	0	12	0
+LYQ-BS-K1010-N0-XS	X000NI3ETV	B01M22DUD3	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	2	0	2	0
+LYQ-BS-K1010-K0-XS	X000NI96DJ	B01KO0S9LM	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	1	0
+LYQ-BS-K1010-B0-XL	X000NG1TXL	B01MDUDF3T	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	0	1
+LYQ-BS-K1010-G0-XS	X000NIARMX	B01MQPQALH	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	0	1
+LYQ-BS-K1010-K0-L	X000NIARN7	B01KO0SCAA	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	2	0	2	0
+LYQ-BS-K1010-P0-S	X000NI8TL9	B017X47UK8	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	1	0
+LYQ-BS-CS04-Wi-M	X000R87DY9	B0761RRNV3	Summer Mae Women Long Sleeve Pockets Casual Swing T-Shirt Dresses UK 10 Wine red	1	0	0	1
+LYQ-BS-K1010-W0-M	X000OHOKBR	B01KO0SBKQ	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	0	1
+LYQ-BS-K1010-G0-M	X000NI8TNR	B01MQPQHB5	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	7	1	5	1
+LYQ-BS-K1010-K0-XL	X000NIBCWH	B01KO0SDBI	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	1	0	0
+LYQ-BS-K1010-KQ-M	X000NH5YLX	B01N2YLI1M	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	1	0
+LYQ-BS-K1010-W0-XS	X000NI8JL9	B01KO0S9JO	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	1	0
+LYQ-BS-LB01-Wi-XL	X000R8HSOT	B0761TDM34	Summer Mae Women Polo Neck Casual Bell Sleeve Swing Smock Dress Long Sleeve Trumpet Sleeves Dark Red XL	1	1	0	0
+LYQ-BS-YY05-E0-S	X000R876AZ	B0761QZBLN	Summer Mae Women Long Sleeve Fit and Flare Cotton A-line Midi Dress UK 8 Grey	1	0	0	1
+LYQ-BS-K1010-Z0-M	X000NJ6UUZ	B01MZYYG9U	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	1	0
+LYQ-BS-LS06-N5-S	X000R8792P	B0761RPB2Q	Summer Mae Women's Knitting Turtleneck Long Sleeve Loose Lace Cotton Casual Dress	1	0	1	0
+LYQ-BS-YH115-G0L	X000NQJDS9	B01NGTP126	Summer Mae Women's Vintage Baroque Printed Ethnic Style Loose Casual Tunic Dress Party dress	1	0	0	1
+LYQ-BS4600-B0-L	X000NJNHUL	B01N560FYN	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Blue L	1	1	0	0
+LYQ-BS4600-G1-L	X000NM0YBX	B01N78VJ9M	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Army Green L	2	0	2	0
+LYQ-BS-ZQ2973-K0-M	X000NKRY4Z	B01N1X2E3G	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	1	0	0	1
+LYQ-BS-ZQ2973-W1-L	X000NMVLW9	B01N65706L	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	2	1	0	1
+LYQ-BS4600-G1-S	X000NJNHU1	B01N78VKOR	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Army Green S	1	0	1	0
+LYQ-BS4600-G0-XS	X000PLPSRR	B01N6P1I5Z	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Grey XS	2	0	1	1
+LYQ-BS4600-P0-XL	X000PKIW1R	B01N1YL9GO	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Purple XL	1	0	1	0
+LYQ-BS4600-P0-S	X000PKIW1H	B01N7OGTT9	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Purple S	2	0	2	0
+LYQ-BS4600-G1-M	X000NH5YKT	B01N2KHNRA	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Army Green M	2	1	1	0
+LYQ-BS4600-P0-L	X000PMC0QX	B01N4K9T8X	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Purple L	2	0	2	0
+LYQ-BS4600-G0-L	X000NJNHAB	B01N0HHVPX	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Grey L	1	0	0	1
+LYQ-BS4600-B0-XS	X000PLPSCR	B01MZ7Y9AO	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Blue XS	1	0	1	0
+LYQ-BS4600-G1-XS	X000PLPSD1	B01MT79IFZ	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Army Green XS	1	0	1	0
+LYQ-BS4600-B0-M	X000NH73DZ	B01MQMQ9MR	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Blue M	1	0	0	1
+LYQ-BS4600-N0-M	X000NO8SXR	B01MXOW81L	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Brown M	1	0	1	0
+LYQ-BS4600-N0-S	X000NNVTMZ	B01N1IYVH5	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Brown S	2	0	2	0
+LYQ-EUWH5339-K0-XL	X000RDDT2J	B07648CNQX	Summer Mae Women's Elegant Sexy V Neck Long Slit Dress with Waistband and Pockets	1	1	0	0
+LYQ-EUWH5339-R0-2XL	X000RDDT2T	B0764948PC	Summer Mae Women's Elegant Sexy V Neck Long Slit Dress with Waistband and Pockets	1	0	0	1
+LYQ-EUWH5339-K0-M	X000RCVJVN	B07647HSKY	Summer Mae Women's Elegant Sexy V Neck Long Slit Dress with Waistband and Pockets	1	0	1	0
+MY-LYPoint021-W0-L	X000QYN1C7	B073XKD3LL	Mocotono Men's Casual Regular Fit Pullover V-Neck Sweater Cotton Knitwear White Large	1	1	0	0
+MY-SB020-BK-S	B077XG17CP	B077XG17CP	Mocotono Men's Long Sleeves Sweater V- Neck Regular Fit Knitwear Black S	1	0	0	1
+MY-SB019-BL-S	B077XGL33J	B077XGL33J	Mocotono Men's Cotton Sweater V- Neck Regular Fit Knitwear Knit Jumper Blue S	1	1	0	0
+RE-YZ-BECS186-YH-XXL	B07CM1NXRZ	B07CM1NXRZ	Summer Mae Women's High Waist One Piece Swimwear Keyhole Print Halter Bikini XXL	1	0	0	1
+RE-YZ-BEWS32-ZL-L	B07CM1S16H	B07CM1S16H	Summer Mae Women One Piece High Neck V-Neckline Mesh Ruched Monokini Swimwear Navy Blue L	1	0	0	1
+RE-YZ-BEBD001-R0-XL	B07CM1YWXC	B07CM1YWXC	Summer Mae Women Vintage Flounce Leaves Printing High Waisted Bathing Suits Two Piece Bikini Red XL (UK 12-14)	3	0	0	3
+RE-YZ-BEBD001-R0-L	B07CM5G41X	B07CM5G41X	Summer Mae Women Vintage Flounce Leaves Printing High Waisted Bathing Suits Two Piece Bikini Red L (UK 10-12)	3	0	1	2
+RE-YZ-BELE001-W0-S	B07CM2B6BD	B07CM2B6BD	Summer Mae Women Vintage Flounce Polka Dot High Waisted Bathing Suits Two Piece Bikini White S (UK 6-8)	5	1	3	1
+RE-YZ-BELE001-W0-M	B07CM1GBHS	B07CM1GBHS	Summer Mae Women Vintage Flounce Polka Dot High Waisted Bathing Suits Two Piece Bikini White M (UK 8-10)	1	0	0	1
+RE-YZ-BEBD001-R0-M	B07CLYTDDB	B07CLYTDDB	Summer Mae Women Vintage Flounce Leaves Printing High Waisted Bathing Suits Two Piece Bikini Red M (UK 8-10)	4	1	1	2
+RE-YZ-BELE001-W0-XS	B07CLT358V	B07CLT358V	Summer Mae Women Vintage Flounce Polka Dot High Waisted Bathing Suits Two Piece Bikini White XS (UK 4-6)	6	3	2	1
+RE-YZ-BELE001-W0-L	B07CM3VVBX	B07CM3VVBX	Summer Mae Women Vintage Flounce Polka Dot High Waisted Bathing Suits Two Piece Bikini White L (UK 10-12)	3	2	1	0
+RE-YZ-BELE001-W0-XL	B07CLSVW8C	B07CLSVW8C	Summer Mae Women Vintage Flounce Polka Dot High Waisted Bathing Suits Two Piece Bikini White XL (UK 12-14)	4	3	0	1
+TX-55554-PI-5XL	B078NPDWH9	B078NPDWH9	Mocotono Men's Crew Collar Short Sleeve T-Shirt Pink X-Large	1	1	0	0
+TX-55554-BO-3XL	B078NMXNKC	B078NMXNKC	Mocotono Men's Crew Collar Short Sleeve T-Shirt Blue Medium	3	0	0	3
+WQS-BS-BN1504-BO/RO-M	X000QVB5QT	B071NLH6SF	Summer Mae Men's Long Sleeve Polo Shirts and Classic Collar Striped Shirt	1	0	0	1
+WQS-BN-1503-RO-S	B0788MQ753	B0788MQ753	Mocotono Men's Elegant Long Sleeve Collared Polo Shirt Top Rot S	2	0	2	0
+WQS-BN-1503-WO-2XL	B0788MSRBP	B0788MSRBP	Mocotono Men's Elegant Long Sleeve Collared Polo Shirt Top White XXL	2	0	2	0
+WQS-BN-1503-BO-S	B0788NC9MD	B0788NC9MD	Mocotono Men's Elegant Long Sleeve Collared Polo Shirt Top Dark Blue S	1	0	0	1
+XZ-BS-007GRXL	X000Q534TB	B01LWT9E93	Summer Mae	1	0	0	1
+XZ-BS-007W0XL	X000Q48HH1	B01LXGQRTF	Summer Mae	1	0	0	1
+WQS-BN-1503-BO-M	B0788LLYXL	B0788LLYXL	Mocotono Men's Elegant Long Sleeve Collared Polo Shirt Top Dark Blue M	1	0	0	1
+WQS-BN-1503-WO-XL	B0788LHPGK	B0788LHPGK	Mocotono Men's Elegant Long Sleeve Collared Polo Shirt Top White XL	2	2	0	0
+WQS-BN-1503-BO-2XL	B0788K3H99	B0788K3H99	Mocotono Men's Elegant Long Sleeve Collared Polo Shirt Top Dark Blue XXL	1	0	0	1
+WQS-BS-BN1504-GR-M	X000QV4LOH	B071KZMSQN	Summer Mae Men's Long Sleeve Polo Shirts and Classic Collar Striped Shirt	1	1	0	0
+WQS-BS-BN1504-KO-L	X000QVB5Q9	B071VC4T6W	Summer Mae Men's Long Sleeve Polo Shirts and Classic Collar Striped Shirt	2	0	0	2
+XZ-BS-013GR2-S	X000QPNY9L	B01M0CR4EK	Summer Mae Women's Warm Plush Soft Sole Indoor Slipper	1	1	0	0
+XZ-WH150903-GR-3738	X000QZR59B	B075CZ5BNK	Summer Mae Women's Knit Faux Fur Linning Slippers With Horn Button	1	0	1	0
+XZ-BS-YG7223Co4243	X000QS9L8B	B01M0OETK1	Summer Mae Vintage Arctic Solid Indoor Boot Slippers	1	1	0	0
+YZ-BE5506-K0-XXL	B07CKT2VVS	B07CKT2VVS	Summer Mae Striped Racerback Tankini with Swim Briefs Two Piece Swimsuit for Women Black XXL	1	0	0	1
+YZ-BEC19P-K0-M	B07CN9MZZ3	B07CN9MZZ3	Summer Mae Women's Two Pieces Bikini Set Twist Halter Bandeau Black M	1	1	0	0
+YZ-BE5129-K0YH-3XL	B07CLWJB9R	B07CLWJB9R	Summer Mae Plus Size Floral Swimwear One Piece Swimdress for Women Skirted Swimsuit Black Floral 3XL	1	1	0	0
+YZ-BE5129-K0YH-2XL	B07CLVLH98	B07CLVLH98	Summer Mae Plus Size Floral Swimwear One Piece Swimdress for Women Skirted Swimsuit Black Floral 2XL	2	1	1	0
+YZ-BEC19P-K0-S	B07CMY88K5	B07CMY88K5	Summer Mae Women's Two Pieces Bikini Set Twist Halter Bandeau Black S	1	1	0	0
+YZ-BEC19P-K0-L	B07CNGYJS6	B07CNGYJS6	Summer Mae Women's Two Pieces Bikini Set Twist Halter Bandeau Black L	1	0	0	1
+YZ-BEHY2049-W0-L	B07CM59KBW	B07CM59KBW	Summer Mae Women's Off-Shoulder Bikini Set Ruffle Swimwear	1	0	0	1
+YZ-BEC19P-W0-S	B07CN3Z81Y	B07CN3Z81Y	Summer Mae Women's Two Pieces Bikini Set Twist Halter Bandeau White S	2	1	1	0
+YZ-BETW32-KTW-M	B07C219DGR	B07C219DGR	Summer Mae Women's Sexy Detachable Padded Cutout Push up Striped Bikini Set Two Piece Swimsuit Black Strip M	1	0	0	1
+YZ-BEYF181-B0-XL	B07BN8FJZC	B07BN8FJZC	Summer Mae Maternity Swimming Costume Triangle Halter Tankini Blue XL	1	0	1	0
+YZ-BETW32-PI-2XL	B07CBVFWY4	B07CBVFWY4	Summer Mae Women's Sexy Detachable Padded Cutout Push up Striped Bikini Set Two Piece Swimsuit Pink Strip XXL	2	1	1	0
+YZ-BETW32-PI-L	B07CF83XC5	B07CF83XC5	Summer Mae Women's Sexy Detachable Padded Cutout Push up Striped Bikini Set Two Piece Swimsuit Pink Strip L	2	0	1	1
+YZ-BETW32-KTW-2XL	B07C21YZ9R	B07C21YZ9R	Summer Mae Women's Sexy Detachable Padded Cutout Push up Striped Bikini Set Two Piece Swimsuit Black Strip XXL	1	0	0	1
+YZ-BETW32-BTW-S	B07CF784BM	B07CF784BM	Summer Mae Women's Sexy Detachable Padded Cutout Push up Striped Bikini Set Two Piece Swimsuit Blue Strip S	2	0	0	2
+YZ-BS-5505DaXL	X000NJNHDN	B0154PQ95K	Summer Mae Women's Tankini Striped Vintage Swim Dress (Navy X-Large)	67	5	59	3
+YZ-BEYF183-TW-XXL	B07BNCNSKL	B07BNCNSKL	Summer Mae Maternity Tankini Stripes Printing Swimsuit Blue XXL	4	0	4	0
+YZ-BS-1640-K0-XXL	X000PITCF9	B072FFTZS8	Summer Mae Women Swimming Costume Triangle Halter Bikini Set Push up Padded Bikini Floral Printing swimwear	2	0	0	2
+YZ-BS-5505DaXS	X000NPKCN5	B00YAIA008	Summer Mae Women's Tankini Striped Vintage Swim Dress (Navy X-Small)	6	1	5	0
+YZ-BEYF182-R0-XL	B07BF4G3QR	B07BF4G3QR	Summer Mae Maternity Swimsuit Printing Tankini Halter Top Red XL	2	1	1	0
+YZ-BS-5505K0-M	X000PN9VY1	B071LFK69M	Summer Mae Women's Tankini Striped Vintage Swim Dress (Black Medium)	11	2	8	1
+YZ-BEYF182-R0-L	B07BF5WQLC	B07BF5WQLC	Summer Mae Maternity Swimsuit Printing Tankini Halter Top Red L	4	1	3	0
+YZ-BS-5505JRXL	X000NH5YJ5	B0154PQBZ8	Summer Mae Women's Tankini Striped Vintage Swim Dress (Pink X-Large)	3	0	3	0
+YZ-BS-5505JR0S	X000NMV2DH	B06XYZS6NS	Summer Mae Women's Tankini Striped Vintage Swim Dress (Pink Small)	1	0	0	1
+YZ-BEYF182-R0-S	B07BF7VGLY	B07BF7VGLY	Summer Mae Maternity Swimsuit Printing Tankini Halter Top Red S	3	0	1	2
+YZ-BS-5505K0-XS	X000PSV86Z	B0711R9KHM	Summer Mae Women's Tankini Striped Vintage Swim Dress (Black X-Small)	21	0	19	2
+YZ-BEYF182-R0-M	B07BF8D3F3	B07BF8D3F3	Summer Mae Maternity Swimsuit Printing Tankini Halter Top Red M	4	0	4	0
+YZ-BS-5505JRM	X000NJK7HH	B013OSTD70	Summer Mae Women's Tankini Striped Vintage Swim Dress (Pink Medium)	10	1	9	0
+YZ-BS-5505K0-L	X000PN94C5	B071HV6ZCB	Summer Mae Women's Tankini Striped Vintage Swim Dress (Black Large)	1	1	0	0
+YZ-BEYF183-TW-XL	B07BN7NV8W	B07BN7NV8W	Summer Mae Maternity Tankini Stripes Printing Swimsuit Blue XL	1	0	0	1
+YZ-BS-5505DaXXL	X000NJNHR9	B017JO0OBE	Summer Mae Women's Tankini Striped Vintage Swim Dress (Navy XX-Large)	27	1	23	3
+YZ-BS-5505K0-S	X000PM3KVR	B071F8K78X	Summer Mae Women's Tankini Striped Vintage Swim Dress (Black Small)	6	0	6	0
+YZ-BEYF182-R0-XXL	B07BF4PZNM	B07BF4PZNM	Summer Mae Maternity Swimsuit Printing Tankini Halter Top Red XXL	6	1	2	3
+YZ-BS-1580-NB-3XL	X000NIK4LH	B01MXSFHMN	Summer Mae Women's Vintage Baroque Printed Ethnic Style Loose Casual Tunic Dress	1	0	0	1
+YZ-BEYF181-G0-XL	B07BN97SPJ	B07BN97SPJ	Summer Mae Maternity Swimming Costume Triangle Halter Tankini Green XL	6	1	4	1
+YZ-BS-5505K0-2XL	X000PNM6BB	B0711R9KHN	Summer Mae Women's Tankini Striped Vintage Swim Dress (Black XX-Large)	8	1	5	2
+YZ-BEYF184-B0-L	B07BF3M4Z3	B07BF3M4Z3	Summer Mae Maternity Tankini Two Piece Printing Swimsuit Pregnant Swimming Costume for Women Blue L	1	1	0	0
+YZ-BS-5505Da0L	X000NK54N3	B013OSTKN2	Summer Mae Women's Tankini Striped Vintage Swim Dress (Navy Large)	30	1	27	2
+YZ-BS-5505K0-XL	X000PN8OQ7	B071VS9Y2M	Summer Mae Women's Tankini Striped Vintage Swim Dress (Black X-Large)	15	1	14	0
+YZ-BS-5505JR0L	X000NK54ND	B013OSTFTG	Summer Mae Women's Tankini Striped Vintage Swim Dress (Pink Large)	3	0	3	0
+YZ-BS-5505DaM	X000NH73D5	B013OSTFWS	Summer Mae Women's Tankini Striped Vintage Swim Dress (Navy Medium)	62	2	58	2
+YZ-BS-BS5119ZLXL5XL	X000NJNHLP	B01FXAQVH2	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Blue, 3XL	17	2	13	2
+YZ-BS-BS5119ZLXL4XL	X000NM7J9X	B01FXAQTLK	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Blue, 2XL	2	2	0	0
+YZ-BS-BShyl5119-YT-XL	X000MZO74B	B01HFYMW04	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Black Cherry, M	4	1	0	3
+YZ-BS-BKN1703-R0-L	X000O320B3	B06XCR3R6C	Summer Mae Women's Luxurious Pretty Double Straps Elegant Two Piece Bikini Set	2	1	0	1
+YZ-BS-BSLLHTXL	X000NJ5J7Z	B01F3E3964	Summer Mae Women's One Piece Push Up Swimming Costume Dress Beachwear Plus Size Halterneck Swimwear	1	0	0	1
+YZ-BS-BKN1703-R0-XL	X000O2GY39	B06XD91JGL	Summer Mae Women's Luxurious Pretty Double Straps Elegant Two Piece Bikini Set	1	0	0	1
+YZ-BS-BSLLHTM	X000NJ6UWN	B01F3E3GAI	Summer Mae Women's One Piece Push Up Swimming Costume Dress Beachwear Plus Size Halterneck Swimwear	1	1	0	0
+YZ-BS-BKN1703-R0-XS	X000O3204P	B06XCR5MFR	Summer Mae Women's Luxurious Pretty Double Straps Elegant Two Piece Bikini Set	1	0	0	1
+YZ-BS-BS5119ZLXLXL	X000NJNHJH	B01FXAQNIO	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Blue, M	3	0	2	1
+YZ-BS-5505LbXXL	X000NJNHRT	B01G3JERSM	Summer Mae Women's Tankini Striped Vintage Swim Dress (Light Blue XX-Large)	5	0	5	0
+YZ-BS-BSLLITM	X000N68Y93	B01G8H8VAO	Summer Mae Women's One Piece Push Up Swimming Costume Dress Beachwear Plus Size Halterneck Swimwear	3	1	0	2
+YZ-BS-BShyl5119-YT-2XL	X000NJNHSN	B01HFYMXUI	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Black Cherry, 2XL	18	3	12	3
+YZ-BS-BShyl5119-YH-4XL	X000NIV3PD	B01NCSVUOC	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, black flower, 2XL	2	1	1	0
+YZ-BS-5505LbXL	X000NJNHLF	B01G3JEPKM	Summer Mae Women's Tankini Striped Vintage Swim Dress (Light Blue X-Large)	5	1	3	1
+YZ-BS-HB8631-PI-L	X000NXAWQT	B06WVMNKYJ	Summer Mae Women's Exotic Bandeau Bikini Set with Ruffles	1	0	0	1
+YZ-BS-BShyl5119K0XL	X000NJYD2R	B01EJ5VRJE	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Black, XL	13	0	12	1
+YZ-BS-BSLLK04XL	X000PLS3JR	B06XG8ZWGL	Summer Mae Women's One Piece Push Up Swimming Costume Dress Beachwear Plus Size Halterneck Swimwear	3	0	0	3
+YZ-BS-BShyl5119-YH-2XL	X000NIV3SF	B01N30QQDJ	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Black Flower, L	3	2	0	1
+YZ-BS-HB8995-PI-S	X000OB9CK7	B06WLLQK19	Summer Mae Women's Push Up Floral Bikini Set with laces and a Halter Cut	1	1	0	0
+YZ-BS-BS5119ZLXL3XL	X000NJK7HR	B01FXAQRNK	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Blue, XL	4	1	1	2
+YZ-BS-5505LbM	X000NN1UZ1	B06XYZMZ9V	Summer Mae Women's Tankini Striped Vintage Swim Dress (Light Blue Medium)	1	0	0	1
+YZ-BS-BSLLK0L	X000PHZRJF	B06XFWP8FJ	Women's One Piece Push Up Swimming Costume Dress Beachwear Plus Size Halterneck Swimwear	1	1	0	0
+YZ-BS-BSLLIT2XL	X000N68Y9D	B01G8H8T42	Women's One Piece Push Up Swimming Costume Dress Beachwear Plus Size Halterneck Swimwear	4	0	0	4
+YZ-BS-BShyl5119K0L	X000NJNHRJ	B01EJ5VPSW	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Black, L	15	2	10	3
+YZ-BS-5505LbL	X000NOYDHH	B01G3JENB8	Summer Mae Women's Tankini Striped Vintage Swim Dress (Light Blue Large)	4	0	4	0
+YZ-BS-BKN1703-R0-S	X000O32DYR	B06XCMWGD1	Summer Mae Women's Luxurious Pretty Double Straps Elegant Two Piece Bikini Set	2	2	0	0
+YZ-BS-BShyl5119-YH-XL	X000NIYZ03	B01MR2UZI6	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Black Flower, M	1	0	0	1
+YZ-BS-BShyl5119-YT-4XL	X000NJK7FT	B01HFYMV14	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Black Cherry, 2XL	2	0	0	2
+YZ-BS-BShyl5119K02XL	X000NJL69F	B01EJ5VT60	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Black, 2XL	14	1	10	3
+YZ-BS-BShyl5119K0M	X000NH73CL	B01EJ5VO38	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Black, M	17	2	14	1
+YZ-BS-BS5119ZLXL2XL	X000NJL69Z	B01FXAQPZK	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Blue, L	1	0	0	1
+YZ-BS-BSLLITXL	X000NP1M4N	B01G8H8Z4Q	Summer Mae Women's One Piece Push Up Swimming Costume Dress Beachwear Plus Size Halterneck Swimwear	1	1	0	0
+YZ-BS-BShyl5119-YH-5XL	X000NLAB1H	B01N1Z5YOP	Summer Mae Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit, Black Flower, 3XL	19	0	15	4
+YZ-BS-JG2631R01L	X000NMX28P	B01IOEHTKC	Summer Mae Women's One Piece Striped Slim Swim Dress Bathing Swimwear	1	0	0	1
+YZ-BS-HE9007Sa1L	X000NJJWFP	B015QZNXXO	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear Sapphire Blue XS	1	0	1	0
+YZ-BS-JG2631ZL2L	X000NL6PLR	B0196ETN8U	Summer Mae Women's One Piece Striped Slim Swim Dress Bathing Swimwear	1	0	0	1
+YZ-BS-PW2037-B0-L	X000NNCYUL	B06VV1VJCS	Summer Mae Women's Triangle Halter Bikini Set Push up Padded Bikini Floral Printing Crochet Swimwear	1	0	0	1
+YZ-BS-PW2037-R0-XL	X000MZQY7T	B06WRQRZ45	Summer Mae Women's Triangle Halter Bikini Set Push up Padded Bikini Floral Printing Crochet Swimwear	1	1	0	0
+YZ-BS-HE9008Se5L	X000NJN3ZP	B015QZRXB2	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear Black and Blue XL	2	1	0	1
+YZ-BS-HE9008Se9L	X000NHKVQV	B01MQJP2YK	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear,Navy(two piece),5X(UK size: 24-26)	6	0	4	2
+YZ-BS-PW2037-K0-L	X000NOX80Z	B06WV9TKRV	Summer Mae Women's Triangle Halter Bikini Set Push up Padded Bikini Floral Printing Crochet swimwear	1	0	0	1
+YZ-BS-HE9007Se7L	X000NJMKZ9	B01N64GO5L	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear,Navy(one piece),3X(UK size: 20)	2	1	0	1
+YZ-BS-HE9008Sa9L	X000NJL50F	B01MRL2GKJ	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear,Sapphire Blue(two piece),5X(UK size: 24-26)	2	2	0	0
+YZ-BS-HE9007Sa7L	X000NHKVTX	B01N2HHCOA	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear, XXXXXXX-Large	1	1	0	0
+YZ-BS-HE13037Wi2L	X000NHHNMV	B01AXSD3V6	Summer Mae Women's Shaping Body Swimsuit One-Piece Swimwear Spa Suit Size Tag 2XL/UK Size M,Wine Red	1	0	0	1
+YZ-BS-HE9007Se5L	X000NJL51T	B015QZRRWW	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear Sea Blue XL	2	1	1	0
+YZ-BS-PW2037-R0-L	X000NOUWXL	B06WD32GDD	Summer Mae Women's Triangle Halter Bikini Set Push up Padded Bikini Floral Printing Crochet Swimwear	1	0	0	1
+YZ-BS-HE9008Sa8L	X000NHHC6D	B01N94EU0L	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear,Sapphire Blue(two piece),4X(UK size: 22)	1	0	0	1
+YZ-BS-JG2631HSM	X000NKOPRT	B01IOEHQOQ	Summer Mae Women's One Piece Striped Slim Swim Dress Bathing Swimwear	1	1	0	0
+YZ-BS-PW2037-B0-M	X000NOUWY5	B06VV8NP4W	Summer Mae Women's Triangle Halter Bikini Set Push up Padded Bikini Floral Printing Crochet swimwear	4	2	2	0
+YZ-BS-JG2631ZL3L	X000NH73DF	B01B184VYA	Summer Mae Women's One Piece Striped Slim Swim Dress Bathing Swimwear	1	0	0	1
+YZ-BS-JG2631R0S	X000NJNHNX	B01IOEHKXS	Summer Mae Women's One Piece Striped Slim Swim Dress Bathing Swimwear	1	1	0	0
+YZ-BS-PW2037-R0-M	X000NRY8MT	B06VV1VK3S	Summer Mae Women's Triangle Halter Bikini Set Push up Padded Bikini Floral Printing Crochet Swimwear	2	0	0	2
+YZ-BS-PW2037-R0-S	X000NO5957	B06W9HKFR6	Summer Mae Women's Triangle Halter Bikini Set Push up Padded Bikini Floral Printing Crochet Swimwear	1	0	0	1
+YZ-BS-PW2037-K0-M	X000NOV64P	B06WGP1G7C	Summer Mae Women's Triangle Halter Bikini Set Push up Padded Bikini Floral Printing Crochet Swimwear	3	1	1	1
+YZ-BS-PW2037-K0-XL	X000NQM1OR	B06X1881B7	Summer Mae Women's Triangle Halter Bikini Set Push up Padded Bikini Floral Printing Crochet Swimwear	3	1	0	2
+YZ-BS-PW2037-G0-L	X000NQM1P1	B06W55JQZM	Summer Mae Women's Triangle Halter Bikini Set Push up Padded Bikini Floral Printing Crochet Swimwear	2	1	0	1
+YZ-BS-HE9008Sa4L	X000NJKHXV	B015QZRTVG	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear Navy L	2	0	0	2
+YZ-BS-HE9007Se6L	X000NHKVUH	B01MQJP47N	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear,Navy(one piece),2X(UK size: 18)	6	2	1	3
+YZ-BS-JG2631R0L	X000NLI5PL	B01IOEHRBS	Summer Mae Women's One Piece Striped Slim Swim Dress Bathing Swimwear	1	0	0	1
+YZ-BS-HE9008Sa5L	X000NJJWIH	B015QZRUJM	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear Navy XL	1	0	0	1
+YZ-BS-HE9008Sa1L	X000NJMKYP	B015QZRSF8	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear Navy XS	1	0	0	1
+YZ-BS-HE9007Sa5L	X000NJJWIR	B015QZRPHO	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear Sapphire Blue XL	2	0	0	2
+YZ-BS-HE9007Se8L	X000NJMKYF	B01N1FYKHR	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear,Navy(one piece),4X(UK size: 22)	1	1	0	0
+YZ-BS-ZQ15827W05XL	X000NTJR87	B01MTQA65K	Summer Mae Women's Plus Size Ruffled Tankini Top & Printed-Hem Ruffled Swim Skirt 4X	2	1	0	1
+YZ-BS-PW2049-B0-XL	X000NU5RRL	B06X95XX5W	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy	3	3	0	0
+YZ-BS-ZQ15827R2S	X000OUEBEF	B01MXNZVAG	Summer Mae Women's Plus Size Ruffled Swimsuit Printed-Hem Ruffled Swim Skirt XS	2	1	1	0
+YZ-BS-PW2049-K0-XL	X000OBC7RH	B06X96N7VD	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy	1	1	0	0
+YZ-BS1702-GO-M	X000O32FV3	B06XCPNNCK	Summer Mae Women's Green One Piece Shaping-Body Swimsuit With White Edges.	1	0	0	1
+YZ-BS-TJ1245W01L	X000NOYDBN	B01DLSNC8O	Summer Mae Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear	1	1	0	0
+YZ-BS-ZQ15827R23XL	X000O1IX57	B01N1I2FQM	Summer Mae Women's Plus Size Ruffled Tankini Top & Printed-Hem Ruffled Swim Skirt 2XL Black	1	0	0	1
+YZ-BS-PW2049-W0-XL	X000OMMMQR	B06WD8P4TY	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy	1	1	0	0
+YZ-BS1702-GO-L	X000O32FY5	B06XCKLXT3	Summer Mae Women's Green One Piece Shaping-Body Swimsuit With White Edges.	2	0	0	2
+YZ-BS-PW2049-P0-S	X000OJVMB1	B06X41M4X4	Summer Mae Women's Off-Shoulder Bikini-Set With Valance Retro und Trendy	4	3	0	1
+YZ-BS-PW2049-W0-L	X000OMMFKZ	B06X96WTVC	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy	2	1	1	0
+YZ-BS-ZQ15827W0L	X000NJG3WP	B01N97D1BW	Summer Mae Women's Plus Size Ruffled Tankini Top & Printed-Hem Ruffled Swim Skirt M	1	0	0	1
+YZ-BS-TJ1245G0M	X000O3XHBP	B01DLSNCJI	Summer Mae Women's Two Pieces Diamond Slim Tankini Suit Bathing Swimwear	2	1	1	0
+YZ-BS-TJ1245W03L	X000NZT6WN	B01J71HSAC	Summer Mae Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear	1	0	0	1
+YZ-BS-PW2049-GR-S	X000NVBN4B	B06X95KC6P	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy	1	1	0	0
+YZ-BS-PW2049-P0-M	X000OL135T	B06WGVNHSB	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy	2	1	0	1
+YZ-BS-TJ1245G0L	X000O5XYHF	B01DLSNDZG	Summer Mae Women's Two Pieces Diamond Slim Tankini Suit Bathing Swimwear	1	0	0	1
+YZ-BS-TJ1245002L	X000N6C8PJ	B01J71HTJM	Summer Mae Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear	3	0	0	3
+YZ-BS1702-GO-XL	X000O2GS0N	B06XCS2MZG	Summer Mae Women's Green One Piece Shaping-Body Swimsuit With White Edges.	2	1	1	0
+YZ-BS-PW2049-GR-L	X000NTRZDV	B06WD8P29D	Summer Mae Women's Off-Shoulder Bikini-Set With Valance Retro und Trendy	2	2	0	0
+YZ-BS-ZQ15827W0S	X000NJQ3TX	B01MTQA4QN	Summer Mae Women's Plus Size Ruffled Swimsuit Printed-Hem Ruffled Swim Skirt XS	1	0	1	0
+YZ-BS-PW2049-K0-L	X000OC4ZTT	B06WVHHS2T	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy	4	1	0	3
+YZ-BS-ZQ15827R2XL	X000NJQ3TN	B01MTQA2ZW	Summer Mae Women's Plus Size Ruffled Tankini Top & Printed-Hem Ruffled Swim Skirt L Black	2	1	0	1
+YZ-BS-PW2049-GR-M	X000NU5RM1	B06X95ZMP9	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy	4	2	0	2
+YZ-BS1702-GO-S	X000O32DZ1	B06XCXCX8N	Summer Mae Women's Green One Piece Shaping-Body Swimsuit With White Edges.	2	0	0	2
+YZ-BS-PW2049-K0-M	X000O8LQ5T	B06X962STT	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy	2	1	0	1
+YZ-BS-TJ124500L	X000O3TGZ1	B01DLSN9BY	Summer Mae Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear	2	1	1	0
+YZ-BS-ZQ15827W03XL	X000NSGGB9	B01MYPHZU8	Summer Mae Women's Plus Size Ruffled Tankini Top & Printed-Hem Ruffled Swim Skirt 2X	1	0	0	1
+YZ-BS-TJ1245W02L	X000NOYDHR	B01J71HR3U	Summer Mae Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear	1	1	0	0
+YZ-BS-ZQ15827B04XL	X000NOYDI1	B01N0GLEXO	Summer Mae Women's Plus Size Ruffled Tankini Top & Printed-Hem Ruffled Swim Skirt 3X	1	0	0	1
+YZ-BS-PW2049-K0-S	X000O8A691	B06X95DMXZ	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy	5	1	2	2
+YZ-BS-PW2049-P0-L	X000OHPYRB	B06X41M8ZH	Summer Mae Women's Off-Shoulder Bikini-Set With Valance Retro und Trendy	1	1	0	0
+YZ-CSM022-B0-M	X000Q8WRPP	B073XKLLCJ	Summer Mae Women Swimwear Deep V-Neck Backless Halter Solid Color Monokini	1	0	0	1
+YZ-CSM022-B0-L	X000Q8GSQJ	B073XKFSWD	Summer Mae Women Swimwear Deep V-Neck Backless Halter Solid Color Monokini	2	1	0	1
+YZ-MU5506-K0-XXL	B07CKT2VVS	B07CKT2VVS	Summer Mae Striped Racerback Tankini with Swim Briefs Two Piece Swimsuit for Women Black XXL	1	0	0	1

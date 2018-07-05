@@ -1,0 +1,425 @@
+sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
+DK-HM1789-GZ-XL	X001E2A2TX	B06XDMX9N9	MiYang Women's Beach Pant Bikini Bottom Adjustable Tie Boy Short L (Waist 30.5"-33.5")	1	0	0	1
+DK-HM1789-Dot-2XL	X001R7CBF3	B07CG7WD4G	MiYang Women's Polka Dot Pant Bikini Bottom Adjustable Tie Boy Short XXL (Waist 35.5"-38.5")	2	0	2	0
+DK-HM1789-B2-L	X001B14T87	B01N975EFB	MiYang Women's Solid Blue Beach Pant Bikini Bottom Adjustable Tie Boy Short L (Waist 30.5"-33.5")	1	0	0	1
+DK-HM1789-K0-2XL	X001B13GYF	B01N976ZVO	MiYang Women's Solid Black Beach Pant Bikini Bottom Adjustable Tie Boy Short XXL (Waist 35.5"-38.5")	1	0	1	0
+DK-HM1789-PI-M	X001B0QEH7	B01NB9JLMX	MiYang Women's Pink Beach Pant Bikini Bottom Adjustable Tie Boy Short M (Waist 28.5"-30.5")	2	0	0	2
+DK-HM1789-B2-S	X001B3N4R7	B01NBA0N1E	MiYang Women's Solid Blue Beach Pant Bikini Bottom Adjustable Tie Boy Short S (Waist 26"-28.5")	2	1	0	1
+DK-HM1789-K0-M	X0017AT7ST	B01LAVAPF2	MiYang Women's Solid Black Beach Pant Bikini Bottom Adjustable Tie Boy Short M (Waist 28.5"-30.5")	2	1	1	0
+DK-HM1789-R2-L	X001B2Q95H	B01N54YUBD	MiYang Women's Red Beach Pant Bikini Bottom Adjustable Tie Boy Short, Watermelon Red, Tag Size L=US M(Waist 28.5"-31")	2	1	1	0
+DK-HM1789-K0-XL	X0017CCASL	B01LAVATJY	MiYang Women's Solid Black Beach Pant Bikini Bottom Adjustable Tie Boy Short XL (Waist 33.5"-35.5")	1	0	0	1
+DK-HM1789-Dot-L	X001R737JR	B07CHZWGMH	MiYang Women's Polka Dot Pant Bikini Bottom Adjustable Tie Boy Short L (Waist 30.5"-33.5")	5	5	0	0
+DK-HM1789-B2-M	X001B0WJ2B	B01N77TW9W	MiYang Women's Solid Blue Beach Pant Bikini Bottom Adjustable Tie Boy Short M (Waist 28.5"-30.5")	1	0	0	1
+DK-HM1789-K0-S	X0017CEXU9	B01LAVAN5Y	MiYang Women's Solid Black Beach Pant Bikini Bottom Adjustable Tie Boy Short S (Waist 26"-28.5")	16	1	14	1
+DK-HM1789-ZL-2XL	X001ARA1V1	B01MXNU1U1	MiYang Women's Navy Blue Beach Pant Bikini Bottom Adjustable Tie Boy Short XXL (Waist 35.5"-38.5")	2	0	1	1
+DK-HM1789-ZL-XL	X001AOUTAR	B01NBA4LEW	MiYang Women's Navy Blue Beach Pant Bikini Bottom Adjustable Tie Boy Short XL (Waist 33.5"-35.5")	2	0	2	0
+DK-HM1789-R2-XL	X001B6B0UR	B01N1HWICE	MiYang Women's Red Beach Pant Bikini Bottom Adjustable Tie Boy Short XL (Waist 33.5"-35.5")	5	0	5	0
+DK-HM1789-W0-XL	X001B6B0V1	B01NBA4LF3	MiYang Women's White Beach Pant Bikini Bottom Adjustable Tie Boy Short XL (Waist 33.5"-35.5")	1	0	0	1
+DK-HM1789-W0-M	X001B33373	B01NBA32V6	MiYang Women's White Beach Pant Bikini Bottom Adjustable Tie Boy Short M (Waist 28.5"-30.5")	1	1	0	0
+DK-MUCL315-RF-2XL	X001Q3JOF3	B07BGR9T1H	High-Waisted Strappy Side Floral Bikini Bottoms Swimwear Brief for Women Red US 14	1	0	0	1
+DK-HM1789-ZL-M	X001ATSM5B	B01NB9NV4H	MiYang Women's Navy Blue Beach Pant Bikini Bottom Adjustable Tie Boy Short M (Waist 28.5"-30.5")	3	1	0	2
+DK-HM1789-W0-L	X001B0LMAB	B01NBA1SET	MiYang Women's White Beach Pant Bikini Bottom Adjustable Tie Boy Short L (Waist 30.5"-33.5")	1	0	0	1
+DK-HM1789-ZL-S	X001AR6EGR	B01MQLNU9Y	MiYang Women's Navy Blue Beach Pant Bikini Bottom Adjustable Tie Boy Short S (Waist 26"-28.5")	2	2	0	0
+LYQ--MY-MX02-P0-XL	X001L5OECJ	B0761RBFJS	MiYang Bell Sleeve Shirt Dress Women Loose Flare Swing Blouse Casual Dress Purple XL	1	1	0	0
+LYQ-1010P0L	X000X3IVR9	B017X47VLQ	MiYang Women's Purple Long Sleeve A-line Lace Stitching Trim Casual Dress M	1	1	0	0
+LYQ-1010W0L	X0016QUTP9	B01KO0SBKQ	MiYang Women's Long Sleeve A-line Lace Stitching Trim Casual Dress M White	1	1	0	0
+LYQ-1010K0L	X0016QGCGJ	B01KO0SBH4	MiYang Women's Long Sleeve A-line Lace Stitching Trim Casual Dress M Black	2	1	1	0
+LYQ-1010P03L	X0017MVZA5	B01LAURFZ6	MiYang Women's Purple Long Sleeve A-line Lace Stitching Trim Casual Dress 2XL	2	1	1	0
+LYQ-K1010-G7-XS	X001APEYXJ	B01MS11C7L	MiYang Women's Long Sleeve A-line Lace Stitching Trim Casual Dress XS Army Green	2	1	1	0
+LYQ2015P0	X000ZCD39T	B01BY03IU8	MiYang Women's V-Neck Hot Drilling Wrinkle Long Beach Dress	1	0	0	1
+SJ-HM205-B0	X001E6SS8L	B06ZXST69F	Summer Womens Beach Wear Cover up Swimwear Beachwear Bikini	1	0	1	0
+SJ-MU002-Pi	X001PM8F55	B07B479ZYX	MiYang Women's Pom Pom Trim Kaftan Chiffon Swimwear Beach Cover Up US Size 0-10	1	0	0	1
+SJ-ZZN204G03L	X000XADATB	B019O6JLG4	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up Green XL (US Size 10-12)	1	1	0	0
+SJ-ZZN204G04L	X0017NNZ39	B01LY8R00U	MiYang Women 's Floral Lace Beach Bikini Swimwear Cover-up XX-Large(US Size 14-16) Green	3	0	0	3
+SJ-ZZN204G02L	X000TVTWTV	B0136OUBO6	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up, Green, Large(US Size 10-12)	3	0	2	1
+SJ-ZZN204B0-2XL	X001F6BA53	B071Z99JF8	MiYang Women's Floral Lace Beach Bikini Cover-up XXL	2	1	0	1
+SJ-ZZN204G0	X000TVTWVJ	B010SPP3UI	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up, Green, X-Small(US Size 0-4)	1	0	0	1
+SJ-ZZN204ZL-XL	X001B4Y7NV	B01N9K3ZDT	MiYang Women's Floral Lace Beach Bikini Cover-up ZL XL	2	1	1	0
+SJ-ZZN204ZL-M	X001B4E38P	B01MZ29NSU	MiYang Women's Floral Lace Beach Bikini Cover-up ZL M Navy Blue	5	1	4	0
+SJ-ZZN204W03L	X000XADATV	B019O6JIL2	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up White XL (US Size 10-12)	8	3	2	3
+SJ-ZZN204R03L	X000XADATL	B019O6JK2O	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up Red XL(US Size 10-12)	1	1	0	0
+SJ-ZZN204R0XL	X000TVTWSR	B0136OUJ2K	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up, Red, Medium(US Size 8-10)	1	1	0	0
+SJ-ZZN204W0L	X000TVTWSH	B0136OUC9K	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up, White, Small(US Size 4-8)	3	1	0	2
+SJ-ZZN204W02L	X000TVTWT1	B0136OUFHO	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up, White, Large(US Size 10-12)	7	5	2	0
+SJ-ZZN204K02L	X000TNF6RV	B0136OUG1E	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up, Black, Large(US Size 10-12)	53	2	47	4
+SJ-ZZN204W0XL	X000TVTWUZ	B0136OUDR6	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up, White, Medium(US Size 8-10)	5	0	1	4
+SJ-ZZN204K0	X000TEKHGF	B010SPPG3W	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up Black XS(US Size 0-2)	2	0	1	1
+SJ-ZZN204K0L	X000TNF6RL	B0136OUD6C	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up, Black, Small(US Size 4-8)	31	5	21	5
+SJ-ZZN204R04L	X0017OZUYZ	B01LZ7UEO4	MiYang Women 's Floral Lace Beach Bikini Swimwear Cover-up XX-Large(US Size 14-16) Red	2	2	0	0
+SJ-ZZN204K0XL	X000TNF6RB	B0136OUEKW	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up, Black, Medium(US Size 8-10)	10	3	2	5
+SJ-ZZN204LB2XL	X001QY96CX	B07C2SP45L	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up Light Blue 2XL (US 14-16)	3	1	1	1
+SJ-ZZN204ZL-L	X001B60WTR	B01N4GHBB1	MiYang Women's Floral Lace Beach Bikini Cover-up ZL L	1	0	0	1
+SJ-ZZN204R0L	X000TVTWTB	B0136OUHKY	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up, Red, Small(US Size 4-8)	5	0	5	0
+SJ-ZZN204ZL-2XL	X001BANANX	B01NBN4NKM	MiYang Women's Floral Lace Beach Bikini Cover-up ZL XXL Navy Blue	1	0	0	1
+SJ-ZZN204W04L	X0017NLOUZ	B01LZ7UJGB	MiYang Women 's Floral Lace Beach Bikini Swimwear Cover-up XX-Large(US Size 14-16) White	2	1	1	0
+SJ-ZZN204W0	X000TLXPPX	B010SPNUJ4	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up, White, X-Small(US Size 0-4)	1	0	1	0
+SJ-ZZN204LP2XL	X001QYLYJL	B07C326YBD	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up Light Purple 2XL (US 14-16)	1	1	0	0
+SJ-ZZN204LPL	X001QXYMRD	B07C2TG6DM	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up Light Purple L (US 8-10)	1	1	0	0
+STJ-1235W0	X00133KZHR	B01D6AY8K8	MiYang Women's Oversized Cover up Baggy T-Shirt Swimsuit Beach Dress	10	7	2	1
+SJ-ZZN204LBM	X001QXJV79	B07C2VPQ86	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up Light Blue M (US 6-8)	1	0	0	1
+SJ-ZZN204K04L	X0014Z55XX	B01HGFEEFI	MiYang Women 's Floral Lace Beach Bikini Swimwear Cover-up XX-Large(US Size 14-16) Black	2	0	0	2
+SJ-ZZN204G0XL	X000TVTWW3	B0136OUA60	MiYang Women's Floral Lace Beach Bikini Swimwear Cover-up, Green, Medium(US Size 8-10)	2	0	2	0
+TK-J02H-SH-18/20	X001GBQKWF	B072MQJHX1	Teenking Boy's Fleece Outdoor Jacket with Hood Big Boy(Size 18/20)	2	1	1	0
+TK-Ad413-SH-XL	X001I21PEP	B0749H6PDP	Teenking Men's Fleece Outdoor Jacket with Hood X-Large	1	0	0	1
+TK-J01H-K0-14/16	X001GBQL5L	B0721B4SYJ	Teenking Boy's Fleece Outdoor Jacket Big Boy(Size 14/16)	2	1	0	1
+TK-J02H-K0-14/16	X001GBQL5B	B072K52H91	Teenking Boy's Fleece Outdoor Jacket with Hood Big Boy(Size 14/16)	1	0	0	1
+XZ-2115Pi39	X000XCK9X9	B019670R3M	MiYang Winter Women's Sheep Warm Plush Soft Sole Indoor Slipper 7-8.5 B(M) US	2	0	0	2
+XZ-013GR1M	X0013MHK4J	B0191JT966	MiYang Winter Women's Warm Plush Soft Sole Indoor Slipper	1	1	0	0
+XZ-2116R038	X0018J11CT	B01MF4JH5A	MiYang Winter Women's Sheep Warm Plush Soft Sole Indoor Slipper red 5-6 B(M) US	1	0	0	1
+XZ-013GR3XL	X0013MHK53	B0191JSLEC	MiYang Women's Warm Plush Soft Sole Indoor Slipper Grey(High Top) 9-10.5 B(M) US	2	0	0	2
+XZ-013-shark-3637	X001NTXCHB	B078M9KQ13	MiYang Cozy Fleece Memory Foam House Shark Slippers For Women (5-6.5 B(M) US, Wicky Shark)	1	0	0	1
+XZ-2116BR42	X0018HMBS9	B01M2Y8C12	MiYang Winter Women's Sheep Warm Plush Soft Sole Indoor Slipper Brown 7-8 B(M) US	2	1	1	0
+XZ-013GR2L	X0013VVAN7	B0191JT2KO	MiYang Women's Warm Plush Soft Sole Indoor Slipper (US Size:7-8.5,Grey(low-top)	1	0	0	1
+XZ-013GR3L	X0013VVANH	B0191JSKL6	MiYang Women's Warm Plush Soft Sole Indoor Slipper Grey(High Top) 7-8.5 B(M) US	2	1	0	1
+XZ-013GR2M	X0013HIZKH	B0191JT1QE	MiYang Women's Warm Plush Soft Sole Indoor Slipper (US Size:5-6.5,Grey(low Top)	1	0	0	1
+XZ-2116R040	X0018H7QQV	B01M5925MU	MiYang Winter Women's Sheep Warm Plush Soft Sole Indoor Slipper red 7-8 B(M) US	5	1	1	3
+XZ-013WH1M	X0017BUXXV	B0191JSH0U	MiYang Winter Women's Warm Plush Soft Sole Indoor Slipper White 5-6.5 B(M) US	1	0	0	1
+XZ-HM0299-GR-3637	X001993365	B01MFGBHU6	MiYang Winter Polar Bear Slippers For Women House Winter Indoor Shoes	1	1	0	0
+XZ-HM0299-SH-4445	X0019JE5L7	B01MFG6S9D	MiYang Winter Polar Bear Slippers For Women House Winter Indoor Shoes	1	1	0	0
+XZ-HM8130-PI-3637	X001BFSVY1	B01MY5IGIH	MiYang Winter Women's Cute Sheep Warm Plush Soft Sole Indoor Open Back Slipper	1	0	1	0
+XZ-HM8130-G0-3637	X001BK2N7R	B01N316EKM	MiYang Winter Women's Cute Sheep Warm Plush Soft Sole Indoor Open Back Slipper	1	0	1	0
+XZ-HMXX018-Y0-3637	X0019VZ6L3	B01MA1MR40	MiYang Winter Women's Plush Winter Warm Animal Soft Cute Home Slippers Dog 5-6 B(M) US	1	1	0	0
+XZ-HMXX018-Y0-3940	X0019WY7WB	B01MCRF7GA	MiYang Winter Women's Plush Winter Warm Animal Soft Cute Home Slippers Dog 9-10 B(M) US	2	1	0	1
+XZ-ZQ6001-R1-20	X001AM36DB	B01NAG5IA7	MiYang Kids Cute Dog Winter Warm House Slippers Booties	1	1	0	0
+XZ-ZQCB2056-B0-23	X0019QCYQD	B01M4Q9SV9	MiYang Winter Little Kid Cute Cat Warm House Slippers Booties Blue 12 B(M) US Little Kid	1	1	0	0
+XZ-ZQCB2056-R1-1415	X0019RM6ZV	B01M7WQJ6F	MiYang Winter Women/Toddlers Cute Cat Warm House Slippers Booties	1	1	0	0
+XZ-ZQCB3056-B0-28	X0019RT7PN	B01MG7F0CC	MiYang Winter Women Cute Cat Warm House Slippers Booties Blue 10-11 B(M) US Adult	1	0	0	1
+XZ-ZQJZ120-PE-260	X001KC6H2D	B074TB7QRV	MiYang Winter Women's Cute Footprints Warm Indoor Slippers House Shoes	2	1	1	0
+YZ-BD1704-K0-S	X001DJ3KKF	B06XTKJWRL	MiYang Vintage Polka Dot Swimdress Crossover Black Slimming One Piece Swimsuit	3	0	1	2
+YZ-BS5119ZL2XL	X001467XWN	B01FXAQPZK	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Tag 2XL(US L) Navy Blue	3	3	0	0
+XZ-ZQJZ120-PR-270	X001KC6HJV	B074TDFMDN	MiYang Winter Women's Cute Footprints Warm Indoor Slippers House Shoes	1	1	0	0
+YZ-BS5119ZL3XL	X00145XF4T	B01FXAQRNK	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swimdresses Tag 3XL(US XL) Navy Blue	4	1	0	3
+YZ-BD1704-K0-XL	X001DGWKRH	B06XTPVS3K	MiYang Vintage Polka Dot Swimdress Crossover Black Slimming One Piece Swimsuit	1	0	1	0
+YZ-BD1704-K0-2XL	X001DK0YXP	B06XTPTXB5	MiYang Vintage Polka Dot Swimdress Crossover Black Slimming One Piece Swimsuit	2	1	0	1
+YZ-BS5119ZL5XL	X00147UDPB	B01FXAQVH2	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Tag 5XL(US 3XL) Navy Blue	2	1	0	1
+YZ-BShyl5119-YT-5XL	X0014V966T	B01HFYMWA4	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit Black Cherry (US 3XL)	14	3	5	6
+YZ-BShyl5119K0XL	X0012THDCH	B01EJ5VRJE	MiYang Women's Plus-Size Shaping One Piece Swim Dresses Swimsuit Tag 3XL(US XL) Black	5	1	3	1
+YZ-BSLLHT2XL	X0013XL7Q5	B01F3E3AUY	MiYang Vintage Sailor Pin Up Swimsuit One Piece Skirtini Cover Up Swimdress,NavyBlue,Large(US size: 12-14),ASIAN 2XL	12	4	0	8
+YZ-BSLLITM	X0014DIZ69	B01G8H8VAO	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Black Striped S (US 4-6)	2	0	0	2
+YZ-BSLLIT4XL	X0014DGHYB	B01G8H8WZI	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Black Stripe 2XL (US 14W-16W)	1	0	0	1
+YZ-BS5119ZLXL	X00145XFIF	B01FXAQNIO	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Tag XL(US M) Navy Blue	2	1	1	0
+YZ-BShyl5119K0L	X0012Z10ZH	B01EJ5VPSW	MiYang Women's Plus-Size Shaping One Piece Swim Dresses Swimsuit Tag 2XL(US L) Black	4	2	1	1
+YZ-BSLLIT2XL	X0014DHFZB	B01G8H8T42	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Black Striped Large (US 12-14)	11	3	3	5
+YZ-BShyl5119K0M	X00136WIHJ	B01EJ5VO38	MiYang Women's Plus-Size Shaping One Piece Swim Dresses Swimsuit Tag XL(US M) Black	3	0	3	0
+YZ-BSLLITL	X0014DGHY1	B01G8H8WRG	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Black Stripe M (US 8)	1	0	0	1
+YZ-BShyl5119K02XL	X00130B1V9	B01EJ5VT60	MiYang Women's Plus-Size Shaping One Piece Swim Dresses Swimsuit Tag 4XL(US 2XL) Black	8	3	2	3
+YZ-BSLLHTM	X0013KJB4D	B01F3E3GAI	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Navy Blue S (US 4-6)	2	1	0	1
+YZ-BSLLK0L	X001CGB1KZ	B06W5K562C	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Black M (US 8)	1	0	0	1
+YZ-BSLLHT3XL	X0013L1VRH	B01F3E3PYK	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Navy Blue XL (US 16-18)	6	2	0	4
+YZ-BShyl5119K04XL	X001OSCK6P	B079DQJPCL	MiYang Women's Plus-Size Shaping One Piece Swim Dresses Swimsuit Black 4XL	3	1	0	2
+YZ-BSLLHT4XL	X0013KJB4N	B01F3E3RI4	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Navy Blue 2XL (US 14W-16W)	4	2	0	2
+YZ-BSLLHTL	X0013USJEB	B01F3E3MCK	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Navy Blue M (US 8)	2	0	0	2
+YZ-BSLLK03XL	X001CGEGIT	B06X96LMLS	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Black XL (US 16-18)	1	1	0	0
+YZ-BShyl5119-YH-5XL	X001B4EPWJ	B01N1Z5YOP	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit XXX-Large(US Size:22W-24W)	16	5	4	7
+YZ-BS5119ZL4XL	X00147UAMR	B01FXAQTLK	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Tag 4XL(US 2XL) Navy Blue	7	3	2	2
+YZ-BShyl5119-YT-3XL	X0015297P7	B01HFYMTRK	MiYang Women's Plus-Size Black Cherry Shaping Body One Piece Swim Dresses Swimsuit YT Tag 3XL(US XL)	7	2	2	3
+YZ-BSLLIT3XL	X0013SKYW3	B01G8H8UUU	MiYang Vintage Sailor Pin Up Swimsuit One Piece Skirtini Cover Up Swimdress, BlackStriped, Tag Size 3XL=US Size XL	1	1	0	0
+YZ-BSA160301K03XL	X0013PT4CR	B01EN7V8SS	MiYang Retro Vintage Striped One Piece Monokini Chevron Lines Swimsuit 3XL BlackWhite	3	1	0	2
+YZ-BSLLK0M	X001CG46IT	B06W9P6JZT	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Black S (US 4-6)	1	0	0	1
+YZ-BShyl5119-YH-2XL	X001B61S95	B01N30QQDJ	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit Large(US Size:12-14)	5	1	1	3
+YZ-BShyl5119-YH-4XL	X001B6C18R	B01NCSVUOC	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit XX-Large(US Size:18W-20W)	22	5	8	9
+YZ-BShyl5119-YT-2XL	X001528DEN	B01HFYMXUI	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit Black Cherry (US Large)	6	3	2	1
+YZ-BShyl5119-YH-3XL	X001B61MO1	B01NAQ17N0	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit X-Large(US Size:16-18)	24	10	6	8
+YZ-BShyl5119-YH-XL	X001B4ZAEV	B01MR2UZI6	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit Medium(US Size:8-10)	2	0	0	2
+YZ-BShyl5119-YT-XL	X001528QWR	B01HFYMW04	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Swimsuit Black Cherry (US Medium)	1	0	0	1
+YZ-BShyl5119-YT-4XL	X001528DED	B01HFYMV14	MiYang Women's Plus-Size Black cherry Printing Shaping Body One Piece Swim Dresses Swimsuit YT Tag 4XL(US 2XL)	81	6	64	11
+YZ-BShyl5119K03XL	X00136WIND	B01EJ5VUNW	MiYang Women's Plus-Size Shaping One Piece Swim Dresses Swimsuit Tag 5XL(US 3XL) Black	7	4	3	0
+YZ-HE13037Wi4L	X000YV0BEV	B01AXSD83E	MiYang Women's Shaping Body Swimsuit One-Piece Swimwear Spa Suit Size tag 4XL/US size XL,Wine Red	3	1	0	2
+YZ-HE13037Wi1L	X000YV0BEL	B01AXSD2IK	MiYang Women's Plus Size Printing Padded High Waist Swimdress Wine Red XS (US 0-2)	8	4	2	2
+YZ-HE13037Or7L	X0019NIF87	B01N41KCAA	MiYang Women's Plus Size Printing Padded High Waist Swimdress Orange 2X (US 20W-22W)	1	0	0	1
+YZ-HE13037EZ9L	X0019QEI5N	B01MXLWZ7S	MiYang Women's Plus Size Printing Padded High Waist Swimdress Blue and Green 4X (US 26W-28W)	3	1	0	2
+YZ-HE13037EZ5L	X000YV0BFF	B01AXSDGJ0	MiYang Women's Shaping Body Swimsuit One-Piece Swimwear Spa Suit Size Tag 5XL/US Size XL	7	2	1	4
+YZ-HE13037Pu7L	X0019AB8HP	B01MQJOXH7	MiYang Women's Plus Size Printing Padded High Waist Swimdress Purple 2X (US 20W-22W)	11	3	3	5
+YZ-HE13037Or5L	X000YV0BE1	B01AXSD8PC	MiYang Women's Shaping Body Swimsuit One-Piece Swimwear Spa Suit Size Orange XL (US 16-18)	2	0	0	2
+YZ-HE13037Or3L	X000YV0BDH	B01AXSD5KU	MiYang Women's Shaping Body Swimsuit One-Piece Swimwear Spa Suit Size tag 3XL/US size L,Orange	1	0	0	1
+YZ-HE13037Pu8L	X0019NIXTX	B01N64GFM9	MiYang Women's Plus Size Printing Padded High Waist Swimdress Purple 3X (US 24W-26W)	5	1	2	2
+YZ-HE13037Or6L	X0019QAHGH	B01MTO5MA8	MiYang Women's Plus Size Printing Padded High Waist Swimdress Orange 1X (US 16W-18W)	4	1	1	2
+YZ-HE13037Wi9L	X0019NIF8H	B01MSMP0CD	MiYang Women's Plus Size Printing Padded High Waist Swimdress, Wine Red, 4X	2	0	0	2
+YZ-HE13037Wi6L	X0019AA87L	B01MRL29E0	MiYang Women's Plus Size Printing Padded High Waist Swimdress Wine Red 1X (US 16W-18W)	3	1	0	2
+YZ-HE9007Sa1L	X000VIGTWP	B015QZNXXO	MiYang Women's Bowknot Printing Skirt Spa Swimsuit Padded Bathing Swimwear, Sapphire Blue(one piece), X-Small(US Size 0-2)	1	1	0	0
+YZ-HE9007Sa7L	X0019Q9ALF	B01N2HHCOA	MiYang Women's Plus Size High Waist Printing Swimsuit Bathing Swimwear Sapphire Blue(one Piece) 2XL(US Size16W-18W)	1	0	0	1
+YZ-HE13037Wi8L	X0019AA885	B01N1FYCZQ	MiYang Women's Plus Size Printing Padded High Waist Swimdress Wine Red 3X (US 24W-26W)	5	1	1	3
+YZ-HE13037Wi5L	X000YV0BG9	B01AXSD9M4	MiYang Women's Plus Size Printing Padded High Waist Swimdress Wine Red XL (US 16-18)	8	5	2	1
+YZ-HE13037EZ6L	X0019AY025	B01MTO5KOB	MiYang Women's Plus Size Printing Padded High Waist Swimdress Blue and Green 1X (US 16W-18W)	7	2	1	4
+YZ-HE13037EZ4L	X000YV0BFP	B01AXSDEWO	MiYang Women's Shaping Body Swimsuit One-Piece Swimwear Spa Suit Size tag L(US talla 12-14),Blue and Green	5	3	2	0
+YZ-HE13037Pu6L	X0019AA8QH	B01NA6JJLM	MiYang Women's Plus Size Printing Padded High Waist Swimdress Purple 1X (US 16W-18W)	6	2	2	2
+YZ-HE13037Or8L	X0019PSFLR	B01N94WF2D	MiYang Women's Plus Size Printing Padded High Waist Swimdress Orange 3X (US 24W-26W)	5	1	0	4
+YZ-HE13037EZ3L	X000YV0BGJ	B01AXSDDFC	MiYang Women's Shaping Body Swimsuit One-Piece Swimwear Spa Suit Size tag 3XL/US size L,Blue and Green	2	1	1	0
+YZ-HE13037EZ1L	X000YV0BFZ	B01AXSDADC	MiYang Women's Shaping Body Swimsuit One-Piece Swimwear Spa Suit Size Tag XL/US Size XS	1	0	0	1
+YZ-HE13037Pu5L	X000YV0BD7	B01AXSDGPY	MiYang Women's Plus Size Printing Padded High Waist Swimdress Purple XL (US 16-18)	2	0	0	2
+YZ-HE9008Se5L	X000WFYY3N	B015QZRXB2	MiYang Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear, Black and Blue, Tag Size 5XL=US Size XL(14-16)	1	0	0	1
+YZ-HE13037Wi7L	X0019QAHG7	B01MXLWXE3	MiYang Women's Plus Size Printing Padded High Waist Swimdress Wine Red 2X (US 20W-22W)	3	1	1	1
+YZ-HE9007Sa3L	X000WZHXHR	B015QZRO7K	MiYang Women's Bowknot Printing Skirt Spa Swimsuit Padded Bathing Swimwear, Sapphire Blue(one piece), Medium(US Size 6-8)	1	0	0	1
+YZ-HE9007Sa4L	X000WZHXI1	B015QZROTS	MiYang Women's Bowknot Printing Skirt Spa Swimsuit Padded Bathing Swimwear, Sapphire Blue(one piece), Large(US Size 10-12)	1	0	0	1
+YZ-HE13037Pu4L	X000YV0BCN	B01AXSDFFU	MiYang Women's Shaping Body Swimsuit One-Piece Swimwear Spa Suit Size tag 4XL/US size XL,Purple	6	4	1	1
+YZ-HE13037Or2L	X000YV0BCX	B01AXSD47E	MiYang Women's Shaping Body Swimsuit One-Piece Swimwear Spa Suit Size tag 2XL/US size M,Orange	1	0	0	1
+YZ-HE9007Sa5L	X000WZHXIB	B015QZRPHO	MiYang Women's Bowknot Printing Skirt Spa Swimsuit Padded Bathing Swimwear, Sapphire Blue(one piece), X-Large(US Size14-16)	2	1	0	1
+YZ-HE9007Se5L	X000WFYY3D	B015QZRRWW	MiYang Women's Bowknot Printing Skirt Spa Swimsuit Padded Bathing Swimwear, Navy(one piece), X-Large(US Size14-16)	1	1	0	0
+YZ-HE13037Pu9L	X0019BZT4R	B01MXLWU2D	MiYang Women's Plus Size Printing Padded High Waist Swimdress Purple 4X (US 26W-28W)	7	2	1	4
+YZ-HE13037EZ7L	X0019QE8JJ	B01N64GDNS	MiYang Women's Plus Size Printing Padded High Waist Swimdress Blue and Green 2X (US 20W-22W)	13	5	2	6
+YZ-HE9007Se2L	X000WFYY29	B015QZRQKU	MiYang Women's Bowknot Printing Skirt Spa Swimsuit Padded Bathing Swimwear, Navy(one piece), Small(US Size 4)	1	0	1	0
+YZ-HE9008Sa7L	X0019AA8E9	B01N0EHETF	MiYang Women's Plus Size High Waist Printing Swimsuit Bathing Swimwear Sapphire Blue(Two Piece) 2XL(US Size16W-18W)	4	1	1	2
+YZ-HE9007Se9L	X0019AA8DZ	B01N41KO05	MiYang Women's Bowknot Printing Skirt Spa Swimsuit Padded Bathing Swimwear, Navy(one Piece) 4XL(US Size22W-24W)	2	1	1	0
+YZ-HE13037EZ8L	X0019QE8J9	B01MQJOVR2	MiYang Women's Plus Size Printing Padded High Waist Swimdress Blue and Green 3X (US 24W-26W)	10	4	3	3
+YZ-HM0007-B0-XL	X001EABOE7	B071CY9VPW	MiYang Retro One Piece Tankini Plus Size Bathing Suits Adjustable Strap Tummy Cover Ruffle Swimwear	2	0	0	2
+YZ-HE9008Se7L	X0019AB8HF	B01N94R08T	MiYang Women's Plus Size High Waist Printing Swimsuit Bathing Swimwear Navy(Two Piece) 2XL(US Size16W-18W)	1	0	0	1
+YZ-HE9008Se8L	X0019P5B23	B01N1FYI99	MiYang Women's Plus Size High Waist Printing Swimsuit Bathing Swimwear Navy(Two Piece) 3XL(US Size18W-20W)	1	0	0	1
+YZ-JG2631R0M	X0015QY6CH	B01IOEHNK8	MiYang Women's One Piece Striped Slim Padded Swim Dress Bathing Swimwear Red and White Medium US 8-10	20	0	20	0
+YZ-JG2631HSXS	X0015M4NG5	B01IOEHM40	MiYang Women's One Piece Striped Slim Padded Swim Dress Bathing Swimwear Black and White, XS	49	0	49	0
+YZ-JG263100M	X000Y7N3GD	B01A6WG1V8	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Orange X-Small US 0-2	1	0	0	1
+YZ-JG2631HSS	X0015M4NFV	B01IOEHO7A	MiYang Women's One Piece Striped Slim Padded Swim Dress Bathing Swimwear Black and White Small US 4-6	13	2	11	0
+YZ-JG2631K03L	X000ZNVAHF	B01DIHNWI8	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear, Black, (Size tag 3XL/US size XL)	2	1	1	0
+YZ-JG2631HSL	X0015QY6CR	B01IOEHSWQ	MiYang Women's One Piece Striped Slim Padded Swim Dress Bathing Swimwear Black and White Large US 12-14	2	2	0	0
+YZ-JG2631003L	X000ZNVAH5	B01DIHNXDW	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Orange X-Large US 16-18	14	1	11	2
+YZ-HMTW001-K0-XS	X001EMM6FV	B06Y3PN4G5	MiYang Women Vintage Flounce Stripe High Waisted Bathing Suits Two Piece Bikini XS (US 2-4)	4	0	0	4
+YZ-JG2631HSM	X0015PHWSD	B01IOEHQOQ	MiYang Women's One Piece Striped Slim Padded Swim Dress Bathing Swimwear, Black and White, Medium(US size:8-10)	55	4	51	0
+YZ-JG2631K02L	X000Y3ZQBR	B01A6WG0SW	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Size tag 2XL/US size L, black	10	2	2	6
+YZ-JG2631001L	X000Y3ZQC1	B01A6WG3RA	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Orange Medium US 8-10	1	0	0	1
+YZ-HMTW001-K0-L	X001EMMPIJ	B06Y3TMRGH	MiYang Women Vintage Flounce Stripe High Waisted Bathing Suits Two Piece Bikini L (US 14-16)	1	0	0	1
+YZ-JG2631002L	X000Y3ZQCB	B01A6WG4TW	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Orange Large US 12-14	21	0	19	2
+YZ-JG2631HS1L	X0015RAJTF	B01IOEHVCS	MiYang Women's One Piece Striped Slim Padded Swim Dress Bathing Swimwear Black and White X-Large US 16-18	8	5	1	2
+YZ-JG2631R0XS	X0015PHWVZ	B01IOEHIMG	MiYang Women's One Piece Striped Slim Padded Swim Dress Bathing Swimwear Red and White X-Small US 0-2	8	1	6	1
+YZ-JG2631R01L	X0015PHWW9	B01IOEHTKC	MiYang Women's One Piece Striped Slim Padded Swim Dress Bathing Swimwear Red and White X-Large US 16-18	16	0	15	1
+YZ-HM30CH-M	X0015WH6L9	B01J0S83CO	MiYang Women's Sexy Crewneck One Piece Beachwear Bikini Monokini Swimsuit Rainbow Stripe M (US 8-10)	2	1	1	0
+YZ-HM30CH-XS	X0017ZMMIB	B01LX9J8Z0	MiYang Women's Sexy Crewneck One Piece Beachwear Bikini Monokini Swimsuit Rainbow Stripe XS (US 0-2)	1	1	0	0
+YZ-JG2631R0L	X0015OEH5Z	B01IOEHRBS	MiYang Women's One Piece Striped Slim Padded Swim Dress Bathing Swimwear Red and White Large US 12-14	23	2	21	0
+YZ-JG2631K01L	X000Y3ZQAX	B01A6WFZZQ	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Black Medium US 8-10	3	0	0	3
+YZ-JG2631ZL2L	X000Y310BR	B0196ETN8U	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Navy Large US 12-14	1	1	0	0
+YZ-JG2631ZLL	X000Y310BH	B01A6BXQDK	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Navy Small US 4-6	5	1	1	3
+YZ-JG2631R0S	X0015P2JDB	B01IOEHKXS	MiYang Women's One Piece Striped Slim Padded Swim Dress Bathing Swimwear Red and White Small US 4-6	3	1	2	0
+YZ-JG2631ZLM	X000Y310AX	B01A6BXN24	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Navy X-Small US 0-2	1	0	0	1
+YZ-JG2631ZL1L	X000Y310B7	B0196ETM7M	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Size tag XL/US size M, royal blue	16	5	8	3
+YZ-JG2631ZL3L	X000Y310AN	B01B184VYA	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Navy X-Large US 16-18	7	4	0	3
+YZ-HM30CH-K0-XS	X00180OR4R	B01M0IPQVW	MiYang Women's Sexy Crewneck One Piece Beachwear Bikini Monokini Swimsuit Black XS (US 0-2)	1	0	0	1
+YZ-HM30CH-S	X0016ST6PL	B01K7C8KAC	MiYang Women's Sexy Crewneck One Piece Beachwear Bikini Monokini Swimsuit Rainbow Stripe S (US 4-6)	12	0	12	0
+YZ-HM30CH-L	X0015WQKCF	B01J0S8496	MiYang Women's Sexy Crewneck One Piece Beachwear Bikini Monokini Swimsuit Rainbow Stripe L (US10-12)	2	1	1	0
+YZ-KL5020YH4L	X0014W4YX3	B01HPQQG68	MiYang Women's One Piece High Waist Printing Swim Dress Swimwear,Dark Blue Flower,X-Large(US size:16-18)	3	1	0	2
+YZ-KL5020FL5L	X00143FDL9	B01F4YOB56	MiYangWomen'sOnePieceHighWaistPrintingSwimDressSwimwear,NavyFlower,tagsize(5XL)XX-Large(USsize:16W)	2	1	0	1
+YZ-KL5020TW3L	X001556ELJ	B01HPQQHOY	MiYang Women's One Piece High Waist Printing Swim Dress Swimwear,Dark Blue Stripe,Large(US size:12-14)	5	2	0	3
+YZ-KL5020TW2L	X00155HPLH	B01HPQQGE0	MiYang Women's One Piece High Waist Shaping Body Swim Dress Spa Swimwear,Dark Blue Stripe,Tag Size 2XL/US size Medium: 8-10	3	1	0	2
+YZ-KL5020MF-S	X001QES6NN	B07BMVZS62	MiYang Women's One Piece High Waist Printing Swim Dress Padded Swimwear Small (US Size:4-6)	1	1	0	0
+YZ-KL5020MF-L	X001QES9DZ	B07C8N48RB	MiYang Women's One Piece High Waist Printing Swim Dress Padded Swimwear Large (US Size:12-14)	1	1	0	0
+YZ-KL5020TW5L	X001556EL9	B01HPQQPNC	MiYang Women's One Piece High Waist Shaping Body Swim Dress Spa Swimwear, Dark Blue Stripe, Tag Size 5XL=US Size XXL(16W)	6	2	0	4
+YZ-KL5020TW4L	X00155HPL7	B01HPQQJ9M	MiYang Women's One Piece High Waist Shaping Body Swim Dress Spa Swimwear,Dark Blue Stripe,Tag Size 4XL/US size X-Large: 16-18	5	1	0	4
+YZ-KL5020YH5L	X00155HY4Z	B01HPQQHQ2	MiYang Women's One Piece High Waist Printing Swim Dress Swimwear,Dark Blue Flower,XX-Large(US size:16W)	1	1	0	0
+YZ-KL5020YH1L	X00155ZAWN	B01HPQQCFS	MiYang Women's One Piece High Waist Printing Swim Dress Swimwear,Dark Blue Flower,Small(US size:4-6)	2	2	0	0
+YZ-KL5020MF-XL	X001QBJTWN	B07BMS1GW2	MiYang Women's One Piece High Waist Printing Swim Dress Padded Swimwear X-Large (US Size:16-18)	1	0	0	1
+YZ-KL5020ST5L	X00143KBCP	B01F4YODTU	MiYang Womens One Piece High Waist Printing Swim Dress Swimwear, Navy Stripe, XX-Large(US size:16W)/ASIAN 5XL	2	0	0	2
+YZ-KL5020FL3L	X0013OGI6N	B01F4YO7XM	MiYang Women's One Piece High Waist Printing Swim Dress Swimwear,Navy Flower,Large(US size:12-14)	1	0	0	1
+YZ-KL5020YH2L	X0014XP693	B01HPQQE6U	MiYang Women's One Piece High Waist Shaping Body Swim Dress Spa Swimwear, Dark Blue Flower, 2XL (US Medium size:8-10)	3	0	1	2
+YZ-KL5020ST3L	X0013YKQWF	B01F4YO9U8	MiYang Women's One Piece High Waist Printing Swim Dress Swimwear,Navy Stripe,Large(US size:12-14)	4	2	0	2
+YZ-KL5020YH3L	X00155HYCR	B01HPQQF6Y	MiYang Women's One Piece High Waist Shaping Body Swim Dress Spa Swimwear, Dark Blue Flower, 3XL (US Large size:12-14)	6	4	0	2
+YZ-KL5020MF-M	X001QES9NZ	B07C8QTKHT	MiYang Women's One Piece High Waist Printing Swim Dress Padded Swimwear Medium (US Size:8-10)	5	1	0	4
+YZ-KL5020ST4L	X00140KO61	B01F4YOBQK	MiYang Women's One Piece High Waist Shaping Body Swim Dress Spa Swimwear,Tag Size 4XL=US Size XL(16-18),Navy Stripe	6	1	1	4
+YZ-KL5020FL2L	X001449JXL	B01F4YO5YI	MiYang Women's One Piece High Waist Printing Swim Dress Swimwear,Navy Flower,Medium(US size:8-10)	6	1	0	5
+YZ-KL5020ST1L	X0013MIV1Z	B01F4YO5Y8	MiYangWomen'sOnePieceHighWaistPrintingSwimDressSwimwear,NavyStripe,TAGSIZE(XL)Small(USsize:4-6)	3	3	0	0
+YZ-MU181-OR-M	X001Q18G3V	B07BDJL36J	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Orange M	2	1	0	1
+YZ-MU181-Gr-S	X001PZ2VH5	B07BDFBQY8	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Yellow S	4	2	0	2
+YZ-MU181-B0-2XL	X001R8M8HN	B07CH2NMTB	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Blue XXL	3	1	2	0
+YZ-MU181-Gr-M	X001Q18G4F	B07BDJKGSS	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Yellow M	4	1	2	1
+YZ-MU181-K0-XL	X001PZ2W1P	B07BDD7LMG	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Black XL	7	0	5	2
+YZ-MU180-E0-L	X001Q0DSKX	B07BFB28WT	Women Bikini Sets Brazilian Padded Top Thong Cheeky Bikini Bottom 2PCs 2018 Swimsuit for Women Grey L	1	1	0	0
+YZ-MU180-B0-S	X001Q03KNX	B07BF9SJ21	Women Bikini Sets Brazilian Padded Top Thong Cheeky Bikini Bottom 2PCs 2018 Swimsuit for Women Blue S	3	0	1	2
+YZ-MU180-WI-M	X001Q1DOXN	B07BF6FBR7	Women Bikini Sets Brazilian Padded Top Thong Cheeky Bikini Bottom 2PCs 2018 Swimsuit for Women Wine Red M	1	1	0	0
+YZ-MU180-K0-M	X001Q2HYCT	B07BFBM7MM	Women Bikini Sets Brazilian Padded Top Thong Cheeky Bikini Bottom 2PCs 2018 Swimsuit for Women Black M	2	1	1	0
+YZ-MU2500-K0-M	X001S6OMTV	B07D34HBS1	Thong One Piece High Cut Cheeky Bikini Monokini Swimsuit	2	1	1	0
+YZ-MU180-K0-S	X001Q1DOXX	B07BF3XYRF	Women Bikini Sets Brazilian Padded Top Thong Cheeky Bikini Bottom 2PCs 2018 Swimsuit for Women Black S	4	2	2	0
+YZ-MU180-OR-S	X001Q1E75R	B07BF99WV7	Women Bikini Sets Brazilian Padded Top Thong Cheeky Bikini Bottom 2PCs 2018 Swimsuit for Women Orange S	6	3	1	2
+YZ-MU181-W0-L	X001Q18G3L	B07BDCZNZ3	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women White L	2	1	0	1
+YZ-MU181-G0-M	X001R8TA6F	B07CH8W1XM	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Army Green M	8	3	5	0
+YZ-MU181-W0-S	X001Q18G45	B07BDJM2W3	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women White S	7	1	2	4
+YZ-MU180-OR-XL	X001Q2D6RL	B07BF99FQ3	Women Bikini Sets Brazilian Padded Top Thong Cheeky Bikini Bottom 2PCs 2018 Swimsuit for Women Orange XL	1	0	1	0
+YZ-MU181-Wi-S	X001R89E25	B07CH9G4R9	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Burgundy S	2	0	1	1
+YZ-MU181-R0-S	X001Q1930B	B07BDGBXYG	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Red S	1	1	0	0
+YZ-MU181-Wi-M	X001R89E1V	B07CH9CL36	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Burgundy M	1	1	0	0
+YZ-MU181-K0-M	X001Q191SP	B07BDDN4NR	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Black M	3	2	0	1
+YZ-MU181-R0-L	X001PZ4KYR	B07BDM7YRZ	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Red L	1	0	0	1
+YZ-MU181-Gr-2XL	X001Q191SZ	B07BDG9CZ9	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Yellow XXL	1	0	0	1
+YZ-MU181-Wi-L	X001R8X1ER	B07CH13RFY	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Burgundy L	1	0	0	1
+YZ-MU181-B0-XL	X001R8TW3L	B07CH8D57F	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Blue XL	1	1	0	0
+YZ-MU180-E0-S	X001Q2D7BL	B07BF7WS2Q	Women Bikini Sets Brazilian Padded Top Thong Cheeky Bikini Bottom 2PCs 2018 Swimsuit for Women Grey S	1	0	0	1
+YZ-MU180-WI-XL	X001Q2IDMJ	B07BF7WS2P	Women Bikini Sets Brazilian Padded Top Thong Cheeky Bikini Bottom 2PCs 2018 Swimsuit for Women Wine Red XL	1	0	1	0
+YZ-MU181-G0-L	X001R8SSGX	B07CH1511Y	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Army Green L	2	1	1	0
+YZ-MU181-W0-XL	X001PZ4KY7	B07BDBTQQQ	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women White XL	4	2	1	1
+YZ-MU2631-ZL-2XL	X001SY4GVH	B07DMFM265	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Navy XX-Large US 20-22	2	1	0	1
+YZ-MU181-W0-M	X001PZ438F	B07BDHGV81	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women White M	17	3	11	3
+YZ-MU180-E0-M	X001Q03KKB	B07BF7XZ7H	Women Bikini Sets Brazilian Padded Top Thong Cheeky Bikini Bottom 2PCs 2018 Swimsuit for Women Grey M	1	1	0	0
+YZ-MU180-K0-L	X001Q2IDM9	B07BF5J23T	Women Bikini Sets Brazilian Padded Top Thong Cheeky Bikini Bottom 2PCs 2018 Swimsuit for Women Black L	8	2	6	0
+YZ-MU2631-ZL-3XL	X001SZ5LZV	B07DMGQZN1	MiYang Women's One Piece Striped Slim Swim Dress Bathing Swimwear Navy XXX-Large US 22-24	1	0	0	1
+YZ-MU180-E0-XL	X001Q1EE55	B07BF81GTN	Women Bikini Sets Brazilian Padded Top Thong Cheeky Bikini Bottom 2PCs 2018 Swimsuit for Women Grey XL	1	0	0	1
+YZ-MU181-W0-2XL	X001PZ4KV5	B07BDHFQFR	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women White XXL	4	2	1	1
+YZ-MU181-K0-S	X001PZ4KMJ	B07BDGXWJ3	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Black S	3	1	1	1
+YZ-MU2500-W0-S	X001S731K1	B07D34SMKB	Thong One Piece High Cut Cheeky Bikini Monokini Swimsuit	1	1	0	0
+YZ-MU181-K0-L	X001PZ2W1Z	B07BDCH6TS	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Black L	1	1	0	0
+YZ-MU181-R0-M	X001PZ4KVF	B07BDJ6B11	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Red M	12	4	6	2
+YZ-MU181-B0-L	X001R877PB	B07CH7PVQC	MiYang Padded Push up Brazilian Thong Bikini Sets 2018 Swimsuits for Women Blue L	2	1	1	0
+YZ-MU511-ZLYH-2XL	X001Q4T0AL	B07BHLSSLC	MiYang Women's Plus-Size Polka Dot Floral Shaping Body One Piece Swim Dresses Swimsuit 2XL	3	2	0	1
+YZ-MU511-ZLSY-3XL	X001Q4T0AB	B07BHGN5NB	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit 3XL Leaves Print	2	1	0	1
+YZ-MU5506-K0-M	X001R9G4P9	B07CJQYVT2	MiYang Active Striped Racerback Tankini with Swim Briefs Two Piece Swimsuit for Women Black and White M	2	0	0	2
+YZ-MU511-ZLBD-3XL	X001OS6A3T	B079DP66PS	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit 3XL Navy Polka Dot	8	4	0	4
+YZ-MU511-ZLYH-3XL	X001Q48B97	B07BHKHVLJ	MiYang Women's Plus-Size Polka Dot Floral Shaping Body One Piece Swim Dresses Swimsuit 3XL	1	0	0	1
+YZ-MU511-ZLSY-M	X001Q48B8X	B07BHKG2H8	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit M Leaves Print	1	0	0	1
+YZ-MU511-ZLBD-L	X001OSCKA1	B079DQDPF1	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit L Navy Polka Dot	8	3	2	3
+YZ-MU5506-K0-XS	X001R8Q4OL	B07CHJQXY3	MiYang Active Striped Racerback Tankini with Swim Briefs Two Piece Swimsuit for Women Black and White XS	2	0	1	1
+YZ-MU511-K0BD-2XL	X001OSPIKF	B079DP44JF	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit 2XL Black Polka Dot	2	1	0	1
+YZ-MU511-ZLBD-XL	X001OSPI2X	B079DQKM6H	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit XL Navy Polka Dot	1	1	0	0
+YZ-MU511-ZLYH-M	X001Q487N7	B07BHGM9NR	MiYang Women's Plus-Size Polka Dot Floral Shaping Body One Piece Swim Dresses Swimsuit M	1	0	0	1
+YZ-MU511-ZLYH-XL	X001Q487MX	B07BHGRSCT	MiYang Women's Plus-Size Polka Dot Floral Shaping Body One Piece Swim Dresses Swimsuit XL	1	1	0	0
+YZ-MU5129-G0YH-L	X001RG3SY7	B07CLMDRC1	MiYang Plus Size Floral Swimwear One Piece Swimdress for Women Skirted Swimsuit Yellow Floral Large(US 12-14)	1	0	0	1
+YZ-MU511-ZLBD-2XL	X001OSP19N	B079DQ8T8R	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit 2XL Navy Polka Dot	1	0	0	1
+YZ-MU511-K0BD-4XL	X001S69S59	B07D2724PY	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit 4XL Black	1	0	0	1
+YZ-MU511-K0BD-XL	X001OSOZTZ	B079DNYR46	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit XL Black Polka Dot	13	7	2	4
+YZ-MU511-K0BD-L	X001OQRTOF	B079DN65B2	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit L Black Polka Dot	4	2	0	2
+YZ-MU5506-ZL-S	X001R8THIL	B07CHFWVJF	MiYang Active Striped Racerback Tankini with Swim Briefs Two Piece Swimsuit for Women Navy and White S	1	1	0	0
+YZ-MU511-K0BD-3XL	X001OQUMAD	B079DPWMTY	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit 3XL Black Polka Dot	4	0	0	4
+YZ-MU511-ZLSY-XL	X001Q4T0A1	B07BHGP2JX	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit XL Leaves Print	1	1	0	0
+YZ-MU511-ZLYH-L	X001Q4DEAD	B07BHGY1VY	MiYang Women's Plus-Size Polka Dot Floral Shaping Body One Piece Swim Dresses Swimsuit L	4	1	1	2
+YZ-MU511-ZLSY-2XL	X001Q4DEAN	B07BHGTCLD	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit 2XL Leaves Print	6	3	0	3
+YZ-MU5129-K0-2XL	X001REKR6V	B07CKVWVXT	MiYang Plus Size Floral Swimwear One Piece Swimdress for Women Skirted Swimsuit Black 2XL(US 20-22)	3	1	1	1
+YZ-MU5506-ZL-XS	X001R8B4IH	B07CH3DJH5	MiYang Active Striped Racerback Tankini with Swim Briefs Two Piece Swimsuit for Women Navy and White XS	3	1	1	1
+YZ-MUBK187-R2-M	X001RYOPSR	B07CYPKD75	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit, Rose, Medium	1	0	0	1
+YZ-MUBK187-K0-L	X001QBZH51	B07BMVNKNW	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit Black	2	2	0	0
+YZ-MUBK187-G7-L	X001QEYUVZ	B07BMVNCFZ	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit Army	13	0	13	0
+YZ-MUBK187-K0-2XL	X001QC6C95	B07BMTTZRC	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit Black	1	0	0	1
+YZ-MUC19P-K0-XL	X001R674IN	B07C7X4GVJ	MiYang Twist Front Bandeau Bikini Top Hipster Bottom Set Two Piece Swimsuit for Women Black US 12-14	1	0	0	1
+YZ-MUBK187-B0-S	X001RYK2E3	B07CYLVFCN	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit Purple	2	1	1	0
+YZ-MUBK187-Y0-XL	X001QEZ9OH	B07C8KVR3Z	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit Yellow	5	0	5	0
+YZ-MUBK187-B0-L	X001RYN68H	B07CYVX7XL	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit Purple	3	2	0	1
+YZ-MUBD001-R0-L	X001PSUOFN	B07B7KFRHD	Womens High Waisted Bikini Set Flounce Top Two Piece Polka Dot Swimsuit	1	0	0	1
+YZ-MUBK187-B0-M	X001RYPBD5	B07CZ3VGFG	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit Purple	3	1	1	1
+YZ-MUBD001-R0-XS	X001PRH1FF	B07B7KFRHB	Womens High Waisted Bikini Set Flounce Top Two Piece Polka Dot Swimsuit	3	1	0	2
+YZ-MUBK187-G7-XL	X001QBZGWZ	B07BMVN76D	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit Army	1	1	0	0
+YZ-MUBK187-BD-M	X001QBKN05	B07BMX27C9	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit Burgundy	1	0	0	1
+YZ-MUBK187-K0-S	X001QBZH7J	B07BMTVWV2	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit Black	1	1	0	0
+YZ-MUBK187-K0-M	X001QESEFD	B07C8LWXVZ	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit Black	2	0	1	1
+YZ-MUC19P-OR-2XL	X001R6QDDF	B07C7X54V6	MiYang Twist Front Bandeau Bikini Top Hipster Bottom Set Two Piece Swimsuit for Women Orange US 14-16	1	0	0	1
+YZ-MUBK187-Y0-S	X001QEZ1LN	B07BMTV49H	High Waisted Bikini Set Sporty High Cut Cheeky Bottom Two Piece Swimsuit Yellow	2	0	2	0
+YZ-MULE001-W0-XS	X001PSW9K1	B07B7L4RR4	Womens High Waisted Bikini Set Flounce Top Two Piece Green Leaves Swimsuit	1	0	0	1
+YZ-MUCS186-OR-M	X001QATI9X	B07BLSQ9D2	MiYang One Piece Halter Swimsuit Cutout Leaves Printing Stripe Swimwear	1	1	0	0
+YZ-MUCS186-G0-M	X001QBDVWH	B07C8GQ9YF	MiYang One Piece Halter Swimsuit Cutout Leaves Printing Stripe Swimwear	1	0	0	1
+YZ-MULE001-W0-S	X001PSUOFX	B07B7LG5CH	Womens High Waisted Bikini Set Flounce Top Two Piece Green Leaves Swimsuit	3	2	0	1
+YZ-MULE001-W0-L	X001PR4MYX	B07B7JL2Q5	Womens High Waisted Bikini Set Flounce Top Two Piece Green Leaves Swimsuit	23	1	19	3
+YZ-MUHM511-ZL-4XL	X001OSCJZR	B079DPLM98	MiYang Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Navy Blue 4XL	1	1	0	0
+YZ-MUCLC19-W0-S	X001OJ05JN	B0795FD395	MiYang Twist Front Bandeau Bikini Top Hipster Bottom Set Two Piece Swimsuit for Petite Women White US 0-2	1	0	0	1
+YZ-MUCS186-OR-L	X001QATMI5	B07BLRSMG6	MiYang One Piece Halter Swimsuit Cutout Leaves Printing Stripe Swimwear	1	0	0	1
+YZ-MUCLC19-R0-S	X001OIZY6D	B0795G31RW	MiYang Twist Front Bandeau Bikini Top Hipster Bottom Set Two Piece Swimsuit for Women Red US 0-2	1	0	0	1
+YZ-MUTW32-BTW-2XL	X001QW8UP9	B07C1MCRDX	Push up Striped Bikini Sets Two Pieces V Neck Tie Front Swimsuit Blue Striped	1	0	0	1
+YZ-MUSM807-K0-L	X001QWMGO5	B07C1KXFGX	Push up Striped Bikini Sets Two Pieces V Neck Tie Front Swimsuit Black Polka Dot	4	2	1	1
+YZ-MUSM807-K0-M	X001QW8UOF	B07C1KXY7B	Push up Striped Bikini Sets Two Pieces V Neck Tie Front Swimsuit Black Polka Dot	2	1	1	0
+YZ-MUTW32-BTW-XL	X001QVWF8X	B07C1LZKX3	Push up Striped Bikini Sets Two Pieces V Neck Tie Front Swimsuit Blue Striped	1	0	0	1
+YZ-MUYF181-G0-XL	X001OW2AQB	B079JVQLPK	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Pink Palm XL	42	1	36	5
+YZ-MUYF181-G0-L	X001OW2AQV	B079JLZKGX	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Pink Palm L	34	3	22	9
+YZ-MUYF181-K0-2XL	X001S5Z2K5	B07D27J52R	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Black 2XL	1	0	0	1
+YZ-MUYF181-G0-2XL	X001OW1ZFD	B079K4MYHW	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Pink Palm 2XL	7	1	1	5
+YZ-MUYF182-R0-S	X001PY5TW5	B07BCDNW6R	Halter Maternity Tankini Abstract Cutout Pregnancy Swimsuit Two Piece Beach Swimwear S	5	2	1	2
+YZ-MUWS32-K0-M	X001QWWC9J	B07C21SJ3Y	Black One Piece Swimsuit High Neck V-Neckline Mesh Ruched Monokini Swinwear M US(8-10)	1	0	0	1
+YZ-MUYF181-B0-XL	X001OX3OER	B079JNS46Q	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Blue Plus Size	1	1	0	0
+YZ-MUYF181-G0-M	X001OVB9GJ	B079JQHFSL	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Pink Palm M	70	5	62	3
+YZ-MUYF181-K0-M	X001S6AK2T	B07D26WSDQ	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Black M	2	1	1	0
+YZ-MUYF181-PI-M	X001QD0PG5	B079JRQ3GM	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Pink M	21	0	21	0
+YZ-MUYF182-R0-2XL	X001PXH2FD	B07BC4SDDT	Halter Maternity Tankini Abstract Cutout Pregnancy Swimsuit Two Piece Beach Swimwear 2XL	2	1	0	1
+YZ-MUYF181-G0-S	X001OXGCL9	B079JQS92R	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Pink Palm S	1	1	0	0
+YZ-MUTW32-BTW-M	X001QVWOYD	B07C17GLG9	Push up Striped Bikini Sets Two Pieces V Neck Tie Front Swimsuit Blue Striped	1	0	1	0
+YZ-MUYF181-B0-L	X001OXG34F	B079JVPJV5	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Blue L	1	1	0	0
+YZ-MUYF181-B0-S	X001OXG34P	B079JXLRKN	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Blue S	12	0	9	3
+YZ-MUTW32-PI-XL	X001QWIZSL	B07C1KXHZC	Push up Striped Bikini Sets Two Pieces V Neck Tie Front Swimsuit Pink Striped	1	0	0	1
+YZ-MUTW32-BTW-L	X001QVX0HD	B07C1L2K4P	Push up Striped Bikini Sets Two Pieces V Neck Tie Front Swimsuit Blue Striped	1	0	0	1
+YZ-MUYF181-K0-XL	X001S6ALWN	B07D26LVQW	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Black XL	3	1	0	2
+YZ-MUYF181-PI-S	X001OVB47D	B079JNWFC5	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Pink S	1	0	0	1
+YZ-MUYF182-R0-L	X001PXH069	B07BC88D2H	Halter Maternity Tankini Abstract Cutout Pregnancy Swimsuit Two Piece Beach Swimwear L	7	1	2	4
+YZ-MUYF181-K0-S	X001S6AVTB	B07D28FSKB	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Black S	15	0	13	2
+YZ-MUYF181-PI-L	X001QF8LQ9	B079K3F2MM	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Pink L	98	2	96	0
+YZ-MUYF183-TW-L	X001PY5U1Z	B07BCBYWX5	Striped Maternity Tankini Halter Pregnancy Swimsuit Two Piece L	103	1	100	2
+YZ-MUSM807-K0-S	X001QWLZDD	B07C1Q5KPQ	Push up Striped Bikini Sets Two Pieces V Neck Tie Front Swimsuit Black Polka Dot	1	1	0	0
+YZ-MUYF181-B0-M	X001OVGSGF	B079JNY4Y4	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Blue M	4	1	0	3
+YZ-MUYF183-TW-2XL	X001PZK20D	B07BCBZ36Q	Striped Maternity Tankini Halter Pregnancy Swimsuit Two Piece 2XL	16	0	14	2
+YZ-MUYF181-WI-M	X001T0KDF3	B07DN4MGZ2	Halter Maternity Tankini Floral Pregnancy Triangle Swimsuit Wine Red M	1	0	0	1
+YZ-MUYF181-PI-XL	X001QD6QL3	B079JVH2PF	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Pink Plus Size	1	1	0	0
+YZ-MUYF181-B0-2XL	X001OX3AGT	B079JRQ19Z	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Blue 2XL	2	0	0	2
+YZ-MUYF181-K0-L	X001S69REL	B07D27SJJG	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Black L	64	2	54	8
+YZ-MUWS32-K0-S	X001QX8IKP	B07C22FDG6	Black One Piece Swimsuit High Neck V-Neckline Mesh Ruched Monokini Swinwear S US(4-6)	1	0	0	1
+YZ-MUYF182-R0-XL	X001PY5THF	B07BC4YZKL	Halter Maternity Tankini Abstract Cutout Pregnancy Swimsuit Plus Size Two Piece Beach Swimwear	3	0	0	3
+YZ-MUYF181-PI-2XL	X001QF8VF5	B079K53ZYF	Women Maternity Tankini Swimsuit Floral Pregnancy Plus Size Swimwear Pink 2XL	1	1	0	0
+YZ-MUYF184-ZLBD-M	X001SUFXLN	B07DKGH17T	Halter Neck Maternity Tankini Tie-dye Striped Swimsuit Set Navy Polka Dot M	18	8	5	5
+YZ-MUYF184-B0-S	X001PY9C19	B07BC8Z3WS	Halter Neck Maternity Tankini Tie-dye Striped Swimsuit Set S	2	0	0	2
+YZ-MUYF184-K0-2XL	X001SS68CX	B07DJ1ZF5L	Halter Neck Maternity Tankini Tie-dye Striped Swimsuit Set Black Polka Dot 2XL	2	0	0	2
+YZ-MUYF185-K0-L	X001S9EQ6R	B07D3K754D	MiYang Women Maternity Tankini set Pregnant Two Piece Beach Swimwear Black L	1	0	0	1
+YZ-MUYF184-B0-XL	X001PZL1IF	B07BCBB8Y4	Halter Neck Maternity Tankini Tie-dye Striped Swimsuit Set XL	5	1	0	4
+YZ-MUYF184-ZLBD-S	X001SUFVZB	B07DKD84MJ	Halter Neck Maternity Tankini Tie-dye Striped Swimsuit Set Navy Polka Dot S	2	0	0	2
+YZ-MY1701-KO-S	X001D67X3N	B06XCLZ2TD	MiYang Women's Black Shaping Body Swimdress with Bare Back and White Laces	1	0	0	1
+YZ-MYQZ1709-R0-XL	X001DGGGFT	B06XSTGSRV	MiYang Plus Size Ruffle Adjustable Tank One Piece Swimdress With Shorts	1	0	0	1
+YZ-MUYF184-B0-2XL	X001PZK2DF	B07BCBWK92	Halter Neck Maternity Tankini Tie-dye Striped Swimsuit Set 2XL	2	0	1	1
+YZ-MUYF184-B0-M	X001PZK2D5	B07BC87299	Halter Neck Maternity Tankini Tie-dye Striped Swimsuit Set M	1	0	0	1
+YZ-MUYF183-TW-XL	X001PZLT37	B07BC9Q6P2	Striped Maternity Tankini Halter Pregnancy Swimsuit Two Piece XL	20	1	19	0
+YZ-MUYF185-K0-M	X001S89KUZ	B07D3K8CDB	MiYang Women Maternity Tankini set Pregnant Two Piece Beach Swimwear Black M	47	7	40	0
+YZ-MUYF185-K0-XL	X001S89L77	B07D3KR92Z	MiYang Women Maternity Tankini set Pregnant Two Piece Beach Swimwear Black XL	26	4	22	0
+YZ-MYQZ1709-R0-2XL	X001DJ3V1D	B06XSG9RYH	MiYang Plus Size Ruffle Adjustable Tank One Piece Swimdress with Shorts	1	0	0	1
+YZ-MYQZ1709-R0-3XL	X001DK0ZNT	B06XSRF84W	MiYang Plus Size Ruffle Adjustable Tank One Piece Swimdress with Shorts	3	0	2	1
+YZ-MUYF184-B0-L	X001PZL153	B07BC672J5	Halter Neck Maternity Tankini Tie-dye Striped Swimsuit Set L	21	4	5	12
+YZ-MYQZ1709-K0-2XL	X001DGM8RT	B06XSYX7SG	MiYang Plus Size Ruffle Adjustable Tank One Piece Swimdress with Shorts	1	0	0	1
+YZ-MUYF184-ZLBD-L	X001SUFX81	B07DKD8QPX	Halter Neck Maternity Tankini Tie-dye Striped Swimsuit Set Navy Polka Dot L	11	7	0	4
+YZ-MUYF183-TW-M	X001PXICXT	B07BC8F9QK	Striped Maternity Tankini Halter Pregnancy Swimsuit Two Piece M	7	2	0	5
+YZ-RF1123-B0-2X	X001BALVP7	B01N98BS2V	Women One Piece High Cut Halter Swimsuit Retro High Waisted Bikini	1	0	0	1
+YZ-TJ1245W03L	X0015YAVMD	B01J71HSAC	MiYang Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear	2	0	0	2
+YZ-TJ1245G0L	X00134VUPH	B01DLSNDZG	MiYang Women's Two Pieces Diamond Slim Tankini Suit Bathing Swimwear,Green,Small(US size:4-6)	2	1	1	0
+YZ-TJ1245W02L	X00160A185	B01J71HR3U	MiYang Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear	4	2	2	0
+YZ-TJ1245002L	X00160A17V	B01J71HTJM	MiYang Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear	16	5	10	1
+YZ-TJ1245W01L	X0010BYSPH	B01DLSNC8O	MiYang Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear White Medium (US 8-10)	1	1	0	0
+YZ-TJ1245G01L	X0010BYSP7	B01DLSNF6I	MiYang Women's Two Pieces Diamond Slim Tankini Suit Bathing Swimwear,Green,Medium(US size:8-10)	10	0	7	3
+YZ-TJ1245001L	X0010BYSOX	B01DLSNBBC	MiYang Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear Orange Medium (US 8-10)	1	0	1	0
+YZ-TJ124500L	X0013GA4GB	B01DLSN9BY	MiYang Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear Orange Small (US 4-6)	1	0	0	1
+YZ-TJ1245W0L	X0013OKSXR	B01DLSNB76	MiYang Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear White Small (US 4-6)	2	1	1	0
+YZ-TJ1245003L	X00160Q8JV	B01J71HPMS	MiYang Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear Orange X-Large (US 16-18)	4	1	1	2
+YZ-TJ1245G03L	X00160XLUF	B01J71HRV2	MiYang Women's Two Pieces Diamond Slim Tankini Suit Bathing Swimwear,XL,Green	5	1	0	4
+YZ-TJ1245-K0-M	X001QEZI0H	B07C8H7NXP	MiYang Women's Padded High Waist Slim Tankini Set Bathing Swimwear Medium (US Size:8-10)	6	0	6	0
+YZ-TJ1245G02L	X0015ZMMFV	B01J71HQRW	MiYang Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear Green Large (US 12-14)	3	1	1	1
+YZ-TJ1245-K0-XL	X001QEZH71	B07BMWL13Y	MiYang Women's Padded High Waist Slim Tankini Set Bathing Swimwear X-Large (US Size:16-18)	1	0	0	1
+YZ5060Y01L	X0014F1A6J	B01GJ2ARXM	MiYang Women's Halter Polka Dot Tankini Swim Dress(Yellow XL)	1	1	0	0
+YZ1458K06XL	X001Q9038T	B07BK3GHBK	MiYang Women's Plus Size Tassel One Piece Swimwear Black US 2XL (US 16-18)	24	4	17	3
+YZ5060Y0S	X0014EUNZT	B01GJ2BBKU	MiYang Women's Halter Polka Dot Tankini Swim Dress(Yellow S)	1	0	1	0
+YZ5060B21L	X001068CJF	B01E89VL06	MiYang Women's Halter Polka Dot Tankini Swim Dress(Deep Blue XL)	3	1	1	1
+YZ5060B2L	X001068CJ5	B01E89VK3E	MiYang Women's Halter Polka Dot Tankini Swim Dress(Deep Blue L)	4	1	2	1
+YZ5060B2S	X001068CIL	B01E89VKPM	MiYang Women's Halter Polka Dot Tankini Swim Dress(Deep Blue S)	1	1	0	0
+YZ5060R2	X000SHM3QP	B00YAI9KJK	MiYang Women's Halter Polka Dot Tankini Swim Dress(Rose Red XS)	3	2	1	0
+YZ1458R25XL	X000SZ871H	B00YMGVH4Q	MiYang Women's Plus Size Tassel One Piece Swimwear Rose Red 1X(14W) Rose Red	4	2	2	0
+YZ5060Y0L	X0014F13WP	B01GJ2AO9E	MiYang Women's Halter Polka Dot Tankini Swim Dress(Yellow L)	4	1	3	0
+YZ1458K05XL	X000SZ871R	B00YMGUZQC	MiYang Women's Plus Size Tassel One Piece Swimwear Black 2X/Tag 5XL	1	0	0	1
+YZ5060R2L	X0013RTMWR	B01FTOGXHU	MiYang Women's Halter Polka Dot Tankini Swim Dress(Rose Red L)	2	0	0	2
+YZ1458FB5XL	X000SZ870X	B00YMGV72S	MiYang Women's Plus Size Tassel One Piece Swimwear Sapphire Blue 1X(14W) Sapphire Blue	1	0	0	1
+YZ1458R26XL	X001Q7O42R	B07BK2D7B1	MiYang Women's Plus Size Tassel One Piece Swimwear Rose Red US 2XL (US 16-18)	6	0	6	0
+YZ1458FB6XL	X001Q7T0S5	B07BK1FYJV	MiYang Women's Plus Size Tassel One Piece Swimwear Sapphire Blue US 2XL (US 16-18)	15	1	12	2
+YZ5505R0-XL	X001APZR2V	B06XYPJS47	MiYang Women's Tankini Striped Vintage Swim Dress	2	1	1	0
+YZ5505JRM	X000UZHCH5	B013OSTD70	MiYang Women's Tankini Striped Vintage Swim Dress (Pink Medium)	5	1	0	4
+YZ5505JRS	X000UZHCGV	B06XYZS6NS	MiYang Women's Tankini Striped Vintage Swim Dress (Pink Small)	1	0	0	1
+YZ5505JR2L	X000ZW1N6T	B01C9TE2BW	MiYang Women's Tankini Striped Vintage Swim Dress (Pink XX-Large)	2	0	2	0
+YZ5505JRXL	X000UZHCGL	B0154PQBZ8	MiYang Women's Tankini Striped Vintage Swim Dress (Pink X-Large)	1	0	0	1
+YZ5505K0-XL	X001F1B2NX	B071VS9Y2M	MiYang Women's Tankini Striped Vintage Swim Dress (Black X-Large)	10	5	2	3
+YZ7438B0XXL	X0014DJ6EJ	B01F78AYQY	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Black Dot Large (US 12-14)	2	1	1	0
+YZ5505LbS	X00145YBGF	B01G3JEO62	MiYang Women's Tankini Striped Vintage Swim Dress (Light Blue Small)	3	1	1	1
+YZ5505LbL	X00145B5ZP	B01G3JENB8	MiYang Women's Tankini Striped Vintage Swim Dress (Light Blue Large)	7	1	3	3
+YZ5505K0-2XL	X001F1U09Z	B0711R9KHN	MiYang Women's Tankini Striped Vintage Swim Dress (Black XX-Large)	13	5	3	5
+YZ5505DaXL	X000UZHCHZ	B0154PQ95K	MiYang Women's Tankini Striped Vintage Swim Dress (Deep Blue X-Large)	20	10	4	6
+YZ5505LbXXL	X001468HP5	B01G3JERSM	MiYang Women's Tankini Striped Vintage Swim Dress (Light Blue XX-Large)	1	1	0	0
+YZ5505LbXL	X001468HOV	B01G3JEPKM	MiYang Women's Tankini Striped Vintage Swim Dress (Light Blue X-Large)	2	1	1	0
+YZ7438K04xL	X0013MBSWJ	B01F78AYPK	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Black Dot 2XL (US 14W-16W)	1	1	0	0
+YZ5505JRL	X000UZHCHF	B013OSTFTG	MiYang Women's Tankini Striped Vintage Swim Dress (Pink Large)	5	1	2	2
+YZ7438B0XXXL	X0014DIYD3	B01F78B0QW	MiYang Vintage Sailor Pin Up Swimsuit One Piece Skirtini Cover Up Swimdress XL Blue Tag Size 3XL=US Size XL	4	2	0	2
+YZ5505K0-M	X001F2EAAJ	B071LFK69M	MiYang Women's Tankini Striped Vintage Swim Dress (Black Medium)	6	3	2	1
+YZ5505R0-2X	X001C7ZB4V	B01NCIBC55	MiYang Women's Tankini Striped Vintage Swim Dress	2	1	0	1
+YZ5505DaS	X000U0KXMV	B013OSTD48	MiYang Women's Tankini Striped Vintage Swim Dress (Deep Blue Small)	8	4	4	0
+YZ5505DaM	X000U0KXN5	B013OSTFWS	MiYang Women's Tankini Striped Vintage Swim Dress (Deep Blue Medium)	6	2	0	4
+YZ5505R0-M	X001AOIGS9	B01N7F779G	MiYang Women's Tankini Striped Vintage Swim Dress	3	2	0	1
+YZ5505DaL	X000U0KXNF	B013OSTKN2	MiYang Women's Tankini Striped Vintage Swim Dress (Deep Blue Large)	20	8	4	8
+YZ7438B04XL	X0014NGJDZ	B01F78B2GK	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Blue 2XL (US 14W-16W)	3	1	0	2
+YZ5505K0-S	X001F24SER	B071F8K78X	MiYang Women's Tankini Striped Vintage Swim Dress (Black Small)	3	1	0	2
+YZ7438B0M	X0014UV9XX	B01F78AU72	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Blue S (US 4-6)	1	0	0	1
+YZ7438K0M	X0014W4ELF	B01F78AQYY	MiYang Vintage Sailor Pin Up Swimsuit One Piece Skirtini Cover Up Swimdress	2	0	0	2
+YZ5505R0-L	X001ANJX8R	B01MYWR3ET	MiYang Women's Tankini Striped Vintage Swim Dress Red and White (Large)	3	1	0	2
+YZ5505Da	X000SPI983	B00YAIA008	MiYang Women's Tankini Striped Vintage Swim Dress (Deep Blue X-Small)	2	1	1	0
+YZ5505LbM	X00145GWJJ	B06XYZMZ9V	MiYang Women's Tankini Striped Vintage Swim Dress (Light Blue Medium)	1	0	1	0
+YZ5505Da2L	X000W3X3QT	B017JO0OBE	MiYang Women's Tankini Striped Vintage Swim Dress (Deep Blue XX-Large)	11	4	3	4
+YZ7438B0L	X0014U4LHJ	B01F78AVPI	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Blue M (US 8)	1	1	0	0
+YZ7438K0XXL	X0014Z7G2V	B01F78AVEO	MiYang Vintage Sailor Pin up Swimsuit One Piece Skirtini Cover up Swimdress Black Dot Large (US 12-14)	1	1	0	0
+YZ5505K0-L	X001F1BGST	B071HV6ZCB	MiYang Women's Tankini Striped Vintage Swim Dress (Black Large)	14	4	4	6
+YZ5505K0-XS	X001F1CPTX	B0711R9KHM	MiYang Women's Tankini Striped Vintage Swim Dress (Black X-Small)	1	1	0	0
+YZ5505JR	X000SPI98D	B00YAIA20G	MiYang Women's Tankini Striped Vintage Swim Dress (Pink X-Small)	1	0	0	1

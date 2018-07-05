@@ -1,0 +1,7 @@
+sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
+N039YP036	X001J1TFHT	B074K1913X	Women Bras On Sale Purple Sports Cup Bra Purple 36	2	0	0	2
+JBL-QFFMR5XL	X001KB83ET	B073F1HX4C	HuXang Cloth Womens Fold Over Waist Solid Ruffled Flare Palazzo Pants Capris(Pink,XL)	1	0	0	1
+N2716YMH36	X001JBF9AV	B074QFDH8R	ZAIAI Sports Bras For Women Plus Size Rose Red 36	1	0	0	1
+N531YK036	X001J1PW21	B074K4DJKF	Women Bras Nursing Bra Black 34	2	1	1	0
+NK-XUHM001-K0-S	X001O773R7	B078WR3XZL	ZAIAI Boyshort Panties Women Sexy Lace Fun Underwear Briefs Ladies Knickers Womens Triangle Thong Black S	2	0	1	1
+NY-XUHM463-P0-XL	X001QDWYMD	B07BKQDRB2	ZAIAI Women's Lace Bralette Wireless Band Lace Bra Light Purple XL	1	0	0	1

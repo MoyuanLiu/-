@@ -1,0 +1,35 @@
+sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
+BBBD-BUSB1605B-RD	B07CBPY63R	B07CBPY63R	360 All Positions Detachable Ergonomic Baby Carrier For Infant Child Todller Red 2	2	0	0	2
+GW-LULHY-10	X001SLSCMT	B01M3R3CVA	luciphia Dog Bowl Stainless Steel With Rubber Base that Bowls Wont Slip Perfect for Middle Large Size Dogs Dog Food Bowl Water Bowl	2	0	0	2
+LGQ-IUYL100-PK	B0798PX336	B0798PX336	Luciphia Retractable Dog Walking Leash 16 ft for Small Medium Large Dogs - Up To 88 lb Dog - Ergonomic Grip - Waste Bag Dispenser and Collapsible Water Bowl included	4	0	4	0
+LGQ-IUYL100-RD	B0798PY6XT	B0798PY6XT	Luciphia Retractable Pet Dog Walking Leash for Small Medium Large Dogs - Ergonomic Grip - Waste Bag Dispenser and Collapsible Water Bowl included	7	0	7	0
+LYQ-WF7125-KO-XL	B077XVV8MB	B077XVV8MB	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress XL Black	1	0	0	1
+SCF-B01-012	B075XHCCFQ	B075XHCCFQ	Women's Large Print Floral Chiffon Scarf Poncho Shawl	1	0	0	1
+ST172-WT2-XL	B074SL2P7T	B074SL2P7T	Men's Long Sleeve Formal Business Dress Shirts White X-Large	2	0	2	0
+ST173-PK-XL	B074SZD1GM	B074SZD1GM	MOCOTONO Men's Short Sleeve Formal Dress Shirts Pink X-Large	1	1	0	0
+TZ-IUYL240-BEAR-S	X001SNGXAF	B07DF6DDNM	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bear Small	3	0	2	1
+TZ-IUYL240-BEAR-M	X001SNZ531	B07DFC3CFS	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bear Medium	1	0	0	1
+TZ-IUYL240-LOVE-S	X001SVZZGP	B07DL5G8KV	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Love Small	1	0	0	1
+ST173-PP-S	B074SL9Y3C	B074SL9Y3C	Men's Short Sleeve Formal Dress Shirts Purple Small	1	1	0	0
+TZ-IUYL240-DOT2-S	X001SO0HNN	B07DF9YBBV	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Dot2 Small	2	1	0	1
+TZ-IUYL240-BEAR-L	X001SNKCGL	B07DFBHNBF	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bear Large	1	0	0	1
+ST173-PK-M	B074SKGH3S	B074SKGH3S	MOCOTONO Men's Short Sleeve Formal Dress Shirts Pink Medium	1	1	0	0
+TZ-IUYL240LHY-ELPH-M	X001SMPLHR	B07BGSSQLV	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Elephant Medium	1	0	0	1
+TZ-IUYL240LHY-PAW-S	X001SMP2F3	B079HQPJP2	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Paw Small	56	2	52	2
+TZ-IUYL240LHY-STRAWBERRY-S	X001SMQ56N	B07CBPP52D	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Small	1	0	0	1
+XQ-IUYL260-PP-S	B079GNL7BD	B079GNL7BD	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	1	0	0	1
+TZ-IUYL240LHY-ELPH-S	X001SLRYUF	B07BGWTSX6	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Elephant Small	94	7	86	1
+TZ-IUYL240LHY-DOT-S	X001SHIRH3	B07CBPWQZT	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Dot Small	5	1	2	2
+TZ-IUYL240LHY-PAW-M	X001SMPVCH	B079HPLTVC	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Paw Medium	9	3	2	4
+TZ-IUYL240LHY-BONE-L	X001SMOCMH	B079HRST93	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bone Large	3	1	0	2
+TZ-IUYL240LHY-ELPH-L	X001SMPN1L	B07BGW4LWX	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Elephant Large	3	1	0	2
+TZ-IUYL240-STRAWBERRY-L	B07C1P3Z1B	B07C1P3Z1B	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Large	2	1	1	0
+TZ-IUYL240-STAR-S	B079HS8H93	B079HS8H93	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Small	1	1	0	0
+TZ-IUYL240LHY-STRAWBERRY-L	X001SLY9ET	B07C1P3Z1B	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Large	2	1	1	0
+TZ-IUYL240LHY-DOT-M	X001SIN10Z	B07CBPJCK5	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Dot Medium	1	1	0	0
+TZ-IUYL240LHY-DOT-L	X001SMP3RF	B07C16NFVZ	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Dot Large	1	0	0	1
+TZ-IUYL240-STAR-M	B079HQGKS9	B079HQGKS9	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Medium	1	0	0	1
+TZ-IUYL240LHY-PAW-L	X001SMP2FD	B079HP2RFZ	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Paw Large	1	0	0	1
+TZ-IUYL240LHY-BONE-S	X001SMPZ0F	B079HQW62H	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bone Small	24	0	24	0
+XQ-IUYL260-BK-M	B079GQ697Z	B079GQ697Z	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	1	0	0	1
+TZ-IUYL240LHY-BONE-M	X001SMPN1B	B079HPCGB9	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bone Medium	8	2	2	4

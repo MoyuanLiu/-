@@ -1,0 +1,22 @@
+sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
+54-2HQR-70OB	X001FPB0BN	B00115TXRE	Dead Sea Premier Eye Serum.	9	0	0	9
+HF-a10e-MINM	X001REQDTV	B0010BBCFK	Premier Dead Sea Miracle Noir Mask, 2.04 Fluid Ounce	2	2	0	0
+DM-LSF9-NGGG	X001C13LRB	B002QSD1YQ	Dead Sea Premier Moisture Cream for Normal to Dry Skin	1	0	0	1
+A5-X9GB-M912	X001K0ZSB1	B002DL9M2G	Premier Dead Sea Luxurious Anti-aging Neck Cream, 2.04 oz	1	0	0	1
+2N-C2ZT-YSNI	X001CPXTFL	B0016VW618	Premier Usa Dead Sea shaving Cream for Men All Skin	1	0	1	0
+6T-8V8W-3S67	X0015FXF93	B000VF5WVG	Premier by Dead Sea Premier Luxury Collection Milk Cleanser, 8.5 fl oz	2	0	0	2
+06-LI7A-IZ44	X001HAG5XJ	B0052K03KA	Premier Dead Sea Essential Face Cleanser for Men	5	1	3	1
+HF-a69e-PEFG	X001PZ8VND	B00BD3OU72	Premier Dead Sea Para-pharmaceutical Exfoliating Facial Gel, Brown, 4.3958-Fluid Ounce	1	1	0	0
+HF-f9a-GSBB	X001RDSOA3	B004OF47N8	Silky Body Butter (Apple, Green Tea, and Ginger)5.95 ounces	7	3	2	2
+HF-a77e-TSSS	X001REPG53	B004H07J80	Premier Dead Sea Aromatherapy Mineral Body Treatment, Silver, Salt Scrub, 425-Grams	4	3	0	1
+HF-c7e-LANC	X001S9JTKZ	B002DL9M2G	Premier Dead Sea Luxurious Anti-aging Neck Cream, 2.04 oz	1	1	0	0
+HF-n2ae-NBNK	X001R7T2N7	B004H02GDI	Dead Sea Premier Beautifying Nail Kit Milk and Honey - Body Lotion,Cuticle Oil,Nail File,Buffing Block	3	1	1	1
+KN-QWP1-D5XB	X001HBSA3V	B004OF9EPO	Gratiae AHA Cleansing and Peeling Foam	5	0	1	4
+KP-1178-XPKV	X001K6ASLP	B00158196K	Premier Dead Sea Body Butter Passion Fruit Scent	3	1	2	0
+SM-LSLQ-C3QE	X001B6AOMR	B004X9BSG4	Gratiae Organics Lifting Facial Mask, 1.7 Ounce	7	0	0	7
+R0-9P3N-MM7G	X001B57XHH	B0016VW618	Premier Usa Dead Sea shaving Cream for Men All Skin	1	0	1	0
+PP-7C5M-OKFZ	X001K6E0FZ	B00GU2QXVC	Premier Dead Sea Refining Moisture Cream	60	0	0	60
+MY71115ZQXL	B0761PBXCV	B0761PBXCV	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy L	1	0	1	0
+MY71115K0XXL	B0761SKR3P	B0761SKR3P	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Black XL	1	0	0	1
+YI-LW70-5D1O	X001BZTC67	B003Y7CMF2	Premier Dead Sea Instant Stretching and Revitalizing Lifting Mask - 2.04 oz Ounce	1	0	1	0
+MY71115MSM	B0761PV952	B0761PV952	ZAIAI Women's Coat With Fur Hood With 90% Down Parka Puffer Jacket Beige M	1	0	0	1

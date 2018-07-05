@@ -1,0 +1,25 @@
+sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity
+3S-1QX9-6RRP	X001MU9L2B	B001DXOWA2	Premier Dead Sea Ageless Future Cell Renewal Cream	New	49.99	No		Yes	47	46	1	0	47	0.02	0	0	0
+5X-E8TX-UKIW	X00171A4VR	B002DYY35Y	Premier Dead Sea Mineral Body Treatment - Salt Scrub - Lemon Aroma	New	17.99	No		Yes	19	19	0	0	19	0.01	0	0	0
+8V-1JSS-5D7M	X001GR4BZ7	B004H02GDI	Dead Sea Premier Beautifying Nail Kit Milk and Honey - Body Lotion,Cuticle Oil,Nail File,Buffing Block	New	18.99	No		Yes	0	0	0	0	0	0.08	0	0	0
+97-6SJH-1LTA	X001FB4RML	B001561M00	Premier Dead Sea Intensive Biox Thermal Beauty Mask**NEW IN BOX**SAME IN MALL**	New	53.49	No		Yes	0	0	0	0	0	0.03	0	0	0
+AG-0LLQ-O0M5	X001HQSD6Z	B0016Q1RI6		Unknown					0	0	0	0	0		0	0	0
+CF-7C1X-596L	X001MPQ9NZ	B003Y7EU16	Premier Dead Sea Day Cream Complex (for normal to dry skin)	New	53.99	No		Yes	92	92	0	0	92	0.02	0	0	0
+GX-HUMS-YACQ	X001CYMUZ7	B000VEXG2E		Unknown					0	0	0	0	0		0	0	0
+HF-a136e-MHBB	X001S7U39D	B0012IVH2O	premier dead sea body butter milk & honey scent Plastic Jar	New	15.98	No		Yes	0	0	0	0	0	0.01	0	0	0
+HF-a53e-PRPM	X001PZ8VN3	B001278VEW	Premier Dead Sea Professional Peeling Mask	New	39.99	Yes	4	No	0	0	0	0	0	0.02	0	0	0
+HF-a69e-PEFGX	X001S7TZTR	B0016Q1RI6	Premier Dead Sea Para-pharmaceutical Exfoliating Facial Gel, Brown, 4.25-Fluid Ounce	New	25.69	No		Yes	0	0	0	0	48	0.06	48	0	0
+HF-a80e-BTBM	X001S9JE3R	B001561M00	Premier Dead Sea Intensive Biox Thermal Beauty Mask**NEW IN BOX**SAME IN MALL**	New	53.49	No		Yes	52	51	1	0	52	0.03	0	0	0
+HF-f2-LIFT	X001Q0JMUX	B004X9BSG4	Gratiae Organics Lifting Facial Mask, 1.7 Ounce	New	25.50	Yes	12	No	0	0	0	0	0	0.02	0	0	0
+HF-f9a-GSBB	X001RDSOA3	B004OF47N8	Silky Body Butter (Apple, Green Tea, and Ginger)5.95 ounces	New	11.50	No		Yes	25	23	0	2	49	0.02	24	0	0
+KN-2B5X-YB0L	X001EXCH95	B003CEA88U		Unknown					1	0	1	0	1		0	0	0
+L7-N9M4-0P6X	X001B6DY5L	B004HFNFU6		Unknown					0	0	0	0	0		0	0	0
+LF-QRR8-VUXE	X001HAJ883	B003NQ7P0Q		Unknown					0	0	0	0	0		0	0	0
+M5-BNRC-2A6O	X001DQGBGD	B004X9BRRO		Unknown					0	0	0	0	0		0	0	0
+MY16055MSXL	B0761Q7KPX	B0761Q7KPX	ZAIAI Womens Wool Jacket Coat Outwear Parka Overcoat Beige XL	New	42.99	No		Yes	7	7	0	0	19	0.56	12	0	0
+MY71107K0XXL	B0761NLN4R	B0761NLN4R	ZAIAI Women's Parkas Anoraks Long Coats with Removable Faux Fur Trim Hood Black XXL	New	42.99	No		Yes	1	0	1	0	39	1.11	38	0	0
+MY71107ZQS	B0761N286T	B0761N286T	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Navy S	New	42.99	No		Yes	8	8	0	0	14	1.11	6	0	0
+MY71107ZQXL	B0761NG4W8	B0761NG4W8	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Navy XL	New	42.99	No		Yes	0	0	0	0	6	1.11	6	0	0
+MY71115MSS	B0761NHB1Y	B0761NHB1Y	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Beige XS	New	42.99	No		Yes	7	7	0	0	13	0.78	6	0	0
+PJ-CPH7-5MXE	X001K0YGJ1	B01G3AIYJO	Gratiae Organic Beauty By Nature Exfoliating Body Scrub, Apple/Green Tea and Ginger by Gratiae Organic Beauty By Nature	New	15.99	No		Yes	120	120	0	0	120	0.03	0	0	0
+VR-3PK8-48QD	X001DF2XE3	B004H07J80		Unknown					0	0	0	0	0		0	0	0
