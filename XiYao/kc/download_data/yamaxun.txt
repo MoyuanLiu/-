@@ -1,12 +1,12 @@
 sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity
 DDBNYW0	X001IJSTY7	B074FPYB9N	ZAIAI Women's Florence Halter Dress with Garter and Stockings White	New	15.99	No		Yes	24	24	0	0	24	0.05	0	0	0
-DDHNYK0	X001IJSJ3X	B074FP8NZF	ZAIAI Women Sexy Lingerie For Women For Sex, Lace Bodysuit Mesh Babydoll Halter Chemise Strapped Outfits Black1	New	15.99	No		Yes	7	7	0	0	7	0.08	0	0	0
-GJHNYK0	X001IJSPZF	B074FQSTJL	ZAIAI Women Sexy Lace Dress G-string Lingerie Sheer Babydoll Sleepwear Nightdress Robe Black2	New	15.99	No		Yes	41	41	0	0	41	0	0	0	0
+DDHNYK0	X001IJSJ3X	B074FP8NZF	ZAIAI Women Sexy Lingerie For Women For Sex, Lace Bodysuit Mesh Babydoll Halter Chemise Strapped Outfits Black1	New	15.99	No		Yes	6	6	0	0	6	0.08	0	0	0
+GJHNYK0	X001IJSPZF	B074FQSTJL	ZAIAI Women Sexy Lace Dress G-string Lingerie Sheer Babydoll Sleepwear Nightdress Robe Black2	New	15.99	No		Yes	40	40	0	0	40	0	0	0	0
 HLYHMYSG	X001MNOG87	B0761NFQMT	ZAIAI Women's Anorak Parka Coat Silver Gray	New	58.99	No		Yes	45	45	0	0	45	0	0	0	0
-JBL-QFFMMHL	X001KB9FIH	B073F2HG9P	HuXang Cloth Womens Fold Over Waist Solid Ruffled Flare Palazzo Pants Capris(Rose Red,L)	New	61.90	No		Yes	3	3	0	0	3	0.15	0	0	0
+JBL-QFFMMHL	X001KB9FIH	B073F2HG9P	HuXang Cloth Womens Fold Over Waist Solid Ruffled Flare Palazzo Pants Capris(Rose Red,L)	New	61.90	No		Yes	2	2	0	0	2	0.15	0	0	0
 JBL-QFFMMHM	X001KBA58V	B073F2WTJX	HuXang Cloth Womens Fold Over Waist Solid Ruffled Flare Palazzo Pants Capris(Rose Red,M)	New	61.90	No		Yes	3	3	0	0	3	0.15	0	0	0
 JBL-QFFMMHS	X001KB85Y7	B073F35WHV	HuXang Cloth Womens Fold Over Waist Solid Ruffled Flare Palazzo Pants Capris(Rose Red,S)	New	61.90	No		Yes	0	0	0	0	0	0.15	0	0	0
-JBL-QFFMMHXL	X001KB9HDP	B073F2M56J	HuXang Cloth Womens Fold Over Waist Solid Ruffled Flare Palazzo Pants Capris(Rose Red,XL)	New	61.90	No		Yes	2	2	0	0	2	0.15	0	0	0
+JBL-QFFMMHXL	X001KB9HDP	B073F2M56J	HuXang Cloth Womens Fold Over Waist Solid Ruffled Flare Palazzo Pants Capris(Rose Red,XL)	New	61.90	No		Yes	1	1	0	0	1	0.15	0	0	0
 JBL-QFFMMHXXL	X001KB837B	B073F3JBY6	HuXang Cloth Womens Fold Over Waist Solid Ruffled Flare Palazzo Pants Capris(Rose Red,XXL)	New	61.90	Yes	0	No	0	0	0	0	0	0.12	0	0	0
 JBL-QFFMR5L	X001KB8619	B073F29B28	HuXang Cloth Womens Fold Over Waist Solid Ruffled Flare Palazzo Pants Capris(Pink,L)	New	61.90	No		Yes	0	0	0	0	0	0.13	0	0	0
 JBL-QFFMR5M	X001KB9KPP	B073F2QMQK	HuXang Cloth Womens Fold Over Waist Solid Ruffled Flare Palazzo Pants Capris(Pink,M)	New	61.90	No		Yes	2	2	0	0	2	0.12	0	0	0
@@ -20,10 +20,10 @@ KTKXKB0	B0725CDCCN	B0725CDCCN		Unknown					0	0	0	0	0		0	0	0
 KTKXKB0L	X001H7GZUZ	B073XM44QG	HuXang Cloth Women's Plus Size Casual Pant Suits Cropped Wide Pants(Black,L)	New	69.90	Yes	0	No	0	0	0	0	0	0.17	0	0	0
 KTKXKG0	B071VFYY2V	B071VFYY2V		Unknown					0	0	0	0	0		0	0	0
 KTKXKG0L	X001H7IYZ9	B073XLK4G5	HuXang Cloth Women's Plus Size Casual Pant Suits Cropped Palazzo Pants(Grey,L)	New	69.90	No		Yes	0	0	0	0	0	0.17	0	0	0
-KTKXKR0	B071NP2X5N	B071NP2X5N	MOCOTONO Women's Plus Size Elastic Waist Wide Leg Linen Cropped Pants Red Medium	New	23.98	No		Yes	7	7	0	0	7	0.17	0	0	0
+KTKXKR0	B071NP2X5N	B071NP2X5N	MOCOTONO Women's Plus Size Elastic Waist Wide Leg Linen Cropped Pants Red Medium	New	23.98	No		Yes	1	1	0	0	1	0.17	0	0	0
 KTKXKW0	B0716LH9B7	B0716LH9B7		Unknown					0	0	0	0	0		0	0	0
-KTKXKW0L	X001H79QA1	B073XMFYWX	Women's White Linen Pants Casual Loose Linen Cropped Wide Leg Pants(White,L)	New	69.90	No		Yes	14	14	0	0	14	0.17	0	0	0
-KTKXKY0	B071HHSJ1R	B071HHSJ1R	MOCOTONO Women's Plus Size Elastic Waist Wide Leg Linen Cropped Pants Yellow Medium	New	23.98	No		Yes	7	7	0	0	7	0.17	0	0	0
+KTKXKW0L	X001H79QA1	B073XMFYWX	Women's White Linen Pants Casual Loose Linen Cropped Wide Leg Pants(White,L)	New	69.90	No		Yes	15	14	0	1	15	0.17	0	0	0
+KTKXKY0	B071HHSJ1R	B071HHSJ1R	MOCOTONO Women's Plus Size Elastic Waist Wide Leg Linen Cropped Pants Yellow Medium	New	23.98	No		Yes	6	6	0	0	6	0.17	0	0	0
 MY16055K0L	X001MNO43T	B0761V7L2R	ZAIAI Womens Hooded Warm Winter Faux Fur Lined Parkas Anoraks Long Coats Black L	New	69.99	No		Yes	2	2	0	0	2	0.56	0	0	0
 MY16055K0M	X001MNP4LZ	B0761QBHM9	ZAIAI Womens Hooded Warm Winter Faux Fur Lined Parkas Anoraks Long Coats Black M	New	69.99	No		Yes	5	5	0	0	5	0.56	0	0	0
 MY16055K0S	X001MNB5TF	B0761S8TXR	ZAIAI Womens Hooded Warm Winter Faux Fur Lined Parkas Anoraks Long Coats Black S	New	69.99	No		Yes	2	2	0	0	2	0.56	0	0	0
@@ -40,10 +40,10 @@ MY16055ZQXL	X001MNB5T5	B0761RRL7M	ZAIAI Womens Hooded Warm Coats Parkas With Fax
 MY16055ZQXXL	X001MNNKVV	B0761NGYTK	Womens Hooded Warm Coats Parkas With Fax Fur Jackets Navy XXL	New	42.49	No		Yes	4	4	0	0	4	0.56	0	0	0
 MY71107K0L	X001MNNKVL	B0761PSPTJ	ZAIAI Women's Parkas Anoraks Long Coats with Removable Faux Fur Trim Hood Black L	New	69.99	No		Yes	2	1	1	0	2	1.15	0	0	0
 MY71107K0S	X001MNOG91	B0761PDMGN	ZAIAI Women's Parkas Anoraks Long Coats with Removable Faux Fur Trim Hood Black S	New	69.99	No		Yes	4	4	0	0	4	1.12	0	0	0
-MY71107K0XL	X001MNP15J	B0761PVQYZ	ZAIAI Women's Parkas Anoraks Long Coats with Removable Faux Fur Trim Hood Black XL	New	69.99	No		Yes	3	0	3	0	49	1.11	46	0	0
+MY71107K0XL	X001MNP15J	B0761PVQYZ	ZAIAI Women's Parkas Anoraks Long Coats with Removable Faux Fur Trim Hood Black XL	New	69.99	No		Yes	3	0	3	0	3	1.11	0	0	0
 MY71107K0XXL	X001MNO1X7	B0761NLN4R	ZAIAI Women's Parkas Anoraks Long Coats with Removable Faux Fur Trim Hood Black XXL	New	69.99	No		Yes	0	0	0	0	0	1.11	0	0	0
 MY71107MSL	X001MNP4M9	B0761P4LKC	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Beige L	New	69.99	No		Yes	5	3	2	0	5	1.11	0	0	0
-MY71107MSM	X001MNOG8H	B0761NJPNM	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Beige M	New	69.99	No		Yes	8	7	1	0	72	1.11	64	0	0
+MY71107MSM	X001MNOG8H	B0761NJPNM	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Beige M	New	69.99	No		Yes	8	7	1	0	8	1.11	0	0	0
 MY71107MSS	X001MNP4TH	B0761NM3SZ	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Beige S	New	69.99	No		Yes	5	5	0	0	5	1.11	0	0	0
 MY71107MSXL	X001MNO43J	B0761NNM84	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Beige XL	New	69.99	No		Yes	9	8	1	0	9	1.11	0	0	0
 MY71107MSXXL	X001MNNKWP	B0761PTZY2	ZAIAI Women's Parka Winter Coat Overcoat Long Down Jacket Outwear Beige XXL	New	69.99	No		Yes	10	10	0	0	10	1.11	0	0	0
@@ -61,10 +61,10 @@ MY71115MSM	X001MNB5VD	B0761PV952	ZAIAI Women's Coat With Fur Hood With 90% Down 
 MY71115MSS	X001MNOAVF	B0761NHB1Y	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Beige XS	New	69.99	No		Yes	5	5	0	0	5	0.78	0	0	0
 MY71115MSXL	X001MNP14F	B0761PWB12	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Beige L	New	69.99	No		Yes	5	5	0	0	5	0.78	0	0	0
 MY71115MSXXL	X001MNQ49B	B0761N46BN	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Beige XL	New	69.99	No		Yes	4	4	0	0	4	0.78	0	0	0
-MY71115ZQL	X001MNB5ZT	B0761S2M63	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy M	New	69.99	No		Yes	5	5	0	0	59	0.78	54	0	0
+MY71115ZQL	X001MNB5ZT	B0761S2M63	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy M	New	69.99	No		Yes	5	5	0	0	5	0.78	0	0	0
 MY71115ZQM	X001MNP14Z	B0761MXCJB	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy S	New	69.99	No		Yes	7	7	0	0	7	0.78	0	0	0
 MY71115ZQS	X001MNQ49V	B0761R6ZG2	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy XS	New	69.99	No		Yes	6	6	0	0	6	0.78	0	0	0
-MY71115ZQXL	X001MNP4U1	B0761PBXCV	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy L	New	69.99	No		Yes	7	5	2	0	10	0.78	3	0	0
+MY71115ZQXL	X001MNP4U1	B0761PBXCV	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy L	New	69.99	No		Yes	7	5	2	0	7	0.78	0	0	0
 MY71115ZQXXL	X001MNOAW9	B0761MLYTQ	ZAIAI Women's Quilted Puffer Jacket Coat with Faux Fur Trimmed Hood Navy XL	New	69.99	No		Yes	8	8	0	0	8	0.78	0	0	0
 N029YE036	X001J1S3V3	B074JWL6PF	Women Bras Wireless Sports Bra Yoga Tops Activewear Workout For Women Gray 36	New	30.90	No		Yes	43	43	0	0	43	0.12	0	0	0
 N029YE038	X001J1SSRR	B074JWL4F2	Women Bras Plus Size Front Hook Sports Bra For Women Gray 38	New	30.90	No		Yes	41	41	0	0	41	0.12	0	0	0
@@ -84,7 +84,7 @@ N039YG040	X001J1PSS9	B074JW46DX	Womens Yoga Sport Bra Light Support Strappy Free
 N039YP036	X001J1TFHT	B074K1913X	Women Bras On Sale Purple Sports Cup Bra Purple 36	New	35.90	No		Yes	29	27	0	2	29	0.12	0	0	0
 N039YP038	X001J1U6WR	B074JXGVBD	ZAIAI Sports Bras For Women Plus Size Purple 38	New	35.90	No		Yes	30	30	0	0	30	0.12	0	0	0
 N039YP040	X001J0VN57	B074JY219R	ZAIAI Womens Yoga Purple Sports Bra Purple 40	New	35.90	No		Yes	30	30	0	0	30	0.12	0	0	0
-N039YR036	X001J0VN4X	B074JYMHZL	Women Bras Size Underwire Bra Red 36	New	35.90	No		Yes	10	10	0	0	10	0.12	0	0	0
+N039YR036	X001J0VN4X	B074JYMHZL	Women Bras Size Underwire Bra Red 36	New	35.90	No		Yes	11	10	0	1	11	0.12	0	0	0
 N039YR038	X001J0UEBV	B074K3YM47	Women Bras On Sale Plus Size Every Day Sports Bra Red 38	New	35.90	No		Yes	2	2	0	0	2	0.12	0	0	0
 N039YR040	X001J1PW17	B074K4GLGJ	ZAIAI Women Bras Comfor Straps Sports Bra Red 40	New	35.90	No		Yes	22	22	0	0	22	0.12	0	0	0
 N039YTHS36	X001J0U47Z	B074JTR9T4	ZAIAI Women Bras Size Sports Bra Pink 36	New	35.90	No		Yes	25	25	0	0	25	0.12	0	0	0
@@ -132,20 +132,20 @@ N2716YHL34	X001JBEART	B074QJ923S	ZAIAI Sports Bra 34B Running Bra Lake Blue 34	N
 N2716YHL36	X001JBFXMF	B074Q9CTNJ	Sports Bras For Women Padded Sports Bra Lake Blue 36	New	35.90	No		Yes	41	41	0	0	41	0.12	0	0	0
 N2716YHL38	X001JBEP79	B074QQ5S79	ZAIAI Women Bras and Panties Sexy Bra Lake Blue 38	New	35.90	No		Yes	46	46	0	0	46	0.12	0	0	0
 N2716YMH34	X001JBEDI5	B074QGD61W	ZAIAI Womens Sports Bra Small Lightly Padded Rose Red 34	New	35.90	No		Yes	47	47	0	0	47	0.12	0	0	0
-N2716YMH36	X001JBF9AV	B074QFDH8R	ZAIAI Sports Bras For Women Plus Size Rose Red 36	New	35.90	No		Yes	39	37	0	2	39	0.12	0	0	0
+N2716YMH36	X001JBF9AV	B074QFDH8R	ZAIAI Sports Bras For Women Plus Size Rose Red 36	New	35.90	No		Yes	37	37	0	0	37	0.12	0	0	0
 N2716YMH38	X001JBEP7J	B074QCYQ9L	ZAIAI Nursing Bra Underwire No Bra Bra Rose Red 38	New	9.99	No		Yes	44	44	0	0	44	0.12	0	0	0
-N2716YR034	X001JBFKKP	B074QDS9ZN	ZAIAI Womens Yoga Sport Bra For Free Bra Red 34	New	35.90	No		Yes	33	33	0	0	33	0.12	0	0	0
-N2716YR036	X001JBF9B5	B074QGLLQN	ZAIAI Nursing Bras For Women Sports Bra Red 36	New	35.90	No		Yes	30	30	0	0	30	0.12	0	0	0
-N2716YR038	X001JBEAS3	B074QG3P8G	Womens Yoga Shefit Sports Bra Red 38	New	35.90	No		Yes	36	36	0	0	36	0.12	0	0	0
+N2716YR034	X001JBFKKP	B074QDS9ZN	ZAIAI Womens Yoga Sport Bra For Free Bra Red 34	New	35.90	No		Yes	34	33	0	1	34	0.12	0	0	0
+N2716YR036	X001JBF9B5	B074QGLLQN	ZAIAI Nursing Bras For Women Sports Bra Red 36	New	35.90	No		Yes	30	28	0	2	30	0.12	0	0	0
+N2716YR038	X001JBEAS3	B074QG3P8G	Womens Yoga Shefit Sports Bra Red 38	New	35.90	No		Yes	35	35	0	0	35	0.12	0	0	0
 N2716YYGL34	X001JBFK9L	B074QCGCJC	Sports Bras For Teens Seamless Nursing Bra Green 34	New	35.90	No		Yes	36	36	0	0	36	0.12	0	0	0
 N2716YYGL36	X001JBF0O1	B074QDSYXY	ZAIAI Womens Yoga Strappy Sports Bra Green 36	New	35.90	No		Yes	34	34	0	0	34	0.12	0	0	0
-N2716YYGL38	X001JBF03H	B074Q9RQFH	ZAIAI Women Bras Comfort Sports Bras For Women Green 38	New	35.90	No		Yes	35	35	0	0	35	0.12	0	0	0
+N2716YYGL38	X001JBF03H	B074Q9RQFH	ZAIAI Women Bras Comfort Sports Bras For Women Green 38	New	35.90	No		Yes	35	34	0	1	35	0.12	0	0	0
 N31459YB040	X001IBK7I1	B074CXLQVY	Women's Panty Bra Push Up Blue 38	New	41.90	No		Yes	6	6	0	0	6	0.14	0	0	0
 N31459YB042	X001IBK7HH	B074CX8YMH	Panty And Bra Sets For Women Blue 40	New	41.90	No		Yes	3	3	0	0	3	0.14	0	0	0
 N31459YB044	X001IBMLQR	B074CX9229	Women's Laced & Lace Sexy Trimmed Bras (40, Blue)	New	41.90	No		Yes	1	1	0	0	1	0.14	0	0	0
 N31459YJS42	X001IBKBUF	B074CX7NWQ	Women s Laced  and  Lace Sexy Trimmed Bra Set  Orange/Black  42/95	New	41.90	No		Yes	10	10	0	0	10	0.14	0	0	0
-N31459YJS46	X001IBK7HR	B074CXNWMZ	Women's Pushup Bra Panty Set Orange 44	New	41.90	No		Yes	13	13	0	0	13	0.14	0	0	0
-N31459YLL48	X001IBK907	B074CXBB31	ZAIAI Women's Bra Panty Set Bras Bright Green 46	New	41.90	No		Yes	1	0	1	0	1	0.14	0	0	0
+N31459YJS46	X001IBK7HR	B074CXNWMZ	Women's Pushup Bra Panty Set Orange 44	New	41.90	No		Yes	12	12	0	0	12	0.14	0	0	0
+N31459YLL48	X001IBK907	B074CXBB31	ZAIAI Women's Bra Panty Set Bras Bright Green 46	New	41.90	No		Yes	0	0	0	0	0	0.14	0	0	0
 N31459YMH38	X001IBKB23	B074CWRDHL	Women's Bra Panty Set Rose Red 36	New	41.90	No		Yes	2	2	0	0	2	0.14	0	0	0
 N31459YMH42	X001IBK8ZX	B074CXR8YG	Women's Pushup Bra Panty Set Rose Red 40	New	41.90	No		Yes	4	4	0	0	4	0.11	0	0	0
 N31459YMH44	X001IBO43F	B074CXK4TV	Panty And Bra Sets For Women Rose Red 42	New	41.90	No		Yes	4	4	0	0	4	0.14	0	0	0
@@ -166,7 +166,7 @@ N531YB036	X001J0VN5H	B074JVMQRW	Women Bras Cotton Underwire Bra Blue 36	New	38.9
 N531YB038	X001J0VN43	B074K4DJJR	Bras For Women Big Girls Bra Blue 38	New	38.90	No		Yes	26	26	0	0	26	0.12	0	0	0
 N531YB040	X001J1SSSB	B074JW998T	Big Girls' Molded Underwire Bra Blue 38	New	38.90	No		Yes	28	28	0	0	28	0.12	0	0	0
 N531YK034	X001J1PW1H	B074K2QJ5H	Women Bras Push Up Girls Bras Black 32	New	38.90	No		Yes	27	27	0	0	27	0.12	0	0	0
-N531YK036	X001J1PW21	B074K4DJKF	Women Bras Nursing Bra Black 34	New	38.90	No		Yes	28	27	0	1	28	0.12	0	0	0
+N531YK036	X001J1PW21	B074K4DJKF	Women Bras Nursing Bra Black 34	New	38.90	No		Yes	27	27	0	0	27	0.12	0	0	0
 N531YK038	X001J1SSSL	B074JYYM5F	Women Bras On Sale 38b Nursing Bra Black 38	New	38.90	No		Yes	26	26	0	0	26	0.12	0	0	0
 N531YK040	X001J1S3UJ	B074K4K838	Women Bras On Clearance Underwire Bra Black 38	New	38.90	No		Yes	28	28	0	0	28	0.12	0	0	0
 N531YQL34	X001J0U475	B074K24HL3	Women Brassiere Nursing Bra Light Blue 34	New	38.90	No		Yes	28	28	0	0	28	0.12	0	0	0
@@ -187,7 +187,7 @@ N583YQZ40	X001IG2YGT	B074DW168F	Women's Embroidery Bras Set Lace Lingerie Bra Li
 N583YQZ42	X001IG8EKJ	B074DW2BY6	ZAIAI Women's Embroidery Bras Set Lace Lingerie Bra Light Purple 42	New	38.90	No		Yes	3	3	0	0	3	0.13	0	0	0
 N583YQZ44	X001IG370B	B074DVY6FY	ZAIAI Women's Embroidery Bras Set Lace Lingerie Bra Light Purple 44	New	38.90	No		Yes	2	2	0	0	2		0	0	0
 N86162KY0	X001IJWIVH	B074FXCCGK		Unknown					0	0	0	0	0		0	0	0
-N87232KP0XL	X001IJWU4H	B074FS9DHG	ZAIAI Womens Cotton Thong Underwear Lace Trim Soft Sexy Lingerie Panties Set(6 Pack) Purple XL	Unknown					0	0	0	0	0		0	0	0
+N87232KP0XL	X001IJWU4H	B074FS9DHG		Unknown					0	0	0	0	0		0	0	0
 N87232KXGHM	X001IJW9VV	B074FWGTNB	Womens Cotton Thong Underwear Lace Trim Soft Sexy Lingerie Panties Set(6 Pack) Watermelon Red M	New	10.99	No		Yes	1	1	0	0	1		0	0	0
 N87232KXSM	X001IJWC9F	B074FX3HCW	ZAIAI Womens Cotton Thong Underwear Lace Trim Soft Sexy Lingerie Panties Set(6 Pack) Apricot M	New	10.99	No		Yes	1	1	0	0	1		0	0	0
 N87301KK0XL	X001IJW2RR	B074FVZ2LG	ZAIAI Women's Thongs Cotton Breathable Panties Bikini Underwear(4 Pack) Black XL	New	10.99	No		Yes	1	1	0	0	1		0	0	0
@@ -205,7 +205,6 @@ N87301KZHSXL	X001IK0P6L	B074FZHXMJ	ZAIAI Women's Thongs Cotton Breathable Pantie
 N87309KW0L	X001IJX06T	B074FTYZMD	ZAIAI Women's Invisible Seamless Bikini Underwear Half Back Coverage Panties(6 Pack) White L	New	12.99	No		Yes	1	1	0	0	1	0.03	0	0	0
 N87309KW0M	X001IJX073	B074FTCGDW	Women's Invisible Seamless Bikini Underwear Half Back Coverage Panties(6 Pack) White M	New	12.99	No		Yes	1	1	0	0	1		0	0	0
 N87309KW0XL	X001IJX4A1	B074FV2QSZ	ZAIAI Women's Invisible Seamless Bikini Underwear Half Back Coverage Panties(6 Pack) White XL	New	12.99	No		Yes	1	1	0	0	1		0	0	0
-N87309KZHSM	X001IJW9WP	B074FTKNM9		Unknown					0	0	0	0	0		0	0	0
 N87318KHLL	X001IJWZ83	B074FSYM6B	Women Sexy Cotton Thongs Intimates Briefs Tangas Ladies Panties(6 Pack) Lake Blue L	New	10.99	No		Yes	1	1	0	0	1		0	0	0
 N87318KR5L	X001IJWU1P	B074FSVZ5H	Women Sexy Cotton Thongs Intimates Briefs Tangas Ladies Panties(6 Pack) Pink L	New	10.99	No		Yes	1	1	0	0	1		0	0	0
 N87318KR5XL	X001IJXFKF	B074FQZXDS	Women Sexy Cotton Thongs Intimates Briefs Tangas Ladies Panties(6 Pack) Pink XL	New	10.99	No		Yes	1	1	0	0	1		0	0	0
@@ -215,7 +214,7 @@ N87318KXGHXL	X001IJWZ8D	B074FRG96Y	ZAIAI Women Sexy Cotton Thongs Intimates Brie
 N87318KXSM	X001IJWZ5B	B074FSHJB3	Women Sexy Cotton Thongs Intimates Briefs Tangas Ladies Panties(6 Pack) Apricot M	New	10.99	No		Yes	1	1	0	0	1		0	0	0
 N87318KXSXL	X001IJW2NL	B074FX6ZGT	Women Sexy Cotton Thongs Intimates Briefs Tangas Ladies Panties(6 Pack) Apricot XL	New	10.99	No		Yes	1	1	0	0	1		0	0	0
 N87319KR5M	X001IJW2RH	B074FTBSZV	ZAIAI Women's Thongs Cotton Breathable Panties Bikini Underwear (4 Pack) Pink M	New	8.99	No		Yes	2	2	0	0	2		0	0	0
-N87319KXSL	X001IJWU3D	B074FSD3R1	ZAIAI Women's Thongs Cotton Breathable Panties Bikini Underwear (4 Pack) Apricot L	Unknown					0	0	0	0	0		0	0	0
+N87319KXSL	X001IJWU3D	B074FSD3R1		Unknown					0	0	0	0	0		0	0	0
 N87319KXSM	X001IJYCWZ	B074FYGSKY	Women's Thongs Cotton Breathable Panties Bikini Underwear (4 Pack) Apricot M	New	8.99	No		Yes	2	2	0	0	2		0	0	0
 N888YK036	X001IJKV57	B074FZKWPJ	ZAIAI Women's Perfectly Fit Lightly Lined Memory Touch T-Shirt Bra Black 36	New	38.90	No		Yes	3	3	0	0	3	0.16	0	0	0
 N888YK038	X001IJTEGJ	B074FRC3TW	ZAIAI Women's Perfectly Fit Lightly Lined Memory Touch T-Shirt Bra Black 38	New	38.90	No		Yes	3	3	0	0	3	0.16	0	0	0
@@ -306,7 +305,7 @@ NK-XUHM001-K0-S	X001O773R7	B078WR3XZL	ZAIAI Boyshort Panties Women Sexy Lace Fun
 NK-XUHM001-K0-XL	X001O74JGZ	B078WPYL96	ZAIAI Boyshort Panties Women Sexy Lace Fun Underwear Briefs Ladies Knickers Womens Triangle Thong Black XL	New	35.99	No		Yes	9	9	0	0	9	0.18	0	0	0
 NK-XUHM001-K0-XXL	X001O74LVD	B078WQHD98	ZAIAI Boyshort Panties Women Sexy Lace Fun Underwear Briefs Ladies Knickers Womens Triangle Thong Black XXL	New	35.99	No		Yes	12	12	0	0	12	0.18	0	0	0
 NY-B15016-K0-L	X001NYRN0X	B078NQ9D6V	ZAIAI Women Floral Lace Bralette Padded Breathable Sexy Racerback Lace Bra Bustier Black L	New	30.90	No		Yes	11	11	0	0	11	0.02	0	0	0
-NY-B15016-K0-M	X001NZD793	B078NN9LW4	ZAIAI Women Floral Lace Bralette Padded Breathable Sexy Racerback Lace Bra Bustier Black M	New	30.90	No		Yes	8	8	0	0	8	0.02	0	0	0
+NY-B15016-K0-M	X001NZD793	B078NN9LW4	ZAIAI Women Floral Lace Bralette Padded Breathable Sexy Racerback Lace Bra Bustier Black M	New	30.90	No		Yes	7	7	0	0	7	0.02	0	0	0
 NY-B15016-K0-S	X001NZ6REP	B078NNNW7X	Women Floral Lace Bralette Padded Breathable Sexy Racerback Lace Bra Bustier Black S	New	30.90	No		Yes	4	4	0	0	4	0.02	0	0	0
 NY-B15016-W0-L	X001NZA6HT	B078NQ7BCX	ZAIAI Women's Microfiber Longline Lace Bralette White L	New	30.90	No		Yes	7	7	0	0	7	0.02	0	0	0
 NY-B15016-W0-M	X001NZ9HHJ	B078NN9RD2	ZAIAI Women's Microfiber Longline Lace Bralette White M	New	30.90	No		Yes	11	11	0	0	11	0.02	0	0	0
@@ -324,7 +323,7 @@ NY-B15021-K0-S	X001NZD79D	B078NNZQ5Y	ZAIAI Women Super Soft Lace Bra Top Seamles
 NY-B15021-K0-XL	X001NZ9SOV	B078NPBXD2	ZAIAI Women Super Soft Lace Bra Top Seamless Bralette Cup Wireless Bra Black XL	New	30.90	No		Yes	5	5	0	0	5	0.01	0	0	0
 NY-B15021-PI-L	X001NZ9WQF	B078NNYW4V	ZAIAI Women Super Soft Lace Bra Top Seamless Bralette Cup Wireless Bra Pink L	New	30.90	No		Yes	26	26	0	0	26	0.01	0	0	0
 NY-B15021-PI-M	X001NZAPTN	B078NQW8Y6	ZAIAI Women Super Soft Lace Bra Top Seamless Bralette Cup Wireless Bra Pink M	New	30.90	No		Yes	28	28	0	0	28	0.01	0	0	0
-NY-B15021-PI-S	X001NZ9WQ5	B078NGPQK3	ZAIAI Women Super Soft Lace Bra Top Seamless Bralette Cup Wireless Bra Pink S	New	30.90	No		Yes	19	19	0	0	19	0.01	0	0	0
+NY-B15021-PI-S	X001NZ9WQ5	B078NGPQK3	ZAIAI Women Super Soft Lace Bra Top Seamless Bralette Cup Wireless Bra Pink S	New	30.90	No		Yes	18	18	0	0	18	0.01	0	0	0
 NY-B15021-PI-XL	X001NZALXD	B078NNZWD6	ZAIAI Women Super Soft Lace Bra Top Seamless Bralette Cup Wireless Bra Pink XL	New	30.90	No		Yes	15	15	0	0	15	0.01	0	0	0
 NY-B15021-W0-XL	X001NYRUJR	B078NNZ9M6	ZAIAI Women's Lace Bralette Wireless Band Lace Bra White XL	New	30.90	No		Yes	19	19	0	0	19	0.01	0	0	0
 NY-XUHM001-K0-36C	X001O690D3	B078WPW9YL	ZAIAI Women's Ultimate Lace Push-Up Bra Black 36C	New	35.99	No		Yes	15	15	0	0	15	0.18	0	0	0
@@ -332,11 +331,11 @@ NY-XUHM001-K0-38C	X001O6JJ4X	B078WQN4YQ	ZAIAI Women Sexy Deep V Lace Underwire B
 NY-XUHM001-K0-40C	X001O6JVAZ	B078WQ3MJ9	ZAIAI Women Sexy Deep V Lace Underwire Bra Set Push Up Bra and Panties Sets Outfit Black 40C	New	35.99	No		Yes	30	30	0	0	30	0.18	0	0	0
 NY-XUHM001-K0-42C	X001O6906Z	B078WR4F43	ZAIAI Women Sexy Deep V Lace Underwire Bra Set Push Up Bra and Panties Sets Outfit Black 42C	New	35.99	No		Yes	13	13	0	0	13	0.18	0	0	0
 NY-XUHM001-K0-44C	X001O6901P	B078WRDL9P	ZAIAI Women Sexy Deep V Lace Underwire Bras Set Push Up Bra and Panties Sets Outfit Black 44C	New	35.99	No		Yes	9	9	0	0	9	0.18	0	0	0
-NY-XUHM002-K0-L	X001QABHXN	B07BKR7DCF	ZAIAI Women's Microfiber Longline Lace Bralette Black L	New	30.90	No		Yes	30	30	0	0	30	0.18	0	0	0
-NY-XUHM002-K0-M	X001QB9WZ7	B07BKT1Y4D	ZAIAI Women's Microfiber Longline Lace Bralette Black M	New	30.90	No		Yes	16	16	0	0	16	0.04	0	0	0
+NY-XUHM002-K0-L	X001QABHXN	B07BKR7DCF	ZAIAI Women's Microfiber Longline Lace Bralette Black L	New	30.90	No		Yes	31	30	0	1	31	0.18	0	0	0
+NY-XUHM002-K0-M	X001QB9WZ7	B07BKT1Y4D	ZAIAI Women's Microfiber Longline Lace Bralette Black M	New	30.90	No		Yes	16	15	0	1	16	0.04	0	0	0
 NY-XUHM002-K0-S	X001QDY5P7	B07BKNH45J	ZAIAI Women's Microfiber Longline Lace Bralette Black S	New	30.90	No		Yes	3	3	0	0	3	0.18	0	0	0
 NY-XUHM002-PI-L	X001QDWUBX	B07BKR7DCG	Women's Microfiber Longline Lace Bralette Pink L	New	30.90	No		Yes	16	16	0	0	16	0.05	0	0	0
-NY-XUHM002-PI-M	X001QDXKPX	B07BKSWCR3	ZAIAI Women's Microfiber Longline Lace Bralette Pink M	New	30.90	No		Yes	5	5	0	0	5	0.08	0	0	0
+NY-XUHM002-PI-M	X001QDXKPX	B07BKSWCR3	ZAIAI Women's Microfiber Longline Lace Bralette Pink M	New	30.90	No		Yes	5	4	0	1	5	0.08	0	0	0
 NY-XUHM002-PI-S	X001QDXG93	B07BKR8D8Z	ZAIAI Women's Microfiber Longline Lace Bralette Pink S	New	30.90	No		Yes	3	3	0	0	3	0.18	0	0	0
 NY-XUHM005-GA-L	X001QDXZEJ	B07BKTKK7K	Women's Lace Bralette Wireless Band Lace Bra Dark Green L	New	30.90	No		Yes	27	27	0	0	27	0.04	0	0	0
 NY-XUHM005-GA-M	X001QDXAHV	B07BKTCPPS	ZAIAI Women's Lace Bralette Wireless Band Lace Bra Dark Green M	New	30.90	No		Yes	11	11	0	0	11	0.04	0	0	0
@@ -349,8 +348,8 @@ NY-XUHM011-K0-38C	X001O6JVAP	B078WRMSBV	ZAIAI Smart Sexy Women's Signature Lace 
 NY-XUHM011-K0-40C	X001O5ZFDD	B078WQMW23	ZAIAI Smart Sexy Women's Signature Lace Unlined Underwire Bra Black 40C	New	35.99	No		Yes	27	27	0	0	27	0.18	0	0	0
 NY-XUHM011-K0-42C	X001O6JJ57	B078WQV8SF	ZAIAI Women Sexy Deep V Lace Underwire Bra Set Push Up Bra and Panties Sets Outfit Black 42C	New	35.99	No		Yes	14	14	0	0	14	0.18	0	0	0
 NY-XUHM011-K0-44C	X001O74H8Z	B078WRLGFX	ZAIAI Women Sexy Deep V Lace Underwire Bra Set Push Up Bra and Panties Sets Outfit Black 44C	New	35.99	No		Yes	10	10	0	0	10	0.18	0	0	0
-NY-XUHM331-B0-L	X001Q8PKDD	B07BKS4NK1	ZAIAI Women's Comfort Revolution Shaping Wire-Free Bra with Smart Sizes Purple Melange L	New	30.99	No		Yes	29	29	0	0	59	0	30	0	0
-NY-XUHM332-HS-M	X001QA6LIJ	B07BKNWPWQ	ZAIAI Women's Comfort Revolution Shaping Wire-Free Bra Pack of 2 Rose/Purple Melange M	New	30.99	No		Yes	48	46	0	2	108	0	60	0	0
+NY-XUHM331-B0-L	X001Q8PKDD	B07BKS4NK1	ZAIAI Women's Comfort Revolution Shaping Wire-Free Bra with Smart Sizes Purple Melange L	New	30.99	No		Yes	27	24	0	3	57	0	30	0	0
+NY-XUHM332-HS-M	X001QA6LIJ	B07BKNWPWQ	ZAIAI Women's Comfort Revolution Shaping Wire-Free Bra Pack of 2 Rose/Purple Melange M	New	30.99	No		Yes	46	46	0	0	106	0	60	0	0
 NY-XUHM333-HS-L	X001PJZTCP	B07B3V3G8H	ZAIAI Women's Comfort Revolution Shaping Wire-Free Bra Pack of 3 White/Rose/Purple Melange L	New	30.99	No		Yes	18	18	0	0	18	0	0	0	0
 NY-XUHM333-HS-M	X001PMBHWN	B07B3V3BV5	ZAIAI Women's Comfort Revolution Shaping Wire-Free Bra Pack of 3 White/Rose/Purple Melange M	New	30.99	No		Yes	18	18	0	0	18	0	0	0	0
 NY-XUHM333-HS-S	X001PLC4M1	B07B3TW6D2	ZAIAI Women's Comfort Revolution Shaping Wire-Free Bra with Smart Sizes White/Rose/Purple Melange S	New	30.99	No		Yes	20	20	0	0	20	0	0	0	0
@@ -388,7 +387,7 @@ XTHQK0B	X001K9U2JP	B074NWMYV7	Qeauty Adhesive Bra,Push Up Drawstring Strapless B
 XTHQK0C	X001K9OT03	B074NXL8BJ	ZAIAI Qeauty Adhesive Bra,Push Up Drawstring Strapless Bra with Qualities for Sexy Backless Dress Black2 C Cup	New	32.99	No		Yes	116	116	0	0	116	0.03	0	0	0
 XTHQK0D	X001K9OSUT	B074P1H1SL	ZAIAI Qeauty Adhesive Bra,Push Up Drawstring Strapless Bra with Qualities for Sexy Backless Dress Black2 D Cup	New	32.99	No		Yes	10	10	0	0	10	0.03	0	0	0
 XTHQXSA	X001K9SHCT	B074NXZPYK	ZAIAI Qeauty Adhesive Bra,Push Up Drawstring Strapless Bra with Qualities for Sexy Backless Dress Apricot2 A Cup	New	32.99	No		Yes	4	4	0	0	4	0.03	0	0	0
-XTHQXSB	X001K9SHD3	B074NY9YM1	ZAIAI Qeauty Adhesive Bra,Push Up Drawstring Strapless Bra with Qualities for Sexy Backless Dress Apricot2 B Cup	New	32.99	No		Yes	10	10	0	0	10	0.03	0	0	0
+XTHQXSB	X001K9SHD3	B074NY9YM1	ZAIAI Qeauty Adhesive Bra,Push Up Drawstring Strapless Bra with Qualities for Sexy Backless Dress Apricot2 B Cup	New	32.99	No		Yes	9	9	0	0	9	0.03	0	0	0
 XTHQXSC	X001K9U2J5	B074NNZXDV	ZAIAI Qeauty Adhesive Bra,Push Up Drawstring Strapless Bra with Qualities for Sexy Backless Dress Apricot2 C Cup	New	32.99	No		Yes	33	33	0	0	33	0.06	0	0	0
 XTHQXSD	X001K9T0VL	B074NQW8FF	ZAIAI Qeauty Adhesive Bra,Push Up Drawstring Strapless Bra with Qualities for Sexy Backless Dress Apricot2 D Cup	New	32.99	No		Yes	9	9	0	0	9	0.03	0	0	0
 XTLAK0A	X001K9TDZT	B074P2RFBZ	ZAIAI LALABRA Women's Strapless Bra Self Adhesive Silicone Push Up with Drawstring Black1 A Cup	New	32.99	No		Yes	37	37	0	0	37	0.03	0	0	0

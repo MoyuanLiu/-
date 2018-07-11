@@ -4,7 +4,6 @@ LYQ-1001-B0-L	X001MDP4K1	B0777F31HR	Summer Mae Long Sleeve Lace Dress A Line Cas
 LYQ-1001-B0-M	X001MDOZEH	B0777JTZQW	Long Sleeve Lace Dress A Line Casual Tunic Mini Dress Blue US 8-10	New	15.99	No		Yes	9	9	0	0	9	0.11	0	0	0
 LYQ-1001-B0-XL	X001MDR995	B0777F9T9H	Long Sleeve Lace Dress A Line Casual Tunic Mini Dress Blue US 16-18	New	15.99	No		Yes	11	10	1	0	11	0.11	0	0	0
 LYQ-1001-B0-XS	X001MDRA3F	B0777FG5F3	Long Sleeve Lace Dress A Line Casual Tunic Mini Dress Blue US 0-2	New	15.99	No		Yes	4	4	0	0	4	0.11	0	0	0
-LYQ-1001-G0-M	X001MD5F9B	B0777FB3DJ	Summer Mae Long Sleeve Lace Dress A Line Casual Tunic Mini Green Dress M	New	15.99	No		Yes	0	0	0	0	0	0.11	0	0	0
 LYQ-1001-G0-S	X001MDQN0B	B0777FB3HX	Summer Mae Long Sleeve Lace Dress A Line Casual Tunic Mini Green Dress S	New	15.99	No		Yes	1	1	0	0	1	0.11	0	0	0
 LYQ-1001-G0-XS	X001MD8G5L	B0777LB6ZK	Summer Mae Long Sleeve Lace Dress A Line Casual Tunic Mini Green Dress XS	New	15.99	No		Yes	1	1	0	0	1	0.11	0	0	0
 LYQ-1001-G7-2XL	X001MD5GMR	B0777BRRF9	Long Sleeve Lace Dress A Line Casual Tunic Mini Dress Army Green US 18W	New	15.99	No		Yes	2	2	0	0	2	0.11	0	0	0
@@ -19,7 +18,7 @@ LYQ-1001-N0-2XL	X001MDR99F	B0777DQV5G	Long Sleeve Lace Dress A Line Casual Tunic
 LYQ-1001-N0-L	X001MDR9JP	B077782WBB	Long Sleeve Lace Dress A Line Casual Tunic Mini Dress Brown US 12-14	New	15.99	No		Yes	8	6	2	0	8	0.11	0	0	0
 LYQ-1001-N0-S	X001MD0WF3	B0777JP85J	Summer Mae Long Sleeve Lace Dress A Line Casual Tunic Mini Dress Brown US 4-6	New	15.99	No		Yes	5	5	0	0	5	0.11	0	0	0
 LYQ-1001-N0-XL	X001MDRA35	B0777KY2MV	Long Sleeve Lace Dress A Line Casual Tunic Mini Dress Brown US 16-18	New	15.99	No		Yes	7	7	0	0	7	0.11	0	0	0
-LYQ-1001-N0-XS	X001MDRA3P	B0777KHKFN	Summer Mae Long Sleeve Lace Dress A Line Casual Tunic Mini Dress Brown US 0-2	New	15.99	No		Yes	3	2	1	0	3	0.11	0	0	0
+LYQ-1001-N0-XS	X001MDRA3P	B0777KHKFN	Summer Mae Long Sleeve Lace Dress A Line Casual Tunic Mini Dress Brown US 0-2	New	15.99	No		Yes	2	2	0	0	2	0.11	0	0	0
 LYQ-1001-P0-2XL	X001MDYZKV	B0777JL61C	Long Sleeve Lace Dress A Line Casual Tunic Mini Purple Dress 2XL	New	15.99	No		Yes	5	5	0	0	5	0.11	0	0	0
 LYQ-1001-P0-L	X001MDUZQJ	B0777DP49T	Long Sleeve Lace Dress A Line Casual Tunic Mini Purple Dress L	New	15.99	No		Yes	14	13	1	0	14	0.11	0	0	0
 LYQ-1001-P0-M	X001MDRA2V	B0777L43KP	Summer Mae Long Sleeve Lace Dress A Line Casual Tunic Mini Purple Dress M	New	15.99	No		Yes	3	3	0	0	3	0.11	0	0	0
@@ -61,15 +60,14 @@ LYQ-CL6287-FB-L	X001IJ1B5B	B0748FMXDW	Summer Mae Women's Sexy Cut Out Cold Shoul
 LYQ-CL6287-G7-L	X001IIVOI1	B0748FGBZZ	Summer Mae Women's Sexy Cut Out Cold Shoulder Solid Color T-shirt Swing Dress With Pockets Army Green Large	New	39.99	No		Yes	3	3	0	0	3	0	0	0	0
 LYQ-CL6287-G7-M	X001IJ1BX3	B0748G9CH7	Summer Mae Women's Sexy Cut Out Cold Shoulder Solid Color T-shirt Swing Dress With Pockets Army Green Medium	New	39.99	No		Yes	3	3	0	0	3	0	0	0	0
 LYQ-CL6287-K0-L	X001IIPT9B	B0748FHP41	Summer Mae Women's Sexy Cut Out Cold Shoulder Solid Color T-Shirt Swing Dress with Pockets Black Large	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
-LYQ-CL6287-K0-M	X001IJ2QD7	B0748G1ZTW	Summer Mae Women's Sexy Cut Out Cold Shoulder Solid Color T-Shirt Swing Dress With Pockets Black Medium	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 LYQ-CL6408NO-G0-L	X001IPFC73	B0749DS1D6	Summer Jun Women's Pockets Casual Tunic Swing T-shirt Tie Dye Ombre Dress	New	30.99	No		Yes	2	2	0	0	2	0.12	0	0	0
 LYQ-CL6408NO-K0-L	X001IJ6SXV	B07496B6ZV	Summer Jun Women's Pockets Casual Tunic Swing T-shirt Tie Dye Ombre Dress	New	30.99	No		Yes	1	1	0	0	1	0.16	0	0	0
 LYQ-CL6408SL-G0XL	X001IIHE35	B0749JQKHD	Summer Jun Women's Pockets Casual Tunic Swing T-shirt Tie Dye Ombre Dress	New	30.99	No		Yes	2	2	0	0	2	0.12	0	0	0
 LYQ-CL6408SL-K0XL	X001IJ1B5V	B0749GG9C5	Summer Jun Women's Pockets Casual Tunic Swing T-shirt Tie Dye Ombre Dress	New	30.99	No		Yes	2	2	0	0	2	0.12	0	0	0
-LYQ-CLBAH002-L	X001LW5L01	B0758936QQ	Summer Mae Women's V Neck Bohemian Tie Vintage Printed Ethnic Style Beach Dress L	New	29.99	No		Yes	1	1	0	0	1	0.06	0	0	0
+LYQ-CLBAH002-L	X001LW5L01	B0758936QQ	Summer Mae Women's V Neck Bohemian Tie Vintage Printed Ethnic Style Beach Dress L	New	29.99	No		Yes	0	0	0	0	0	0.06	0	0	0
 LYQ-CLBAH002-M	X001LWCPFF	B0758CM83M	Summer Mae Women's V Neck Bohemian Tie Vintage Printed Ethnic Style Beach Dress M	New	29.99	No		Yes	2	2	0	0	2	0.06	0	0	0
-LYQ-CLBAH002-S	X001LVFU0N	B075893214	Summer Mae Women's V Neck Bohemian Tie Vintage Printed Ethnic Style Beach Dress S	New	29.99	No		Yes	2	2	0	0	2	0.06	0	0	0
-LYQ-CLBAH002-XL	X001LVFU0D	B0758D78JH	Summer Mae Women's V Neck Bohemian Tie Vintage Printed Ethnic Style Beach Dress Plus Size	New	29.99	No		Yes	1	0	1	0	1	0.06	0	0	0
+LYQ-CLBAH002-S	X001LVFU0N	B075893214	Summer Mae Women's V Neck Bohemian Tie Vintage Printed Ethnic Style Beach Dress S	New	29.99	No		Yes	1	1	0	0	1	0.06	0	0	0
+LYQ-CLBAH002-XL	X001LVFU0D	B0758D78JH	Summer Mae Women's V Neck Bohemian Tie Vintage Printed Ethnic Style Beach Dress Plus Size	New	29.99	No		Yes	2	0	2	0	2	0.06	0	0	0
 LYQ-CSM048-G0-L	X001LRDMWZ	B074PS9L37	Summer Mae Women's Long Sleeve Cable Knit Casual Sweater Dress with Pockets	New	16.99	No		Yes	1	1	0	0	1	0.19	0	0	0
 LYQ-CSM048-G0-S	X001LQOG7V	B074PRQCYP	Summer Mae Women's Long Sleeve Cable Knit Casual Sweater Dress with Pockets	New	16.99	No		Yes	1	1	0	0	1	0.19	0	0	0
 LYQ-CSM048-GR0-M	X001LRDE9B	B074PRZ2YJ	Summer Mae Women's Long Sleeve Cable Knit Casual Sweater Dress with Pockets	New	16.99	No		Yes	1	1	0	0	1	0.19	0	0	0
@@ -77,7 +75,7 @@ LYQ-CSM048-GR1-L	X001LREMTH	B074PRDCG7	Summer Mae Women's Long Sleeve Cable Knit
 LYQ-CSM048-GR1-XL	X001LREEFJ	B074PS35PF	Summer Mae Women's Long Sleeve Cable Knit Casual Sweater Dress with Pockets	New	16.99	No		Yes	1	1	0	0	1	0.19	0	0	0
 LYQ-CSM048-K0-S	X001KHZ463	B074PR63YW	Summer Mae Women's Long Sleeve Cable Knit Casual Sweater Dress with Pockets	New	16.99	No		Yes	3	3	0	0	3	0.19	0	0	0
 LYQ-HM1205-BR-L	X0019MHRUF	B01M29W1XF	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	New	39.99	No		Yes	8	8	0	0	8	0.21	0	0	0
-LYQ-HM1205-BR-M	X00198XS3T	B01MPXO3HC	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	New	39.99	No		Yes	4	4	0	0	4	0.21	0	0	0
+LYQ-HM1205-BR-M	X00198XS3T	B01MPXO3HC	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	New	39.99	No		Yes	4	2	0	2	4	0.21	0	0	0
 LYQ-HM1205-BR-S	X0019MHRU5	B01M29W17K	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	New	39.99	No		Yes	3	3	0	0	3	0.21	0	0	0
 LYQ-HM1205-BR-XL	X0019I3S7F	B01M9G5R04	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	New	39.99	No		Yes	5	5	0	0	5	0.21	0	0	0
 LYQ-HM1205-K0-S	X001JZ7U4Z	B07433FQ65	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	New	39.99	No		Yes	4	4	0	0	4	0.21	0	0	0
@@ -89,7 +87,7 @@ LYQ-HM1205-OR-M	X001A20HMT	B01M29W35H	Summer Mae Women's Lace Up Front V Neck Lo
 LYQ-HM1205-OR-S	X001A1T78P	B01M7UYYSQ	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	New	39.99	No		Yes	1	1	0	0	1	0.21	0	0	0
 LYQ-HM1205-W0-L	X001A1T7H1	B01M29W3LC	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	New	39.99	No		Yes	0	0	0	0	0	0.21	0	0	0
 LYQ-HM1205-W0-M	X0019Z04UH	B01M4OHRH9	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	New	39.99	No		Yes	4	4	0	0	4	0.21	0	0	0
-LYQ-HM1205-W0-S	X0019ZGFU5	B01M69CL5T	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	New	39.99	No		Yes	4	4	0	0	4	0.21	0	0	0
+LYQ-HM1205-W0-S	X0019ZGFU5	B01M69CL5T	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	New	39.99	No		Yes	4	2	0	2	4	0.21	0	0	0
 LYQ-HMQZZ-MOM-2XL	X001A3W1R7	B01M7X7MYF	Summer Jun Mother and Daughter Lace Stitching Dress Family Look Clothes women 2XL	New	39.99	No		Yes	3	3	0	0	3	0	0	0	0
 LYQ-HMQZZ-MOM-S	X001A89ZJJ	B01M5IWX76	Summer Jun Mother and Daughter Lace Stitching Dress Family Look Clothes women S	New	39.99	No		Yes	2	2	0	0	2	0	0	0	0
 LYQ-LY064-B0-3XL	X001DEI2NZ	B01MY7KVJY	Summer Mae Chiffon Short Sleeve V-neck Dress Knee Length Ruched Dress for Women B0 3XL	New	29.87	No		Yes	2	2	0	0	2	0.09	0	0	0
@@ -97,7 +95,7 @@ LYQ-LY064-B0-4XL	X001DB2WEX	B01MZ93SA6	Summer Mae Chiffon Short Sleeve V-Neck Dr
 LYQ-LY064-B0-L	X001D9LI2H	B01MY7KTQZ	Summer Mae Chiffon Short Sleeve V-neck Dress Knee Length Ruched Dress for Women B0 L	New	29.87	No		Yes	1	1	0	0	1	0.09	0	0	0
 LYQ-LY064-G0-3XL	X001D2HXAF	B01MS6R0M9	Summer Mae Chiffon Short Sleeve V-neck Dress Knee Length Ruched Dress for Women G0 3XL	New	29.87	No		Yes	5	5	0	0	5	0.09	0	0	0
 LYQ-LY064-G0-4XL	X001DEH28V	B01MY7KX6S	Summer Mae Chiffon Short Sleeve V-Neck Dress Knee Length Ruched Dress For Women G0 4XL	New	29.87	No		Yes	1	1	0	0	1	0.09	0	0	0
-LYQ-LY064-G0-L	X001D8CJFN	B01N4NCSUX	Summer Mae Chiffon Short Sleeve V-neck Dress Knee Length Ruched Dress for Women G0 L	New	29.87	No		Yes	1	0	0	1	1	0.09	0	0	0
+LYQ-LY064-G0-L	X001D8CJFN	B01N4NCSUX	Summer Mae Chiffon Short Sleeve V-neck Dress Knee Length Ruched Dress for Women G0 L	New	29.87	No		Yes	0	0	0	0	0	0.09	0	0	0
 LYQ-LY064-G0-M	X001DB2WEN	B01MS6QYZ3	Summer Mae Chiffon Short Sleeve V-neck Dress Knee Length Ruched Dress for Women G0 M	New	29.87	No		Yes	1	1	0	0	1	0.09	0	0	0
 LYQ-LY064-K0-2XL	X001D9G2A5	B01N107R7Z	Summer Mae Chiffon Short Sleeve V-neck Dress Knee Length Ruched Dress for Women K0 2XL	New	29.87	No		Yes	1	1	0	0	1	0.09	0	0	0
 LYQ-LY064-K0-3XL	X001D8PY9V	B01MY7KV6H	Summer Mae Chiffon Short Sleeve V-Neck Dress Knee Length Ruched Dress For Women K0 3XL	New	29.87	No		Yes	1	1	0	0	1	0.09	0	0	0
@@ -111,7 +109,7 @@ LYQ-ZQ1117-B0-L	X001LEYXTJ	B075ZQJC1K	Women Lace Long Sleeve Tunic Top Blouse Lo
 LYQ-ZQ1117-B0-M	X001LEYETX	B075ZRBHC3	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	10	10	0	0	10	0.1	0	0	0
 LYQ-ZQ1117-B0-S	X001LEXYI5	B075ZPXY11	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	2	2	0	0	2	0.1	0	0	0
 LYQ-ZQ1117-B0-XL	X001LEYL23	B075ZQRB44	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	2	2	0	0	2	0.1	0	0	0
-LYQ-ZQ1117-BD-2XL	X001MNP99R	B077GS3C1X	Women Lace Dress Long Sleeve Loose Tunic Tops Stitching Casual Blouses Burgundy XXL	New	35.00	No		Yes	3	1	0	2	3	0.1	0	0	0
+LYQ-ZQ1117-BD-2XL	X001MNP99R	B077GS3C1X	Women Lace Dress Long Sleeve Loose Tunic Tops Stitching Casual Blouses Burgundy XXL	New	35.00	No		Yes	2	2	0	0	2	0.1	0	0	0
 LYQ-ZQ1117-BD-L	X001LEYY2Z	B075ZQBS8N	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	3	3	0	0	3	0.1	0	0	0
 LYQ-ZQ1117-BD-M	X001LEYMXB	B075ZQDPWY	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	6	6	0	0	6	0.1	0	0	0
 LYQ-ZQ1117-BD-S	X001LEXYIF	B075ZR64XY	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	4	4	0	0	4	0.1	0	0	0
@@ -127,7 +125,7 @@ LYQ-ZQ1117-E0-M	X001LEYJ3J	B075ZQJC1V	Women Lace Long Sleeve Tunic Top Blouse Lo
 LYQ-ZQ1117-E0-S	X001LEYUNX	B075ZRHBRF	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	0	0	0	0	0	0.1	0	0	0
 LYQ-ZQ1117-E0-XL	X001LEYXTT	B075ZQ96Y9	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	1	1	0	0	1	0.1	0	0	0
 LYQ-ZQ1117-G7-2XL	X001MNO4AH	B077GRMXK8	Women Lace Dress Long Sleeve Loose Tunic Tops Stitching Casual Blouses Army Green XXL	New	35.00	No		Yes	4	4	0	0	4	0.1	0	0	0
-LYQ-ZQ1117-G7-L	X001LEYY2F	B075ZRHZK5	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	6	6	0	0	6	0.1	0	0	0
+LYQ-ZQ1117-G7-L	X001LEYY2F	B075ZRHZK5	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	5	5	0	0	5	0.1	0	0	0
 LYQ-ZQ1117-G7-M	X001LEZ3E3	B075ZQSQ1X	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	11	11	0	0	11	0.1	0	0	0
 LYQ-ZQ1117-G7-S	X001LEYO7F	B075ZRSKHP	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	7	6	1	0	7	0.1	0	0	0
 LYQ-ZQ1117-G7-XL	X001LEYJ39	B075ZRMSHF	Women Lace Long Sleeve Tunic Top Blouse Loose Dress	New	35.00	No		Yes	8	8	0	0	8	0.1	0	0	0
@@ -147,15 +145,13 @@ LYQ-ZQ1669-B0-L	X001JK2OQJ	B073S4R4CR	Summer Mae Women's Summer Boho Strapess Ba
 LYQ-ZQ1669-B0-M	X001K6CHWN	B073S4ZN9Q	Summer Mae Women's Summer Boho Strapess Banana Leaves Print Wrap Pockets Maxi Dress	New	35.00	No		Yes	0	0	0	0	0	0.06	0	0	0
 LYQ-ZQ1669-B0-S	X001K6BDHD	B073S4X67S	Summer Mae Women's Summer Boho Strapess Banana Leaves Print Wrap Pockets Maxi Dress	New	35.00	No		Yes	0	0	0	0	0	0.06	0	0	0
 LYQ-ZQ1669-B0-XL	X001JJP4GH	B073S5CYWG	Summer Mae Women's Summer Boho Strapess Banana Leaves Print Wrap Pockets Maxi Dress	New	35.00	No		Yes	5	5	0	0	5	0.06	0	0	0
-LYQ-ZQ1880-R0-L	X001KP7M0V	B074N2BXL6	Lace Mini Dress for Women Party Bodycon Spaghetti Strap Halter Floral Cocktail Dress Red L	New	35.00	No		Yes	0	0	0	0	0	0.1	0	0	0
 LYQ-ZQ1880-R0-M	X001KPKCQ7	B074MTPMFD	Lace Mini Dress for Women Party Bodycon Spaghetti Strap Halter Floral Cocktail Dress Red M	New	35.00	No		Yes	0	0	0	0	0	0.1	0	0	0
 LYQ-ZQ1880-R0-S	X001KPK947	B074N1VL93	Lace Mini Dress for Women Party Bodycon Spaghetti Strap Halter Floral Cocktail Dress Red S	New	35.00	No		Yes	0	0	0	0	0	0.1	0	0	0
 LYQ-ZQ1880-R0-XL	X001KP7M4H	B074MWWWNP	Lace Mini Dress for Women Party Bodycon Spaghetti Strap Halter Floral Cocktail Dress Red XL	New	35.00	No		Yes	0	0	0	0	0	0.1	0	0	0
-LYQ-ZQ1880-Y0-M	X001KSY16V	B074MXX7QL	Summer Mae Women's Floral Lace Mini Dress Spaghetti Strap Halter Bodycon Cocktail Party Dress Golden M	New	35.00	No		Yes	0	0	0	0	0	0.1	0	0	0
-LYQ-ZQ1880-ZL-L	X001KC8K23	B074N2S5HM	Lace Mini Dress for Women Party Bodycon Spaghetti Strap Halter Floral Cocktail Dress Navy L	New	35.00	No		Yes	1	1	0	0	1	0.15	0	0	0
+LYQ-ZQ1880-ZL-L	X001KC8K23	B074N2S5HM	Lace Mini Dress for Women Party Bodycon Spaghetti Strap Halter Floral Cocktail Dress Navy L	New	35.00	No		Yes	1	0	0	1	1	0.15	0	0	0
 LYQ-ZQ1880-ZL-M	X001KCC2IL	B074MZR55T	Lace Mini Dress For Women Party Bodycon Spaghetti Strap Halter Floral Cocktail Dress Navy M	New	35.00	No		Yes	0	0	0	0	0	0.1	0	0	0
 LYQ-ZQ1880-ZL-S	X001KC6QGP	B074MZDN1H	Lace Mini Dress for Women Party Bodycon Spaghetti Strap Halter Floral Cocktail Dress Navy S	New	35.00	No		Yes	0	0	0	0	0	0.1	0	0	0
-LYQ-ZQ1880-ZL-XL	X001KC8CUX	B074N28J1W	Lace Mini Dress for Women Party Bodycon Spaghetti Strap Halter Floral Cocktail Dress Navy XL	New	25.00	No		Yes	1	0	0	1	1	0.1	0	0	0
+LYQ-ZQ1880-ZL-XL	X001KC8CUX	B074N28J1W	Lace Mini Dress for Women Party Bodycon Spaghetti Strap Halter Floral Cocktail Dress Navy XL	New	25.00	No		Yes	0	0	0	0	0	0.1	0	0	0
 LYQ-ZQ2973-BD-2XL	X001KPKD75	B01MTTW6NH	Womens Knitted Long Sweater Dress Tunic Burgundy XXL	New	35.00	No		Yes	10	10	0	0	10	0.15	0	0	0
 LYQ-ZQ2973-BD-L	X001KI2TB5	B01LX5LAQB	Womens Knitted Long Sweater Dress Tunic Burgundy L	New	35.00	No		Yes	9	9	0	0	9	0.17	0	0	0
 LYQ-ZQ2973-BD-M	X001KC8CPD	B01LY4R8RV	Womens Knitted Long Sweater Dress Tunic Burgundy M	New	35.00	No		Yes	0	0	0	0	0	0.19	0	0	0
@@ -167,7 +163,7 @@ LYQ-ZQ2973-E0-S	X001KI0L3D	B01M0ES8Z0	Womens Knitted Long Sweater Dress Tunic Gr
 LYQ-ZQ2973-E0-XL	X001KXVGYB	B01LWI559G	Womens Knitted Long Sweater Dress Tunic Grey XL	New	35.00	No		Yes	0	0	0	0	0	0.19	0	0	0
 LYQ-ZQ2973-G0-2XL	X001LEYM9F	B075S4N213	Womens Knitted Long Sweater Dress Tunic Green XXL	New	35.00	No		Yes	5	5	0	0	5	0.15	0	0	0
 LYQ-ZQ2973-G0-L	X001LEYGWN	B075F3X74H	Womens Knitted Long Sweater Dress Tunic Green L	New	35.00	No		Yes	6	6	0	0	6	0.17	0	0	0
-LYQ-ZQ2973-G0-M	X001KT6PZF	B075DVVKVY	Womens Knitted Long Sweater Dress Tunic Green M	New	35.00	No		Yes	14	14	0	0	14	0.19	0	0	0
+LYQ-ZQ2973-G0-M	X001KT6PZF	B075DVVKVY	Womens Knitted Long Sweater Dress Tunic Green M	New	35.00	No		Yes	13	13	0	0	13	0.19	0	0	0
 LYQ-ZQ2973-G0-S	X001LER0HV	B075DTZMV1	Womens Knitted Long Sweater Dress Tunic Green S	New	35.00	No		Yes	13	13	0	0	13	0.18	0	0	0
 LYQ-ZQ2973-G0-XL	X001LEP5R3	B075DQ1SJZ	Womens Knitted Long Sweater Dress Tunic Green XL	New	35.00	No		Yes	10	10	0	0	10	0.22	0	0	0
 LYQ-ZQ2973-K0-2XL	X001LER0T9	B075S6T35L	Womens Knitted Long Sweater Dress Tunic Black XXL	New	35.00	No		Yes	5	5	0	0	5	0.19	0	0	0
@@ -176,7 +172,7 @@ LYQ-ZQ2973-K0-M	X001KPDVSN	B075F1391S	Womens Knitted Long Sweater Dress Tunic Bl
 LYQ-ZQ2973-K0-S	X001KVJ6LX	B075DSPS1B	Womens Knitted Long Sweater Dress Tunic Black S	New	35.00	No		Yes	6	6	0	0	6	0.16	0	0	0
 LYQ-ZQ2973-K0-XL	X001KYFBZF	B075DRB3ZD	Womens Knitted Long Sweater Dress Tunic Black XL	New	35.00	No		Yes	9	9	0	0	9	0.08	0	0	0
 LYQ-ZQ2973-KQ-2XL	X001L3T72X	B01MQPCTYE	Womens Knitted Long Sweater Dress Tunic Khaki XXL	New	35.00	No		Yes	3	3	0	0	3	0.16	0	0	0
-LYQ-ZQ2973-KQ-L	X001KI3E7N	B01LY4R9YJ	Womens Knitted Long Sweater Dress Tunic Khaki L	New	35.00	No		Yes	7	7	0	0	7	0.22	0	0	0
+LYQ-ZQ2973-KQ-L	X001KI3E7N	B01LY4R9YJ	Womens Knitted Long Sweater Dress Tunic Khaki L	New	35.00	No		Yes	6	6	0	0	6	0.22	0	0	0
 LYQ-ZQ2973-KQ-M	X001KCCC5J	B01LXHBU2Q	Womens Knitted Long Sweater Dress Tunic Khaki M	New	35.00	No		Yes	5	5	0	0	5	0.2	0	0	0
 LYQ-ZQ2973-KQ-S	X001KHZHQ5	B01M0327M1	Womens Knitted Long Sweater Dress Tunic Khaki S	New	35.00	No		Yes	8	8	0	0	8	0.14	0	0	0
 LYQ-ZQ2973-KQ-XL	X001KI0WOB	B01M0328CI	Womens Knitted Long Sweater Dress Tunic Khaki XL	New	35.00	No		Yes	2	2	0	0	2	0.19	0	0	0
@@ -197,22 +193,22 @@ LYQ-ZQ2973-ZL-XL	X001KVR2M3	B075DX6NTH	Womens Knitted Long Sweater Dress Tunic N
 LYQ-ZQ2W00-K0-L	X001A8O1CF	B01LY5QLVQ	WOMEN'S BOUTIQUE Summer Mae Women's Long Sleeve Loose Irregular Hem A-Line Casual Dress бн	New	35.00	No		Yes	0	0	0	0	0	0.08	0	0	0
 LYQ-ZQ2W00-K0-M	X001A9U6R3	B01LY5QHGQ	Summer Mae Women's Long Sleeve Loose Irregular Hem A-Line Casual Dress бн	New	35.00	No		Yes	1	1	0	0	1	0.08	0	0	0
 LYQ-ZQ2W00-K0-XL	X001A6HXPT	B01LX6KKQV	WOMEN'S BOUTIQUE Summer Mae Women's Long Sleeve Loose Irregular Hem A-Line Casual Dress бн	New	35.00	No		Yes	0	0	0	0	0	0.08	0	0	0
-LYQ-ZQ3550-E0-2X	X001JBBPEP	B072JT4NS9	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	0	0	0	0	0	0.1	0	0	0
-LYQ-ZQ3550-E0-3X	X001JBB29D	B071FZWXQ8	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	5	2	1	2	5	0.1	0	0	0
-LYQ-ZQ3550-E0-4X	X001JBAFZP	B071FZW8CS	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	0	0	0	0	0	0.1	0	0	0
-LYQ-ZQ3550-E0-5X	X001JBBPEZ	B071ZYZ4WT	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	7	5	1	1	7	0.1	0	0	0
+LYQ-ZQ3550-E0-2X	X001JBBPEP	B072JT4NS9	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	4	2	0	2	9	0.1	0	5	0
+LYQ-ZQ3550-E0-3X	X001JBB29D	B071FZWXQ8	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	2	0	1	1	2	0.1	0	0	0
+LYQ-ZQ3550-E0-4X	X001JBAFZP	B071FZW8CS	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	1	0	1	0	16	0.1	0	15	0
+LYQ-ZQ3550-E0-5X	X001JBBPEZ	B071ZYZ4WT	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	4	0	1	3	4	0.1	0	0	0
 LYQ-ZQ3550-E0-L	X001JBB9TB	B071FZX594	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	4	4	0	0	4	0.1	0	0	0
-LYQ-ZQ3550-E0-M	X001KTGKGT	B071FZWYWN	WOMEN'S BOUTIQUE Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	4	2	0	2	4	0.1	0	0	0
+LYQ-ZQ3550-E0-M	X001KTGKGT	B071FZWYWN	WOMEN'S BOUTIQUE Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	3	2	0	1	3	0.1	0	0	0
 LYQ-ZQ3550-E0-S	X001KSUQ6Z	B071ZYZ988	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	7	7	0	0	7	0.1	0	0	0
-LYQ-ZQ3550-E0-XL	X001JBB29N	B071FZWWBS	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	6	6	0	0	6	0.1	0	0	0
-LYQ-ZQ3550-PI-2X	X001LONJ0X	B071FZX1KP	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	3	3	0	0	3	0.1	0	0	0
-LYQ-ZQ3550-PI-3X	X001LAAVM1	B071JLRTDQ	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	11	5	1	5	11	0.1	0	0	0
-LYQ-ZQ3550-PI-4X	X001LOLZYP	B071WJY8WZ	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	10	0	0	10	10	0.1	0	0	0
-LYQ-ZQ3550-PI-5X	X001LO2K9T	B072MF2GWB	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	9	9	0	0	9	0.1	0	0	0
+LYQ-ZQ3550-E0-XL	X001JBB29N	B071FZWWBS	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	3	3	0	0	3	0.1	0	0	0
+LYQ-ZQ3550-PI-2X	X001LONJ0X	B071FZX1KP	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	0	0	0	0	0	0.1	0	0	0
+LYQ-ZQ3550-PI-3X	X001LAAVM1	B071JLRTDQ	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	11	9	0	2	11	0.1	0	0	0
+LYQ-ZQ3550-PI-4X	X001LOLZYP	B071WJY8WZ	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	8	8	0	0	8	0.1	0	0	0
+LYQ-ZQ3550-PI-5X	X001LO2K9T	B072MF2GWB	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	8	7	0	1	8	0.1	0	0	0
 LYQ-ZQ3550-PI-L	X001KQXQDR	B072JT7VHC	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	11	10	1	0	11	0.1	0	0	0
 LYQ-ZQ3550-PI-M	X001KRMYAR	B072MF4D46	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	6	6	0	0	6	0.1	0	0	0
-LYQ-ZQ3550-PI-S	X001KQXTCP	B071JLRH8Z	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	2	1	0	1	2	0.1	0	0	0
-LYQ-ZQ3550-PI-XL	X001KTGKGJ	B072QB3CPP	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	7	7	0	0	7	0.1	0	0	0
+LYQ-ZQ3550-PI-S	X001KQXTCP	B071JLRH8Z	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	1	1	0	0	1	0.1	0	0	0
+LYQ-ZQ3550-PI-XL	X001KTGKGJ	B072QB3CPP	Summer Mae Women Plus Size Ethnic Printed Splicing Casual Pocket Dress	New	35.00	No		Yes	5	5	0	0	5	0.1	0	0	0
 LYQ-ZQ456-E0-S	X0018IGTOZ	B01LASSISG	Summer Mae Women long Sleeve Loose Clothing Elbow Patch Casual Dress Heather Grey	New	35.00	No		Yes	1	1	0	0	1	0.09	0	0	0
 LYQ-ZQ7900-W0-L	X001JDYEDR	B0742J1LL6	Summer Mae Women's Summer Styling Sleeveless Floral Print Lace High Neck Midi Sun Dress	New	35.00	No		Yes	1	1	0	0	1	0.07	0	0	0
 LYQ-ZQ7900-W0-S	X001JDYF0J	B0742BFRFZ	Summer Mae Women's Summer Styling Sleeveless Floral Print Lace High Neck Midi Sun Dress	New	35.00	No		Yes	1	1	0	0	1	0.07	0	0	0
@@ -231,11 +227,10 @@ LYQ-ZQ8200-P0-M	X001DZSILZ	B01LZI8HZ2	Women's V-Neck Long Sleeves Wrap Waist Lon
 LYQ-ZQ8200-P0-S	X001F55SWZ	B01M05QDKR	Women's V-Neck Long Sleeves Wrap Waist Long Kimono Maxi Dress Purple S	New	35.00	No		Yes	0	0	0	0	0	0.1	0	0	0
 LYQ-ZQ8200-P0-XL	X001E0D6BB	B01LX89686	Women's V-Neck Long Sleeves Wrap Waist Long Kimono Maxi Dress Purple XL	New	20.99	No		Yes	8	8	0	0	8	0.11	0	0	0
 LYQ-ZQC910-K0-XL	X001JISLGX	B074NYF6Q6	Summer Mae Women's Fashion Plus Size Long Sleeve Striped V-Neck Pocket T-Shirt Dress	New	35.00	No		Yes	0	0	0	0	0	0.08	0	0	0
-LYQ-ZQD270-K0-L	X001KYF1IR	B07588QLDD	OUTDOOR WEAR Summer Mae Women's Oversized Knitted Sweater Long Sleeve V-Neck Loose Pullover Dress	New	35.00	No		Yes	0	0	0	0	0	0.14	0	0	0
-LYQ-ZQD270-K0-XL	X001KYBJZV	B075895X9S	OUTDOOR WEAR Summer Mae Women's Oversized Knitted Sweater Long Sleeve V-Neck Loose Pullover Dress	New	35.00	No		Yes	1	1	0	0	1	0.14	0	0	0
+LYQ-ZQD270-K0-XL	X001KYBJZV	B075895X9S	OUTDOOR WEAR Summer Mae Women's Oversized Knitted Sweater Long Sleeve V-Neck Loose Pullover Dress	New	35.00	No		Yes	0	0	0	0	0	0.14	0	0	0
 LYQ-ZQD270-P0-XL	X001KNNC6L	B07587KC2D	Summer Mae Women's Oversized Knitted Sweater Long Sleeve V-Neck Loose Pullover Dress	New	35.00	No		Yes	0	0	0	0	0	0.14	0	0	0
 LYQ-ZQD390-E0-S	X001KYBA9V	B075MC6YYJ	Summer Mae Women's Oversized Knitted Sweater Long Sleeve V-neck Loose Pullover Tunic Grey Small	New	35.00	No		Yes	4	3	1	0	4	0.12	0	0	0
-LYQ-ZQD390-G0-S	X001LES39P	B075MBJY9Z	Summer Mae Women's Oversized Knitted Sweater Long Sleeve V-neck Loose Pullover Tunic	New	35.00	No		Yes	1	1	0	0	1	0.12	0	0	0
+LYQ-ZQD390-G0-S	X001LES39P	B075MBJY9Z	Summer Mae Women's Oversized Knitted Sweater Long Sleeve V-neck Loose Pullover Tunic	New	35.00	No		Yes	1	0	0	1	1	0.12	0	0	0
 LYQ-ZQD390-K0-S	X001LES8IV	B075MB62X5	Summer Mae Women's Oversized Knitted Sweater Long Sleeve V-neck Loose Pullover Tunic	New	35.00	No		Yes	0	0	0	0	0	0.12	0	0	0
 LYQ-ZQLC00-K0-XL	X0018C8LIX	B01LZ8BCKM	Summer Mae Women's Long Sleeve White Crochet Lace Patchwork A-Line Purple Dresses	New	35.00	No		Yes	1	1	0	0	1	0.08	0	0	0
 LYQ-ZQLP01-P0-M	X001B27MOJ	B01M5IXS33	Summer Mae Women's Purple Long Sleeve Sequin Patch Pocket Shirt Tunic Top	New	30.00	No		Yes	5	5	0	0	5	0.06	0	0	0
@@ -301,9 +296,8 @@ SHJ-ZQLS01-B0-4XL	X001F91ZS7	B01M0MD17L	Summer Mae Women's Plus size Harbor Slit
 SHJ-ZQLS01-B0-XL	X001FXZW19	B01M0MD17O	Summer Mae Women's Plus Size Harbor Slit Shoulder Beach Dress	New	30.00	No		Yes	9	9	0	0	9	0.13	0	0	0
 SHJ-ZQLS12-K0-2XL	X001FCDNYD	B071NXTGQ7	Summer Mae Women's Plus Size V-Neck Gradient Lace Beach Dress	New	30.00	No		Yes	0	0	0	0	0	0.03	0	0	0
 SHJ-ZQLS12-K0-3XL	X001FDH3DT	B072BRN4WX	Summer Mae Women's Plus Size V-Neck Gradient Lace Beach Dress	New	30.00	No		Yes	0	0	0	0	0	0.03	0	0	0
-SHJ-ZQLS12-K0-L	X001FBWR55	B07286PW93	Summer Mae Women's Plus Size V-Neck Gradient Lace Beach Dress	New	18.99	No		Yes	5	5	0	0	5	0.03	0	0	0
-SHJ-ZQLS12-K0-XL	X001FCCWM7	B071S45R26	Summer Mae Women's Plus Size V-Neck Gradient Lace Beach Dress	New	30.00	No		Yes	28	28	0	0	28	0.03	0	0	0
-SJ-HM1995-K0	X0013W7MPL	B01GFM5KKQ	Summer Mae Women's Sexy Crochet Tunic Hollow Out Cover-ups Beachwear Bikini Dress Black	New	35.88	No		Yes	0	0	0	0	0	0.11	0	0	0
+SHJ-ZQLS12-K0-L	X001FBWR55	B07286PW93	Summer Mae Women's Plus Size V-Neck Gradient Lace Beach Dress	New	18.99	No		Yes	4	4	0	0	4	0.03	0	0	0
+SHJ-ZQLS12-K0-XL	X001FCCWM7	B071S45R26	Summer Mae Women's Plus Size V-Neck Gradient Lace Beach Dress	New	30.00	No		Yes	25	25	0	0	25	0.03	0	0	0
 SJ-HM1995-W0	X0014GUIW5	B01GFM5LEQ	Summer Mae Women's Sexy Crochet Tunic Hollow Out Cover-ups Beachwear Bikini Dress White	New	35.88	No		Yes	1	1	0	0	1	0.11	0	0	0
 WJ-ZQ650-C1	X0018PRBPT	B01MF4FR0N	Summer Mae Kids Girls Boys Stylish Warm Plaid Scarf Gorgeous Wrap Shawl	New	30.00	No		Yes	3	3	0	0	3	0.07	0	0	0
 WJ-ZQ650-C10	X001BIBT47	B01MECQ070	Summer Mae Kids Girls Boys Stylish Warm Plaid Scarf Gorgeous Wrap Shawl	New	30.00	No		Yes	5	5	0	0	5	0.07	0	0	0
@@ -339,10 +333,10 @@ YZ-CL912-BS-M	X001HC5D5X	B071X91XB2	Summer Mae Women's Printed Long Sleeve UV Pr
 YZ-CL912-FB-XL	X001HC5NNP	B071X8ZZVZ	Summer Bay Women's Solid Color Off Shoulder Ruffle One Piece Swimsuit High Cut Chic Bikini	New	29.99	No		Yes	3	3	0	0	3	0.13	0	0	0
 YZ-CL912-K0-S	X001GBWWX1	B072R3C18F	Summer Bay Women's Solid Color Off Shoulder Ruffle One Piece Swimsuit High Cut Chic Bikini	New	39.99	No		Yes	2	2	0	0	2	0.13	0	0	0
 YZ-CL912-K0-XL	X001GBWWWR	B071GQYK3C	Summer Bay Women's Solid Color Off Shoulder Ruffle One Piece Swimsuit High Cut Chic Bikini	New	29.99	No		Yes	0	0	0	0	0	0.13	0	0	0
-YZ-CL912-W0-M	X001GRHPKP	B072R1HHMD	Summer Bay Women's Solid Color Off Shoulder Ruffle One Piece Swimsuit High Cut Chic Bikini	New	39.99	No		Yes	3	2	1	0	3	0.13	0	0	0
+YZ-CL912-W0-M	X001GRHPKP	B072R1HHMD	Summer Bay Women's Solid Color Off Shoulder Ruffle One Piece Swimsuit High Cut Chic Bikini	New	39.99	No		Yes	2	2	0	0	2	0.13	0	0	0
 YZ-CLD072-K0-3XL	X001H7CFNB	B073CXW7RR	Women's Halter Scalloped One Piece Swimsuit Solid Color Backless Bathing Suit Black	New	39.99	No		Yes	1	1	0	0	1	0.05	0	0	0
-YZ-CLD072-K0-XL	X001GU2X7H	B073CYD47B	Summer Mae Women's Halter Scalloped One Piece Swimsuit Solid Color Backless Bathing Suit Black	New	39.99	No		Yes	1	1	0	0	1	0.05	0	0	0
-YZ-CLD072-K0-XXL	X001GU2X6X	B073CYK7WC	Summer Mae Women's Halter Scalloped One Piece Swimsuit Solid Color Backless Bathing Suit Black	New	39.99	No		Yes	1	1	0	0	1	0.05	0	0	0
+YZ-CLD072-K0-XL	X001GU2X7H	B073CYD47B	Summer Mae Women's Halter Scalloped One Piece Swimsuit Solid Color Backless Bathing Suit Black	New	39.99	No		Yes	1	0	0	1	1	0.05	0	0	0
+YZ-CLD072-K0-XXL	X001GU2X6X	B073CYK7WC	Summer Mae Women's Halter Scalloped One Piece Swimsuit Solid Color Backless Bathing Suit Black	New	39.99	No		Yes	1	0	0	1	1	0.05	0	0	0
 YZ-CLD072-MU-M	X001H7DPRL	B073CWHCR4	Summer Mae Women's Halter Striped One Piece Swimsuit Backless Bathing Suit	New	39.99	No		Yes	0	0	0	0	0	0.05	0	0	0
 YZ-CLD072-MU-S	X001H76MCL	B073CVM27M	Women's Halter Striped One Piece Swimsuit Backless Bathing Suit	New	39.99	No		Yes	0	0	0	0	0	0.05	0	0	0
 YZ-CLD072-W0-L	X001H775AT	B073CXKTN6	Women's Halter Scalloped One Piece Swimsuit Solid Color Backless Bathing Suit White	New	39.99	No		Yes	3	3	0	0	3	0.05	0	0	0
@@ -358,18 +352,16 @@ YZ-HM0052-B0-S	X001H8JAER	B073GQGSQ7	Summer Mae Womens Sexy Swimwear Slim Fit Ha
 YZ-HM0052-B0-XL	X001H8JO57	B073GMZ65D	Summer Mae Womens Sexy Swimwear Slim Fit Halter Bikini Backless One Piece Swimsuits	New	29.99	No		Yes	3	3	0	0	3	0.04	0	0	0
 YZ-HM0669-W0-M	X001G4N5BL	B072FSB2X8	Summer Mae Womens Sexy V Neck Backless One Piece Coconut Palm Tree Print Swimsuit	New	18.99	Yes	0	No	0	0	0	0	0	0.02	0	0	0
 YZ-HM0669-W0-S	X001G4NB33	B071ZJS9TY	Summer Mae Womens Sexy V Neck Backless One Piece Coconut Palm Tree Print Swimsuit	New	18.99	No		Yes	0	0	0	0	0	0.02	0	0	0
-YZ-HM111-B0-L	X001FZKD7Z	B0714MHMB7	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	6	6	0	0	6	0.08	0	0	0
-YZ-HM111-B0-M	X001FZJI1R	B07121WQTP	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	3	0	3	0	3	0.08	0	0	0
+YZ-HM111-B0-L	X001FZKD7Z	B0714MHMB7	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	7	7	0	0	7	0.08	0	0	0
+YZ-HM111-B0-M	X001FZJI1R	B07121WQTP	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	4	0	4	0	4	0.08	0	0	0
 YZ-HM111-B0-S	X001FZKQRH	B071W2X9CV	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	9	9	0	0	9	0.08	0	0	0
 YZ-HM111-B0-XL	X001FZ64OV	B0717777H3	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	12	12	0	0	12	0.08	0	0	0
-YZ-HM111-K0-L	X001DZX0A9	B06XWQQ8BD	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	44	36	7	1	44	0.08	0	0	0
-YZ-HM111-K0-M	X001E2ZSUL	B06XWQGYFH	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	52	48	2	2	52	0.08	0	0	0
-YZ-HM111-K0-S	X001E9CHZN	B06XWPMW26	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	13	9	4	0	13	0.08	0	0	0
-YZ-HM111-K0-XL	X001E7AJTV	B06XWQSHYX	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	79	41	14	24	79	0.08	0	0	0
-YZ-HM111-YH-L	X001GI8I2D	B072N4YH6P	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	0	0	0	0	0	0.08	0	0	0
+YZ-HM111-K0-L	X001DZX0A9	B06XWQQ8BD	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	39	32	6	1	39	0.08	0	0	0
+YZ-HM111-K0-M	X001E2ZSUL	B06XWQGYFH	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	50	48	2	0	50	0.08	0	0	0
+YZ-HM111-K0-S	X001E9CHZN	B06XWPMW26	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	9	5	4	0	9	0.08	0	0	0
+YZ-HM111-K0-XL	X001E7AJTV	B06XWQSHYX	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	69	53	13	3	69	0.08	0	0	0
 YZ-HM111-YH-M	X001GI6V9P	B072KK64R2	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-HM111-YH-S	X001GI5L91	B071GQNCYS	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	12.98	No		Yes	6	4	2	0	6	0.08	0	0	0
-YZ-HM111-YH-XL	X001GI6VXV	B0721PSJLS	Summer Mae Women's Off The Shoulder Frill Geometric Striped One Piece Bathing Suit Bikini	New	18.98	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-HM1423-Y0-2XL	X0014MWISV	B01GRSGBRY		Unknown					0	0	0	0	0		0	0	0
 YZ-HM1478-Wi-L	X001H4UFH7	B072N7NGJV	Summer Bay Womens One Piece Bikini Out Deep Plunge Keyhole Backless Monokini Swimwear	New	19.90	No		Yes	0	0	0	0	0	0.13	0	0	0
 YZ-HM1478-Wi-M	X001H4N2XL	B072R58C18	Summer Bay Womens One Piece Bikini Out Deep Plunge Keyhole Backless Monokini Swimwear	New	19.90	No		Yes	2	2	0	0	2	0	0	0	0
@@ -380,7 +372,6 @@ YZ-HM1683-BDB0-50	X001IFCB0T	B01JZ1GO3G	Summer Mae Women's One Piece Bathing Sui
 YZ-HM1683-BDB0-52	X001IFFMPP	B01JZ1GPOE	Summer Mae Women's One Piece Bathing Suit Slim Tummy Control Swimwear 52 Dot Blue	New	29.99	No		Yes	0	0	0	0	0	0.14	0	0	0
 YZ-HM1683-BDG0-54	X001G4N0M5	B01JZ1GY40	Summer Mae Women's One Piece Bathing Suit Slim Tummy Control Swimwear 54 Dot Green	New	29.99	No		Yes	1	0	1	0	1	0.14	0	0	0
 YZ-HM1683-BDZL-48	X001G4L71V	B01JZ1H11U	Summer Mae Women's One Piece Bathing Suit Slim Tummy Control Swimwear 48 Dot ZL	New	29.99	No		Yes	1	1	0	0	1	0.14	0	0	0
-YZ-HM1683-BDZL-50	X001EEVE43	B01JZ1H29G	Summer Mae Women's One Piece Bathing Suit Slim Tummy Control Swimwear 50 Dot ZL	New	29.99	No		Yes	0	0	0	0	0	0.14	0	0	0
 YZ-HM1683-BDZL-56	X001EEH45B	B01JZ1H6OW	Summer Mae Women's One Piece Bathing Suit Slim Tummy Control Swimwear 56 Dot ZL	New	29.99	No		Yes	5	5	0	0	5	0.14	0	0	0
 YZ-HM1683-G0-48	X001G4MP03	B01JZ1FYEQ	Summer Mae Women's One Piece Bathing Suit Slim Tummy Control Swimwear 48 Green	New	29.99	No		Yes	2	2	0	0	2	0.14	0	0	0
 YZ-HM1683-G0-56	X001G4IKG1	B01JZ1G43G	Summer Mae Women's One Piece Bathing Suit Slim Tummy Control Swimwear 56 Green	New	29.99	No		Yes	1	1	0	0	1	0.14	0	0	0
@@ -402,34 +393,33 @@ YZ-HM17077-PI-S	X001ES3QGD	B06XY73NTQ	Summer Bay Women's Two Piece Off Shoulder 
 YZ-HM17077-W0-M	X001ER7D45	B06XYJKYYL	Summer Bay Women's Two Piece Off Shoulder Swimsuits High Waisted Bikini Set	New	42.88	No		Yes	0	0	0	0	0	0.14	0	0	0
 YZ-HM17077-W0-XL	X001ES3KK5	B06XY6ZH8F	Summer Bay Women's Two Piece Off Shoulder Swimsuits High Waisted Bikini Set	New	42.88	No		Yes	0	0	0	0	0	0.14	0	0	0
 YZ-HM1711-B0-XL	X001FW3Z1T	B072M4H5V5	Summer Bay Women's One Piece Halter Floral Print Swimsuit Bathing Suit	New	29.99	No		Yes	1	1	0	0	1	0.05	0	0	0
-YZ-HM1727-Pi-2XL	X001DGZV3R	B06XRGKYBC	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink 2XL	New	18.99	No		Yes	65	36	27	2	75	0.05	0	10	0
-YZ-HM1727-Pi-3XL	X001DFML9P	B06XRW7ZB3	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink 3XL	New	18.99	No		Yes	13	5	7	1	13	0.05	0	0	0
-YZ-HM1727-Pi-4XL	X001DH08KR	B06XRVQKRT	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink 4XL	New	18.99	No		Yes	12	9	3	0	12	0.05	0	0	0
-YZ-HM1727-Pi-5XL	X001DGZV5P	B06XRVQGKC	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink 5XL	New	18.99	No		Yes	17	13	4	0	17	0.05	0	0	0
-YZ-HM1727-Pi-L	X001CDPKJ1	B06WGVW1TW	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink L	New	18.99	No		Yes	162	79	49	34	162	0.05	0	0	0
-YZ-HM1727-Pi-M	X001CF3A1T	B06W5JMC3G	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink M	New	18.99	No		Yes	185	124	57	4	185	0.05	0	0	0
-YZ-HM1727-Pi-S	X001CDN20Z	B06VYFC3HZ	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink S	New	18.99	No		Yes	62	46	15	1	62	0.05	0	0	0
-YZ-HM1727-Pi-XL	X001CDPKIR	B06WRXM3GY	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink XL	New	18.99	No		Yes	194	75	32	87	194	0.1	0	0	0
-YZ-HM1728-ZL-L	X001FW35TB	B071DV9DK1	Summer Mae Womens One Piece Floral Lace Swimwear Printed Multi-Rope Harness Bathing Suit	New	29.99	No		Yes	33	27	6	0	33	0.01	0	0	0
-YZ-HM1728-ZL-M	X001FVWNB3	B071DV9D1Q	Summer Mae Womens One Piece Floral Lace Swimwear Printed Multi-Rope Harness Bathing Suit	New	29.99	No		Yes	26	7	4	15	26	0.01	0	0	0
-YZ-HM1728-ZL-S-New	X001O23YIT	B078TCMCWF	Summer Mae One Piece Floral Lace Swimwear Printed Multi-Rope Harness Bikini	New	18.99	No		Yes	11	9	1	1	23	0.01	12	0	0
-YZ-HM1728-ZL-XL	X001FVIB3H	B071DV9G8Z	Summer Mae Womens One Piece Floral Lace Swimwear Printed Multi-Rope Harness Bathing Suit	New	29.99	No		Yes	12	5	6	1	12	0.01	0	0	0
+YZ-HM1727-Pi-2XL	X001DGZV3R	B06XRGKYBC	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink 2XL	New	18.99	No		Yes	52	31	20	1	77	0.05	0	25	0
+YZ-HM1727-Pi-3XL	X001DFML9P	B06XRW7ZB3	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink 3XL	New	18.99	No		Yes	9	2	6	1	39	0.05	0	30	0
+YZ-HM1727-Pi-4XL	X001DH08KR	B06XRVQKRT	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink 4XL	New	18.99	No		Yes	12	10	2	0	12	0.05	0	0	0
+YZ-HM1727-Pi-5XL	X001DGZV5P	B06XRVQGKC	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink 5XL	New	18.99	No		Yes	16	11	2	3	16	0.05	0	0	0
+YZ-HM1727-Pi-L	X001CDPKJ1	B06WGVW1TW	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink L	New	18.99	No		Yes	142	80	51	11	142	0.05	0	0	0
+YZ-HM1727-Pi-M	X001CF3A1T	B06W5JMC3G	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink M	New	18.99	No		Yes	170	108	56	6	199	0.05	0	29	0
+YZ-HM1727-Pi-S	X001CDN20Z	B06VYFC3HZ	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink S	New	18.99	No		Yes	60	38	20	2	91	0.05	0	31	0
+YZ-HM1727-Pi-XL	X001CDPKIR	B06WRXM3GY	Women One Piece Swimsuit Deep V-Neck Pattern Swimwear Cross-Back High Cut Monokini Bathing Suits Pink XL	New	18.99	No		Yes	173	134	33	6	173	0.1	0	0	0
+YZ-HM1728-ZL-L	X001FW35TB	B071DV9DK1	Summer Mae Womens One Piece Floral Lace Swimwear Printed Multi-Rope Harness Bathing Suit	New	29.99	No		Yes	32	25	5	2	32	0.01	0	0	0
+YZ-HM1728-ZL-M	X001FVWNB3	B071DV9D1Q	Summer Mae Womens One Piece Floral Lace Swimwear Printed Multi-Rope Harness Bathing Suit	New	29.99	No		Yes	28	22	5	1	28	0.01	0	0	0
+YZ-HM1728-ZL-S-New	X001O23YIT	B078TCMCWF	Summer Mae One Piece Floral Lace Swimwear Printed Multi-Rope Harness Bikini	New	18.99	No		Yes	8	7	1	0	20	0.01	12	0	0
+YZ-HM1728-ZL-XL	X001FVIB3H	B071DV9G8Z	Summer Mae Womens One Piece Floral Lace Swimwear Printed Multi-Rope Harness Bathing Suit	New	29.99	No		Yes	11	5	6	0	11	0.01	0	0	0
 YZ-HM174164-SY-2XL	X001CTH3VD	B01N6LKJIY	Summer Mae Women's Plus-Size Tonal Leaf Swim Dress Two Piece Swimsuit 2XL	New	42.38	No		Yes	6	6	0	0	6	0.09	0	0	0
 YZ-HM174164-SY-3XL	X001CO0SP1	B01NH0VOD4	Summer Mae Women's Plus-Size Tonal Leaf Swim Dress Two Piece Swimsuit 3XL	New	42.38	No		Yes	3	3	0	0	3	0.09	0	0	0
 YZ-HM174164-SY-4XL	X001CO0SOR	B01MZ4I332	Summer Mae Women's Plus-Size Tonal Leaf Swim Dress Two Piece Swimsuit 4XL	New	42.38	No		Yes	6	6	0	0	6	0.09	0	0	0
-YZ-HM174164-SY-L	X001CNZPKF	B01MR0QB48	Summer Mae Women's Plus-Size Tonal Leaf Swim Dress Two Piece Swimsuit L	New	42.38	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-HM174164-SY-XL	X001CNZPK5	B01MR0QBC4	Summer Mae Women's Plus-Size Tonal Leaf Swim Dress Two Piece Swimsuit XL	New	42.38	No		Yes	4	4	0	0	4	0.09	0	0	0
 YZ-HM1757-K0-L	X001GHT3W3	B071JRNY83	Summer Mae Women's High Neck Green Leaves Print Lace Up One Piece Monokini Swimsuit	New	16.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-HM1757-K0-M	X001GI5Y4D	B071WPNKQC	Summer Mae Women's High Neck Green Leaves Print Lace Up One Piece Monokini Swimsuit	New	16.99	No		Yes	1	0	1	0	1	0.09	0	0	0
-YZ-HM1757-K0-S	X001GW4ZZD	B071G5PTHM	Summer Mae Women's High Neck Green Leaves Print Lace Up One Piece Monokini Swimsuit	New	16.99	No		Yes	1	0	1	0	1	0.09	0	0	0
+YZ-HM1757-K0-S	X001GW4ZZD	B071G5PTHM	Summer Mae Women's High Neck Green Leaves Print Lace Up One Piece Monokini Swimsuit	New	16.99	No		Yes	2	0	1	1	2	0.09	0	0	0
 YZ-HM1757-K0-XL	X001GW1XZD	B071JRP9Y6	Summer Mae Women's High Neck Green Leaves Print Lace Up One Piece Monokini Swimsuit	New	16.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-HM1757-Pi-M	X001GIDFWB	B071WPRS8L	Summer Mae Women's High Neck Green Leaves Print Lace Up One Piece Monokini Swimsuit	New	16.99	No		Yes	1	0	1	0	1	0.09	0	0	0
 YZ-HM1757-Pi-S	X001GXDH2T	B07214K5VF	Summer Mae Women's High Neck Green Leaves Print Lace Up One Piece Monokini Swimsuit	New	16.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-HM1757-Pi-XL	X001GXAWSL	B072JXZ2R9	Summer Mae Women's High Neck Green Leaves Print Lace Up One Piece Monokini Swimsuit	New	16.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-HM17845-YH-L	X001DBXDZF	B06W5D2991	Summer Mae Women One Piece Vintage Floral Printed Pin Up Backless Triangle Monokini Swimsuits	New	29.99	No		Yes	2	1	1	0	2	0.07	0	0	0
-YZ-HM17845-YH-M	X001DC5KBJ	B06X6LTGGL	Summer Mae Women One Piece Vintage Floral Printed Pin Up Backless Triangle Monokini Swimsuits	New	29.99	No		Yes	10	9	1	0	10	0.07	0	0	0
+YZ-HM17845-YH-M	X001DC5KBJ	B06X6LTGGL	Summer Mae Women One Piece Vintage Floral Printed Pin Up Backless Triangle Monokini Swimsuits	New	29.99	No		Yes	9	8	1	0	9	0.07	0	0	0
 YZ-HM17845-YH-S	X001DCOXFN	B06W2PGTD7	Summer Mae Women One Piece Vintage Floral Printed Pin Up Backless Triangle Monokini Swimsuits	New	29.99	No		Yes	11	11	0	0	11	0.07	0	0	0
-YZ-HM17845-YH-XL	X001DC43XZ	B06WGTX4V8	Summer Mae Women One Piece Vintage Floral Printed Pin Up Backless Triangle Monokini Swimsuits	New	29.99	No		Yes	4	3	1	0	4	0.07	0	0	0
+YZ-HM17845-YH-XL	X001DC43XZ	B06WGTX4V8	Summer Mae Women One Piece Vintage Floral Printed Pin Up Backless Triangle Monokini Swimsuits	New	29.99	No		Yes	5	1	3	1	5	0.07	0	0	0
 YZ-HM241-DS-2XL	X001B3ROCX	B01HZ2XMYQ	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear Grey 2XL	New	38.88	No		Yes	1	1	0	0	1	0.06	0	0	0
 YZ-HM241-DS-L	X0015KBFQ3	B01HZ2XKJ8	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear Grey L	New	38.88	No		Yes	1	1	0	0	1	0.06	0	0	0
 YZ-HM241-DS-M	X0015PUEIN	B01HZ2XQSI	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear Grey M	New	38.88	No		Yes	4	4	0	0	4	0.06	0	0	0
@@ -439,33 +429,31 @@ YZ-HM241-G0-3XL	X001B413ZB	B01MAZ1MWP	Summer Mae Women's Halter Neck Wrap One Pi
 YZ-HM241-G0-L	X001B2BX85	B01MCW20WY	Summer Mae Womens Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear,Arm Green(halter),L(US size:6-8)	New	38.88	No		Yes	9	8	0	1	9	0.06	0	0	0
 YZ-HM241-G0-M	X001B1XPYV	B01M4LK8AN	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-HM241-G0-S	X001B2505R	B01MF97PBG	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	2	2	0	0	2	0.06	0	0	0
-YZ-HM241-G0-XL	X001B413YH	B01MA69GN2	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	1	0	1	0	1	0.06	0	0	0
+YZ-HM241-G0-XL	X001B413YH	B01MA69GN2	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	2	1	1	0	2	0.06	0	0	0
 YZ-HM241-K0-2XL	X0015NR20X	B01HZ2XMAA	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear Black 2XL	New	38.88	No		Yes	3	3	0	0	3	0.06	0	0	0
-YZ-HM241-K0-3XL	X001B2LGHN	B01HZ2XNAY	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear Black 3XL	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
+YZ-HM241-K0-3XL	X001B2LGHN	B01HZ2XNAY	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear Black 3XL	New	38.88	No		Yes	1	0	1	0	1	0.06	0	0	0
 YZ-HM241-K0-L	X0015NQMFT	B01HZ2XJW6	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear Black L	New	9.99	No		Yes	4	2	2	0	4	0.06	0	0	0
 YZ-HM241-K0-M	X0015PSULV	B01HZ2XIO0	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear Black M	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-HM241-K0-S	X0015PUEID	B01I4KVTG6	Summer Mae Women's Halter Neck Wrap 1PC Padded Tankini Swimsuit Black S	New	38.88	No		Yes	3	2	1	0	3	0.06	0	0	0
-YZ-HM241-K0-XL	X0015PTCDV	B01HZ2XL56	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear Black 1XL	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
+YZ-HM241-K0-XL	X0015PTCDV	B01HZ2XL56	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear Black 1XL	New	38.88	No		Yes	1	1	0	0	1	0.06	0	0	0
 YZ-HM241-R0-2XL	X001B2RBU9	B01M2ZNWBP	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
-YZ-HM241-R0-3XL	X001B3CC3J	B01MFA53BJ	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-HM241-R0-L	X001B413Z1	B01MFA5E72	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-HM241-R0-M	X001B2CFNR	B01MAZ1FP5	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	11	10	1	0	11	0.06	0	0	0
 YZ-HM241-R0-S	X001B413YR	B01MFA53BD	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	3	3	0	0	3	0.06	0	0	0
 YZ-HM241-R0-XL	X001B3CYYL	B01MFA54OG	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	6	6	0	0	6	0.06	0	0	0
 YZ-HM241-SH-2XL	X001B3CYXR	B01IMU4IZC	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-HM241-SH-3XL	X001B2AISV	B01IMU4JJW	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
-YZ-HM241-SH-4XL	X001B25TNF	B01IMU4KCS	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-HM241-SH-5XL	X001B3CYY1	B01IMU4LYK	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
-YZ-HM241-SH-L	X0015OK2FT	B01IMU4KQE	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	9	9	0	0	9	0.06	0	0	0
+YZ-HM241-SH-L	X0015OK2FT	B01IMU4KQE	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	8	8	0	0	8	0.06	0	0	0
 YZ-HM241-SH-M	X0015KTY1B	B01IMU4JK6	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	4	4	0	0	4	0.06	0	0	0
 YZ-HM241-SH-S	X0015PK8LV	B01IMU4IWK	Summer Mae Women's Halter Neck Wrap 1PC Padded Tankini Swimsuit Dark Grey S	New	38.88	No		Yes	2	2	0	0	2	0.04	0	0	0
-YZ-HM241-SH-XL	X0015PTW6X	B01IMU4LEK	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	3	2	1	0	3	0.06	0	0	0
+YZ-HM241-SH-XL	X0015PTW6X	B01IMU4LEK	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	2	1	1	0	2	0.06	0	0	0
 YZ-HM241-ZL-2XL	X001B2CFNH	B01M3SC55F	Summer Mae Womens Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear,Blue(halter),2X(US size:10-12)	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-HM241-ZL-3XL	X001B2RBTZ	B01MAZ1CFG	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
-YZ-HM241-ZL-L	X001B2LWR7	B01M8KQKBA	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
+YZ-HM241-ZL-L	X001B2LWR7	B01M8KQKBA	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	1	0	1	0	1	0.06	0	0	0
 YZ-HM241-ZL-M	X001B2RBUJ	B01MEHF7UE	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-HM241-ZL-S	X001B3CQ71	B01MF9XXYO	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	3	3	0	0	3	0.06	0	0	0
-YZ-HM241-ZL-XL	X001B3CYYB	B01M6Z8GFX	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	6	6	0	0	6	0.06	0	0	0
+YZ-HM241-ZL-XL	X001B3CYYB	B01M6Z8GFX	Summer Mae Women's Halter Neck Wrap One Piece Padded Tankini Swimsuit Monokini Swimwear	New	38.88	No		Yes	7	6	0	1	7	0.06	0	0	0
 YZ-HM2508-R0-M	X001GU23SB	B071KKDKCC	Summer Bay Women's Halter Swimsuit One Piece Swimwear Sexy Summer Swimsuit	New	19.90	No		Yes	1	0	0	1	1	0.07	0	0	0
 YZ-HM5036-W0-2XL	X001DHUJSX	B01J5AL88S	Summer Mae Women's Plus Size Wrap Bandeau Colorblock Swimdress White 2XL	New	19.90	No		Yes	1	1	0	0	1	0.11	0	0	0
 YZ-HM5036-W0-L	X001DHYLFF	B01J5AL630	Summer Mae Women's Plus Size Wrap Bandeau Colorblock Swimdress White L	New	19.90	No		Yes	4	4	0	0	4	0.11	0	0	0
@@ -481,17 +469,16 @@ YZ-HM6175-K0-M	X001CVQB2N	B06W2MGY1F	Women's One Piece Solid Color Off-shoulder 
 YZ-HM6175-R0-M	X001CW4EET	B06W57JDKH	Summer Bay Women One Piece Solid Color Off-shoulder Flounce Monokini Swimwear	New	19.90	No		Yes	2	2	0	0	2	0	0	0	0
 YZ-HM688-K0-L	X001C72BS5	B01N02OUSI	Summer Bay Women Sexy Padded Tassel Lace One Piece Swimsuits	New	19.90	No		Yes	3	3	0	0	3	0	0	0	0
 YZ-HM688-K0-XL	X001C6DTYL	B01N0AY376	Summer Bay Women Sexy Padded Tassel Lace One Piece Swimsuits	New	19.90	No		Yes	2	2	0	0	2	0	0	0	0
-YZ-HM7035-DJG0-L	X001HPRSRL	B071WP4TYK	Summer Mae Women Sexy Leaves Print Lace Up Padding One Piece Monokini Swimsuit Bikini	New	19.99	No		Yes	2	2	0	0	2	0.11	0	0	0
-YZ-HM7035-DJG0-M	X001HPTUV3	B07214CVZK	Summer Mae Women Sexy Leaves Print Lace Up Padding One Piece Monokini Swimsuit Bikini	New	19.99	No		Yes	1	0	0	1	1	0.11	0	0	0
+YZ-HM7035-DJG0-L	X001HPRSRL	B071WP4TYK	Summer Mae Women Sexy Leaves Print Lace Up Padding One Piece Monokini Swimsuit Bikini	New	19.99	No		Yes	1	1	0	0	1	0.11	0	0	0
+YZ-HM7035-DJG0-M	X001HPTUV3	B07214CVZK	Summer Mae Women Sexy Leaves Print Lace Up Padding One Piece Monokini Swimsuit Bikini	New	19.99	No		Yes	1	1	0	0	1	0.11	0	0	0
 YZ-HM7035-DJG0-S	X001K8M2P3	B07214KML1	Summer Mae Women Sexy Leaves Print Lace Up Padding One Piece Monokini Swimsuit Bikini	New	19.99	No		Yes	3	3	0	0	3	0.11	0	0	0
-YZ-HM7035-DJG0-XL	X001K8I10X	B071G5C3M3	Summer Mae Women Sexy Leaves Print Lace Up Padding One Piece Monokini Swimsuit Bikini	New	19.99	No		Yes	0	0	0	0	0	0.11	0	0	0
+YZ-HM7035-DJG0-XL	X001K8I10X	B071G5C3M3	Summer Mae Women Sexy Leaves Print Lace Up Padding One Piece Monokini Swimsuit Bikini	New	19.99	No		Yes	1	1	0	0	1	0.11	0	0	0
 YZ-HM7035-G0-L	X001GX6FHN	B071G5K8VC	Summer Mae Women Sexy Leaves Print Lace Up Padding One Piece Monokini Swimsuit Bikini	New	19.99	No		Yes	0	0	0	0	0	0.11	0	0	0
 YZ-HM7035-G0-M	X001GXDH33	B0721433YC	Summer Mae Women Sexy Leaves Print Lace Up Padding One Piece Monokini Swimsuit Bikini	New	19.99	No		Yes	0	0	0	0	0	0.11	0	0	0
-YZ-HM7035-G0-S	X001GXD6QL	B072JXRSN6	Summer Mae Women Sexy Leaves Print Lace Up Padding One Piece Monokini Swimsuit Bikini	New	19.99	No		Yes	0	0	0	0	0	0.11	0	0	0
 YZ-HM7035-G0-XL	X001GX6NQV	B07213Q8SN	Summer Mae Women Sexy Leaves Print Lace Up Padding One Piece Monokini Swimsuit Bikini	New	19.99	No		Yes	1	0	1	0	1	0.11	0	0	0
 YZ-HM7040-ZL-M	X001H775WH	B072XBZ442	Summer Bay Women One Piece Deep V Neck Plunge Contrast Edged Getaway Halter Monokini Swimsuits	New	19.90	No		Yes	1	1	0	0	1	0.08	0	0	0
 YZ-HM7040-ZL-S	X001H7DPRV	B072XFCM1L		Unknown					0	0	0	0	0		0	0	0
-YZ-HM7040-ZL-XL	X001H7BV8L	B072XCPKG1	Summer Bay Women One Piece Deep V Neck Plunge Contrast Edged Getaway Halter Monokini Swimsuits	New	19.90	No		Yes	1	1	0	0	1	0.08	0	0	0
+YZ-HM7040-ZL-XL	X001H7BV8L	B072XCPKG1	Summer Bay Women One Piece Deep V Neck Plunge Contrast Edged Getaway Halter Monokini Swimsuits	New	19.90	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-HM7889-B0-1X	X001GEII2H	B071LG1GCV	Summer Bay Women's Plus Size Swim Mesh High Neck One Piece Swimsuit	New	32.99	No		Yes	3	3	0	0	3	0.09	0	0	0
 YZ-HM7889-B0-2X	X001GEP0RN	B0723428Q9	Summer Bay Women's Plus Size Swim Mesh High Neck One Piece Swimsuit	New	32.99	No		Yes	3	3	0	0	3	0.09	0	0	0
 YZ-HM7889-B0-4X	X001GEIGTR	B0711RJCRZ	Summer Bay Women's Plus Size Swim Mesh High Neck One Piece Swimsuit	New	32.99	No		Yes	4	4	0	0	4	0.09	0	0	0
@@ -506,11 +493,11 @@ YZ-HMBKN16024-G0-L	X001GLB2CD	B07314MWWM	Summer Mae Women's Pineapple Printing H
 YZ-HMBKN16024-Y0-M	X001EL20RV	B06XFQKV5X	Summer Mae Women's Pineapple Printing Halter Padding Bikini Set	New	29.99	No		Yes	15	14	1	0	15	0.06	0	0	0
 YZ-HMBKN17015-K0-L	X001GI8D8H	B0722PSKP8	Summer Mae Women's Sexy Bandage Bikini Set Push-up Padded 2 Piece Swimsuit Swimwear	New	16.99	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-HMBKN17015-K0-M	X001GI67HV	B072F2R837	Summer Mae Women's Sexy Bandage Bikini Set Push-up Padded 2 Piece Swimsuit Swimwear	New	20.99	No		Yes	0	0	0	0	0	0.06	0	0	0
-YZ-HMBKN17015-K0-XL	X001GZTHZ3	B0727W8HKN	Summer Mae Women's Sexy Bandage Bikini Set Push-up Padded 2 Piece Swimsuit Swimwear	New	16.99	No		Yes	8	7	1	0	8	0.06	0	0	0
+YZ-HMBKN17015-K0-XL	X001GZTHZ3	B0727W8HKN	Summer Mae Women's Sexy Bandage Bikini Set Push-up Padded 2 Piece Swimsuit Swimwear	New	16.99	No		Yes	7	6	1	0	7	0.06	0	0	0
 YZ-HMBKN17015-OR-L	X001G4MPB7	B072L84WMS	Summer Mae Women's Sexy Bandage Bikini Set Push-up Padded 2 Piece Swimsuit Swimwear,Orange, Size Large	New	16.99	No		Yes	46	43	3	0	46	0.06	0	0	0
-YZ-HMBKN17015-OR-M	X001G4N12J	B071VD3X3X	Summer Mae Women's Sexy Bandage Bikini Set Push-up Padded 2 Piece Swimsuit Swimwear	New	16.99	No		Yes	23	22	1	0	23	0.06	0	0	0
+YZ-HMBKN17015-OR-M	X001G4N12J	B071VD3X3X	Summer Mae Women's Sexy Bandage Bikini Set Push-up Padded 2 Piece Swimsuit Swimwear	New	16.99	No		Yes	22	21	1	0	22	0.06	0	0	0
 YZ-HMBKN17015-OR-S	X001G4N7LT	B071RSHZBJ	Summer Mae Women's Sexy Bandage Bikini Set Push-up Padded 2 Piece Swimsuit Swimwear	New	16.99	No		Yes	0	0	0	0	0	0.06	0	0	0
-YZ-HMBKN17015-OR-XL	X001G4N6GZ	B072HN8VX9	Summer Mae Women's Sexy Bandage Bikini Set Push-up Padded 2 Piece Swimsuit Swimwear	New	16.99	No		Yes	34	30	1	3	34	0.06	0	0	0
+YZ-HMBKN17015-OR-XL	X001G4N6GZ	B072HN8VX9	Summer Mae Women's Sexy Bandage Bikini Set Push-up Padded 2 Piece Swimsuit Swimwear	New	16.99	No		Yes	32	30	1	1	32	0.06	0	0	0
 YZ-HMBKN1715-R0-M	X001EL20SF	B071KV1GG7	Summer Mae Women 2 Pcs Bikini Set Triangle Top Brazilian Bottom Velvet Swimsuit Swimwear	New	29.99	No		Yes	2	2	0	0	2	0.04	0	0	0
 YZ-HMBKN1715-R0-S	X001EL6YMN	B07115MLY8	Summer Mae Women 2 Pcs Bikini Set Triangle Top Brazilian Bottom Velvet Swimsuit Swimwear	New	29.99	No		Yes	2	2	0	0	2	0.04	0	0	0
 YZ-HMBKN30-B0YH-M	X001DB1BHH	B06XSQCDV5	Women's Front Cross Printing Bottom Halter Bikini Set	New	39.99	No		Yes	2	2	0	0	2	0.06	0	0	0
@@ -531,7 +518,6 @@ YZ-HMBKN30-WR-XL	X001D8B9N1	B06XSSG9RZ	Women's Front Cross Printing Bottom Halte
 YZ-HMBKN30-ZL-L	X001D94FMR	B06XSP3TCT	Women's Front Cross Printing Bottom Halter Bikini Set	New	39.99	No		Yes	4	4	0	0	4	0.06	0	0	0
 YZ-HMBKN30-ZL-M	X001DB216H	B06XSSJB6H	Women's Front Cross Printing Bottom Halter Bikini Set	New	39.99	No		Yes	4	4	0	0	4	0.06	0	0	0
 YZ-HMBKN30-ZL-XL	X001DBEJRV	B06XT1CWTK	Women's Front Cross Printing Bottom Halter Bikini Set	New	39.99	No		Yes	3	3	0	0	3	0.06	0	0	0
-YZ-HMBKN3308-K0-XL	X001DI4Q3V	B06XJ1T9DK		Unknown					0	0	0	0	0		0	0	0
 YZ-HMBKN967-B0-L	X001CZ9FT5	B06XFS7QB2	Summer Mae Women's Sky Blue Lace Up Leopard Bottom Padding Bikini Set	New	19.99	No		Yes	4	4	0	0	4	0.05	0	0	0
 YZ-HMBKN967-K0-L	X001FEV05F	B07116N1LG	Summer Mae Women's Sky Blue Lace Up Leopard Bottom Padding Bikini Set	New	19.99	No		Yes	1	1	0	0	1	0.05	0	0	0
 YZ-HMBKN967-R0-L	X001EX05CL	B07117Q43M	Summer Mae Women's Sky Blue Lace Up Leopard Bottom Padding Bikini Set	New	19.99	No		Yes	2	2	0	0	2	0.05	0	0	0
@@ -539,11 +525,10 @@ YZ-HMJ005-K0-L	X001CRSX8R	B01N3M0QSA	Summer Mae Women Fringe Swimsuits Two Piece
 YZ-HMSG001-G0-L	X001FMJ8B5	B01J7T07WA	Summer Mae Women's Back Geometry Tankini Top With Boyshorts Grey L	New	32.88	No		Yes	2	2	0	0	2	0.04	0	0	0
 YZ-HMSG001-G0-M	X001FKA587	B01J7T05W2	Summer Mae Women's Back Geometry Tankini Top With Boyshorts Grey M	New	32.88	No		Yes	1	1	0	0	1	0.04	0	0	0
 YZ-HMVS-W0-S	X001D1PFJ7	B06WPBGWT1	Summer Bay Women Backless Two Piece Letter VS Printed Bikini Padded Swimwear Set	New	29.99	No		Yes	2	2	0	0	2	0.05	0	0	0
-YZ-JY2526-R0-2XL	X001B6K6IJ	B01N4L3QB1	Summer Mae Women's Plus Size Padded Vintage Printing Halter High Waisted Bikini Set	New	28.98	No		Yes	16	16	0	0	16	0.06	0	0	0
+YZ-JY2526-R0-2XL	X001B6K6IJ	B01N4L3QB1	Summer Mae Women's Plus Size Padded Vintage Printing Halter High Waisted Bikini Set	New	28.98	No		Yes	16	15	0	1	16	0.06	0	0	0
 YZ-JY2526-R0-3XL	X001B9FR0D	B01MT6CBRR	Summer Mae Women's Plus Size Padded Vintage Printing Halter High Waisted Bikini Set	New	28.98	No		Yes	19	18	1	0	19	0.06	0	0	0
 YZ-JY2526-R0-4XL	X001BCMX07	B01N1ZLVZB	Summer Mae Women's Plus Size Padded Vintage Printing Halter High Waisted Bikini Set	New	28.98	No		Yes	4	4	0	0	4	0.06	0	0	0
 YZ-JY2526-R0-XL	X001B9EI8F	B01MT6CCQX	Summer Mae Women's Plus Size Padded Vintage Printing Halter High Waisted Bikini Set	New	28.98	No		Yes	1	0	1	0	1	0.06	0	0	0
-YZ-JY3233-K0-L	X0016PY3ON	B01J5A1JHI	Summer Mae Women's Padded One Piece Vintage Printing Mesh Bikini Swimsuit Black Large	New	32.99	No		Yes	0	0	0	0	0	0.11	0	0	0
 YZ-JY3233-K0-M	X0016PY3OX	B01J5A1I9W	Summer Mae Women's Padded One Piece Vintage Printing Mesh Bikini Swimsuit Black Medium(US Size:6-8)	New	32.99	No		Yes	0	0	0	0	0	0.11	0	0	0
 YZ-JY3233-K0-S	X0016QO347	B01J5A1H6Q	Summer Mae Women's Padded One Piece Vintage Printing Mesh Bikini Swimsuit	New	32.99	No		Yes	0	0	0	0	0	0.11	0	0	0
 YZ-JY3233-K0-XL	X0016QO3F1	B01J5A1KEK	Summer Mae Women's Padded One Piece Vintage Printing Mesh Bikini Swimsuit	New	32.99	No		Yes	0	0	0	0	0	0.11	0	0	0
@@ -551,7 +536,7 @@ YZ-JY3233-K0-XS	X001AI936T	B01NCJBIK7	Summer Mae Women's Padded One Piece Vintag
 YZ-JY3288-B0-1L	X0014H48EX	B01G6QHUIG	Summer Mae Women's One Piece Printed Lace Swimwear Bathing Swimsuit Large(US size:12-14) Flower	New	19.90	No		Yes	0	0	0	0	0	0.02	0	0	0
 YZ-JY5694-K0-3XL	X0019HHQID	B01M2X9OND	Summer Joy Women's Plus Size Ruched Printing Shorts Bikini Set	New	35.98	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-JY5694-K0-4XL	X0019NZG9N	B01MCTLBRC	Summer Joy Women's Plus Size Ruched Printing Shorts Bikini Set	New	35.98	No		Yes	0	0	0	0	0	0.11	0	0	0
-YZ-JY5694-K0-L	X0019O4V0R	B01M3PZ1R5	Summer Joy Women's Plus Size Ruched Printing Shorts Bikini Set	New	35.98	No		Yes	6	6	0	0	6	0.11	0	0	0
+YZ-JY5694-K0-L	X0019O4V0R	B01M3PZ1R5	Summer Joy Women's Plus Size Ruched Printing Shorts Bikini Set	New	35.98	No		Yes	5	5	0	0	5	0.11	0	0	0
 YZ-JY5694-K0-M	X0019J46N9	B01M3PZ378	Summer Joy Women's Plus Size Ruched Printing Shorts Bikini Set	New	35.98	No		Yes	10	10	0	0	10	0.1	0	0	0
 YZ-JY5694-K0-XL	X0019JAWT1	B01M5BEDMO	Summer Joy Women's Plus Size Ruched Printing Shorts Bikini Set	New	35.98	No		Yes	0	0	0	0	0	0.1	0	0	0
 YZ-JY7015-R0-L	X001B9BOUZ	B01M3Y0ZDC	Summer Joy Women's Lace Splicing Halter Padding Tank Bikini Set	New	19.90	No		Yes	1	1	0	0	1	0	0	0	0
@@ -560,7 +545,7 @@ YZ-JY7105-K0-XL	X001E2IXLR	B01N0X4A6O	Summer Joy Women's Plus Size Vintage Print
 YZ-JY8419-B0-2XL	X0014H553V	B01GHBF7L2		Unknown					0	0	0	0	0		0	0	0
 YZ-JY8419-ZL-2XL	X0014H4VVD	B01GHBF4SI		Unknown					0	0	0	0	0		0	0	0
 YZ-SM-HM30CH-L	X001AZHZOJ	B01M5JZGEH	Summer Mae Women's Sexy Colorful One Piece Beachwear Bikini Monokini Swimsuit	New	32.88	No		Yes	0	0	0	0	0	0.11	0	0	0
-YZ-SM-HM30CH-XL	X001B58C7H	B01M8QZC0V	Summer Mae Women's Sexy colorful One Piece Beachwear Bikini Monokini Swimsuit	New	32.88	No		Yes	8	8	0	0	8	0.11	0	0	0
+YZ-SM-HM30CH-XL	X001B58C7H	B01M8QZC0V	Summer Mae Women's Sexy colorful One Piece Beachwear Bikini Monokini Swimsuit	New	32.88	No		Yes	7	7	0	0	7	0.11	0	0	0
 YZ-SU16103-R0-2XL	X001S6TSW7	B07D36B2SR	Women One Piece Mesh Polka Dot Bathing Suit	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SU16103-R0-L	X001S6TSWH	B07D35ZV5K	Women One Piece Mesh Polka Dot Bathing Suit	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SU16103-ZL-2XL	X001S89ZZF	B07D37R82G	Women One Piece Mesh Polka Dot Bathing Suit	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
@@ -581,11 +566,11 @@ YZ-SUBL03-B0-M	X001T3822L	B07DNY8PJY	One Piece Mesh Swimsuit Classic Strappy V N
 YZ-SUBL03-B0-S	X001T210RB	B07DNXLPTS	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUBL03-B0-XL	X001T37WDL	B07DNZRXKL	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUBL03-B0-XS	X001T37WD1	B07DNYR669	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
-YZ-SUBL03-K0-L	X001T38AGJ	B07DNXGR2H	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	24	0.11	0	24	0
-YZ-SUBL03-K0-M	X001T37WDB	B07DNXW5SB	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	105	35	0	70	105	0.11	0	0	0
-YZ-SUBL03-K0-S	X001T37QD7	B07DNWTWYZ	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	112	111	0	1	112	0.11	0	0	0
+YZ-SUBL03-K0-L	X001T38AGJ	B07DNXGR2H	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	17	13	0	4	18	0.11	0	1	0
+YZ-SUBL03-K0-M	X001T37WDB	B07DNXW5SB	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	96	96	0	0	96	0.11	0	0	0
+YZ-SUBL03-K0-S	X001T37QD7	B07DNWTWYZ	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	104	103	0	1	104	0.11	0	0	0
 YZ-SUBL03-K0-XL	X001T38587	B07DNXSYFS	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
-YZ-SUBL03-K0-XS	X001T37QDH	B07DNX562P	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	28	28	0	0	28	0.11	0	0	0
+YZ-SUBL03-K0-XS	X001T37QDH	B07DNX562P	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	26	26	0	0	26	0.11	0	0	0
 YZ-SUBL03-R2-L	X001T2HKFH	B07DNYV69N	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear Pink	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUBL03-R2-M	X001T2HH9V	B07DNX211T	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear Pink	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUBL03-R2-S	X001T37ZS3	B07DNXLQ64	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
@@ -603,6 +588,7 @@ YZ-SUTWA100-K0-M	X001S75QWH	B07D37QCZK	Women Plus Size Striped Tankini Swimsuit	
 YZ-SUTWA100-K0-S	X001S89W0N	B07D34X254	Women Plus Size Striped Tankini Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUTWA100-K0-XL	X001S6K8OT	B07D3778CP	Women Plus Size Striped Tankini Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUXZBL03-B0-L	X001TQXKF7	B07F6BLFTN	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
+YZ-SUXZBL03-K0-S	X001TTYEVN	B07F8FTX4T	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUXZBL03-R2-S	X001TQX21T	B07F6HR7YR	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUZQ161-E0-2XL	X001R8AV4F	B07CH9Y7K5	Summer Mae Plus Size Dew Drops Blouson Plus Size Swimwear Tankini	New	39.99	No		Yes	0	0	0	0	0	0.03	0	0	0
 YZ-SUZQ161-E0-3XL	X001R8BNFV	B07CH388TJ	Summer Mae Plus Size Dew Drops Blouson Plus Size Swimwear Tankini	New	39.99	No		Yes	0	0	0	0	0	0.03	0	0	0
@@ -653,28 +639,28 @@ YZ-SUZQ173-SB-M	X001RA495F	B07CJ1Q3FM		Unknown					0	0	0	0	0		0	0	0
 YZ-SUZQ173-SB-S	X001R9I5BP	B07CJ389VG		Unknown					0	0	0	0	0		0	0	0
 YZ-SUZQ173-SB-XL	X001RA4TLT	B07CJ7X284		Unknown					0	0	0	0	0		0	0	0
 YZ-SUZQ187-K0-2X	X001R8PJVP	B07CH3G195	Women Maternity Pregnancy Halter Black Floral Tankini Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
-YZ-SUZQ187-K0-3X	X001R8Z6D1	B07CH7K683	Women Maternity Pregnancy Halter Black Floral Tankini Swimsuit	New	39.99	No		Yes	9	7	1	1	9	0.13	0	0	0
+YZ-SUZQ187-K0-3X	X001R8Z6D1	B07CH7K683	Women Maternity Pregnancy Halter Black Floral Tankini Swimsuit	New	39.99	No		Yes	8	7	1	0	8	0.13	0	0	0
 YZ-SUZQ187-K0-4X	X001R8CKRL	B07CH72K5P	Women Maternity Pregnancy Halter Black Floral Tankini Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUZQ187-K0-5X	X001R8PT15	B07CHFZ9KK	Women Maternity Pregnancy Halter Black Floral Tankini Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUZQ187-K0-L	X001R8PTE7	B07CJPP2HT	Women Maternity Pregnancy Halter Black Floral Tankini Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUZQ187-K0-M	X001R8AQJZ	B07CJWY9N9	Women Maternity Pregnancy Halter Black Floral Tankini Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUZQ187-K0-S	X001R8Z6CR	B07CH3G196	Women Maternity Pregnancy Halter Black Floral Tankini Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUZQ187-K0-XL	X001R8PTDX	B07CH91KDL	Women Maternity Pregnancy Halter Black Floral Tankini Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
-YZ-SUZQ388-K0-L	X001QIBP37	B07CCMGJKF	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	New	39.99	No		Yes	3	0	2	1	3	0.12	0	0	0
-YZ-SUZQ388-K0-M	X001QGSM5D	B07BPWRCZZ	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	New	39.99	No		Yes	12	0	8	4	12	0.12	0	0	0
-YZ-SUZQ388-K0-S	X001QGSM53	B07C97VM95	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	New	39.99	No		Yes	5	0	4	1	5	0.12	0	0	0
-YZ-SUZQ388-K0-XL	X001QGSLWR	B07BPW5ZSV	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	New	39.99	No		Yes	24	23	1	0	24	0.12	0	0	0
-YZ-SUZQ388-K0-XS	X001QIBOFB	B07BPSHDV6	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	New	39.99	No		Yes	16	11	3	2	16	0.12	0	0	0
-YZ-SUZQ388-W0-L	X001S8489X	B07D33PXF9	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	New	39.99	No		Yes	12	11	0	1	12	0.12	0	0	0
-YZ-SUZQ388-W0-M	X001S6HRKH	B07D35DJ26	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	New	39.99	No		Yes	8	4	0	4	8	0.12	0	0	0
-YZ-SUZQ388-W0-S	X001S6K7MH	B07D322V4M	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	New	39.99	No		Yes	11	9	0	2	11	0.12	0	0	0
-YZ-SUZQ388-W0-XL	X001S6K7MR	B07D32N4L4	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	New	39.99	No		Yes	15	14	0	1	15	0.12	0	0	0
-YZ-SUZQ388-W0-XS	X001S8PY8R	B07D2YC55G	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	New	39.99	No		Yes	13	13	0	0	13	0.12	0	0	0
+YZ-SUZQ388-K0-L	X001QIBP37	B07CCMGJKF	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	New	39.99	No		Yes	4	0	3	1	4	0.12	0	0	0
+YZ-SUZQ388-K0-M	X001QGSM5D	B07BPWRCZZ	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	New	39.99	No		Yes	12	0	10	2	12	0.12	0	0	0
+YZ-SUZQ388-K0-S	X001QGSM53	B07C97VM95	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	New	39.99	No		Yes	7	0	7	0	7	0.12	0	0	0
+YZ-SUZQ388-K0-XL	X001QGSLWR	B07BPW5ZSV	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	New	39.99	No		Yes	19	15	2	2	19	0.12	0	0	0
+YZ-SUZQ388-K0-XS	X001QIBOFB	B07BPSHDV6	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Mesh Vintage Swimwear Black	New	39.99	No		Yes	11	9	2	0	11	0.12	0	0	0
+YZ-SUZQ388-W0-L	X001S8489X	B07D33PXF9	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	New	39.99	No		Yes	7	2	0	5	7	0.12	0	0	0
+YZ-SUZQ388-W0-M	X001S6HRKH	B07D35DJ26	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	New	39.99	No		Yes	1	0	0	1	1	0.12	0	0	0
+YZ-SUZQ388-W0-S	X001S6K7MH	B07D322V4M	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	New	39.99	No		Yes	5	2	1	2	10	0.12	0	5	0
+YZ-SUZQ388-W0-XL	X001S6K7MR	B07D32N4L4	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	New	39.99	No		Yes	12	11	0	1	12	0.12	0	0	0
+YZ-SUZQ388-W0-XS	X001S8PY8R	B07D2YC55G	Women One Piece High Cut Deep V-Neck Halter Swimsuit Lace Vintage Swimwear White	New	39.99	No		Yes	11	9	0	2	11	0.12	0	0	0
 YZ-SUZQ598-R0-2XL	X001QC2T47	B07BMT2LDQ	Summer Mae Women American Stars and Stripes Flag Open-Back Red White Blue Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.08	0	0	0
-YZ-SUZQ598-R0-3XL	X001QCJ05X	B07BMQRTNW	Summer Mae Women American Stars and Stripes Flag Open-Back Red White Blue Tankini Top & Bottom	New	39.99	No		Yes	3	1	2	0	3	0.08	0	0	0
+YZ-SUZQ598-R0-3XL	X001QCJ05X	B07BMQRTNW	Summer Mae Women American Stars and Stripes Flag Open-Back Red White Blue Tankini Top & Bottom	New	39.99	No		Yes	2	0	2	0	2	0.08	0	0	0
 YZ-SUZQ598-R0-5XL	X001QCJ067	B07BMT1VTS	Summer Mae Women American Stars and Stripes Flag Open-Back Red White Blue Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-SUZQ598-R0-L	X001QCHF91	B07BMQKB6S	Summer Mae Women American Stars and Stripes Flag Open-Back Red White Blue Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.08	0	0	0
-YZ-SUZQ598-R0-XL	X001QBVKM5	B07BMPP7H3	Summer Mae Women American Stars and Stripes Flag Open-Back Red White Blue Tankini Top & Bottom	New	39.99	No		Yes	1	0	1	0	1	0.08	0	0	0
+YZ-SUZQ598-R0-XL	X001QBVKM5	B07BMPP7H3	Summer Mae Women American Stars and Stripes Flag Open-Back Red White Blue Tankini Top & Bottom	New	39.99	No		Yes	2	0	2	0	2	0.08	0	0	0
 YZ-SUZQ733-K0-2XL	X001R9SHBD	B07CHBVGJK		Unknown					0	0	0	0	0		0	0	0
 YZ-SUZQ733-K0-3XL	X001R9PD5V	B07CJQYFH5		Unknown					0	0	0	0	0		0	0	0
 YZ-SUZQ733-K0-L	X001RA76A5	B07CHHGQGL		Unknown					0	0	0	0	0		0	0	0
@@ -703,25 +689,25 @@ YZ-SUZQ9441-K0-2XL	X001QA19KT	B07B8FCMXM	Summer Mae Womens High Waisted Bikini S
 YZ-SUZQ9441-K0-3XL	X001QA10IZ	B07B8MVFY7	Womens High Waisted Bikini Set Flounce Top Two Piece Polka Dot Swimsuit	New	39.99	No		Yes	3	3	0	0	3	0.28	0	0	0
 YZ-SUZQ9441-K0-L	X001QA29E9	B07B8NQ96W	Womens High Waisted Bikini Set Flounce Top Two Piece Polka Dot Swimsuit	New	39.99	No		Yes	1	0	1	0	1	0.28	0	0	0
 YZ-SUZQ9441-K0-M	X001QA2KK7	B07B8HRR64	Summer Mae Womens High Waisted Bikini Set Flounce Top Two Piece Polka Dot Swimsuit	New	39.99	No		Yes	3	3	0	0	3	0.28	0	0	0
-YZ-SUZQ9441-K0-S	X001QA24AD	B07B8HZ787	Summer Mae Womens High Waisted Bikini Set Flounce Top Two Piece Polka Dot Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0.28	0	0	0
+YZ-SUZQ9441-K0-S	X001QA24AD	B07B8HZ787	Summer Mae Womens High Waisted Bikini Set Flounce Top Two Piece Polka Dot Swimsuit	New	39.99	No		Yes	1	1	0	0	1	0.28	0	0	0
 YZ-SUZQ9441-K0-XL	X001Q95LT5	B07B8JNKXH	Summer Mae Womens High Waisted Bikini Set Flounce Top Two Piece Polka Dot Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0.28	0	0	0
-YZ-SUZQBL03-B0-2X	X001QXYX09	B07C2SKKBG	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	2	2	0	0	2	0.09	0	0	0
+YZ-SUZQBL03-B0-2X	X001QXYX09	B07C2SKKBG	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	3	0	1	2	3	0.09	0	0	0
 YZ-SUZQBL03-B0-3X	X001QY970T	B07C2XLZBH	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	3	2	1	0	3	0.09	0	0	0
-YZ-SUZQBL03-B0-L	X001QXK8V7	B07CFKRZVH	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	Unknown					2	0	2	0	2	0.09	0	0	0
+YZ-SUZQBL03-B0-L	X001QXK8V7	B07CFKRZVH		Unknown					3	1	2	0	3		0	0	0
 YZ-SUZQBL03-B0-M	X001QY970J	B07C2V3Q7B	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-SUZQBL03-B0-S	X001QXK0UV	B07C2THD9D	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
-YZ-SUZQBL03-B0-XL	X001QYLQQR	B07C323BGV	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	4	1	2	1	4	0.09	0	0	0
+YZ-SUZQBL03-B0-XL	X001QYLQQR	B07C323BGV	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	3	0	2	1	3	0.09	0	0	0
 YZ-SUZQBL03-K0-2X	X001QXZ1KF	B07C2TPXH2	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
-YZ-SUZQBL03-K0-3X	X001QXYWZZ	B07C2ZZPZ6	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	2	2	0	0	2	0.09	0	0	0
+YZ-SUZQBL03-K0-3X	X001QXYWZZ	B07C2ZZPZ6	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-SUZQBL03-K0-L	X001QXYXLX	B07C33GLGD	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-SUZQBL03-K0-M	X001QYLQQ7	B07C315RX4	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
-YZ-SUZQBL03-K0-S	X001QXYX0J	B07C2TL72C	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	3	2	1	0	3	0.09	0	0	0
-YZ-SUZQBL03-K0-XL	X001QYLQQH	B07C33Y4BX	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	2	0	2	0	2	0.09	0	0	0
-YZ-SUZQBL03-R2-2X	X001S9C32B	B07D49GLC3	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear Pink	New	39.99	No		Yes	5	4	1	0	5	0.09	0	0	0
-YZ-SUZQBL03-R2-3X	X001S9C321	B07D4B1TLQ	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear Pink	New	39.99	No		Yes	3	2	0	1	3	0.09	0	0	0
-YZ-SUZQBL03-R2-L	X001S9C32L	B07D4B2SC5	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear Pink	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
+YZ-SUZQBL03-K0-S	X001QXYX0J	B07C2TL72C		Unknown					2	0	1	1	2		0	0	0
+YZ-SUZQBL03-K0-XL	X001QYLQQH	B07C33Y4BX	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	3	0	3	0	3	0.09	0	0	0
+YZ-SUZQBL03-R2-2X	X001S9C32B	B07D49GLC3	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear Pink	New	39.99	No		Yes	2	0	2	0	2	0.09	0	0	0
+YZ-SUZQBL03-R2-3X	X001S9C321	B07D4B1TLQ	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear Pink	New	39.99	No		Yes	2	0	1	1	2	0.09	0	0	0
+YZ-SUZQBL03-R2-L	X001S9C32L	B07D4B2SC5	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear Pink	New	39.99	No		Yes	1	0	1	0	1	0.09	0	0	0
 YZ-SUZQBL03-R2-M	X001SAABR9	B07D49XT2D	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear Pink	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
-YZ-SUZQBL03-R2-S	X001S9C7SV	B07D49HX8J	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear Pink	Unknown					1	0	1	0	1	0.09	0	0	0
+YZ-SUZQBL03-R2-S	X001S9C7SV	B07D49HX8J		Unknown					1	0	1	0	1		0	0	0
 YZ-SUZQBL03-R2-XL	X001SA98PZ	B07D49SG55	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear Pink	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-WHZ766-R0-L	X001GTPK6T	B07315KZWG	Summer Mae Women's Bikini Set Padded Patriotic Swimwear American Flag Fringe Tassel Swimsuits	New	22.99	No		Yes	0	0	0	0	0	0.05	0	0	0
 YZ-WHZ766-R0-XL	X001GRHP6J	B07316FMFN	Summer Mae Women's Bikini Set Padded Patriotic Swimwear American Flag Fringe Tassel Swimsuits	New	15.99	No		Yes	0	0	0	0	0	0.05	0	0	0
@@ -731,10 +717,9 @@ YZ-ZQ0707-ORTW-XL	X001JDY2WF	B072XHG5TP	WOMEN'S BOUTIQUE Summer Mae Women's Push
 YZ-ZQ0707-PITW-M	X001HPSW35	B072XGTQGD	WOMEN'S BOUTIQUE Summer Mae Women's Push Up Solid/Striped Bikini Set Top & Striped/Polka Dot Bkini Bottom	New	39.99	No		Yes	1	1	0	0	1	0.06	0	0	0
 YZ-ZQ0707-PITW-XL	X001JDY725	B072XHF543	WOMEN'S BOUTIQUE Summer Mae Women's Push Up Solid/Striped Bikini Set Top & Striped/Polka Dot Bkini Bottom	New	39.99	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-ZQ0707-Y0TW-L	X001HPQXYP	B072XJNSSR	Summer Mae Women's Push Up Solid/Striped Bikini Set Top & Striped/Polka Dot Bkini Bottom	New	39.99	No		Yes	1	1	0	0	1	0.06	0	0	0
-YZ-ZQ1126-K0-3X	X001GZYARD	B071G7NXBZ		Unknown					0	0	0	0	0		0	0	0
 YZ-ZQ1126-K0-XL	X001GZTMZ3	B072QKZRMX	Summer Mae Women's Plus Size Black Ruffle Off-The-Shoulder One Piece Halter Swimsuit	New	39.99	No		Yes	2	1	1	0	2	0.09	0	0	0
-YZ-ZQ112B0L	X0014MM8VD	B01GCGA578	Summer Mae Backless One Piece Monokini Halter Pad Bikini Swimsuits Swimwear M Navyblue	New	15.99	No		Yes	14	13	1	0	14	0.02	0	0	0
-YZ-ZQ112B0M	X0014LFUOL	B01GCGA3J8	Summer Mae Backless One Piece Monokini Halter Pad Bikini Swimsuits Swimwear,Navy Blue,Tag Size M=US Size S	New	13.99	No		Yes	12	12	0	0	12	0.02	0	0	0
+YZ-ZQ112B0L	X0014MM8VD	B01GCGA578	Summer Mae Backless One Piece Monokini Halter Pad Bikini Swimsuits Swimwear M Navyblue	New	15.99	No		Yes	13	13	0	0	13	0.02	0	0	0
+YZ-ZQ112B0M	X0014LFUOL	B01GCGA3J8	Summer Mae Backless One Piece Monokini Halter Pad Bikini Swimsuits Swimwear,Navy Blue,Tag Size M=US Size S	New	13.99	No		Yes	9	9	0	0	9	0.02	0	0	0
 YZ-ZQ112B0XL	X0014LFUCN	B01GCGA6TU	Summer Mae Backless One Piece Monokini Halter Pad Bikini Swimsuits Swimwear L NavyBlue	New	15.99	No		Yes	3	0	3	0	3	0.02	0	0	0
 YZ-ZQ1197-KW-L	X001HPRSRV	B071XCQWMX	Summer Mae Women's Twill Striped One Piece backeless Swimsuit	New	19.90	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-ZQ1197-KW-XL	X001HPRSS5	B072R5CGYB	Summer Mae Women's Twill Striped One Piece backeless Swimsuit	New	19.90	No		Yes	2	2	0	0	2	0.06	0	0	0
@@ -744,62 +729,62 @@ YZ-ZQ14976-Y0-3X	X001GDDN73	B071CF5CXC	WOMEN'S BOUTIQUE Summer Mae Women's Strip
 YZ-ZQ1519-K0-2X	X001GW4ZZ3	B071GQZ7YX	Summer Mae Women's Plus Size Striped Two Piece Black Bowknot Tankini Tank Top & Bottom 2X(US size:12-14)	New	39.99	No		Yes	0	0	0	0	0	0.05	0	0	0
 YZ-ZQ1519-K0-3X	X001GW2CHV	B072N5BZ1C	Summer Mae Women's Plus Size Striped Two Piece Black Bowknot Tankini Tank Top & Bottom	New	39.99	No		Yes	1	1	0	0	1	0.05	0	0	0
 YZ-ZQ1519-K0-4X	X001H7CR8J	B072N5C21N	Summer Mae Women's Plus Size Striped Two Piece Black Bowknot Tankini Tank Top & Bottom	New	39.99	No		Yes	6	6	0	0	6	0.05	0	0	0
-YZ-ZQ1519-K0-5X	X001H7BV8V	B071GQZJ9X	Summer Mae Women's Plus Size Striped Two Piece Black Bowknot Tankini Tank Top & Bottom	New	39.99	No		Yes	5	5	0	0	5	0.05	0	0	0
+YZ-ZQ1519-K0-5X	X001H7BV8V	B071GQZJ9X	Summer Mae Women's Plus Size Striped Two Piece Black Bowknot Tankini Tank Top & Bottom	New	39.99	No		Yes	5	4	0	1	5	0.05	0	0	0
 YZ-ZQ1519-K0-L	X001GW3VFN	B072R2KFMD	Summer Mae Women's Plus Size Striped Two Piece Black Bowknot Tankini Tank Top & Bottom	New	39.99	No		Yes	1	1	0	0	1	0.05	0	0	0
 YZ-ZQ1519-K0-M	X001J5RXS3	B0721Q4VHJ	Summer Mae Women's Plus Size Striped Two Piece Black Bowknot Tankini Tank Top & Bottom	New	39.99	No		Yes	6	6	0	0	6	0.05	0	0	0
 YZ-ZQ1519-K0-S	X001GW237Z	B072R2D57G	Summer Mae Women's Plus Size Striped Two Piece Black Bowknot Tankini Tank Top & Bottom	New	39.99	No		Yes	11	11	0	0	11	0.05	0	0	0
-YZ-ZQ1521BF2XL	X00191NLEH	B01GJPD21S	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	19.99	No		Yes	8	6	0	2	8	0.09	0	0	0
-YZ-ZQ1521BF3XL	X0018Z8N0L	B01GJPD5GA	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	19.99	No		Yes	1	0	1	0	1	0.09	0	0	0
-YZ-ZQ1521BF4XL	X0016JQJZ5	B01GJPD8YY	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	19.99	No		Yes	13	12	0	1	13	0.09	0	0	0
-YZ-ZQ1521BF5XL	X0015HZULR	B01GJPDNQ2	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	New	19.99	No		Yes	9	6	1	2	9	0.09	0	0	0
-YZ-ZQ1521BFXL	X0018WXJZD	B01GJPCZZ2	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	14.99	No		Yes	1	0	1	0	1	0.09	0	0	0
-YZ-ZQ1521BL2XL	X0014LFUXR	B01GJPB4DQ	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	No		Yes	7	7	0	0	7	0.04	0	0	0
-YZ-ZQ1521BL3XL	X0014MTGR7	B01GJPB6J8	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	No		Yes	3	3	0	0	7	0.04	0	0	4
-YZ-ZQ1521BL4XL	X0014MV0V7	B01GJPBB7U	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L Leaves	New	29.99	No		Yes	9	4	4	1	12	0.04	0	0	3
-YZ-ZQ1521BL5XL	X0014LFUCX	B01GJPBHRY	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	New	29.99	No		Yes	7	6	1	0	7	0.04	0	0	0
-YZ-ZQ1521BLXL	X0014KLVC7	B01GJPB23I	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	No		Yes	6	6	0	0	6	0.04	0	0	0
-YZ-ZQ1521GF2XL	X0014MM5L1	B01GJPD542	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	14.99	No		Yes	7	4	1	2	7	0.04	0	0	0
-YZ-ZQ1521GF3XL	X0014B4L8H	B01GJPD7PY	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	19.99	No		Yes	15	14	1	0	15	0.04	0	0	0
-YZ-ZQ1521GF4XL	X0014N7TNJ	B01GJPDHY0	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	17.99	No		Yes	2	0	2	0	2	0.04	0	0	0
-YZ-ZQ1521GF5XL	X0014LFUOV	B01GJPDY52	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	New	19.99	No		Yes	14	5	4	5	14	0.09	0	0	0
-YZ-ZQ1521GFXL	X0014LFUK5	B01GJPD23G	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	15.99	No		Yes	7	7	0	0	7	0.04	0	0	0
-YZ-ZQ1521GW2XL	X001AIGKYH	B01GJPB27E	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	No		Yes	3	3	0	0	3	0.09	0	0	0
-YZ-ZQ1521GW3XL	X001AC964T	B01GJPB4CC	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	No		Yes	1	1	0	0	1	0.09	0	0	0
-YZ-ZQ1521GW4XL	X0018C9047	B01GJPB7DS	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	29.99	No		Yes	5	4	1	0	5	0.09	0	0	0
-YZ-ZQ1521GW5XL	X001AVQ2GF	B01GJPBG4I	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	New	29.99	No		Yes	6	4	1	1	6	0.09	0	0	0
-YZ-ZQ1521GWXL	X001APOJ2P	B01GJPB094	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	No		Yes	22	22	0	0	22	0.09	0	0	0
-YZ-ZQ1521KF2XL	X00169TU47	B01I2I95HU	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	No		Yes	8	8	0	0	8	0.09	0	0	0
-YZ-ZQ1521KF3XL	X0015Z11NF	B01I2I96ME	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	No		Yes	9	7	1	1	14	0.09	0	0	5
-YZ-ZQ1521KF4XL	X0015Z11N5	B01I2I94LC	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	29.99	No		Yes	11	10	1	0	11	0.09	0	0	0
-YZ-ZQ1521KF5XL	X00160QMIN	B01I2I95SO	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	New	29.99	No		Yes	18	11	6	1	18	0.09	0	0	0
+YZ-ZQ1521BF2XL	X00191NLEH	B01GJPD21S	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	Yes	20	No	6	6	0	0	6	0.09	0	0	0
+YZ-ZQ1521BF3XL	X0018Z8N0L	B01GJPD5GA	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	Yes	20	No	1	0	1	0	11	0.09	0	10	0
+YZ-ZQ1521BF4XL	X0016JQJZ5	B01GJPD8YY	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	29.99	Yes	20	No	10	10	0	0	10	0.09	0	0	0
+YZ-ZQ1521BF5XL	X0015HZULR	B01GJPDNQ2	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	New	29.99	Yes	20	No	1	0	1	0	1	0.09	0	0	0
+YZ-ZQ1521BFXL	X0018WXJZD	B01GJPCZZ2	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	Yes	20	No	1	0	0	1	6	0.09	0	5	0
+YZ-ZQ1521BL2XL	X0014LFUXR	B01GJPB4DQ	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	Yes	20	No	6	6	0	0	6	0.04	0	0	0
+YZ-ZQ1521BL3XL	X0014MTGR7	B01GJPB6J8	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	Yes	20	No	2	2	0	0	6	0.04	0	0	4
+YZ-ZQ1521BL4XL	X0014MV0V7	B01GJPBB7U	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L Leaves	New	29.99	Yes	20	No	5	3	2	0	8	0.04	0	0	3
+YZ-ZQ1521BL5XL	X0014LFUCX	B01GJPBHRY	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	New	29.99	Yes	20	No	1	0	1	0	16	0.04	0	15	0
+YZ-ZQ1521BLXL	X0014KLVC7	B01GJPB23I	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	Yes	20	No	5	5	0	0	5	0.04	0	0	0
+YZ-ZQ1521GF2XL	X0014MM5L1	B01GJPD542	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	Yes	20	No	7	3	2	2	7	0.04	0	0	0
+YZ-ZQ1521GF3XL	X0014B4L8H	B01GJPD7PY	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	Yes	20	No	12	11	1	0	12	0.04	0	0	0
+YZ-ZQ1521GF4XL	X0014N7TNJ	B01GJPDHY0	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	29.99	Yes	19	No	3	0	3	0	6	0.04	0	3	0
+YZ-ZQ1521GF5XL	X0014LFUOV	B01GJPDY52	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	New	29.99	Yes	20	No	6	0	6	0	7	0.09	0	1	0
+YZ-ZQ1521GFXL	X0014LFUK5	B01GJPD23G	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	Yes	20	No	7	7	0	0	7	0.04	0	0	0
+YZ-ZQ1521GW2XL	X001AIGKYH	B01GJPB27E	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	Yes	20	No	2	1	0	1	2	0.09	0	0	0
+YZ-ZQ1521GW3XL	X001AC964T	B01GJPB4CC	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	Yes	20	No	1	1	0	0	1	0.09	0	0	0
+YZ-ZQ1521GW4XL	X0018C9047	B01GJPB7DS	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	29.99	Yes	20	No	1	0	0	1	6	0.09	0	5	0
+YZ-ZQ1521GW5XL	X001AVQ2GF	B01GJPBG4I	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	New	29.99	Yes	20	No	2	0	2	0	2	0.09	0	0	0
+YZ-ZQ1521GWXL	X001APOJ2P	B01GJPB094	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	Yes	20	No	21	21	0	0	21	0.09	0	0	0
+YZ-ZQ1521KF2XL	X00169TU47	B01I2I95HU	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	No		Yes	8	7	0	1	8	0.09	0	0	0
+YZ-ZQ1521KF3XL	X0015Z11NF	B01I2I96ME	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	No		Yes	5	2	1	2	10	0.09	0	0	5
+YZ-ZQ1521KF4XL	X0015Z11N5	B01I2I94LC	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	29.99	No		Yes	6	5	1	0	14	0.09	0	8	0
+YZ-ZQ1521KF5XL	X00160QMIN	B01I2I95SO	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	New	29.99	No		Yes	9	2	5	2	25	0.09	0	16	0
 YZ-ZQ1521KFXL	X00191N42V	B01I2I94IA	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	No		Yes	13	12	1	0	13	0.09	0	0	0
-YZ-ZQ1521RF2XL	X001B4ZO5L	B01GJPCE9O	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	19.99	No		Yes	13	12	0	1	13	0.09	0	0	0
-YZ-ZQ1521RF3XL	X001AY2HZR	B01GJPCQQK	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	19.99	No		Yes	5	3	1	1	5	0.09	0	0	0
-YZ-ZQ1521RF4XL	X0016IPCX1	B01GJPCTJO	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	19.99	No		Yes	18	15	1	2	18	0.09	0	0	0
-YZ-ZQ1521RF5XL	X0015A23KP	B01GJPCWIW	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL RED	New	19.99	No		Yes	2	0	2	0	2	0.04	0	0	0
-YZ-ZQ1521RFXL	X001AY60UZ	B01GJPC14C	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	No		Yes	6	6	0	0	6	0.09	0	0	0
-YZ-ZQ1521RL2XL	X001AO60K5	B01GJPBW4C	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	No		Yes	14	14	0	0	14	0.09	0	0	0
-YZ-ZQ1521RL3XL	X001APOIZ3	B01GJPBY22	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	No		Yes	9	7	2	0	9	0.09	0	0	0
-YZ-ZQ1521RL4XL	X001AO5VWD	B01GJPC03E	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	29.99	No		Yes	9	9	0	0	9	0.09	0	0	0
-YZ-ZQ1521RL5XL	X0015L1AC1	B01GJPC3KE	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	New	19.99	No		Yes	0	0	0	0	0	0.09	0	0	0
-YZ-ZQ1521RLXL	X001AOKTL1	B01GJPBTJU	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	No		Yes	11	11	0	0	11	0.09	0	0	0
-YZ-ZQ1521RM2XL	X001AX4SGT	B01GJPCGZ6	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover Up Swimsuit S(US size:4-6), Tag size: 2XL	New	19.99	No		Yes	9	9	0	0	9	0.09	0	0	0
-YZ-ZQ1521RM3XL	X001AFE3AX	B01GJPCIL8	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	19.99	No		Yes	10	10	0	0	10	0.09	0	0	0
-YZ-ZQ1521RM4XL	X0018EV3GN	B01GJPCKIO	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	19.99	No		Yes	11	10	1	0	11	0.09	0	0	0
-YZ-ZQ1521RM5XL	X00159EO3P	B01GJPCOC6	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL Blue	New	19.99	No		Yes	6	3	3	0	6	0.04	0	0	0
-YZ-ZQ1521RMXL	X001AWFP7V	B01GJPCF2K	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	19.99	No		Yes	11	11	0	0	11	0.09	0	0	0
-YZ-ZQ1521WP2XL	X0014LFUYB	B01GJPBMDI	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	No		Yes	5	5	0	0	5	0.04	0	0	0
-YZ-ZQ1521WP3XL	X0014MM8VN	B01GJPBNN2	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	No		Yes	6	5	1	0	6	0.04	0	0	0
-YZ-ZQ1521WP4XL	X0014N7UDX	B01GJPBP4E	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	29.99	No		Yes	4	2	1	1	4	0.04	0	0	0
-YZ-ZQ1521WP5XL	X0014MM5MP	B01GJPBRLK	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL White Point	New	29.99	No		Yes	5	4	1	0	5	0.04	0	0	0
-YZ-ZQ1521WPXL	X0014LFUP5	B01GJPBKEE	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	No		Yes	4	4	0	0	4	0.04	0	0	0
+YZ-ZQ1521RF2XL	X001B4ZO5L	B01GJPCE9O	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	Yes	20	No	12	10	0	2	12	0.09	0	0	0
+YZ-ZQ1521RF3XL	X001AY2HZR	B01GJPCQQK	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	Yes	20	No	4	3	1	0	10	0.09	0	6	0
+YZ-ZQ1521RF4XL	X0016IPCX1	B01GJPCTJO	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	29.99	Yes	19	No	16	15	1	0	16	0.09	0	0	0
+YZ-ZQ1521RF5XL	X0015A23KP	B01GJPCWIW	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL RED	New	29.99	Yes	20	No	2	0	2	0	7	0.04	0	5	0
+YZ-ZQ1521RFXL	X001AY60UZ	B01GJPC14C	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	Yes	20	No	7	6	0	1	7	0.09	0	0	0
+YZ-ZQ1521RL2XL	X001AO60K5	B01GJPBW4C	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	Yes	20	No	14	14	0	0	14	0.09	0	0	0
+YZ-ZQ1521RL3XL	X001APOIZ3	B01GJPBY22	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	Yes	20	No	9	8	1	0	9	0.09	0	0	0
+YZ-ZQ1521RL4XL	X001AO5VWD	B01GJPC03E	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	29.99	Yes	20	No	10	10	0	0	10	0.09	0	0	0
+YZ-ZQ1521RL5XL	X0015L1AC1	B01GJPC3KE	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL	New	29.99	Yes	20	No	0	0	0	0	6	0.09	0	6	0
+YZ-ZQ1521RLXL	X001AOKTL1	B01GJPBTJU	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	Yes	20	No	11	11	0	0	11	0.09	0	0	0
+YZ-ZQ1521RM2XL	X001AX4SGT	B01GJPCGZ6	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover Up Swimsuit S(US size:4-6), Tag size: 2XL	New	29.99	Yes	20	No	9	9	0	0	9	0.09	0	0	0
+YZ-ZQ1521RM3XL	X001AFE3AX	B01GJPCIL8	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	Yes	20	No	9	9	0	0	9	0.09	0	0	0
+YZ-ZQ1521RM4XL	X0018EV3GN	B01GJPCKIO	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	29.99	Yes	20	No	6	6	0	0	6	0.09	0	0	0
+YZ-ZQ1521RM5XL	X00159EO3P	B01GJPCOC6	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL Blue	New	29.99	Yes	20	No	4	0	3	1	7	0.04	0	3	0
+YZ-ZQ1521RMXL	X001AWFP7V	B01GJPCF2K	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	Yes	20	No	10	10	0	0	10	0.09	0	0	0
+YZ-ZQ1521WP2XL	X0014LFUYB	B01GJPBMDI	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit S	New	29.99	Yes	20	No	4	4	0	0	4	0.04	0	0	0
+YZ-ZQ1521WP3XL	X0014MM8VN	B01GJPBNN2	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit M	New	29.99	Yes	19	No	4	3	1	0	4	0.04	0	0	0
+YZ-ZQ1521WP4XL	X0014N7UDX	B01GJPBP4E	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit L	New	29.99	Yes	20	No	2	1	1	0	12	0.04	0	10	0
+YZ-ZQ1521WP5XL	X0014MM5MP	B01GJPBRLK	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XL White Point	New	29.99	Yes	20	No	3	0	1	2	13	0.04	0	10	0
+YZ-ZQ1521WPXL	X0014LFUP5	B01GJPBKEE	Summer Mae Women's One Piece Bathing Suit Tankini Swimdress Cover up Swimsuit XS	New	29.99	Yes	20	No	4	4	0	0	4	0.04	0	0	0
 YZ-ZQ15827B02XL	X001918YIZ	B01M63OPA2	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	4	4	0	0	4	0.04	0	0	0
-YZ-ZQ15827B04XL	X001918O7L	B01M9AOWZ2	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	6	6	0	0	6	0.04	0	0	0
+YZ-ZQ15827B04XL	X001918O7L	B01M9AOWZ2	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	7	6	1	0	7	0.04	0	0	0
 YZ-ZQ15827B05XL	X001917G6V	B01M63S2EX	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.04	0	0	0
-YZ-ZQ15827B0L	X001918O7B	B01M24AUH7	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	10	9	1	0	10	0.04	0	0	0
+YZ-ZQ15827B0L	X001918O7B	B01M24AUH7	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	9	8	1	0	9	0.04	0	0	0
 YZ-ZQ15827B0M	X00191D0TX	B01M63RJG4	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	16	15	1	0	16	0.04	0	0	0
 YZ-ZQ15827B0S	X0018S4DTD	B01M63RTZE	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	11	11	0	0	11	0.04	0	0	0
-YZ-ZQ15827B0XL	X001918CBT	B01M5B2ISR	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	5	5	0	0	5	0.04	0	0	0
+YZ-ZQ15827B0XL	X001918CBT	B01M5B2ISR	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	4	4	0	0	4	0.04	0	0	0
 YZ-ZQ15827BS2XL	X001BQTU0J	B01N7QCQ1E	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.04	0	0	0
 YZ-ZQ15827BS3XL	X001BTQCSJ	B01N7QD931	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.04	0	0	0
 YZ-ZQ15827BS4XL	X001BTQQNP	B01N6P009T	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	14	14	0	0	14	0.04	0	0	0
@@ -809,41 +794,39 @@ YZ-ZQ15827BSM	X001BWPFP7	B01MU8T1OI	Summer Mae Women's Plus Size Swim Dress Prin
 YZ-ZQ15827BSS	X001BQYEFF	B01N4M5SU1	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	13	13	0	0	13	0.04	0	0	0
 YZ-ZQ15827BSXL	X001BWO1K7	B01N0Z0LFC	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.04	0	0	0
 YZ-ZQ15827R22XL	X0015JVF37	B01ID5EIO2	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.99	No		Yes	0	0	0	0	0	0.04	0	0	0
-YZ-ZQ15827R23XL	X0015KD0VL	B01ID5EK2C	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	2	0	2	0	2	0.06	0	0	0
+YZ-ZQ15827R23XL	X0015KD0VL	B01ID5EK2C	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-ZQ15827R24XL	X0015KUJDD	B01ID5ENI8	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.99	No		Yes	0	0	0	0	0	0.03	0	0	0
 YZ-ZQ15827R25XL	X0015PV2JD	B01ID5EXA6	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.99	No		Yes	0	0	0	0	0	0.03	0	0	0
-YZ-ZQ15827R2L	X0015OKL1T	B01ID5DUD2	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.99	No		Yes	9	9	0	0	9	0.03	0	0	0
-YZ-ZQ15827R2M	X0017JT8D9	B01LWE20EB	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	20.96	No		Yes	13	12	1	0	13	0.03	0	0	0
-YZ-ZQ15827R2S	X0017JH84F	B01LW1G9P6	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	20.99	No		Yes	9	9	0	0	9	0.04	0	0	0
-YZ-ZQ15827R2XL	X0015PUGNL	B01ID5DXEI	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	19.99	No		Yes	1	1	0	0	1	0.05	0	0	0
+YZ-ZQ15827R2L	X0015OKL1T	B01ID5DUD2	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.99	No		Yes	10	10	0	0	10	0.03	0	0	0
+YZ-ZQ15827R2M	X0017JT8D9	B01LWE20EB	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.80	No		Yes	13	12	1	0	13	0.03	0	0	0
+YZ-ZQ15827R2S	X0017JH84F	B01LW1G9P6	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.91	No		Yes	9	9	0	0	9	0.04	0	0	0
+YZ-ZQ15827R2XL	X0015PUGNL	B01ID5DXEI	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	21.95	No		Yes	1	1	0	0	1	0.05	0	0	0
 YZ-ZQ15827W02XL	X0015MLB3N	B01ID5E5ZY	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.99	No		Yes	8	6	2	0	8	0.03	0	0	0
 YZ-ZQ15827W03XL	X0015JVW71	B01ID5ECQ6	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.99	No		Yes	0	0	0	0	0	0.05	0	0	0
-YZ-ZQ15827W04XL	X0015MLB7J	B01ID5EFL8	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	19.99	No		Yes	0	0	0	0	0	0.05	0	0	0
-YZ-ZQ15827W05XL	X0015OY4NZ	B01ID5EO6E	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	20.96	No		Yes	7	7	0	0	7	0.05	0	0	0
-YZ-ZQ15827W0L	X0015O410L	B01ID5DVN6	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	20.96	No		Yes	7	6	1	0	7	0.03	0	0	0
-YZ-ZQ15827W0M	X0017JT8DJ	B01LVXE7OG	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	20.99	No		Yes	14	14	0	0	14	0.04	0	0	0
-YZ-ZQ15827W0S	X0017J5CQV	B01LVUY9NL	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	19.96	No		Yes	12	12	0	0	12	0.04	0	0	0
-YZ-ZQ15827W0XL	X0015PUINT	B01ID5DYO2	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	20.98	No		Yes	3	3	0	0	3	0.11	0	0	0
+YZ-ZQ15827W04XL	X0015MLB7J	B01ID5EFL8	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.63	No		Yes	0	0	0	0	0	0.05	0	0	0
+YZ-ZQ15827W05XL	X0015OY4NZ	B01ID5EO6E	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.90	No		Yes	7	7	0	0	7	0.05	0	0	0
+YZ-ZQ15827W0L	X0015O410L	B01ID5DVN6	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.85	No		Yes	6	6	0	0	6	0.03	0	0	0
+YZ-ZQ15827W0M	X0017JT8DJ	B01LVXE7OG	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.95	No		Yes	14	14	0	0	14	0.04	0	0	0
+YZ-ZQ15827W0S	X0017J5CQV	B01LVUY9NL	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	21.87	No		Yes	13	13	0	0	13	0.04	0	0	0
+YZ-ZQ15827W0XL	X0015PUINT	B01ID5DYO2	Summer Mae Women's Plus Size Swim Dress Printed-Hem Ruffled Swimwear	New	22.83	No		Yes	4	3	0	1	4	0.11	0	0	0
 YZ-ZQ15905-K0-2X	X001F3NJFF	B06ZZ5TKNQ	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
-YZ-ZQ15905-K0-3X	X001F4UXNP	B06ZZGDL5P	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQ15905-K0-4X	X001H7CR8T	B06Y62MZM6	Summer Mae Women's Black Mesh Swimwear Two Piece Halter Tankini Top & Bottom, Size 4XL	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQ15905-K0-5X	X001I6XNRN	B071CDFSFR	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQ15905-K0-L	X001GKVPOT	B071CDC3YZ	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
-YZ-ZQ15905-K0-M	X001F3NHUR	B071CDDRHX	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	1	0	0	1	1	0.07	0	0	0
-YZ-ZQ15905-K0-S	X001GLFOOZ	B06ZYW3BC1	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	4	3	1	0	4	0.07	0	0	0
+YZ-ZQ15905-K0-M	X001F3NHUR	B071CDDRHX	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
+YZ-ZQ15905-K0-S	X001GLFOOZ	B06ZYW3BC1	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	2	1	1	0	2	0.07	0	0	0
 YZ-ZQ15905-K0-XL	X001F4UXNZ	B06Y6NFQS5	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQ15905-W0-2X	X001F59XG7	B06ZZG49ZW	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQ15905-W0-3X	X001GL95XL	B06Y66Z7N5	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQ15905-W0-4X	X001GKY5C3	B06ZZG6KGY	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQ15905-W0-5X	X001GL9EKF	B06Y6L14GL	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
-YZ-ZQ15905-W0-L	X001EMJLW7	B06Y62FS9M	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
-YZ-ZQ15905-W0-S	X001F3NJBJ	B06ZZG68SC	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	5	2	2	1	5	0.07	0	0	0
+YZ-ZQ15905-W0-S	X001F3NJBJ	B06ZZG68SC	Summer Mae Women's Black/White Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	2	0	2	0	2	0.07	0	0	0
 YZ-ZQ15919-B0-4X	X001H12S5H	B07193YJ6Z	Summer Mae Women's Plus Size Navy Polka Dot Two Piece Tankini Tank Top & Belted Bottom	New	39.99	No		Yes	0	0	0	0	0	0.05	0	0	0
 YZ-ZQ15919-B0-5X	X001H12A69	B0716JJZFV	Summer Mae Women's Plus Size Navy Polka Dot Two Piece Tankini Tank Top & Belted Bottom	New	39.99	No		Yes	0	0	0	0	0	0.05	0	0	0
 YZ-ZQ15919-B0-S	X001F4ABFZ	B072F2NPVP	Summer Mae Women's Plus Size Navy Polka Dot Two Piece Tankini Tank Top & Belted Bottom	New	39.99	No		Yes	0	0	0	0	0	0.05	0	0	0
 YZ-ZQ15921-B0-2X	X001H76MCV	B071D5BVVF	Summer Mae Women's Two Piece colorful Print Swimwear Tankini Top With Short	New	39.99	No		Yes	4	4	0	0	4	0.07	0	0	0
 YZ-ZQ15921-B0-3X	X001GU23RH	B071CL9WTT	Summer Mae Women's Two Piece colorful Print Swimwear Tankini Top With Short	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
-YZ-ZQ15921-B0-4X	X001GTRM0B	B071D5BWZ6	Summer Mae Women's Two Piece colorful Print Swimwear Tankini Top With Short	New	39.99	No		Yes	2	0	2	0	2	0.07	0	0	0
+YZ-ZQ15921-B0-4X	X001GTRM0B	B071D5BWZ6	Summer Mae Women's Two Piece colorful Print Swimwear Tankini Top With Short	New	39.99	No		Yes	1	0	1	0	1	0.07	0	0	0
 YZ-ZQ15921-B0-L	X001GU18AZ	B07228XRT9	Summer Mae Women's Two Piece colorful Print Swimwear Tankini Top With Short	New	39.99	No		Yes	3	3	0	0	3	0.07	0	0	0
 YZ-ZQ15921-B0-M	X001GU23S1	B06ZZN8QHJ	Summer Mae Women's Two Piece colorful Print Swimwear Tankini Top With Short	New	39.99	No		Yes	2	2	0	0	2	0.07	0	0	0
 YZ-ZQ15921-B0-XL	X001H7BV95	B07229CYMB	Summer Mae Women's Two Piece colorful Print Swimwear Tankini Top With Short	New	39.99	No		Yes	3	3	0	0	3	0.07	0	0	0
@@ -853,19 +836,16 @@ YZ-ZQ15921-P0-M	X001HYKX6Z	B06ZXXQDY3	Summer Mae Women's Two Piece colorful Prin
 YZ-ZQ15921-R0-L	X001HYXCS1	B071DFVNKL	Summer Mae Women's Two Piece colorful Print Swimwear Tankini Top With Short	New	39.99	No		Yes	1	1	0	0	1	0.07	0	0	0
 YZ-ZQ15921-R0-M	X001HYKX7J	B071CVTX5C	Summer Mae Women's Two Piece colorful Print Swimwear Tankini Top With Short	New	39.99	No		Yes	3	3	0	0	3	0.07	0	0	0
 YZ-ZQ15921-R0-XL	X001HYVKVR	B071CLB473	Summer Mae Women's Two Piece colorful Print Swimwear Tankini Top With Short	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
-YZ-ZQ16103R02XL	X001EL3QQ5	B01IQP5MNA	Summer Mae Women's Vintage Floral Polka Dot One Piece Swimwear Cover Up Swimdress 2XL Red	New	59.99	No		Yes	0	0	0	0	0	0.13	0	0	0
 YZ-ZQ16103R0L	X001F8SYKF	B01IQP5CUS	Summer Mae Women's Vintage Floral Polka Dot One Piece Swimwear Cover Up Swimdress L Red	New	59.99	No		Yes	0	0	0	0	0	0.12	0	0	0
 YZ-ZQ16103ZL2XL	X001CYKYGT	B01IQP4X8A	Summer Mae Women's Vintage Floral Polka Dot One Piece Swimwear Cover Up Swimdress 2XL Blue	New	59.99	No		Yes	1	1	0	0	1	0.12	0	0	0
-YZ-ZQ16103ZL3XL	X001CYL5FD	B01IQP4Y6Q	Summer Mae Women's Vintage Floral Polka Dot One Piece Swimwear Cover Up Swimdress 3XL Blue	New	59.99	No		Yes	3	3	0	0	3	0.12	0	0	0
+YZ-ZQ16103ZL3XL	X001CYL5FD	B01IQP4Y6Q	Summer Mae Women's Vintage Floral Polka Dot One Piece Swimwear Cover Up Swimdress 3XL Blue	New	59.99	No		Yes	1	1	0	0	1	0.12	0	0	0
 YZ-ZQ16103ZLL	X001CYL5FN	B01IQP4W5Y	Summer Mae Women's Vintage Floral Polka Dot One Piece Swimwear Cover Up Swimdress L Blue	New	59.99	No		Yes	0	0	0	0	0	0.12	0	0	0
-YZ-ZQ1617-BH-3XL	X001ECMQVF	B01MS460RR	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit, Blue Floral, 3XL ASIAN/14-16 (US)	New	29.99	No		Yes	3	1	0	2	3	0.08	0	0	0
+YZ-ZQ1617-BH-3XL	X001ECMQVF	B01MS460RR	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit, Blue Floral, 3XL ASIAN/14-16 (US)	New	29.99	No		Yes	2	2	0	0	2	0.08	0	0	0
 YZ-ZQ1617-BH-M	X001ELZ51T	B01MR2SNCF	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit,Red and Floral,Small(US size:4-6)	New	29.99	No		Yes	1	1	0	0	1	0.08	0	0	0
 YZ-ZQ1617-BH-XL	X001EMJLVX	B01N6NMRAM	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit,Red and Floral,Medium2(US size:8-10)	New	29.99	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-ZQ1617-KH-3XL	X001DC9VYB	B01N4KSFCJ	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit,Black and Floral,X-Large1(US size:14-16)	New	29.99	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-ZQ1617-KH-4XL	X001DIJ1C7	B01NAPZ2X1	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit,Black and Floral,X-Large2(US size:16-18)	New	29.99	No		Yes	1	0	1	0	1	0.08	0	0	0
 YZ-ZQ1617-KH-M	X001EMJLS1	B01NBRG6IY	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit,Black and Floral,Small(US size:4-6)	New	29.99	No		Yes	0	0	0	0	0	0.08	0	0	0
-YZ-ZQ1617K02XL	X0014OBFV5	B01FM4Z3JG	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit,Black,Large(US size:12-14)	New	12.99	No		Yes	0	0	0	0	0	0.08	0	0	0
-YZ-ZQ1617K03XL	X0014XTLSZ	B01F372KRA	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit,Black,X-Large1(US size:14-16)	New	12.99	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-ZQ1617K0L	X0014NP1TX	B01EJI4ON2	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit,Black,Medium1(US size:6-8)	New	12.99	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-ZQ1617K0M	X00150PDXT	B01EJI4LYY	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit,Black,Small(US size:4-6)	New	12.99	No		Yes	1	1	0	0	1	0.08	0	0	0
 YZ-ZQ1617K0XL	X0014X0JVD	B01EJI4QKI	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit Black,Medium2(US size:8-10) Tag Size XL	New	12.99	No		Yes	1	1	0	0	1	0.08	0	0	0
@@ -873,18 +853,17 @@ YZ-ZQ1617ZL2XL	X00156IUGP	B01FM4ZIQ4	Summer Mae 50s Elegant Inspired Retro Vinta
 YZ-ZQ1617ZL3XL	X00156IUKV	B01F372SJU	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit,Navy Blue,X-Large1(US size:14-16)	New	12.99	No		Yes	2	2	0	0	2	0.08	0	0	0
 YZ-ZQ1617ZLL	X00152HHXB	B01EJI50HG	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit,Navy Blue,Medium1(US size:6-8)	New	12.99	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-ZQ1617ZLXL	X00156IUL5	B01EJI51MK	Summer Mae 50s Elegant Inspired Retro Vintage One Piece Pin Up Monokinis Swimsuit,Navy Blue,Medium2(US size:8-10)	New	9.99	No		Yes	0	0	0	0	0	0.08	0	0	0
-YZ-ZQ16597B02XL	X001E2GGK7	B01HTJ8QUK	Summer Mae Women's Classic Striped Two Piece Swimwear Plus Size Tankini Top & Bottom 2XL	New	39.99	No		Yes	1	1	0	0	1	0.06	0	0	0
+YZ-ZQ16597B02XL	X001E2GGK7	B01HTJ8QUK	Summer Mae Women's Classic Striped Two Piece Swimwear Plus Size Tankini Top & Bottom 2XL	New	39.99	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-ZQ16597B03XL	X001E6P3BB	B01HTJ8TH0	Summer Mae Women's Classic Striped Two Piece Swimwear Plus Size Tankini Top & Bottom 3XL	New	39.99	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-ZQ16597B04XL	X001E110BN	B01HTJ8VB4	Summer Mae Women's Classic Striped Two Piece Swimwear Plus Size Tankini Top & Bottom 4XL	New	39.99	No		Yes	6	6	0	0	6	0.06	0	0	0
 YZ-ZQ16597B0L	X001E84CDT	B01HTJ8YUM	Summer Mae Women's Classic Striped Two Piece Swimwear Plus Size Tankini Top & Bottom L	New	39.99	No		Yes	6	6	0	0	6	0.06	0	0	0
 YZ-ZQ16597B0M	X001E9NU27	B01HTJ8SVM	Summer Mae Women's Classic Striped Two Piece Swimwear Plus Size Tankini Top & Bottom M	New	39.99	No		Yes	4	4	0	0	4	0.06	0	0	0
 YZ-ZQ16597B0XL	X001E7MJRV	B01HTJ90K0	Summer Mae Women's Classic Striped Two Piece Swimwear Plus Size Tankini Top & Bottom XL	New	39.99	No		Yes	18	18	0	0	18	0.06	0	0	0
 YZ-ZQ16598R02XL	X001697QY3	B01IMZ2SWC	Summer Mae Women's American Open-BackRed White Blue Patriotic Tankini 2XL	New	29.99	No		Yes	0	0	0	0	0	0.05	0	0	0
-YZ-ZQ16598R03XL	X001694ZSX	B01IMZ2R4G	Summer Mae Women's American Open-BackRed White Blue Patriotic Tankini 2X	New	29.99	No		Yes	1	0	1	0	1	0.05	0	0	0
+YZ-ZQ16598R03XL	X001694ZSX	B01IMZ2R4G	Summer Mae Women's American Open-BackRed White Blue Patriotic Tankini 2X	New	29.99	No		Yes	0	0	0	0	0	0.05	0	0	0
 YZ-ZQ16598R05XL	X001697QYD	B01IMZ2TJO	Summer Mae Women's American Open-BackRed White Blue Patriotic Tankini	New	29.99	No		Yes	1	0	1	0	1	0.05	0	0	0
 YZ-ZQ16598R0L	X0016AJVM7	B01IMZ2QGK	Summer Mae Women's American Open-BackRed White Blue Patriotic Tankini M	New	29.99	No		Yes	3	0	0	3	3	0.05	0	0	0
 YZ-ZQ16598R0XL	X00168IEI1	B01IMZ2RPU	Summer Mae Women's American Open-BackRed White Blue Patriotic Tankini	New	29.99	No		Yes	1	0	1	0	1	0.05	0	0	0
-YZ-ZQ1715-W0-L	X001JA6Z19	B073GP5HM2	Summer Mae Women's V-neck Mesh One Piece Vintage Swimsuit Tropical Print Swimwear	New	15.90	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-ZQ1715-W0-XL	X001JA72V1	B073GRRY4V	Summer Mae Women's V-Neck Mesh One Piece Vintage Swimsuit Tropical Print Swimwear	New	15.90	No		Yes	0	0	0	0	0	0	0	0	0
 YZ-ZQ1732-B0-L	X001FN3S47	B01MXIU4BF	WOMEN'S BOUTIQUE Summer Mae Women's colorful Print Swimwear Two Piece Boyshort Bkini	New	39.99	No		Yes	0	0	0	0	0	0.04	0	0	0
 YZ-ZQ1732-B0-XL	X001FLZOGJ	B01N3Q73FG	Summer Mae Women's Colorful Print Swimwear Two Piece Boyshort Bkini	New	39.99	No		Yes	1	1	0	0	1	0.08	0	0	0
@@ -894,7 +873,6 @@ YZ-ZQ1732-R0-L	X001GZTMYT	B01N8XQPF6	WOMEN'S BOUTIQUE Summer Mae Women's colorfu
 YZ-ZQ1732-R0-S	X001GZWQUL	B07CJ387X7	Summer Mae Women's colorful Print Swimwear Two Piece Boyshort Bkini	New	39.99	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQ1732-R0-XL	X001GZYAMN	B01MQGNHWU	WOMEN'S BOUTIQUE Summer Mae Women's colorful Print Swimwear Two Piece Boyshort Bkini	New	39.99	No		Yes	0	0	0	0	0	0.05	0	0	0
 YZ-ZQ1733-K0-2XL	X001H11T1V	B07226XSQF	WOMEN'S BOUTIQUE Summer Mae Women's Push Up Polka Dot Swimwear Two Piece Boyshort Bkini	New	39.99	No		Yes	0	0	0	0	0	0.08	0	0	0
-YZ-ZQ1733-K0-L	X001H12A6J	B07226QPFK	Summer Mae Women's Push Up Polka Dot Swimwear Two Piece Boyshort Bkini	New	39.99	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-ZQ1733-K0-XL	X001FZAQKJ	B071R2J8ZP	WOMEN'S BOUTIQUE Summer Mae Women's Push Up Polka Dot Swimwear Two Piece Boyshort Bkini	New	39.99	No		Yes	1	1	0	0	1	0.08	0	0	0
 YZ-ZQ1733-NB-2XL	X001GTRLVL	B06ZZBQM3B	WOMEN'S BOUTIQUE Summer Mae Women's Push Up Polka Dot Swimwear Two Piece Boyshort Bkini	New	39.99	No		Yes	1	1	0	0	1	0.08	0	0	0
 YZ-ZQ1733-NB-3XL	X001GU1WDD	B071DDXBNN	Summer Mae Women's Push Up Polka Dot Swimwear Two Piece Boyshort Bkini	New	39.99	No		Yes	1	1	0	0	1	0.08	0	0	0
@@ -922,28 +900,26 @@ YZ-ZQ17985-P0-3X	X001GRHPL9	B071XXTJKJ	Summer Mae Women's Purple Pattern Swimwea
 YZ-ZQ17985-P0-4X	X001GX6FHD	B071XYKR1F	Summer Mae Women's Purple Pattern Swimwear Two Piece Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-ZQ17985-P0-5X	X001GXAWSV	B06ZYX6MBT	WOMEN'S BOUTIQUE Summer Mae Women's Purple Pattern Swimwear Two Piece Tankini Top & Bottom	New	39.99	No		Yes	3	3	0	0	3	0.06	0	0	0
 YZ-ZQ17986W0-2XL	X001E0VHI5	B01M2WVR0W	Summer Mae Women's Plus Size Swimdress Floral Convertible Tankini Swimsuit Beachwear	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
-YZ-ZQ17986W0-3XL	X001E0VHOJ	B01M3PLO0V	Summer Mae Women's Plus Size Swimdress Floral Convertible Tankini Swimsuit Beachwear	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
-YZ-ZQ17986W0-4XL	X001E07MDJ	B01M4IT1ER	Summer Mae Women's Plus Size Swimdress Floral Convertible Tankini Swimsuit Beachwear	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-ZQ17986W0-5XL	X001EGQJE1	B01M3PLOQL	Summer Mae Women's Plus Size Swimdress Floral Convertible Tankini Swimsuit Beachwear	New	39.99	No		Yes	1	1	0	0	1	0.09	0	0	0
 YZ-ZQ17986W0-L	X001F54NYT	B01M5AYY5V	Summer Mae Women's Plus Size Swimdress Floral Convertible Tankini Swimsuit Beachwear	New	39.99	No		Yes	9	8	1	0	9	0.09	0	0	0
-YZ-ZQ17986W0-M	X001F3NHSJ	B01M2487BX	Summer Mae Women's Plus Size Swimdress Floral Convertible Tankini Swimsuit Beachwear	New	39.99	No		Yes	3	3	0	0	3	0.09	0	0	0
+YZ-ZQ17986W0-M	X001F3NHSJ	B01M2487BX	Summer Mae Women's Plus Size Swimdress Floral Convertible Tankini Swimsuit Beachwear	New	39.99	No		Yes	2	2	0	0	2	0.09	0	0	0
 YZ-ZQ17986W0-S	X001F54NY9	B01M2WKW8D	Summer Mae Women's Plus Size Swimdress Floral Convertible Tankini Swimsuit Beachwear	New	39.99	No		Yes	1	1	0	0	1	0.09	0	0	0
-YZ-ZQ17986W0-XL	X001E07MD9	B01M63PZ3C	Summer Mae Women's Plus Size Swimdress Floral Convertible Tankini Swimsuit Beachwear	New	39.99	No		Yes	1	1	0	0	1	0.09	0	0	0
+YZ-ZQ17986W0-XL	X001E07MD9	B01M63PZ3C	Summer Mae Women's Plus Size Swimdress Floral Convertible Tankini Swimsuit Beachwear	New	39.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-ZQ18758-K0-2X	X001ERCVFL	B071CPSVZQ	Summer Mae Women Maternity Pregnancy Halter 2XL Black Floral Tankini Swimsuit	New	13.99	No		Yes	0	0	0	0	0	0.12	0	0	0
 YZ-ZQ18758-K0-M	X001ETCP9L	B071QXGL9W	Summer Mae Women Maternity Pregnancy Halter Black Floral Tankini Swimsuit	New	9.99	No		Yes	0	0	0	0	0	0.12	0	0	0
 YZ-ZQ18758-K0-XL	X001EMW5EX	B071XNKXKR	Summer Mae Women Maternity Pregnancy Halter Black Floral Tankini Swimsuit	New	17.99	No		Yes	0	0	0	0	0	0.12	0	0	0
 YZ-ZQ19758-K0-2XL	X001E0VHOT	B01N3S4VXV	Summer Mae Women's Plus Size Halter V-Neck Stripes Swimwear One Piece Swimsuit	New	39.99	No		Yes	4	4	0	0	4	0.06	0	0	0
 YZ-ZQ19758-K0-4XL	X001E07NAV	B01N01UI76	Summer Mae Women's Plus Size Halter V-Neck Stripes Swimwear One Piece Swimsuit	New	39.99	No		Yes	1	1	0	0	1	0.12	0	0	0
 YZ-ZQ19758-K0-5XL	X001E07MP7	B01N3OVJCL	Summer Mae Women's Plus Size Halter V-Neck Stripes Swimwear One Piece Swimsuit	New	39.99	No		Yes	3	2	1	0	3	0.06	0	0	0
-YZ-ZQ19758-K0-L	X001E07NAL	B01N0A39UA	Summer Mae Women's Plus Size Halter V-Neck Stripes Swimwear One Piece Swimsuit	New	39.99	No		Yes	9	9	0	0	9	0.06	0	0	0
+YZ-ZQ19758-K0-L	X001E07NAL	B01N0A39UA	Summer Mae Women's Plus Size Halter V-Neck Stripes Swimwear One Piece Swimsuit	New	39.99	No		Yes	10	10	0	0	10	0.06	0	0	0
 YZ-ZQ19758-K0-M	X001E1D025	B01MTJWG2A	Summer Mae Women's Plus Size Halter V-Neck Stripes Swimwear One Piece Swimsuit	New	39.99	No		Yes	2	2	0	0	2	0.06	0	0	0
 YZ-ZQ19758-K0-S	X001DZMVVD	B01N05XVJ7	Summer Mae Women's Plus Size Halter V-Neck Stripes Swimwear One Piece Swimsuit	New	39.99	No		Yes	1	1	0	0	1	0.05	0	0	0
 YZ-ZQ19758-K0-XL	X001E07MPH	B01MQFD56D	Summer Mae Women's Plus Size Halter V-Neck Stripes Swimwear One Piece Swimsuit	New	39.99	No		Yes	4	4	0	0	4	0.03	0	0	0
 YZ-ZQ298N03XL	X00153NWV1	B01H14P2PK	Summer Mae Womens Totem Bandeau 2 Pc Plus Size Tankini Brown	New	21.99	No		Yes	2	1	1	0	2	0.09	0	0	0
-YZ-ZQ298N04XL	X00153NWVB	B01H14P57U	Summer Mae Womens Totem Bandeau 2 Pc Plus Size Tankini Brown	New	21.99	No		Yes	1	0	1	0	1	0.09	0	0	0
+YZ-ZQ298N04XL	X00153NWVB	B01H14P57U	Summer Mae Womens Totem Bandeau 2 Pc Plus Size Tankini Brown	New	21.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-ZQ298N05XL	X0016FT4MJ	B01JOJ3LOE	Summer Mae Womens Totem Bandeau 2 Pc Plus Size Tankini Brown	New	19.13	No		Yes	9	9	0	0	9	0.09	0	0	0
 YZ-ZQ298N0XL	X00153IZ8L	B01H14OYL8	Summer Mae Womens Totem Bandeau 2 Pc Plus Size Tankini Brown	New	21.99	No		Yes	14	14	0	0	14	0.09	0	0	0
-YZ-ZQ388-K0-L	X001PR1UVL	B07B7GLDBN	Summer Mae Women's High Cut Deep V-Neck Black Lace Mesh One Piece Halter Swimsuit Vintage Swimwear	New	39.99	No		Yes	2	0	2	0	2	0.11	0	0	0
+YZ-ZQ388-K0-L	X001PR1UVL	B07B7GLDBN	Summer Mae Women's High Cut Deep V-Neck Black Lace Mesh One Piece Halter Swimsuit Vintage Swimwear	New	39.99	No		Yes	1	0	1	0	1	0.11	0	0	0
 YZ-ZQ45984K02XL	X0015HLTYJ	B01HZL9Q92	Summer Mae Women's One Piece Swimwear Plus Size Bandeau Belted Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0.13	0	0	0
 YZ-ZQ45984K04XL	X0015LSJ1V	B01HZL9W8M	Summer Mae Women's One Piece Swimwear Plus Size Bandeau Belted Swimsuit	New	39.99	No		Yes	0	0	0	0	0	0.13	0	0	0
 YZ-ZQ47121-K0-L	X001J5EXJZ	B01N8P3P19	WOMEN'S BOUTIQUE Summer Mae Women's Black Mesh Ring Swimwear One Piece Swimsuit Bikini	New	19.90	No		Yes	2	1	1	0	2	0	0	0	0
@@ -966,7 +942,6 @@ YZ-ZQ6189P052	X0014XSUW3	B01H6DXB8Q	Summer Mae Women's Plus Size Retro Floral Tw
 YZ-ZQ6189P054	X0014VB437	B01H6DXBQI	Summer Mae Women's Plus Size Retro Floral Two Pieces Tankini Top & Bottom Swimsuit 54 Purple	New	19.99	No		Yes	5	5	0	0	5	0.01	0	0	0
 YZ-ZQ6189Y046	X0014VKI93	B01H6DX9LA	Summer Mae Women's Plus Size Retro Floral Two Pieces Tankini Top & Bottom Swimsuit 46 Yellow	New	22.99	No		Yes	5	5	0	0	5	0.01	0	0	0
 YZ-ZQ6189Y048	X0014VB43H	B01H6DXA64	Summer Mae Women's Plus Size Retro Floral Two Pieces Tankini Top & Bottom Swimsuit 48 Yellow	New	22.99	No		Yes	3	3	0	0	3	0.01	0	0	0
-YZ-ZQ6189Y050	X0014XSN75	B01H6DXAR8	Summer Mae Women's Plus Size Retro Floral Two Pieces Tankini Top & Bottom Swimsuit 50 Yellow	New	17.99	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-ZQ6189Y052	X0014XSFZP	B01H6DXBBS	Summer Mae Women's Plus Size Retro Floral Two Pieces Tankini Top & Bottom Swimsuit 52 Yellow	New	17.99	No		Yes	2	2	0	0	2	0.01	0	0	0
 YZ-ZQ6258B050	X001DOQ395	B01I1ED7NS	Summer Mae Women's Plus Size Two Pieces Floral Tankini Top & Bottom Swimsuit 50 Blue	New	19.90	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-ZQ6258K050	X0014PFAMT	B01H53IODE	Summer Mae Women's Plus Size Two Pieces Floral Tankini Top & Bottom Swimsuit 50 Black	New	19.90	No		Yes	0	0	0	0	0	0.08	0	0	0
@@ -976,9 +951,8 @@ YZ-ZQ6667G048	X0014EMN3J	B01GFMMJ3W	Summer Mae Womens High Waisted Bikini Set Fl
 YZ-ZQ6667G052	X0014EFA4D	B01GFMMDY2	Summer Mae Women's Plus Size Swimdress One Piece Cover Up Swimsuit Tankini Beachwear 52 Teal	New	26.99	No		Yes	0	0	0	0	0	0.28	0	0	0
 YZ-ZQ6667G054	X0014ER04B	B01GFMMEQO	Summer Mae Women's Plus Size Swimdress One Piece Cover Up Swimsuit Tankini Beachwear 54 Teal	New	39.99	No		Yes	0	0	0	0	0	0.28	0	0	0
 YZ-ZQ6667R044	X0013SPHJN	B01GFMMCLG	Summer Mae Women's Plus Size Swimdress One Piece Cover Up Swimsuit Tankini Beachwear 44 Red	New	9.99	No		Yes	0	0	0	0	0	0.28	0	0	0
-YZ-ZQ6667R046	X0014EFAWZ	B01GFMMDAQ	Summer Mae Women's Plus Size Swimdress One Piece Cover Up Swimsuit Tankini Beachwear 46 Red	New	26.99	No		Yes	0	0	0	0	0	0.28	0	0	0
-YZ-ZQ6667R050	X0014EFB33	B01GFMMEYG	Summer Mae Women's Plus Size Swimdress One Piece Cover Up Swimsuit Tankini Beachwear 50 Red	New	23.99	No		Yes	2	2	0	0	2	0.28	0	0	0
-YZ-ZQ6667R054	X0014ABR2V	B01GFMMGIU	Summer Mae Women's Plus Size Swimdress One Piece Cover Up Swimsuit Tankini Beachwear 54 Red	New	39.99	No		Yes	1	0	1	0	1	0.28	0	0	0
+YZ-ZQ6667R050	X0014EFB33	B01GFMMEYG	Summer Mae Women's Plus Size Swimdress One Piece Cover Up Swimsuit Tankini Beachwear 50 Red	New	23.99	No		Yes	1	1	0	0	1	0.28	0	0	0
+YZ-ZQ6667R054	X0014ABR2V	B01GFMMGIU	Summer Mae Women's Plus Size Swimdress One Piece Cover Up Swimsuit Tankini Beachwear 54 Red	New	39.99	No		Yes	0	0	0	0	0	0.28	0	0	0
 YZ-ZQ6667ZL44	X0014WXADX	B01GFMMFGS	Summer Mae Women's Plus Size Swimdress One Piece Cover Up Swimsuit Tankini Beachwear 44 Navyblue	New	39.99	No		Yes	1	1	0	0	1	0.28	0	0	0
 YZ-ZQ6667ZL46	X0014X11VZ	B01GFMMG80	Summer Mae Women's Plus Size Swimdress One Piece Cover Up Swimsuit Tankini Beachwear 46 Navyblue	New	39.99	No		Yes	6	6	0	0	6	0.28	0	0	0
 YZ-ZQ6667ZL48	X0014XQA43	B01GFMMGZS	One Piece Mesh Swimsuit Classic Strappy V Neck Monokini Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.28	0	0	0
@@ -994,117 +968,112 @@ YZ-ZQ7777R018	X001D7L3PV	B01MYH3XG5	Summer Mae Women's Plus Size Swimdress One P
 YZ-ZQ7777R020	X001FZKER9	B01N19VWT1	Summer Mae Women's Plus Size Swimdress One Piece Cover Up Swimsuit Tankini Beachwear	New	39.99	No		Yes	0	0	0	0	0	0.28	0	0	0
 YZ-ZQ789K02XL	X0015HWUIN	B01H70785K	Summer Mae Womens Plus Size Back Polka Dot Classic 2 Pc Plus Size Tankini XL	New	15.99	No		Yes	0	0	0	0	0	0.06	0	0	0
 YZ-ZQ789K03XL	X0015N6X8P	B01H7076OS	Summer Mae Womens Plus Size Back Polka Dot Classic 2 Pc Plus Size Tankini 2XL	New	17.99	No		Yes	0	0	0	0	0	0.06	0	0	0
-YZ-ZQ789K04XL	X0015N6X1R	B01H7078BY	Summer Mae Womens Plus Size Back Polka Dot Classic 2 Pc Plus Size Tankini 3XL	New	15.99	No		Yes	5	4	1	0	5	0.06	0	0	0
-YZ-ZQ789K05XL	X0015N6X1H	B01H7079W2	Summer Mae Womens Plus Size Back Polka Dot Classic 2 Pc Plus Size Tankini 4XL	New	17.99	No		Yes	6	6	0	0	6	0.06	0	0	0
+YZ-ZQ789K04XL	X0015N6X1R	B01H7078BY	Summer Mae Womens Plus Size Back Polka Dot Classic 2 Pc Plus Size Tankini 3XL	New	15.99	No		Yes	4	2	1	1	4	0.06	0	0	0
+YZ-ZQ789K05XL	X0015N6X1H	B01H7079W2	Summer Mae Womens Plus Size Back Polka Dot Classic 2 Pc Plus Size Tankini 4XL	New	17.99	No		Yes	6	4	0	2	6	0.06	0	0	0
 YZ-ZQ789K0L	X00163MJH3	B01H7074XQ	Summer Mae Womens Plus Size Back Polka Dot Classic 2 Pc Plus Size Tankini M	New	15.99	No		Yes	3	3	0	0	3	0.06	0	0	0
-YZ-ZQ789K0XL	X0015LS65Z	B01H7076HA	Summer Mae Womens Plus Size Back Polka Dot Classic 2 Pc Plus Size Tankini L	New	11.99	No		Yes	8	8	0	0	8	0.06	0	0	0
-YZ-ZQ8639-W0-S	X001JJF2QJ	B073WVJR62	Summer Mae Women's Green Banana Leaves One Piece White Swimsuit Beachwear,White,S(US size:0-2)	New	39.99	No		Yes	0	0	0	0	0	0	0	0	0
+YZ-ZQ789K0XL	X0015LS65Z	B01H7076HA	Summer Mae Womens Plus Size Back Polka Dot Classic 2 Pc Plus Size Tankini L	New	11.99	No		Yes	9	8	0	1	9	0.06	0	0	0
 YZ-ZQ8867-B0-L	X001EKZN85	B01MG8TRFZ	Summer Mae Women's Blue Flare Print One Piece Swimsuit Ruffle Swimwear	New	39.99	No		Yes	12	12	0	0	12	0.07	0	0	0
 YZ-ZQ8867-B0-M	X001EL1ZWH	B01MDUUIF8	Summer Mae Women's Blue Flare Print One Piece Swimsuit Ruffle Swimwear	New	39.99	No		Yes	7	7	0	0	7	0.07	0	0	0
 YZ-ZQ8867-B0-XL	X001EKR27F	B01M6CMXFJ	Summer Mae Women's Blue Flare Print One Piece Swimsuit Ruffle Swimwear	New	39.99	No		Yes	2	1	1	0	2	0.06	0	0	0
 YZ-ZQA100-B0-L	X001CYL5FX	B01MA3UEU3	Summer Mae Women's Floral Print Swimwear Mesh Splice Tankini Top & Bottom Blue	New	39.99	No		Yes	1	1	0	0	1	0.1	0	0	0
-YZ-ZQA100-B0-M	X001D0RHV7	B01M3PY9Y9	Summer Mae Women's Floral Print Swimwear Mesh Splice Tankini Top & Bottom Blue	New	39.99	No		Yes	1	1	0	0	1	0.1	0	0	0
-YZ-ZQA100-G0-L	X001CZLO49	B01M24M2ND	Summer Mae Women's Floral Print Swimwear Mesh Splice Tankini Top & Bottom Teal	New	39.99	No		Yes	2	1	1	0	2	0.1	0	0	0
+YZ-ZQA100-B0-M	X001D0RHV7	B01M3PY9Y9	Summer Mae Women's Floral Print Swimwear Mesh Splice Tankini Top & Bottom Blue	New	39.99	No		Yes	0	0	0	0	0	0.1	0	0	0
+YZ-ZQA100-G0-L	X001CZLO49	B01M24M2ND	Summer Mae Women's Floral Print Swimwear Mesh Splice Tankini Top & Bottom Teal	New	39.99	No		Yes	1	0	1	0	1	0.1	0	0	0
 YZ-ZQA100-G0-M	X001CY808X	B01MDM3JTR	Summer Mae Women's Floral Print Swimwear Mesh Splice Tankini Top & Bottom Teal	New	39.99	No		Yes	0	0	0	0	0	0.1	0	0	0
-YZ-ZQA100-G0-XL	X001D0L7CH	B01M7PPJ8V	Summer Mae Women's Floral Print Swimwear Mesh Splice Tankini Top & Bottom Teal	New	39.99	No		Yes	0	0	0	0	0	0.1	0	0	0
 YZ-ZQA31-K0-M	X001CZLO4J	B01MSJRM6K	Summer Mae Women's Halter Ruffled Two Piece Swimsuits Swimdress with Short	New	39.99	No		Yes	8	8	0	0	8	0.09	0	0	0
-YZ-ZQBL03-B0-2XL	X001ODSUSR	B0792THM1S	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	14	12	1	1	14	0.11	0	0	0
-YZ-ZQBL03-B0-3XL	X001OF797D	B0792TB9G8	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	11	9	2	0	11	0.11	0	0	0
+YZ-ZQBL03-B0-2XL	X001ODSUSR	B0792THM1S	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	10	8	1	1	10	0.11	0	0	0
+YZ-ZQBL03-B0-3XL	X001OF797D	B0792TB9G8	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	11	8	2	1	11	0.11	0	0	0
 YZ-ZQBL03-B0-L	X001ODWNAN	B06ZZJ4BFJ	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	3	0	3	0	3	0.11	0	0	0
-YZ-ZQBL03-B0-M	X001OF6J6P	B06ZZJ46LT	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	4	0	0	4	4	0.11	0	0	0
-YZ-ZQBL03-B0-S	X001OEYLMZ	B06ZYY38PQ	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	8	8	0	0	8	0.11	0	0	0
+YZ-ZQBL03-B0-M	X001OF6J6P	B06ZZJ46LT	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.11	0	0	0
+YZ-ZQBL03-B0-S	X001OEYLMZ	B06ZYY38PQ	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	5	4	0	1	5	0.11	0	0	0
 YZ-ZQBL03-B0-XL	X001OF6N7F	B06ZXSMH66	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	2	0	2	0	2	0.11	0	0	0
-YZ-ZQBL03-K0-2X	X001F98FCV	B071L9XNCJ	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Tank Swimwear	New	21.99	No		Yes	41	21	17	3	41	0.01	0	0	0
-YZ-ZQBL03-K0-3X	X001GZYKSR	B073GLS8H2	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Tank Swimwear	New	21.99	No		Yes	13	11	2	0	13	0.01	0	0	0
-YZ-ZQBL03-K0-L	X001D0OK6H	B01MYM265E	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Halter Swimwear	New	21.99	No		Yes	23	0	21	2	25	0.02	0	2	0
-YZ-ZQBL03-K0-M	X001D0OK6R	B01N74K227	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Halter Swimwear	New	19.99	No		Yes	32	8	18	6	32	0.01	0	0	0
+YZ-ZQBL03-K0-2X	X001F98FCV	B071L9XNCJ	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Tank Swimwear	New	21.99	No		Yes	33	17	15	1	33	0.01	0	0	0
+YZ-ZQBL03-K0-3X	X001GZYKSR	B073GLS8H2	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Tank Swimwear	New	21.99	No		Yes	10	7	2	1	10	0.01	0	0	0
+YZ-ZQBL03-K0-L	X001D0OK6H	B01MYM265E	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Halter Swimwear	New	21.99	No		Yes	22	0	18	4	22	0.02	0	0	0
+YZ-ZQBL03-K0-M	X001D0OK6R	B01N74K227	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Halter Swimwear	New	19.99	No		Yes	30	1	21	8	30	0.01	0	0	0
 YZ-ZQBL03-K0-S	X001E1ZG63	B01N406GK7	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Halter Swimwear	New	19.99	No		Yes	6	0	5	1	6	0.01	0	0	0
-YZ-ZQBL03-K0-XL	X001CZLO3Z	B01N1ELDWA	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Halter Swimwear	New	21.99	No		Yes	15	0	13	2	15	0.01	0	0	0
-YZ-ZQBL03-R2-2XL	X001OF796T	B0792TD85L	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	7	5	0	2	7	0.11	0	0	0
-YZ-ZQBL03-R2-3XL	X001OF4TJT	B0792SQRWB	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	9	9	0	0	9	0.11	0	0	0
-YZ-ZQBL03-R2-L	X001OF5ES9	B0792SSMZK	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	8	6	0	2	8	0.11	0	0	0
-YZ-ZQBL03-R2-M	X001ODWV05	B0792T7FW3	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.11	0	0	0
-YZ-ZQBL03-R2-S	X001OF6JVZ	B0792SW5YQ	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	4	2	1	1	4	0.11	0	0	0
-YZ-ZQBL03-R2-XL	X001OF5T7Z	B0792TY4YT	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	9	5	3	1	9	0.11	0	0	0
-YZ-ZQFT1816-O0-2X	X001HYNY93	B073XHCMCV	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.06	0	0	0
-YZ-ZQFT1816-O0-3X	X001HXW8UZ	B073XGW9SF	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	1	0	1	0	11	0.06	0	10	0
+YZ-ZQBL03-K0-XL	X001CZLO3Z	B01N1ELDWA	Summer Mae Women's Black Mesh One Piece Vintage Swimsuit Halter Swimwear	New	21.99	No		Yes	16	0	14	2	16	0.01	0	0	0
+YZ-ZQBL03-R2-2XL	X001OF796T	B0792TD85L	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	3	0	0	3	3	0.11	0	0	0
+YZ-ZQBL03-R2-3XL	X001OF4TJT	B0792SQRWB	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	2	0	0	2	2	0.11	0	0	0
+YZ-ZQBL03-R2-L	X001OF5ES9	B0792SSMZK	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	0	0	0	0	0	0.11	0	0	0
+YZ-ZQBL03-R2-M	X001ODWV05	B0792T7FW3	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	1	0	1	0	1	0.11	0	0	0
+YZ-ZQBL03-R2-S	X001OF6JVZ	B0792SW5YQ	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	3	1	1	1	3	0.11	0	0	0
+YZ-ZQBL03-R2-XL	X001OF5T7Z	B0792TY4YT	Summer Mae Women's Blue Mesh One Piece Vintage Swimsuit Tank Swimwear	New	39.99	No		Yes	6	1	3	2	6	0.11	0	0	0
+YZ-ZQFT1816-O0-2X	X001HYNY93	B073XHCMCV	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	10	0.06	0	10	0
+YZ-ZQFT1816-O0-3X	X001HXW8UZ	B073XGW9SF	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	10	6	2	2	13	0.06	0	3	0
 YZ-ZQFT1816-O0-4X	X001IJ2QCX	B073XGWPDJ	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	3	0.06	0	3	0
-YZ-ZQFT1816-O0-5X	X001J1LFSL	B073XH5FBN	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	1	0	1	0	6	0.06	0	5	0
-YZ-ZQFT1816-O0-L	X001HYNY9D	B073XH5765	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	4	0	4	0	8	0.06	0	4	0
-YZ-ZQFT1816-O0-M	X001HYKM75	B073XH9RWZ	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	4	3	1	0	7	0.06	0	3	0
-YZ-ZQFT1816-O0-S	X001IJ1B5L	B073XHGJDM	WOMEN'S BOUTIQUE Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	2	2	0	0	2	0.06	0	0	0
-YZ-ZQFT1816-O0-XL	X001HZ3Q45	B073XHCN93	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	1	0	1	0	1	0.06	0	0	0
-YZ-ZQFT1816-Y0-2X	X001HZ3Q4F	B073XJ1L2G	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	1	0	1	0	1	0.06	0	0	0
+YZ-ZQFT1816-O0-5X	X001J1LFSL	B073XH5FBN	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	4	2	1	1	7	0.06	0	3	0
+YZ-ZQFT1816-O0-L	X001HYNY9D	B073XH5765	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	6	0	4	2	21	0.06	0	15	0
+YZ-ZQFT1816-O0-M	X001HYKM75	B073XH9RWZ	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	7	6	1	0	7	0.06	0	0	0
+YZ-ZQFT1816-O0-S	X001IJ1B5L	B073XHGJDM	WOMEN'S BOUTIQUE Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	2	2	0	0	7	0.06	0	5	0
+YZ-ZQFT1816-O0-XL	X001HZ3Q45	B073XHCN93	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.06	0	0	0
+YZ-ZQFT1816-Y0-2X	X001HZ3Q4F	B073XJ1L2G	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	1	0	1	0	11	0.06	0	10	0
 YZ-ZQFT1816-Y0-3X	X001HXUUM3	B073XHCKV4	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	1	0	1	0	1	0.06	0	0	0
-YZ-ZQFT1816-Y0-4X	X001IIHQTH	B073XJM9NF	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	2	0	2	0	4	0.06	0	2	0
-YZ-ZQFT1816-Y0-5X	X001IIHE3F	B073XGJC5S	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	2	0	2	0	2	0.06	0	0	0
-YZ-ZQFT1816-Y0-L	X001HZ2J2F	B073XH8KDN	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	4	0	4	0	4	0.06	0	0	0
-YZ-ZQFT1816-Y0-M	X001IJ1BXD	B073XHDS44	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	3	0	3	0	13	0.06	0	10	0
-YZ-ZQFT1816-Y0-S	X001IJ1DJ5	B073XJM9N5	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	10	8	2	0	10	0.06	0	0	0
-YZ-ZQFT1816-Y0-XL	X001HYKX79	B073XJK24D	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	4	0	4	0	4	0.06	0	0	0
-YZ-ZQGB01-K0-2XL	X001D709UV	B06XGJBKJ9		Unknown					0	0	0	0	0		0	0	0
-YZ-ZQHL02-G0-L	X001JDY60D	B074C628HG		Unknown					0	0	0	0	0		0	0	0
+YZ-ZQFT1816-Y0-4X	X001IIHQTH	B073XJM9NF	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	4	0	2	2	10	0.06	0	6	0
+YZ-ZQFT1816-Y0-5X	X001IIHE3F	B073XGJC5S	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	2	0	2	0	7	0.06	0	5	0
+YZ-ZQFT1816-Y0-L	X001HZ2J2F	B073XH8KDN	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	4	0	4	0	14	0.06	0	10	0
+YZ-ZQFT1816-Y0-M	X001IJ1BXD	B073XHDS44	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	12	9	2	1	17	0.06	0	5	0
+YZ-ZQFT1816-Y0-S	X001IJ1DJ5	B073XJM9N5	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	10	8	2	0	15	0.06	0	5	0
+YZ-ZQFT1816-Y0-XL	X001HYKX79	B073XJK24D	Summer Mae Women's Yellow/Orange Lace Mesh Swimwear Two Piece Halter Tankini Top & Bottom	New	39.99	No		Yes	3	0	3	0	3	0.06	0	0	0
 YZ-ZQHL02-G0-M	X001JF5UVZ	B074C743SB		Unknown					0	0	0	0	0		0	0	0
-YZ-ZQHL02-G0-S	X001JDN3TN	B074CBBNF1		Unknown					0	0	0	0	0		0	0	0
 YZ-ZQHL02-G0-XL	X001JDUZEJ	B074C6Y974		Unknown					0	0	0	0	0		0	0	0
 YZ-ZQLS062-K0-2XL	X001D5FSSV	B01M6ZE12A	Summer Mae Women's Pineapple Print Swimwear Three Piece Tankini Bikini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.13	0	0	0
 YZ-ZQLS062-K0-3XL	X001D68LIT	B01MDOWAY0	Summer Mae Women's Pineapple Print Swimwear Three Piece Tankini Bikini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.12	0	0	0
 YZ-ZQLS062-K0-M	X001D62U1N	B01M66LNMA	Summer Mae Women's Pineapple Print Swimwear Three Piece Tankini Bikini Top & Bottom	New	39.99	No		Yes	2	1	1	0	2	0.08	0	0	0
 YZ-ZQLS062-K0-S	X001E1CZ17	B01MAZ6J54	Summer Mae Women's Pineapple Print Swimwear Three Piece Tankini Bikini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-ZQLS062-K0-XL	X001DAGD35	B01M9DKD73	Summer Mae Women's Pineapple Print Swimwear Three Piece Tankini Bikini Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.13	0	0	0
-YZ-ZQMICAIK02XL	X001DOQ39F	B01HZ9S0P0	Summer Mae Stylish Cross Back Camo Tankini Set for Women	New	29.99	No		Yes	0	0	0	0	0	0.09	0	0	0
+YZ-ZQMICAIK02XL	X001DOQ39F	B01HZ9S0P0	Summer Mae Stylish Cross Back Camo Tankini Set for Women	New	29.99	No		Yes	2	0	0	2	2	0.09	0	0	0
 YZ-ZQMICAIK03XL	X001DNJPYB	B01HZ9S43S	Summer Mae Stylish Cross Back Camo Tankini Set for Women	New	29.99	No		Yes	4	3	1	0	4	0.09	0	0	0
 YZ-ZQMICAIK04XL	X001DQTKCP	B01HZ9S8D4	Summer Mae Stylish Cross Back Camo Tankini Set for Women	New	29.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-ZQMICAIK05XL	X001DNJPZP	B01HZ9SBMM	Summer Mae Stylish Cross Back Camo Tankini Set for Women	New	29.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-ZQMICAIK0L	X001DNJPZF	B01HZ9RXTE	Summer Mae Stylish Cross Back Camo Tankini Set for Women	New	29.99	No		Yes	1	0	1	0	1	0.09	0	0	0
 YZ-ZQMICAIK0M	X001DNJQ95	B01HZ9RULA	Summer Mae Stylish Cross Back Camo Tankini Set for Women	New	29.99	No		Yes	5	5	0	0	5	0.09	0	0	0
-YZ-ZQMICAIK0XL	X001DOPPG7	B01HZ9S1GS	Summer Mae Stylish Cross Back Camo Tankini Set for Women	New	29.99	No		Yes	1	0	0	1	1	0.09	0	0	0
+YZ-ZQMICAIK0XL	X001DOPPG7	B01HZ9S1GS	Summer Mae Stylish Cross Back Camo Tankini Set for Women	New	29.99	No		Yes	0	0	0	0	0	0.09	0	0	0
 YZ-ZQMS02-K0-L	X001GU2PJX	B071S378VC	Summer Mae Women's Black Mesh One Piece Crochet Ruffled Swimsuit Tank Swimwear	New	19.90	No		Yes	0	0	0	0	0	0.1	0	0	0
 YZ-ZQMS02-K0-M	X001GU2PK7	B0722Z56WB	Summer Mae Women's Black Mesh One Piece Crochet Ruffled Swimsuit Tank Swimwear	New	19.90	No		Yes	3	3	0	0	3	0.1	0	0	0
 YZ-ZQOM388-K0-2XL	X001J5RRTX	B0744JDRD1	Summer Mae Women's High Cut Deep V-Neck Black Lace Mesh One Piece Halter Swimsuit Vintage Swimwear	New	19.90	No		Yes	1	0	1	0	1	0.07	0	0	0
 YZ-ZQOM388-K0-M	X001JWSH3B	B0744J8ZXB	Summer Mae Women's High Cut Deep V-Neck Black Lace Mesh One Piece Halter Swimsuit Vintage Swimwear	New	19.90	No		Yes	1	0	1	0	1	0.07	0	0	0
 YZ-ZQOM388-K0-S	X001JWU5RR	B0744JF7G3	Summer Mae Women's High Cut Deep V-Neck Black Lace Mesh One Piece Halter Swimsuit Vintage Swimwear	New	19.90	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQOM388-K0-XL	X001J5RRU7	B0744HVPCV	Summer Mae Women's High Cut Deep V-Neck Black Lace Mesh One Piece Halter Swimsuit Vintage Swimwear	New	19.90	No		Yes	0	0	0	0	0	0.07	0	0	0
-YZ-ZQOM388-W0-2XL	X001J5RXRT	B0744HT59V	Summer Mae Women's High Cut Deep V-Neck White Lace Mesh One Piece Halter Swimsuit Vintage Swimwear	New	19.90	No		Yes	1	0	1	0	1	0.07	0	0	0
+YZ-ZQOM388-W0-2XL	X001J5RXRT	B0744HT59V	Summer Mae Women's High Cut Deep V-Neck White Lace Mesh One Piece Halter Swimsuit Vintage Swimwear	New	19.90	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQOM388-W0-L	X001J5IEL3	B0744HLBYM	Summer Mae Women's High Cut Deep V-Neck White Lace Mesh One Piece Halter Swimsuit Vintage Swimwear	New	19.90	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQOM388-W0-M	X001JWTFMN	B0744JTZNM	Summer Mae Women's High Cut Deep V-Neck White Lace Mesh One Piece Halter Swimsuit Vintage Swimwear	New	19.90	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQOM388-W0-S	X001JWT7OJ	B0744HRKXC	Summer Mae Women's High Cut Deep V-Neck White Lace Mesh One Piece Halter Swimsuit Vintage Swimwear	New	19.90	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQOM388-W0-XL	X001J5RQCV	B0744HC665	Summer Mae Women's High Cut Deep V-Neck White Lace Mesh One Piece Halter Swimsuit Vintage Swimwear	New	19.90	No		Yes	0	0	0	0	0	0.07	0	0	0
 YZ-ZQQ9217-K0-2X	X001QPE7EJ	B07BVLR8XC	Summer Mae Women Plus Black Mesh Split Swimwear Two Piece Halter Tankini Swimdress	New	39.99	No		Yes	2	0	2	0	2	0.1	0	0	0
-YZ-ZQQ9217-K0-3X	X001QO8BQF	B07BV8T7ZW	Summer Mae Women Plus Black Mesh Split Swimwear Two Piece Halter Tankini Swimdress	New	39.99	No		Yes	4	1	3	0	4	0.1	0	0	0
+YZ-ZQQ9217-K0-3X	X001QO8BQF	B07BV8T7ZW	Summer Mae Women Plus Black Mesh Split Swimwear Two Piece Halter Tankini Swimdress	New	39.99	No		Yes	6	2	3	1	6	0.1	0	0	0
 YZ-ZQQ9217-K0-4X	X001QNWXAL	B07BVLR6YY	Summer Mae Women Plus Black Mesh Split Swimwear Two Piece Halter Tankini Swimdress	New	39.99	No		Yes	2	0	2	0	2	0.1	0	0	0
 YZ-ZQQ9217-K0-5X	X001QO8BQP	B07BVLVJCR	Summer Mae Women Plus Black Mesh Split Swimwear Two Piece Halter Tankini Swimdress	New	39.99	No		Yes	0	0	0	0	0	0.1	0	0	0
-YZ-ZQQ9217-K0-L	X001QPFCBB	B07BVLRGBT	Summer Mae Women Plus Black Mesh Split Swimwear Two Piece Halter Tankini Swimdress	New	39.99	No		Yes	3	0	3	0	3	0.1	0	0	0
+YZ-ZQQ9217-K0-L	X001QPFCBB	B07BVLRGBT	Summer Mae Women Plus Black Mesh Split Swimwear Two Piece Halter Tankini Swimdress	New	39.99	No		Yes	2	0	2	0	2	0.1	0	0	0
 YZ-ZQQ9217-K0-M	X001QPE0PZ	B07BVMWNPM	Summer Mae Women Plus Black Mesh Split Swimwear Two Piece Halter Tankini Swimdress	New	39.99	No		Yes	0	0	0	0	0	0.1	0	0	0
-YZ-ZQQ9217-K0-S	X001QPE7JT	B07C9XTFLF	Summer Mae Women Plus Black Mesh Split Swimwear Two Piece Halter Tankini Swimdress	New	39.99	No		Yes	1	0	1	0	1	0.1	0	0	0
+YZ-ZQQ9217-K0-S	X001QPE7JT	B07C9XTFLF	Summer Mae Women Plus Black Mesh Split Swimwear Two Piece Halter Tankini Swimdress	New	39.99	No		Yes	0	0	0	0	0	0.1	0	0	0
 YZ-ZQQ9217-K0-XL	X001QPBYK9	B07BVLMQXC	Summer Mae Women Plus Black Mesh Split Swimwear Two Piece Halter Tankini Swimdress	New	39.99	No		Yes	1	0	1	0	1	0.1	0	0	0
-YZ-ZQQ9227-K0-2X	X001FZHEIV	B071F8DKYJ	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	New	39.99	No		Yes	3	0	3	0	4	0.1	0	0	1
+YZ-ZQQ9227-K0-2X	X001FZHEIV	B071F8DKYJ	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	New	39.99	No		Yes	6	2	3	1	7	0.1	0	0	1
 YZ-ZQQ9227-K0-3X	X001FZFSQ1	B0719JB654	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	New	39.99	No		Yes	3	0	3	0	3	0.1	0	0	0
 YZ-ZQQ9227-K0-4X	X001H7CNXD	B071S72FLG	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	New	39.99	No		Yes	3	0	3	0	3	0.1	0	0	0
-YZ-ZQQ9227-K0-5X	X001H7BV9F	B071VRWZL7	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	New	39.99	No		Yes	6	0	6	0	6	0.1	0	0	0
+YZ-ZQQ9227-K0-5X	X001H7BV9F	B071VRWZL7	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	New	39.99	No		Yes	4	0	4	0	4	0.1	0	0	0
 YZ-ZQQ9227-K0-L	X001FZF7N5	B0716XWQ18	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	New	39.99	No		Yes	2	0	2	0	2	0.1	0	0	0
 YZ-ZQQ9227-K0-M	X001FZHJH7	B071HV4WLH	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	New	39.99	No		Yes	2	0	2	0	2	0.1	0	0	0
-YZ-ZQQ9227-K0-S	X001FZDO85	B07233M5T8	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	New	39.99	No		Yes	2	0	0	2	2	0.1	0	0	0
-YZ-ZQQ9227-K0-XL	X001FZDNCH	B0716XWMWZ	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	New	39.99	No		Yes	2	1	1	0	2	0.1	0	0	0
-YZ-ZQSG16121E02XL	X0017SD9YT	B01J7RL0OG	Summer Mae Plus Size Floral Printed Blouson Plus Size Swimwear Tankini US 12-14	New	19.99	No		Yes	2	2	0	0	2	0.13	0	0	0
-YZ-ZQSG16121E03XL	X0017RWSZL	B01J7RL2DA	Summer Mae Plus Size Floral Printed Blouson Plus Size Swimwear Tankini US 14-16	New	19.99	No		Yes	4	4	0	0	4	0.13	0	0	0
+YZ-ZQQ9227-K0-S	X001FZDO85	B07233M5T8	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	New	39.99	No		Yes	1	1	0	0	1	0.1	0	0	0
+YZ-ZQQ9227-K0-XL	X001FZDNCH	B0716XWMWZ	Summer Mae Women Plus Size Mesh Swimwear Two Piece Halter Tankini Swimdress Cover up	New	39.99	No		Yes	2	0	2	0	2	0.1	0	0	0
+YZ-ZQSG16121E02XL	X0017SD9YT	B01J7RL0OG	Summer Mae Plus Size Floral Printed Blouson Plus Size Swimwear Tankini US 12-14	New	19.99	No		Yes	2	1	0	1	2	0.13	0	0	0
+YZ-ZQSG16121E03XL	X0017RWSZL	B01J7RL2DA	Summer Mae Plus Size Floral Printed Blouson Plus Size Swimwear Tankini US 14-16	New	19.99	No		Yes	3	3	0	0	3	0.13	0	0	0
 YZ-ZQSG16121R03XL	X0018QFK47	B01MA5X2Y4	Summer Mae Plus Size Diamond Blouson Plus Size Swimwear Tankini US 14-16	New	19.99	No		Yes	4	4	0	0	4	0.13	0	0	0
-YZ-ZQSG16121R0L	X0018XU41J	B01MEH1KL4	Summer Mae Plus Size Diamond Blouson Plus Size Swimwear Tankini US 8-10	New	19.99	No		Yes	2	0	2	0	2	0.13	0	0	0
+YZ-ZQSG16121R0L	X0018XU41J	B01MEH1KL4	Summer Mae Plus Size Diamond Blouson Plus Size Swimwear Tankini US 8-10	New	19.99	No		Yes	0	0	0	0	0	0.13	0	0	0
 YZ-ZQSG16124Y02XL	X0017P0PCL	B01J7R97LE	Summer Mae Plus Size Yellow Floral Print Blouson Plus Size Swimwear Tankini	New	39.99	No		Yes	0	0	0	0	0	0.15	0	0	0
 YZ-ZQSG16124Y0L	X0017PR8GR	B01J7R90RU	Summer Mae Plus Size Yellow Floral Print Blouson Plus Size Swimwear Tankini	New	39.99	No		Yes	0	0	0	0	0	0.15	0	0	0
 YZ-ZQTWA1-K0-2X	X001GBWAYH	B0727W6Q2W	Summer Mae Women's Plus Size Black Striped Two Piece Tankini Push up Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.08	0	0	0
 YZ-ZQTWA1-K0-3X	X001GKYBHR	B0713XLRV4	Summer Mae Women's Plus Size Black Striped Two Piece Tankini Push up Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.08	0	0	0
-YZ-ZQTWA1-K0-4X	X001GKVS19	B0711BYGBJ	Summer Mae Women's Plus Size Black Striped Two Piece Tankini Push up Top & Bottom	New	39.99	No		Yes	10	9	1	0	10	0.08	0	0	0
+YZ-ZQTWA1-K0-4X	X001GKVS19	B0711BYGBJ	Summer Mae Women's Plus Size Black Striped Two Piece Tankini Push up Top & Bottom	New	39.99	No		Yes	9	9	0	0	9	0.08	0	0	0
 YZ-ZQTWA1-K0-5X	X001GKVPP3	B071NMDDC3	Summer Mae Women's Plus Size Black Striped Two Piece Tankini Push up Top & Bottom	New	39.99	No		Yes	0	0	0	0	0	0.08	0	0	0
-YZ-ZQTWA1-K0-M	X001GBKTFT	B072F2P9BN	Summer Mae Women's Plus Size Black Striped Two Piece Tankini Push up Top & Bottom	New	39.99	No		Yes	3	2	1	0	3	0.08	0	0	0
+YZ-ZQTWA1-K0-M	X001GBKTFT	B072F2P9BN	Summer Mae Women's Plus Size Black Striped Two Piece Tankini Push up Top & Bottom	New	39.99	No		Yes	2	2	0	0	2	0.08	0	0	0
 YZ-ZQTWA1-K0-S	X001GTXI9F	B0722NGPT8	Summer Mae Women's Plus Size Black Striped Two Piece Tankini Push up Top & Bottom	New	39.99	No		Yes	4	4	0	0	4	0.08	0	0	0
 YZ-ZQXZ345-G0-L	X001J72Z61	B0743D5KZ6	WOMEN'S BOUTIQUE Summer Mae Women's Deep V-Neck High Cut Cute Floral Green Leaves One Piece Halter Cross Back Swimsuit	New	19.90	No		Yes	2	2	0	0	2	0.13	0	0	0
 YZ-ZQXZ345-G0-S	X001J777OV	B0743CBQYG	WOMEN'S BOUTIQUE Summer Mae Women's Deep V-Neck High Cut Cute Floral Green Leaves One Piece Halter Cross Back Swimsuit	New	19.90	No		Yes	1	1	0	0	1	0	0	0	0
-YZ-ZQXZ345-G0-XL	X001J7JM2L	B0743C6848	Summer Mae Women's Deep V-Neck High Cut Cute Floral Green Leaves One Piece Halter Cross Back Swimsuit	New	19.90	No		Yes	4	4	0	0	4	0	0	0	0
+YZ-ZQXZ345-G0-XL	X001J7JM2L	B0743C6848	Summer Mae Women's Deep V-Neck High Cut Cute Floral Green Leaves One Piece Halter Cross Back Swimsuit	New	19.90	No		Yes	3	3	0	0	3	0	0	0	0
 YZ-ZQZY456-R0-L	X001J777P5	B072N57JLZ	Summer Mae Women's V-Neck Watermelon Print One Piece Swimsuit	New	39.99	No		Yes	3	3	0	0	3	0	0	0	0
 YZ-ZQZY456-R0-M	X001J7784F	B071X8Z4K4	WOMEN'S BOUTIQUE Summer Mae Women's V-Neck Watermelon Print One Piece Swimsuit	New	16.99	No		Yes	5	5	0	0	5	0	0	0	0
 YZ-ZQZY456-R0-S	X001J7K6G7	B0721Q1J3G	WOMEN'S BOUTIQUE Summer Mae Women's V-Neck Watermelon Print One Piece Swimsuit	New	39.99	No		Yes	4	4	0	0	4	0	0	0	0
 YZ-ZQadn1601-B1-L	X001CR30YT	B01MFGOWLQ	Summer Mae Women's Attractive Floral Print One Piece Swimsuit Adjustable Swimwear	New	39.99	No		Yes	1	0	1	0	1	0.04	0	0	0
-YZ-ZQadn1601-B1-M	X001CR3SEL	B01M366E1Z	Summer Mae Women's Attractive Floral Print One Piece Swimsuit Adjustable Swimwear	New	39.99	No		Yes	9	7	1	1	9	0.04	0	0	0
-YZ-ZQadn1601-B1-S	X001CQPSHR	B01M3YW8FW	Summer Mae Women's Attractive Floral Print One Piece Swimsuit Adjustable Swimwear	New	39.99	No		Yes	3	3	0	0	3	0.04	0	0	0
-YZ-ZQadn1601-B1-XL	X001CR3LYX	B01M366JZA	Summer Mae Women's Attractive Floral Print One Piece Swimsuit Adjustable Swimwear	New	39.99	No		Yes	8	7	0	1	8	0.04	0	0	0
+YZ-ZQadn1601-B1-M	X001CR3SEL	B01M366E1Z	Summer Mae Women's Attractive Floral Print One Piece Swimsuit Adjustable Swimwear	New	39.99	No		Yes	8	7	1	0	8	0.04	0	0	0
+YZ-ZQadn1601-B1-S	X001CQPSHR	B01M3YW8FW	Summer Mae Women's Attractive Floral Print One Piece Swimsuit Adjustable Swimwear	New	39.99	No		Yes	2	2	0	0	2	0.04	0	0	0
+YZ-ZQadn1601-B1-XL	X001CR3LYX	B01M366JZA	Summer Mae Women's Attractive Floral Print One Piece Swimsuit Adjustable Swimwear	New	39.99	No		Yes	5	5	0	0	5	0.04	0	0	0

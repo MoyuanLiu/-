@@ -1,7 +1,11 @@
 sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
+KTKXKW0L	X001H79QA1	B073XMFYWX	Women's White Linen Pants Casual Loose Linen Cropped Wide Leg Pants(White,L)	1	0	1	0
 N039YP036	X001J1TFHT	B074K1913X	Women Bras On Sale Purple Sports Cup Bra Purple 36	2	0	0	2
-JBL-QFFMR5XL	X001KB83ET	B073F1HX4C	HuXang Cloth Womens Fold Over Waist Solid Ruffled Flare Palazzo Pants Capris(Pink,XL)	1	0	0	1
-N2716YMH36	X001JBF9AV	B074QFDH8R	ZAIAI Sports Bras For Women Plus Size Rose Red 36	1	0	0	1
-N531YK036	X001J1PW21	B074K4DJKF	Women Bras Nursing Bra Black 34	2	1	1	0
-NK-XUHM001-K0-S	X001O773R7	B078WR3XZL	ZAIAI Boyshort Panties Women Sexy Lace Fun Underwear Briefs Ladies Knickers Womens Triangle Thong Black S	2	0	1	1
-NY-XUHM463-P0-XL	X001QDWYMD	B07BKQDRB2	ZAIAI Women's Lace Bralette Wireless Band Lace Bra Light Purple XL	1	0	0	1
+N039YR036	X001J0VN4X	B074JYMHZL	Women Bras Size Underwire Bra Red 36	1	0	1	0
+N2716YYGL38	X001JBF03H	B074Q9RQFH	ZAIAI Women Bras Comfort Sports Bras For Women Green 38	1	1	0	0
+N2716YR036	X001JBF9B5	B074QGLLQN	ZAIAI Nursing Bras For Women Sports Bra Red 36	2	0	1	1
+N2716YR034	X001JBFKKP	B074QDS9ZN	ZAIAI Womens Yoga Sport Bra For Free Bra Red 34	1	0	0	1
+NY-XUHM002-K0-L	X001QABHXN	B07BKR7DCF	ZAIAI Women's Microfiber Longline Lace Bralette Black L	1	0	1	0
+NY-XUHM002-PI-M	X001QDXKPX	B07BKSWCR3	ZAIAI Women's Microfiber Longline Lace Bralette Pink M	1	1	0	0
+NY-XUHM002-K0-M	X001QB9WZ7	B07BKT1Y4D	ZAIAI Women's Microfiber Longline Lace Bralette Black M	1	1	0	0
+NY-XUHM331-B0-L	X001Q8PKDD	B07BKS4NK1	ZAIAI Women's Comfort Revolution Shaping Wire-Free Bra with Smart Sizes Purple Melange L	3	1	1	1
