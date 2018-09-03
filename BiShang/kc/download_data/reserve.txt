@@ -1,292 +1,313 @@
-sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
-BS-BN-1501-RO-4XL	X000PN3O21	B071XXJL4R	Summer Mae Polo Casual de Manga Corta Camisas Moda para Hombre	1	0	0	1
-BS-BN-1501-GR-3XL	X000PNPNJD	B071Y6DGRB	Summer Mae Polo Casual de Manga Corta Camisas Moda Para Hombre	1	1	0	0
-BS-BN-1501-WO-XL	X000PNK1DV	B071RGNDPC	Summer Mae Polo Casual de Manga Corta Camisas Moda para Hombre	1	1	0	0
-BS-BN-1501-BO-3XL	X000PNK1LN	B06ZY9HV1B	Summer Mae Polo Casual de Manga Corta Camisas Moda Para Hombre	1	0	0	1
-BS-HB3555-KO-L	X000PPXJP1	B06XH5FTSX	Summer Mae Trajes de Baño Triangular Push-up con Dibujo de Concha Bikini para Mujer	1	0	0	1
-BS-MY-1503-W0-2XL	X000PJY3EX	B06W52N684	Summer Mae Traje de Una Pieza Clásico y Elegante para Mujer	1	0	1	0
-BS-HB3555-PI-S	X000OHISX3	B06XH65K15	Summer Mae Trajes de Baño Triangular Push-up con Dibujo de Concha Bikini para Mujer	2	1	0	1
-BS-MY-1503-K0-M	X000PKUOC7	B06VSZVQPR	Summer Mae Traje de Una Pieza Clásico y Elegante para Mujer	1	0	0	1
-BS-HB3555-PI-L	X000OJEZ6F	B06XH78YXT	Summer Mae Trajes de Baño Triangular Push-up con Dibujo de Concha Bikini para Mujer	1	1	0	0
-BS-MY-1503-K0-2XL	X000PISR41	B06WCZXF3W	Summer Mae Traje de Una Pieza Clásico y Elegante para Mujer	1	0	0	1
-BS-MY111-K0-M	X000PLPZW5	B071PFKGTL	Traje de una pieza Sexy Floral Bañador con Volantes para Mujer	1	1	0	0
-BS-MY-1503-W0-M	X000PISR3H	B06WLHGK71	Summer Mae Traje de Una Pieza Clásico y Elegante para Mujer	1	0	1	0
-BS-PW2025-K0-4XL	X000OMAM2N	B06VVBGMWP	Summer Mae Traje de Baño Una Pieza Floreale Bañador Acolchado para Mujer	1	0	0	1
-BS-PW-YH115-M3-M	X000P9LATJ	B071CP42PK	Summer Mae Mujer Encantador Vestir De Gasa Impreso	1	1	0	0
-BS-PW2025-K0-2XL	X000OMAG0B	B06W2JPMW2	Summer Mae Traje de Baño Una Pieza Floreale Bañador Acolchado para Mujer	3	2	1	0
-BS-PW2025-K0-5XL	X000OMANQN	B06X6FZKG9	Summer Mae Traje de Baño Una Pieza Floreale Bañador Acolchado para Mujer	1	0	0	1
-BS-WH0028-W0-L	X000OUUW2Z	B06XRFZ12B	Traje de una pieza Sexy Floral Bañador con Volantes para Mujer	2	0	0	2
-BS-PW2025-K0-L	X000OMAG1P	B06VV32R23	Summer Mae Traje de Baño Una Pieza Floreale Bañador Acolchado para Mujer	1	1	0	0
-BS-WH0028-W0-XL	X000OUZBU3	B06XRDLKQD	Traje de una pieza Sexy Floral Bañador con Volantes para Mujer	1	1	0	0
-BS-WH16032-K0-XL	X000Q3256V	B072JM75ND	Summer Mae Traje de Baño Una Pieza Acanalada Bañador Halter Vendimia Para Mujer	1	0	1	0
-BS-WH17015-C0-L	X000Q1JY7B	B071GTKCRH	Summer Mae Traje de baño Elegante Adelgazante Una Pieza Push up para Mujer	2	0	0	2
-BS-WH17015-C0-XXL	X000Q1JYHB	B071GTJNGZ	Summer Mae Traje de baño Elegante Adelgazante Una Pieza Push up para Mujer	5	1	3	1
-BS-WH16032-ZL-S	X000Q29KDN	B072Q2CBC4	Summer Mae Traje de Baño Una Pieza Acanalada Bañador Halter Vendimia Para Mujer	2	0	0	2
-BS-WH16032-R0-S	X000Q31YDB	B072JM6PWD	Summer Mae Traje de Baño Una Pieza Acanalada Bañador Halter Vendimia Para Mujer	1	0	0	1
-BS-WH17015-K0-XXL	X000Q0HQCH	B0721SPNV9	Summer Mae Traje de baño Elegante Adelgazante Una Pieza Push up para Mujer	1	0	0	1
-BS-WH17015-C0-M	X000Q0092V	B071GTKCRD	Summer Mae Traje de baño Elegante Adelgazante Una Pieza Push up para Mujer	1	0	0	1
-BS-WH16032-P0-L	X000QNH3EF	B072M73KQ8	Summer Mae Traje de Baño Una Pieza Acanalada Bañador Halter Vendimia Para Mujer	1	0	0	1
-BS-WH16032-ZL-L	X000Q29KG5	B072Q4MVDF	Summer Mae Traje de Baño Una Pieza Acanalada Bañador Halter Vendimia Para Mujer	1	0	0	1
-BS-WH17015-C0-XXXL	X000Q1JIDB	B072R4R3Y1	Summer Mae Traje de baño Elegante Adelgazante Una Pieza Push up para Mujer	4	1	1	2
-BS-WH17015-SZ-XXL	X000Q1K2EP	B0721SQ1SP	Summer Mae Traje de baño Elegante Adelgazante Una Pieza Push up para Mujer	1	0	0	1
-BS-WH1731-R0-XL	X000OUZBFD	B06XYN88Q8	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	7	0	1	6
-BS-WH17017-G0-XL	X000QA5RLJ	B0721PTYSL	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	5	0	4	1
-BS-WH17017-B0-L	X000Q0YKIF	B0721PVCKV	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	24	2	22	0
-BS-WH17017-K0-XXXL	X000Q0YUUD	B071X8S6D4	Summer Mae Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	1	0	0	1
-BS-WHBH1704-K0-XL	X000Q01PID	B0734VZ32T	Summer Mae Tankini Floral Halter Embarazo Traje de Baño Dos Piezas de Maternidad para Mujer	20	4	16	0
-BS-WH17017-B0-XXXL	X000Q1NXPP	B071KBQNZ5	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	12	0	11	1
-BS-WH17017-G0-M	X000QA54HL	B071KBQJ9V	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	10	0	10	0
-BS-WH1731-K0-M	X000PG5T0N	B06ZYG4ST4	Summer Mae Mujer Traje de Baño 4 Piezas Bikini de Alta Cintura con Volante	7	1	2	4
-BS-WH1731-P0-S	X000QNCUCF	B074TF9ZZ4	Summer Mae Mujer Traje de Baño 8 Piezas Bikini de Alta Cintura con Volante	1	0	0	1
-BS-WHBH1704-K0-3XL	X000Q0260J	B0734S5GHL	Summer Mae Tankini Floral Halter Embarazo Traje de Baño Dos Piezas de Maternidad para Mujer	2	0	0	2
-BS-WH1731-K0-S	X000PKRWZT	B071YC8FZY	Summer Mae Mujer Traje de Baño 3 Piezas Bikini de Alta Cintura con Volante	4	1	3	0
-BS-WH17017-G0-L	X000Q9UY5J	B072KK8C49	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	10	0	10	0
-BS-WH1731-R0-L	X000OUT0VT	B06XZ1KL11	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	1	0	0	1
-BS-WH17017-K0-S	X000Q0YEBN	B0721PV275	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	2	1	0	1
-BS-WH17015-ZL-M	X000Q1JY85	B072N7VJKP	Summer Mae Traje de baño Elegante Adelgazante Una Pieza Push up para Mujer	1	0	1	0
-BS-WH17017-B0-XL	X000Q0267R	B072R2PPXQ	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	10	2	7	1
-BS-WH17017-B0-S	X000Q0YEBD	B0721PV6W2	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	1	0	0	1
-BS-WH17017-G0-S	X000Q9UY59	B071X8SLCH	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	2	0	2	0
-BS-WH17017-B0-M	X000Q24RQD	B071X8SKR8	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	3	0	3	0
-BS-WHBH1704-K0-L	X000Q0093P	B0734T5SPK	Summer Mae Tankini Floral Halter Embarazo Traje de Baño Dos Piezas de Maternidad para Mujer	6	0	2	4
-BS-WH1731-P0-XXL	X000QNCSRH	B074TFZS2G	Summer Mae Mujer Traje de Baño 12 Piezas Bikini de Alta Cintura con Volante	1	0	1	0
-BS-WH1731-K0-XXL	X000PDZMW1	B071YCFJHT	Summer Mae Mujer Traje de Baño 7 Piezas Bikini de Alta Cintura con Volante	8	4	0	4
-BS-WH17017-G0-XXL	X000Q9VNKT	B071X8SH7Y	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	4	0	2	2
-BS-WH17017-B0-XXL	X000Q0HQBN	B072R2RYSM	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	19	6	11	2
-BS-WH1731-P0-XL	X000QNCM6T	B074TCM5BV	Summer Mae Mujer Traje de Baño 11 Piezas Bikini de Alta Cintura con Volante	1	0	0	1
-BS-WH1731-K0-L	X000PG63PX	B071RBF645	Summer Mae Mujer Traje de Baño 5 Piezas Bikini de Alta Cintura con Volante	9	2	1	6
-BS-WH1731-K0-XL	X000PDZO0V	B06ZXW62V9	Summer Mae Mujer Traje de Baño 6 Piezas Bikini de Alta Cintura con Volante	7	1	2	4
-BS-WH17017-K0-L	X000Q0YEGN	B071GQQD7Y	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	27	6	18	3
-BS-WH17017-K0-M	X000Q24POR	B071X8SHY6	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	3	1	1	1
-BS-WH17017-G0-XXXL	X000Q69S3L	B071KBQJB1	Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	5	1	2	2
-BS-WH1731-R0-XXL	X000OW9BNT	B06XZ13X21	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	1	0	0	1
-BS-WH1731-R0-S	X000OUZ9ZZ	B06XZ27GZV	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	15	0	11	4
-BS-WHBH1704-K0-M	X000Q01PJH	B0734QXT7Q	Summer Mae Tankini Floral Halter Embarazo Traje de Baño Dos Piezas de Maternidad para Mujer	7	0	6	1
-BS-WH1731-P0-L	X000QNCSV3	B074TFT5SG	Summer Mae Mujer Traje de Baño 10 Piezas Bikini de Alta Cintura con Volante	2	1	0	1
-BS-WH17017-K0-XXL	X000Q253DT	B071X8SL2L	Summer Mae Traje de baño de Una Pieza Elegante Push up Cuello Halter para Mujer	9	3	1	5
-BS-WH1731-R0-M	X000OW4GG1	B06XYZ3CBT	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	22	2	19	1
-BS-WHC19-W0-M	X000Q4NNJ3	B072C4YPV8	Summer Mae Bandeau Bañador de Dos Pieza Retorcido Bikini Set Hálter Brasileño para Mujer	1	0	1	0
-BS-WHC19-R0-XL	X000Q45FU3	B072LX6J94	Summer Mae Bandeau Bañador de Dos Pieza Retorcido Bikini Set Hálter Brasileño para Mujer	1	0	0	1
-BS-WHC19-W0-S	X000Q6ADAX	B072FQR5MZ	Summer Mae Bandeau Bañador de Dos Pieza Retorcido Bikini Set Hálter Brasileño para Mujer	1	0	0	1
-BS-WHC19-R0-L	X000Q4XTEH	B071LPLLF4	Summer Mae Bandeau Bañador de Dos Pieza Retorcido Bikini Set Hálter Brasileño para Mujer	1	0	1	0
-CS-LY170-G912-M	X000PYEMVR	B073PPNNCM	Mocotono Camisa para Hombre Color Sólido Oxford Manga Corta Botón de Abajo	1	0	1	0
-CS-LY166-B28-3-L	X000R4M73F	B072LTDBVG	Mocotono Camisa de Franela de Cuadros Casual Manga Larga y Cuello Abotonado para Hombre Azul Marino/Blanco/Azul L	2	0	0	2
-CS-LY166-B28-5-L	X000R5BCHV	B071P6G6FV	Mocotono Camisa de Franela de Cuadros Casual Manga Larga y Cuello Abotonado para Hombre Castaña/Blanco/Azul L	1	0	0	1
-CS-LY166-K33-4-L	X000R41ER5	B072PQWBGT	Mocotono Camisa de Franela de Cuadros Casual Manga Larga y Cuello Abotonado para Hombre Blanco/Azul L	1	0	0	1
-CS-LY166-B28-1-L	X000R5B8Y3	B0719P8HYH	Mocotono Camisa de Franela de Cuadros Casual Manga Larga y Cuello Abotonado para Hombre Rojo/Blanco/Azul L	1	0	0	1
-CS-LY166-K73-2-XL	X000R4SDYR	B072LTDQRC	Mocotono Camisa de Franela de Cuadros Casual Manga Larga y Cuello Abotonado para Hombre Blanco/Negro XL	1	0	0	1
-CS-LY166-K33-4-M	X000R41EYD	B0711XBC78	Mocotono Camisa de Franela de Cuadros Casual Manga Larga y Cuello Abotonado para Hombre Blanco/Azul M	1	0	0	1
-CS-LY170-LG907-XXL	X000PZ0RAV	B073PQFZ61	Mocotono Camisa para Hombre Color Sólido Oxford Manga Corta Botón de Abajo	3	0	2	1
-CS-LY171-ZL918-L	X000PYEMO9	B073PPB8RP	Mocotono Camisa Casual para Hombre Manga Larga Botón de Abajo Calce Regular con Bolsillo	2	0	0	2
-CS-LY170-Sa911-XL	X000PZ0KUN	B073PPYPXZ	Mocotono Camisa para Hombre Color Sólido Oxford Manga Corta Botón de Abajo	3	1	1	1
-CS-LY170-W902-XXL	X000PZ0KUX	B073PQQCK8	Mocotono Camisa para Hombre Color Sólido Oxford Manga Corta Botón de Abajo	4	0	0	4
-CS-LY171-LB916-L	X000PYEMXP	B073PQ7JKT	Mocotono Camisa Casual para Hombre Manga Larga Botón de Abajo Calce Regular con Bolsillo	1	0	0	1
-CS-LY170-WR917-XL	X000PYEMI5	B073PPP5ZG	Mocotono Camisa para Hombre Color Sólido Oxford Manga Corta Botón de Abajo	1	0	0	1
-CS-LY170-W902-L	X000PZ0LYN	B0788MPWXH	Mocotono 2001	1	0	0	1
-CS-LY170-PI908-XXL	X000PZ0LZ7	B073PPMWTH	Mocotono Camisa para Hombre Color Sólido Oxford Manga Corta Botón de Abajo	2	0	1	1
-CS-LY170-WR917-L	X000PYEMIF	B073PPT6WC	Mocotono Camisa para Hombre Color Sólido Oxford Manga Corta Botón de Abajo	1	1	0	0
-CS-LY170-Sa911-L	X000PYPAIB	B073PPTVHP	Mocotono Camisa para Hombre Color Sólido Oxford Manga Corta Botón de Abajo	1	1	0	0
-CS-LY170-LG907-XL	X000PYPAIL	B073PPJQP3	Mocotono Camisa para Hombre Color Sólido Oxford Manga Corta Botón de Abajo	2	1	1	0
-CS-LY170-PI908-L	X000PYB2JR	B073PPM5HW	Mocotono Camisa para Hombre Color Sólido Oxford Manga Corta Botón de Abajo	2	1	0	1
-CS-LY170-LG907-M	X000PYPAIV	B073PP2K9L	Mocotono Camisa para Hombre Color Sólido Oxford Manga Corta Botón de Abajo	6	0	6	0
-CS-LY170-W902-M	X000PYB2IX	B073PQ4WFY	Mocotono Camisa para Hombre Color Sólido Oxford Manga Corta Botón de Abajo	1	1	0	0
-CS-SB010-WT-2	X000QZA5WP	B0755C5MTD	Mocotono Camisa Vestida Unicolor de Manga Larga para Hombre Blanco M	3	0	0	3
-CS-SB030-YL-L	B078W14YQ1	B078W14YQ1	Mocotono Camisa de Manga Corta Clásica para Hombre Color Sólido, L Amarillo	1	0	1	0
-CS-LY181-WR917-M	X000PZ0S3R	B073PPHCN1	Mocotono Camisa Casual para Hombre 100% Algodón Oxford Manga Larga	1	0	0	1
-CS-SB030-GR-L	B078W1JJNK	B078W1JJNK	Mocotono Camisa de Manga Corta Clásica Para Hombre Color Sólido, L Gris	1	0	1	0
-EUTK-J02H-SH-2T	X000RCMVGP	B075TVV3BY	Chaqueta para Niño con Capucha Forrado Polar 2-16 Años	1	0	0	1
-EUTK-J01H-GR-18/20	X000RCMVSX	B075TPFKX6	Chaqueta para Niño con Capucha Forrado Polar 2-16 Años	1	0	0	1
-KZ-CSM073-N5-30	B077187SV2	B077187SV2	Mocotono Pantalones Chino de Pana Ajuste Recto Hombre	1	0	0	1
-LYQ-BS-K1010-K0-S	X000NG4573	B01KO0SAIE	Summer Mae Mujer Vestido Ocasional De Ajuste Del Cordón	1	1	0	0
-LYQ-BS-K1010-N0-XL	X000NI96E3	B01M7NHI4J	Summer Mae Mujer Vestido Ocasional De Ajuste Del Cordón	7	0	7	0
-LYQ-BS-K1010-B0-XL	X000NG1TXL	B01MDUDF3T	Summer Mae Mujer Vestido Ocasional De Ajuste Del Cordón	1	0	1	0
-LYQ-BS-K1010-G7-2X	X000NJP7TZ	B01MS11ABV	Summer Mae Mujer Vestido Ocasional De Ajuste Del Cordón	1	0	0	1
-LYQ-BS-K1010-K0-L	X000NIARN7	B01KO0SCAA	Summer Mae Mujer Vestido Ocasional De Ajuste Del Cordón	3	0	3	0
-LYQ-BS-K1010-B0-S	X000NIARMD	B01M5JCF70	Summer Mae Mujer Vestido Ocasional De Ajuste Del Cordón	2	1	0	1
-LYQ-BS-K1010-K0-XL	X000NIBCWH	B01KO0SDBI	Summer Mae Mujer Vestido Ocasional De Ajuste Del Cordón	1	0	0	1
-LYQ-BS-K1010-KQ-M	X000NH5YLX	B01N2YLI1M	Summer Mae Mujer Vestido Ocasional De Ajuste Del Cordón	1	0	1	0
-LYQ-BS-YH115-R0XL	X000NQLJN1	B01N4BNIHP	Summer Mae Mujer Encantador Vestir De Gasa Impreso	1	0	0	1
-LYQ-BS-K1010-W0-XS	X000NI8JL9	B01KO0S9JO	Summer Mae Mujer Vestido Ocasional De Ajuste Del Cordón	1	1	0	0
-LYQ-BS-K1010-W0-XL	X000NI8NP1	B01KO0SDZY	Summer Mae Mujer Vestido Ocasional De Ajuste Del Cordón	1	0	0	1
-LYQ-BS-MX02-N0-XL	X000R8PV0H	B0761RYHM5	Summer Mae Vestido Corto Ocasional de la Camiseta Manga Farol Mujer	1	0	0	1
-LYQ-BS-K1010-W0-L	X000NI3EUF	B01KO0SCQE	Summer Mae Mujer Vestido Ocasional De Ajuste Del Cordón	1	1	0	0
-LYQ-BS-TW03-B0-XL	X000R86ZHF	B0761SH5JQ	Summer Mae Vestido Ocasional de la Camiseta a Rayas Pin up Mujer	3	1	1	1
-LYQ-BS-TW03-K0-XXL	X000R8PWF1	B0761RCNCJ	Summer Mae Vestido Ocasional de la Camiseta a Rayas Pin up Mujer	3	2	1	0
-LYQ-CSM048-G0-L	X000QNCSVD	B074P1GP2V	Summer Mae Mujer Jersey Invierno Suéter Largo Mangas Largas Vestido Corto Elegante	1	0	0	1
-LYQ-BS4600-G1-L	X000NM0YBX	B01N78VJ9M	Summer Mae Mujer Camisetas Empalme - T-SHIRT Vestir MINI	3	0	2	1
-LYQ-BS-YY05-ZL-XL	X000R8Q0IT	B0761PC7QN	Summer Mae Vestido Elegante Skater Mangas Largas Talla Alta Mujer	1	1	0	0
-LYQ-BS-ZQ2973-K0-M	X000NKRY4Z	B01N1X2E3G	Summer Mae Mujer Alinear Vestido De Punto	1	0	0	1
-LYQ-BS-ZQ2973-W1-L	X000NMVLW9	B01N65706L	Summer Mae Mujer Alinear Vestido De Punto	1	0	0	1
-LYQ-BS4600-P0-XL	X000PKIW1R	B01N1YL9GO	Summer Mae Mujer Camisetas Empalme - T-SHIRT Vestir MINI	2	0	2	0
-LYQ-BS4600-P0-S	X000PKIW1H	B01N7OGTT9	Summer Mae Mujer Camisetas Empalme - T-SHIRT Vestir MINI	1	0	1	0
-LYQ-BS4600-P0-L	X000PMC0QX	B01N4K9T8X	Summer Mae Mujer Camisetas Empalme - T-SHIRT Vestir MINI	2	0	2	0
-LYQ-BS-ZQ2973-ZL-L	X000NKS9AD	B01N2YM6T1	Summer Mae Mujer Alinear Vestido De Punto	1	0	0	1
-LYQ-BS4600-B0-XS	X000PLPSCR	B01MZ7Y9AO	Summer Mae Mujer Camisetas Empalme - T-SHIRT Vestir MINI	1	0	1	0
-LYQ-CSM048-R0-L	X000QNH4FX	B074P1P1WT	Summer Mae Mujer Jersey Invierno Suéter Largo Mangas Largas Vestido Corto Elegante	1	0	0	1
-LYQ-BS4600-N0-S	X000NNVTMZ	B01N1IYVH5	Summer Mae Mujer Camisetas Empalme - T-SHIRT Vestir MINI	2	0	2	0
-LYQ-EUWH5339-R0-L	X000RDEC5R	B07649SPXT		1	0	1	0
-LYQ-EUWH5339-K0-XL	X000RDDT2J	B07648CNQX		2	1	0	1
-LYQ-EUWH5339-R0-2XL	X000RDDT2T	B0764948PC		1	0	0	1
-LYQ-WH1312-P0-XL	X000QQ8MI3	B074W7NG59	Summer Mae Mujer Jersey Invierno Suéter Largo Mangas Largas Vestido Elegante	3	1	1	1
-LYQ-EUWH5339-R0-M	X000RCJVUJ	B07647ZBYK		1	0	0	1
-MY-SB011-WT-S	B075992BXS	B075992BXS	Mocotono Jersey Básico Cuello en V Manga Larga Hombre	2	1	1	0
-MY-SB020-DG-M	B077XBDKM4	B077XBDKM4	Jersey de Punto Cuello V con Patrón Jacquard Manga Larga para Hombre, M Gris oscuro/Gris	1	1	0	0
-MY-SB019-BL-S	B077XGL33J	B077XGL33J	Jersey de Punto Cuello V con Patrón Jacquard Manga Larga para Hombre, S Azul	1	1	0	0
-RE-YZ-BEBD001-R0-S	B07CM3CK9V	B07CM3CK9V	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	1	0	1	0
-RE-YZ-BEBD001-R0-XL	B07CM1YWXC	B07CM1YWXC	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	3	0	3	0
-RE-YZ-BEBD001-R0-L	B07CM5G41X	B07CM5G41X	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	1	0	0	1
-RE-YZ-BEBD001-R0-XS	B07CM8ZCFY	B07CM8ZCFY	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante, Talla XS	1	0	1	0
-RE-YZ-BELK185-K0-XXL	B07CM42WH3	B07CM42WH3	Summer Mae Traje de Baño una Pieza Sexy Pin up Para Mujer	2	1	1	0
-RE-YZ-BELE001-W0-S	B07CM2B6BD	B07CM2B6BD	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	1	0	0	1
-RE-YZ-BELE001-W0-M	B07CM1GBHS	B07CM1GBHS	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	3	1	1	1
-RE-YZ-BEBD001-R0-M	B07CLYTDDB	B07CLYTDDB	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	3	1	0	2
-RE-YZ-BELE001-W0-XS	B07CLT358V	B07CLT358V	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	1	0	0	1
-RE-YZ-BELE001-W0-XL	B07CLSVW8C	B07CLSVW8C	Summer Mae Mujer Traje de Baño 2 Piezas Bikini de Alta Cintura con Volante	7	0	5	2
-TX-55554-GR-3XL	B078NC7BWX	B078NC7BWX	Camiseta Basica de Manga Corta y Cuello Redondo para Hombre M Gris	1	0	0	1
-TX-55554-PO-3XL	B078NMS9MY	B078NMS9MY	Mocotono Camiseta Basica de Manga Corta y Cuello Redondo para Hombre M Púrpura	1	0	0	1
-TX-55554-BO-3XL	B078NMXNKC	B078NMXNKC	Camiseta Basica de Manga Corta y Cuello Redondo para Hombre M BLU	8	0	0	8
-WQS-BS-BN1504-BO/RO-M	X000QVB5QT	B071NLH6SF	Summer Mae Polo Clasico con Rayas de Manga Larga y Cuello Classico para Hombre S Rojo/Azul	1	0	0	1
-WQS-BN-1503-RO-S	B0788MQ753	B0788MQ753	Mocotono Polo Manga Larga con Cuello Mao Golf Camiseta para Hombre	1	0	1	0
-WQS-BN-1503-WO-2XL	B0788MSRBP	B0788MSRBP	Mocotono Polo Manga Larga con Cuello Mao Golf Camiseta para Hombre	1	0	1	0
-WQS-BS-BN1504-KO-L	X000QVB5Q9	B071VC4T6W	Summer Mae Polo Clasico con Rayas de Manga Larga y Cuello Classico para Hombre M Negro	1	0	0	1
-WQS-BN-1503-GR-XL	B0788KZ4NT	B0788KZ4NT	Mocotono Polo Manga Larga con Cuello Mao Golf Camiseta para Hombre	1	0	0	1
-XZ-BS-HM168-B0-38/39	X000QN9VKJ	B01LZ4BQUZ	Summer Mae Zapatillas Casa Invierno Anti-Deslizante Zapatos Interior Cálido Para Mujeres/Hombres	1	0	0	1
-XZ-BS-2115Pi35	X000QS9KEV	B01LZPAU53	Zapatillas Interior Casa Invierno Caliente para Mujer	1	0	0	1
-XZ-BS-PW-2001-N0-40	X000Q6GGVX	B01NAJ2DY7	Summer Mae Mujer Botas de Nieve de Punto Unidas	2	0	0	2
-XZ-WH150903-GR-3738	X000QZR59B	B075CZ5BNK	Summer Mae Zapatillas de estar Por casa con Bordes del Tejido de Punto y Botón de La bocina Mujer	1	0	1	0
-XZ-BS-YG7223Co4243	X000QS9L8B	B01M0OETK1	Summer Mae Zapatillas Casa Invierno Peluche Para Mujer/Hombre	1	1	0	0
-YZ-BE5506-HS-S	B07CKMRTLZ	B07CKMRTLZ	Summer Mae Racerback Rayado Tankini con Swim Briefs Bañador de dos Piezas para Mujer,Stampa a zigzag bianco nero,S	2	1	1	0
-YZ-BE5506-K0-L	B07CKT5RP1	B07CKT5RP1	Summer Mae Racerback Rayado Tankini con Swim Briefs Bañador de dos Piezas para Mujer,Negro,L	3	0	0	3
-YZ-BE5129-ZLYH-3XL	B07CLV5CTK	B07CLV5CTK	Summer Mae Mujer Talla Grande Traje de 1 Pieza Vestido de Natación con Floral Impreso Azul Marino XXXL	1	0	0	1
-YZ-BEC19P-OR-2XL	B07CN3GQ2Q	B07CN3GQ2Q		1	0	0	1
-YZ-BEC19P-R0-2XL	B07CNBTNYN	B07CNBTNYN		1	0	0	1
-YZ-BEC19P-W0-L	B07CMWBQ87	B07CMWBQ87		3	1	1	1
-YZ-BEC19P-R0-S	B07CMXMLWV	B07CMXMLWV		1	0	0	1
-YZ-BETW32-PI-S	B07C2535TF	B07C2535TF	Summer Mae Sexy Mujer Desmontable Acolchado Recorte Push up Rayas Bikini Conjunto Traje de Baño de dos Piezas,Franja Rosa,S	3	1	1	1
-YZ-BESM807-K0-L	B07BWD1QN3	B07BWD1QN3	Summer Mae Conjunto de Bikinis de dos Piezas Para Mujer Traje de Baño sin Tirantes Wave Point,Negro,L	1	0	1	0
-YZ-BETW32-KTW-XL	B07CBV5V9J	B07CBV5V9J	Summer Mae Sexy Mujer Desmontable Acolchado Recorte Push up Rayas Bikini Conjunto Traje de Baño de dos Piezas,Franja Negro,XL	2	1	1	0
-YZ-BELS1458-K0-5X	B07CMPS1CR	B07CMPS1CR	Summer Mae Mujer Traje de una Pieza Talla Grande con franjas Negro 5XL	1	0	0	1
-YZ-BETW32-PI-L	B07CF83XC5	B07CF83XC5	Summer Mae Sexy Mujer Desmontable Acolchado Recorte Push up Rayas Bikini Conjunto Traje de Baño de dos Piezas,Franja Rosa,L	1	1	0	0
-YZ-BELS1458-K0-6X	B07CMX49C7	B07CMX49C7	Summer Mae Mujer Traje de una Pieza Talla Grande con franjas Negro 6XL	1	0	0	1
-YZ-BS-5505DaXL	X000NJNHDN	B0154PQ95K	Summer Mae Mujer Bañador A Rayas Trajes de dos pieza Con falda	4	1	0	3
-YZ-BEYF181-G0-S	B07BNB2LLD	B07BNB2LLD	Traje de Baño Premamá Tankini Floral Halterneck para Mujer	5	0	5	0
-YZ-BS-1580-K0-M	X000NI6SE9	B01NBES3YP	Summer Mae Mujer Vestido Gedrucktes Barock	2	1	1	0
-YZ-BEYF182-R0-XL	B07BF4G3QR	B07BF4G3QR	Traje de Baño Premamá Tankini Floral Halterneck para Mujer	1	0	0	1
-YZ-BEYF181-G0-L	B07BN88HNY	B07BN88HNY	Traje de Baño Premamá Tankini Floral Halterneck para Mujer	4	0	3	1
-YZ-BEYF181-PI-XL	B07BN7LFCJ	B07BN7LFCJ	Traje de Baño Premamá Tankini Floral Halterneck para Mujer	1	0	1	0
-YZ-BEYF181-G0-M	B07BNCRLPT	B07BNCRLPT	Traje de Baño Premamá Tankini Floral Halterneck para Mujer	5	0	5	0
-YZ-BEYF181-PI-XXL	B07BN98371	B07BN98371	Traje de Baño Premamá Tankini Floral Halterneck para Mujer	4	0	4	0
-YZ-BEYF182-R0-S	B07BF7VGLY	B07BF7VGLY	Traje de Baño Premamá Tankini Floral Halterneck para Mujer	1	0	1	0
-YZ-BEYF181-OR-S	B07DPM9HDR	B07DPM9HDR		1	0	0	1
-YZ-BEYF181-B0-XXL	B07CCN4Z6Q	B07CCN4Z6Q	Traje de Baño Premamá Tankini Floral Halterneck para Mujer	4	0	4	0
-YZ-BS-1640-K0-S	X000O8LQ9P	B06XCR9MY5	Summer Mae Mujer Trajes de baño con Cinta Bikini Cabestro	1	0	0	1
-YZ-BEYF182-R0-M	B07BF8D3F3	B07BF8D3F3	Traje de Baño Premamá Tankini Floral Halterneck para Mujer	2	0	2	0
-YZ-BS-5505JRM	X000NJK7HH	B013OSTD70	Summer Mae Mujer Bañador A Rayas Trajes de dos pieza Con falda	2	0	1	1
-YZ-BS-5505DaS	X000NJNHA1	B013OSTD48	Summer Mae Mujer Bañador A Rayas Trajes de dos pieza Con falda	19	1	18	0
-YZ-BS-5505DaXXL	X000NJNHR9	B017JO0OBE	Summer Mae Mujer Bañador A Rayas Trajes de dos pieza Con falda	3	0	1	2
-YZ-BEYF181-G0-XXL	B07BNBSF9V	B07BNBSF9V	Traje de Baño Premamá Tankini Floral Halterneck para Mujer	2	0	2	0
-YZ-BS-1580-NB-L	X000NI6O7P	B01MZZGQF1	Summer Mae Mujer Vestido Gedrucktes Barock	1	0	0	1
-YZ-BS-5505Da0L	X000NK54N3	B013OSTKN2	Summer Mae Mujer Bañador A Rayas Trajes de dos pieza Con falda	3	2	0	1
-YZ-BEYF181-PI-L	B07BNB9CHB	B07BNB9CHB	Traje de Baño Premamá Tankini Floral Halterneck para Mujer	2	0	2	0
-YZ-BS-5505JRXXL	X000NJNHM9	B01C9TE2BW	Summer Mae Mujer Bañador A Rayas Trajes de Dos Pieza con Falda	1	0	0	1
-YZ-BS-BS5119ZLXL5XL	X000NJNHLP	B01FXAQVH2	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	2	1	0	1
-YZ-BS-BS5119ZLXL4XL	X000NM7J9X	B01FXAQTLK	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	6	1	4	1
-YZ-BS-5505K0-M	X000PN9VY1	B071LFK69M	Summer Mae Mujer Bañador A Rayas Trajes de dos pieza Con falda	3	0	2	1
-YZ-BS-BShyl5119-YT-XL	X000MZO74B	B01HFYMW04	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	4	0	3	1
-YZ-BS-BKN1703-R0-L	X000O320B3	B06XCR3R6C	Summer Mae Conjuntos De Bikini - Estribos Doble - Mujer	1	1	0	0
-YZ-BS-BKN1703-R0-XL	X000O2GY39	B06XD91JGL	Summer Mae Conjuntos De Bikini - Estribos Doble - Mujer	1	0	0	1
-YZ-BS-BSLLHTL	X000NJNHJR	B01F3E3MCK	Traje de Baño 1 Pieza Tallas Grandes Cabestro Acolchado Push Up Tankini para Mujer	1	1	0	0
-YZ-BS-BShyl5119-YT-5XL	X000NJ6UWD	B01HFYMWA4	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	1	0	0	1
-YZ-BS-BS5119ZLXLXL	X000NJNHJH	B01FXAQNIO	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	5	0	0	5
-YZ-BS-5505LbXXL	X000NJNHRT	B01G3JERSM	Summer Mae Mujer Bañador A Rayas Trajes de dos pieza Con falda	1	0	0	1
-YZ-BS-BShyl5119-YT-2XL	X000NJNHSN	B01HFYMXUI	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	4	1	1	2
-YZ-BS-5505Lb0XS	X000N6C8P9	B01G3MA2TC	Summer Mae Mujer Bañador A Rayas Trajes de dos pieza Con falda	1	1	0	0
-YZ-BS-BShyl5119-YH-4XL	X000NIV3PD	B01NCSVUOC	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	2	1	0	1
-YZ-BS-HB8631-PI-L	X000NXAWQT	B06WVMNKYJ	Summer Mae Mujer Conjuntos De Bikini Exótico con Volantes	2	1	1	0
-YZ-BS-BShyl5119K0XL	X000NJYD2R	B01EJ5VRJE	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	13	0	10	3
-YZ-BS-BShyl5119-YH-2XL	X000NIV3SF	B01N30QQDJ	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	2	1	0	1
-YZ-BS-BKN1703-R0-M	X000O2GS0X	B06XCXKQP6	Summer Mae Conjuntos De Bikini - Estribos Doble - Mujer	1	0	0	1
-YZ-BS-BSLLHT4XL	X000NIV3RV	B01F3E3RI4	Traje de Baño 1 Pieza Tallas Grandes Cabestro Acolchado Push Up Tankini para Mujer	1	0	0	1
-YZ-BS-BS5119ZLXL3XL	X000NJK7HR	B01FXAQRNK	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	3	0	0	3
-YZ-BS-BSLLHT3XL	X000NIV3S5	B01F3E3PYK	Traje de Baño 1 Pieza Tallas Grandes Cabestro Acolchado Push Up Tankini para Mujer	1	1	0	0
-YZ-BS-BShyl5119-YT-3XL	X000NH5YJP	B01HFYMTRK	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	3	0	1	2
-YZ-BS-BShyl5119K0L	X000NJNHRJ	B01EJ5VPSW	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	6	0	0	6
-YZ-BS-5505K0-2XL	X000PNM6BB	B0711R9KHN	Summer Mae Mujer Bañador A Rayas Trajes de dos pieza Con falda	3	0	0	3
-YZ-BS-BShyl5119K03XL	X000NN1VAF	B01EJ5VUNW	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	15	0	13	2
-YZ-BS-5505K0-XL	X000PN8OQ7	B071VS9Y2M	Summer Mae Mujer Bañador A Rayas Trajes de dos pieza Con falda	1	0	1	0
-YZ-BS-BShyl5119-YH-3XL	X000NLAB17	B01NAQ17N0	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	1	1	0	0
-YZ-BS-BKN1703-R0-S	X000O32DYR	B06XCMWGD1	Summer Mae Conjuntos De Bikini - Estribos Doble - Mujer	1	0	0	1
-YZ-BS-BShyl5119-YT-4XL	X000NJK7FT	B01HFYMV14	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	1	0	0	1
-YZ-BS-BShyl5119K02XL	X000NJL69F	B01EJ5VT60	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	2	1	0	1
-YZ-BS-BShyl5119K0M	X000NH73CL	B01EJ5VO38	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	1	0	0	1
-YZ-BS-BS5119ZLXL2XL	X000NJL69Z	B01FXAQPZK	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	2	0	1	1
-YZ-BS-BSLLITXL	X000NP1M4N	B01G8H8Z4Q	Traje de Baño 1 Pieza Tallas Grandes Cabestro Acolchado Push Up Tankini para Mujer	1	0	0	1
-YZ-BS-BShyl5119-YH-5XL	X000NLAB1H	B01N1Z5YOP	Summer Mae Mujer Traje De Baño De Talla Grande Impresión Una Sola Pieza	3	1	0	2
-YZ-BS-JG2631ZL1L	X000NPKCNF	B0196ETM7M	Summer Mae Mujer Traje De Baño De Una Pieza Rayado Delgado	1	0	1	0
-YZ-BS-HE9007Sa9L	X000NJJWFZ	B01MSMPBNA	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	5	0	5	0
-YZ-BS-HE9008Se8L	X000NJN1UR	B01N1FYI99	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	3	2	1	0
-YZ-BS-HE9007Se2L	X000NJN1VB	B015QZRQKU	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	1	0	0	1
-YZ-BS-HE9007Se4L	X000NJN3ZF	B015QZRRHW	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	13	4	9	0
-YZ-BS-HE9007Sa3L	X000NHHC63	B015QZRO7K	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	3	0	3	0
-YZ-BS-PW2037-G0-S	X000NNCYUV	B06X91MYFM	Summer Mae Mujer Conjuntos De Bikini Elástico Floral Acolchado Con Tejer	1	0	0	1
-YZ-BS-HM1727-Pi-3XL	X000Q7UJZ1	B072LPS556	Summer Mae Traje de baño Una Pieza Impreso Cuello en V Profundo Monokini Bañador para Mujer	4	1	2	1
-YZ-BS-HE9008Se5L	X000NJN3ZP	B015QZRXB2	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	3	2	1	0
-YZ-BS-HE9008Se9L	X000NHKVQV	B01MQJP2YK	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	16	0	14	2
-YZ-BS-HE9007Se9L	X000NJMKYZ	B01N41KO05	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	11	0	11	0
-YZ-BS-HE9007Se7L	X000NJMKZ9	B01N64GO5L	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	2	0	2	0
-YZ-BS-JG2631HSS	X000NH5YL3	B01IOEHO7A	Summer Mae Mujer Traje De Baño De Una Pieza Rayado Delgado	1	0	0	1
-YZ-BS-HE9008Se4L	X000NJL50Z	B015QZRWKO	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	5	1	3	1
-YZ-BS-HE9007Se3L	X000NJL519	B015QZRR2C	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	4	1	3	0
-YZ-BS-HE9007Sa7L	X000NHKVTX	B01N2HHCOA	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	4	0	3	1
-YZ-BS-HE9008Se7L	X000NJMKZJ	B01N94R08T	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	10	0	10	0
-YZ-BS-HE9008Se1L	X000NHKVU7	B015QZRV0U	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	3	0	3	0
-YZ-BS-HE9007Sa4L	X000NJKI49	B015QZROTS	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	5	0	5	0
-YZ-BS-HE9007Sa2L	X000NJL51J	B015QZRNIU	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	1	0	0	1
-YZ-BS-JG2631HSXS	X000NN1VAP	B01IOEHM40	Summer Mae Mujer Traje De Baño De Una Pieza Rayado Delgado	1	0	0	1
-YZ-BS-PW2037-B0-M	X000NOUWY5	B06VV8NP4W	Summer Mae Mujer Conjuntos De Bikini Elástico Floral Acolchado Con Tejer	2	1	0	1
-YZ-BS-JG2631ZL3L	X000NH73DF	B01B184VYA	Summer Mae Mujer Traje De Baño De Una Pieza Rayado Delgado	1	1	0	0
-YZ-BS-HE9007Sa6L	X000NJKHXL	B01N531UTZ	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	1	0	1	0
-YZ-BS-PW2037-G0-L	X000NQM1P1	B06W55JQZM	Summer Mae Mujer Conjuntos De Bikini Elástico Floral Acolchado Con Tejer	1	0	0	1
-YZ-BS-HE9007Se1L	X000NJKHY5	B015QZRQ0U	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	2	0	2	0
-YZ-BS-HE9007Sa5L	X000NJJWIR	B015QZRPHO	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	2	1	1	0
-YZ-BS-HE9008Se3L	X000NJJWJ1	B015QZRW4A	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	3	0	2	1
-YZ-BS-HE9007Se8L	X000NJMKYF	B01N1FYKHR	Summer Mae Mujer Traje De Baño Del Bowknot Impresión Falda Balneario	11	0	1	10
-YZ-BS-PW2049-B0-M	X000NU5RRV	B06WLQZJVT	Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	1	0	0	1
-YZ-BS-TJ1245W0M	X000NU5AYB	B01DLSNA3Q	Summer Mae Mujer Trajes De Baño Dos Pieza Del Tankini	1	0	0	1
-YZ-BS-PW2049-B0-XL	X000NU5RRL	B06X95XX5W	Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	1	1	0	0
-YZ-BS-TJ1245W01L	X000NOYDBN	B01DLSNC8O	Summer Mae Mujer Trajes De Baño Dos Pieza Del Tankini	1	0	0	1
-YZ-BS-ZQ15827R23XL	X000O1IX57	B01N1I2FQM	Summer Mae Mujer Bañador De Una Pieza De Nadar Rizado	1	0	0	1
-YZ-BS1702-GO-L	X000O32FY5	B06XCKLXT3	Summer Mae Traje de una pieza Verde Retro - Bordes Blancos - Mujer	2	0	1	1
-YZ-BS-PW2049-W0-L	X000OMMFKZ	B06X96WTVC	Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	3	0	0	3
-YZ-BS-ZQ15827W0L	X000NJG3WP	B01N97D1BW	Summer Mae Mujer Bañador De Una Pieza De Nadar Rizado	2	1	1	0
-YZ-BS-ZQ15827R2M	X000NJPZAB	B01MYPI0MO	Summer Mae Mujer Bañador De Una Pieza De Nadar Rizado	1	0	0	1
-YZ-BS-TJ1245W03L	X000NZT6WN	B01J71HSAC	Summer Mae Mujer Trajes De Baño Dos Pieza Del Tankini	1	1	0	0
-YZ-BS-TJ1245G0L	X000O5XYHF	B01DLSNDZG	Summer Mae Mujer Trajes De Baño Dos Pieza Del Tankini	1	1	0	0
-YZ-BS-PW2049-B0-S	X000NU5Z5P	B06X96LPDF	Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	1	0	0	1
-YZ-BS-ZQ15827R22XL	X000NSGGTB	B01NA8WWYY	Summer Mae Mujer Bañador De Una Pieza De Nadar Rizado	1	0	0	1
-YZ-BS1702-GO-XL	X000O2GS0N	B06XCS2MZG	Summer Mae Traje de una pieza Verde Retro - Bordes Blancos - Mujer	1	0	0	1
-YZ-BS-ZQ15827W02XL	X000O9N5BB	B01N97D0MU	Summer Mae Mujer Bañador De Una Pieza De Nadar Rizado	1	1	0	0
-YZ-BS-PW2049-GR-XL	X000NTRZE5	B06VY9752S	Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	1	1	0	0
-YZ-BS-ZQ15827W0S	X000NJQ3TX	B01MTQA4QN	Summer Mae Mujer Bañador De Una Pieza De Nadar Rizado	1	1	0	0
-YZ-BS-PW2049-K0-L	X000OC4ZTT	B06WVHHS2T	Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	2	2	0	0
-YZ-BS-ZQ15827R2XL	X000NJQ3TN	B01MTQA2ZW	Summer Mae Mujer Bañador De Una Pieza De Nadar Rizado	2	2	0	0
-YZ-BS-PW2049-GR-M	X000NU5RM1	B06X95ZMP9	Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	1	0	0	1
-YZ-BS-ZQ15827W04XL	X000NJPLA5	B01MYPI112	Summer Mae Mujer Bañador De Una Pieza De Nadar Rizado	1	0	0	1
-YZ-BS1702-GO-S	X000O32DZ1	B06XCXCX8N	Summer Mae Traje de una pieza Verde Retro - Bordes Blancos - Mujer	3	1	2	0
-YZ-BS-PW2037-K0-M	X000NOV64P	B06WGP1G7C	Summer Mae Mujer Conjuntos De Bikini Elástico Floral Acolchado Con Tejer	2	1	0	1
-YZ-BS-PW2049-P0-XL	X000OKCASJ	B06X6MJLNF	Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	1	0	0	1
-YZ-BS-TJ124500L	X000O3TGZ1	B01DLSN9BY	Summer Mae Mujer Trajes De Baño Dos Pieza Del Tankini	2	1	1	0
-YZ-BS-PW2049-W0-M	X000OMMKHN	B06WD8P5V4	Summer Mae Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	1	1	0	0
-YZ-BS-PW2049-W0-S	X000OHCDOX	B06X1FT589	Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	1	0	0	1
-YZ-BS-ZQ15827W03XL	X000NSGGB9	B01MYPHZU8	Summer Mae Mujer Bañador De Una Pieza De Nadar Rizado	1	0	0	1
-YZ-BS-TJ1245W02L	X000NOYDHR	B01J71HR3U	Summer Mae Mujer Trajes De Baño Dos Pieza Del Tankini	1	0	0	1
-YZ-BS-PW2049-K0-S	X000O8A691	B06X95DMXZ	Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	3	1	1	1
-YZ-BS-PW2049-P0-L	X000OHPYRB	B06X41M8ZH	Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	1	0	0	1
-YZ-BS-PW2049-B0-L	X000NU5RMB	B06W5KXHW2	Bikini Push Up Traje de Baño Dos Piezas Alto Cintura para Mujer	1	0	1	0
-YZ-CSM022-W0-XL	X000Q8WRPF	B073XJD7W7	Summer Mae Bañador Deep V-Neck Backless Halter de Color Sólido Monokini para Mujer	1	0	0	1
-YZ-CSM022-B0-L	X000Q8GSQJ	B073XKFSWD	Summer Mae Bañador Deep V-Neck Backless Halter de Color Sólido Monokini para Mujer	1	0	0	1
-YZ-CSM022-B0-S	X000Q8GQ9D	B073XHJPTV	Summer Mae Bañador Deep V-Neck Backless Halter de Color Sólido Monokini para Mujer	1	0	0	1
-YZ-CSM022-W0-M	X000Q8GSK5	B073XKCCRR	Summer Mae Bañador Deep V-Neck Backless Halter de Color Sólido Monokini para Mujer	1	0	0	1
-YZ-CSM022-W0-S	X000Q8GSKF	B073XJVJVL	Summer Mae Bañador Deep V-Neck Backless Halter de Color Sólido Monokini para Mujer	1	0	0	1
-YZ-MU5506-HS-S	B07CKMRTLZ	B07CKMRTLZ	Summer Mae Racerback Rayado Tankini con Swim Briefs Bañador de dos Piezas para Mujer,Stampa a zigzag bianco nero,S	2	1	1	0
-YZ-MU5506-K0-L	B07CKT5RP1	B07CKT5RP1	Summer Mae Racerback Rayado Tankini con Swim Briefs Bañador de dos Piezas para Mujer,Negro,L	3	0	0	3
+Merchant SKU	Fulfillment Network SKU	ASIN	Title	Reserved Quantity	Reserved: Customer Order	Reserved: FC Transfer	Reserved: FC Processing
+BS-BN-1501-RO-4XL	X000PN3O21	B071XXJL4R	Summer Mae Polo Elégant à Col Mao avec Bordure Blanche pour Homme 2XL Rouge	1	0	0	1
+BS-BN-1501-GR-2XL	X000PN3O7L	B071N9PNNJ	Summer Mae Polo Elégant à Col Mao avec Bordure Blanche pour Homme L Gris	1	0	0	1
+BS-MY-1503-W0-3XL	X000PISR5P	B06WCZWPKW	Summer Mae Women's One Piece Push up Slim Swimsuit Bathing Swimwear	1	1	0	0
+BS-MY-1503-W0-XL	X000PILF3L	B06WGM4MNC	Summer Mae Women's One Piece Push Up Slim Swimsuit Bathing Swimwear White UK 12	1	0	0	1
+BS-HB3555-PI-S	X000OHISX3	B06XH65K15	Summer Mae Women's Triangle Push Up Bikini Set with a Shell Design	1	1	0	0
+BS-MY-1503-K0-3XL	X000PJY3H5	B06VT64ZXD	Summer Mae Women's One Piece Push up Slim Swimsuit Bathing Swimwear	1	0	0	1
+BS-MY-1503-W0-M	X000PISR3H	B06WLHGK71	Summer Mae Women's One Piece Push up Slim Swimsuit Bathing Swimwear	2	1	1	0
+BS-WH0028-W0-S	X000OUNGCN	B06XRVXFVD	Summer Mae Women One Piece Off-shoulder Vintage Volants Front Swimwear Swimming Costume	1	0	0	1
+BS-WH0028-W0-L	X000OUUW2Z	B06XRFZ12B	Summer Mae Women One Piece Off-shoulder Vintage Volants Front Swimwear Swimming Costume	2	0	0	2
+BS-WH0028-W0-M	X000OUUW2P	B06XRNB58K	Summer Mae Women One Piece Off-shoulder Vintage Volants Front Swimwear Swimming Costume	1	0	0	1
+BS-WH16032-K0-XL	X000Q3256V	B072JM75ND	Summer Mae Women's Tank Ruched Tummy Control One Piece Swimsuit	1	0	0	1
+BS-WH17015-C0-XXL	X000Q1JYHB	B071GTJNGZ	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	0	0	1
+BS-WH17015-B0-L	X000Q1JYHV	B072R5SZPS	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	0	1	0
+BS-WH17015-K0-L	X000Q1JID1	B072R4R3XN	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	0	0	1
+BS-WH17015-SZ-XXL	X000Q1K2EP	B0721SQ1SP	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	0	0	1
+BS-WH1731-R0-XL	X000OUZBFD	B06XYN88Q8	Summer Mae Women's Falbala High Waited Swimming Costume Bikini Set	2	0	0	2
+BS-WHBH1704-K0-XL	X000Q01PID	B0734VZ32T	Summer Mae Women's Maternity Pregnancy Halter Printed Padding Tankini Swimsuit	1	0	0	1
+BS-WH17017-B0-XXXL	X000Q1NXPP	B071KBQNZ5	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	4	0	3	1
+BS-WH81677-B0-M	X000Q6AD4T	B072KH1VV2	Summer Mae Women's Retro Printed Two Piece Padded Swimming Costume Tankini Set With Shorts	1	0	0	1
+BS-WHBH1704-K0-3XL	X000Q0260J	B0734S5GHL	Summer Mae Women's Maternity Pregnancy Halter Printed Padding Tankini Swimsuit, XXX-Large	2	0	2	0
+BS-WH17017-G0-L	X000Q9UY5J	B072KK8C49	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	2	0	0	2
+BS-WH17017-B0-S	X000Q0YEBD	B0721PV6W2	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	1	0	0	1
+BS-WH81677-Y0-M	X000Q5PWYV	B071GNGKZ9	Summer Mae Women's Retro Printed Two Piece Padded Swimming Costume Tankini Set with Shorts	1	0	0	1
+BS-WH1731-K0-XXL	X000PDZMW1	B071YCFJHT	Summer Mae Women's Falbala High Waited Swimming Costume Bikini Set	1	0	1	0
+BS-WH17017-B0-XXL	X000Q0HQBN	B072R2RYSM	Summer Mae Women's Tummy Control One Piece Swimwear Deep V Backless Push up Swimming Costume	1	0	0	1
+BS-WH17015-ZL-XL	X000Q0HQC7	B0721SQBVN	Summer Mae Women's Ruched One Piece Bathing Suit Halterneck Swimming Costume	1	1	0	0
+BS-WH1731-K0-L	X000PG63PX	B071RBF645	Summer Mae Women's Falbala High Waited Swimming Costume Bikini Set	3	0	0	3
+BS-WH1731-K0-XL	X000PDZO0V	B06ZXW62V9	Summer Mae Women's Falbala High Waited Swimming Costume Bikini Set	2	0	0	2
+BS-WH1731-R0-XXL	X000OW9BNT	B06XZ13X21	Summer Mae Women's Falbala High Waited Swimming Costume Bikini Set	4	0	0	4
+BS-WH1731-R0-S	X000OUZ9ZZ	B06XZ27GZV	Summer Mae Women's Falbala High Waited Swimming Costume Bikini Set	1	0	0	1
+BS-WHBH1704-K0-M	X000Q01PJH	B0734QXT7Q	Summer Mae Women's Maternity Pregnancy Halter Printed Padding Tankini Swimsuit Medium	3	0	1	2
+CFY-BESB1757-GN-M	B079DJYW2N	B079DJYW2N	Mocotono Men's Jackets Waterproof Windbreaker Softshell Fleece Coat Green M	1	0	0	1
+BS-WHC19-R0-M	X000Q45FUD	B071SGP4ZN	Summer Mae Women's Two Pieces Bikini Set Twist Bandeau Classical Strapless Swimsuit Red M	2	1	1	0
+CS-BESB032-RD-XXL	B07CC3WQPP	B07CC3WQPP	Men's Short Sleeve Floral Print Button Down Casual Shirt Red XX-Large	1	0	0	1
+CS-LY166-B28-5-XXL	X000R4SDY7	B072J7L4LR	Mocotono Men's Casual Long Sleeve Regular Fit Flannel Plaid Button Down Western Shirts Khaki XX-Large	1	0	0	1
+CS-LY166-B28-1-S	X000R5BCG7	B0711Q8WDR	Mocotono Men's Casual Long Sleeve Regular Fit Flannel Plaid Button Down Western Shirts Muti Plaid Small	1	0	1	0
+CS-LY166-K73-2-L	X000R5BCH1	B0725VLGKV	Mocotono Men's Casual Long Sleeve Regular Fit Flannel Plaid Button Down Western Shirts Black Large	1	0	0	1
+CS-LY166-K73-1-M	X000R4SDXX	B07149VLDC	Mocotono Men's Casual Long Sleeve Regular Fit Flannel Plaid Button Down Western Shirts Red Medium	1	0	0	1
+CS-LY170-ZL918-S	X000PZ0KUD	B073PPTRXC	Mocotono Men's Solid Color Oxford Short Sleeve Button Down Casual Shirt Dark Blue Small	1	0	0	1
+CS-LY171-ZL918-XL	X000PZ1DNB	B073PQCX9Z	100% Cotton Men's Solid Color Oxford Casual Shirt Long Sleeve Regular Fit	1	0	0	1
+CS-LY170-PI908-S	X000PYEMJ9	B073PQMGW1	Mocotono Men's Solid Color Oxford Short Sleeve Button Down Casual Shirt Pink Small	1	0	0	1
+CS-LY181-PI908-XXL	X000PYEMKN	B073PPPDK9	Summer Mae Men's Solid Color 100% Cotton Oxford Long Sleeve Button Down Casual Shirt	1	1	0	0
+EUTK-J02H-GR-18/20	X000RCMWXH	B075TZRMB5	Teenking Boy's Fleece Outdoor Jacket 16-17 Years	1	0	0	1
+EUTK-J02H-GR-14/16	X000RCK9R3	B075TX4639	Teenking Boy's Fleece Outdoor Jacket 14-15 Years	1	0	1	0
+KZ-CSM073-FB-30	B0771D9MF3	B0771D9MF3	Mocotono Herren Corduroy Cotton Trousers Winter Warm Casual Stretch Pants Dark Blue 29	1	0	1	0
+KZ-CSM073-G7-34	B07718HLQD	B07718HLQD	Mocotono Herren Corduroy Cotton Trousers Winter Warm Casual Stretch Pants Army Green 33	2	0	0	2
+KZ-CSM073-FB-32	B07716RGJR	B07716RGJR	Mocotono Herren Corduroy Cotton Trousers Winter Warm Casual Stretch Pants Dark Blue 31	1	0	0	1
+KZ-CSM073-FB-31	B0771D5SFZ	B0771D5SFZ	Mocotono Herren Corduroy Cotton Trousers Winter Warm Casual Stretch Pants Dark Blue 30	3	0	0	3
+KZ-CSM073-G7-31	B0771B3TJ3	B0771B3TJ3	Mocotono Herren Corduroy Cotton Trousers Winter Warm Casual Stretch Pants Army Green 30	1	0	0	1
+KZ-CSM073-K0-30	B07717HGJ2	B07717HGJ2	Mocotono Herren Corduroy Cotton Trousers Winter Warm Casual Stretch Pants Black 29	3	0	0	3
+KZ-CSM073-KQ-42	B0771B3THS	B0771B3THS	Mocotono Herren Corduroy Cotton Trousers Winter Warm Casual Stretch Pants Khaki 40	1	0	0	1
+KZ-CSM073-N5-35	B0771QRD74	B0771QRD74	Mocotono Herren Corduroy Cotton Trousers Winter Warm Casual Stretch Pants Coffee 34	2	0	0	2
+KZ-CSM073-G7-30	B0771CQ6J5	B0771CQ6J5	Mocotono Herren Corduroy Cotton Trousers Winter Warm Casual Stretch Pants Army Green 29	2	0	0	2
+KZ-CSM073-BE-31	B077198ZKV	B077198ZKV	Mocotono Herren Corduroy Cotton Trousers Winter Warm Casual Stretch Pants Beige 30	1	0	0	1
+KZ-CSM073-N5-32	B07718J21H	B07718J21H	Mocotono Herren Corduroy Cotton Trousers Winter Warm Casual Stretch Pants Coffee 31	2	0	0	2
+LYQ-BS-1010-P0-XL	X000NI8NPB	B01BCZBKJ6	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	32	0	0	32
+LYQ-BS-1010-P0-L	X000NICQPT	B017X47WOW	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	39	0	0	39
+LYQ-BS-K1010-G7-XS	X000NJYUV1	B01MS11C7L	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	15	0	0	15
+LYQ-BS-CS04-G0-S	X000R87C1N	B0761RR9KT	Summer Mae Women Long Sleeve Pockets Casual Swing T-Shirt Dresses UK 8 Army Green	1	0	0	1
+LYQ-BS-K1010-B0-XS	X000NIDB8Z	B01M7XMBP9	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	15	0	0	15
+LYQ-BS-K1010-N0-S	X000NICQQN	B01M59530X	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	19	0	0	19
+LYQ-BS-HM1205-BR-M	X000NM1S45	B01N0H284O	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	2	0	0	2
+LYQ-BS-K1010-K0-S	X000NG4573	B01KO0SAIE	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	0	1
+LYQ-BS-CS04-G0-2XL	X000R87C1X	B0761SXVQM	Summer Mae Women Long Sleeve Pockets Casual Swing T-Shirt Dresses UK 16 Army Green	1	0	0	1
+LYQ-BS-K1010-P0-XS	X000NI8NKV	B017X47TA4	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	21	0	0	21
+LYQ-BS-K1010-N0-M	X000NI8JKZ	B01M22DT7M	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	14	0	0	14
+LYQ-BS-K1010-N0-XL	X000NI96E3	B01M7NHI4J	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	10	0	0	10
+LYQ-BS-K1010-K0-2X	X000NI8NOH	B01LAURHU4	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	2	0	0	2
+LYQ-BS-K1010-P0-M	X000NIARM3	B017X47VLQ	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	21	0	0	21
+LYQ-BS-K1010-N0-XS	X000NI3ETV	B01M22DUD3	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	5	0	0	5
+LYQ-BS-K1010-N0-2X	X000NI3ETL	B01M6UNN0N	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	2	0	0	2
+LYQ-BS-HM1205-W0-S	X000NL6PKD	B01N0H26RV	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	1	0	0	1
+LYQ-BS-HM1205-BR-S	X000NPJHN1	B01MRNMWMM	Summer Mae Women's Lace Up Front V Neck Long Sleeve Knit Sweater Dress Top	2	0	0	2
+LYQ-BS-K1010-B0-2X	X000NG1TX1	B01M2CJRHO	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	8	0	0	8
+LYQ-BS-K1010-N0-L	X000NG1TWR	B01M59507R	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	10	0	0	10
+LYQ-BS-K1010-G7-2X	X000NJP7TZ	B01MS11ABV	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	5	0	0	5
+LYQ-BS-K1010-G0-XS	X000NIARMX	B01MQPQALH	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	13	0	0	13
+LYQ-BS-K1010-G0-XL	X000NI8TLJ	B01N1LZPE7	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	23	0	0	23
+LYQ-BS-K1010-K0-L	X000NIARN7	B01KO0SCAA	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	3	0	0	3
+LYQ-BS-K1010-P0-S	X000NI8TL9	B017X47UK8	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	12	0	0	12
+LYQ-BS-K1010-B0-S	X000NIARMD	B01M5JCF70	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	1	0	0
+LYQ-BS-K1010-G7-M	X000NI8NPL	B01MS11D3B	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	0	1
+LYQ-BS-K1010-G0-S	X000NI96ED	B06XZ3WZ4S	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	2	0	0	2
+LYQ-BS-K1010-G0-M	X000NI8TNR	B01MQPQHB5	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	12	0	0	12
+LYQ-BS-K1010-P0-2X	X000NI8TNH	B01LAURFZ6	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	12	0	0	12
+LYQ-BS-K1010-K0-XL	X000NIBCWH	B01KO0SDBI	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	2	1	0	1
+LYQ-BS-K1010-KQ-S	X000NLAB1R	B06XZ2GBMX	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	0	1
+LYQ-BS-K1010-KQ-2X	X000NIV3SP	B01N1X1M4J	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	0	1
+LYQ-BS-MX02-R0-XL	X000R876HN	B0761R5WJ7	Summer Mae Women Casual Tunic Dress Long Sleeve Bell-Sleeve Flare Dress Red XL	1	0	0	1
+LYQ-BS-K1010-W0-S	X000NICQQX	B01KO0SAKM	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	1	0	0
+LYQ-BS-LB01-K0-L	X000R871H3	B0761RR9NT	Summer Mae Women Polo Neck Casual Bell Sleeve Swing Smock Dress Long Sleeve Trumpet Sleeves Black L	2	0	0	2
+LYQ-BS-LB01-Wi-XL	X000R8HSOT	B0761TDM34	Summer Mae Women Polo Neck Casual Bell Sleeve Swing Smock Dress Long Sleeve Trumpet Sleeves Dark Red XL	1	0	0	1
+LYQ-BS-K1010-Z0-2X	X000NICQQD	B06XYRGGZJ	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	2	0	0	2
+LYQ-BS-K1010-Z0-M	X000NJ6UUZ	B01MZYYG9U	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	1	0	0	1
+LYQ-BS-MX02-P0-L	X000R8BCEL	B0761RC5D7	Summer Mae Women Casual Tunic Dress Long Sleeve Bell-Sleeve Flare Dress Purple L	2	0	0	2
+LYQ-BS-MX02-K0-L	X000R86ZVB	B0761S22ZS	Summer Mae Women Casual Tunic Dress Long Sleeve Bell-Sleeve Flare Dress Black L	1	0	0	1
+LYQ-BS-K1010-R0-L	X000O7DATP	B06XYQKYNP	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	4	0	0	4
+LYQ-BS-K1010-Z0-L	X000NIARMN	B01NCE22FH	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	11	0	0	11
+LYQ-BS-K1010-R0-XS	X000O1KWZL	B01N5J3B2Z	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	2	0	0	2
+LYQ-BS-TW03-K0-S	X000R86Z6L	B0761R3ZRD	Summer Mae Women Tunic Swing T-Shirt Dress Long Sleeve Striped Dress Black S	1	0	0	1
+LYQ-BS-TW03-B0-XL	X000R86ZHF	B0761SH5JQ	Summer Mae Women Tunic Swing T-Shirt Dress Long Sleeve Striped Dress Dark Blue XL	1	0	0	1
+LYQ-BS-K1010-Z0-XS	X000NICQQ3	B06XZ37ZL7	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	4	0	0	4
+LYQ-BS-LB01-K0-S	X000R86QND	B0761RMNH4	Summer Mae Women Polo Neck Casual Bell Sleeve Swing Smock Dress Long Sleeve Trumpet Sleeves Black S	1	0	0	1
+LYQ-BS-TW03-K0-XXL	X000R8PWF1	B0761RCNCJ	Summer Mae Women Tunic Swing T-Shirt Dress Long Sleeve Striped Dress Black XXL	1	0	0	1
+LYQ-BS-K1010-Z0-S	X000NI8TN7	B01N0KISRL	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	19	0	0	19
+LYQ-BS-K1010-Z0-XL	X000NIBCW7	B01N7BWCPD	Summer Mae Women's Long Sleeve A-line Lace Stitching Trim Casual Dress	5	0	0	5
+LYQ-CSM048-G0-L	X000QNCSVD	B074P1GP2V	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	2	0	0	2
+LYQ-CSM048-ZL-S	X000QN8VLJ	B074NZSNZ4	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	1	0	0	1
+LYQ-BS-ZQ2973-E0-M	X000N2UGKH	B01N53S23K	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	4	0	0	4
+LYQ-BS-ZQ2973-MH-L	X000NKRY5J	B01NCQT6ZF	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	2	0	0	2
+LYQ-BS4600-P0-M	X000PM7GFD	B01N4K9SIU	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Purple M	1	0	0	1
+LYQ-CSM048-K0-M	X000QNCSOF	B074NZ3TFH	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	2	0	0	2
+LYQ-BS-ZQ2973-KQ-S	X000NJSN1T	B01N76B2TU	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	3	0	0	3
+LYQ-BS4600-N0-XL	X000MZ7KSL	B01NBB82MQ	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Brown XL	1	0	0	1
+LYQ-BS4600-G1-L	X000NM0YBX	B01N78VJ9M	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Army Green L	5	0	0	5
+LYQ-CSM048-GR1-M	X000QNCSO5	B074P35TRN	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	3	0	0	3
+LYQ-BS-ZQ2973-BD-S	X000NKRYDL	B01N53S3NF	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	3	0	0	3
+LYQ-BS-ZQ2973-KQ-XL	X000NKRYDB	B01MSNG54S	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	4	1	0	3
+LYQ-CSM048-G0-M	X000QNCSOZ	B074NZXHN4	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	1	0	0	1
+LYQ-BS-ZQ2973-MH-M	X000NMVLWT	B01N6LKLSS	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	1	0	0	1
+LYQ-BS4600-G1-S	X000NJNHU1	B01N78VKOR	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Army Green S	1	0	0	1
+LYQ-BS-ZQ2973-K0-XL	X000NM3ODX	B01N6LKN1Q	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	1	0	0	1
+LYQ-CSM048-GR0-L	X000QNCSRR	B074P33GBK	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	2	0	0	2
+LYQ-BS4600-N0-L	X000NO4KZ7	B01N560GOX	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Brown L	1	0	0	1
+LYQ-CSM048-GR1-L	X000QNH4FN	B074P5RQR3	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	3	0	0	3
+LYQ-BS4600-G0-XS	X000PLPSRR	B01N6P1I5Z	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Grey XS	4	0	0	4
+LYQ-BS4600-P0-XL	X000PKIW1R	B01N1YL9GO	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Purple XL	2	0	0	2
+LYQ-CSM048-G0-XL	X000QNH3LN	B074NZKTJN	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	1	0	0	1
+LYQ-CSM048-ZL-XL	X000QNCM69	B074NW2TZL	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	1	0	0	1
+LYQ-BS-ZQ2973-E0-S	X000NKRTXV	B01N95R09H	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	3	0	0	3
+LYQ-BS4600-P0-S	X000PKIW1H	B01N7OGTT9	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Purple S	1	0	0	1
+LYQ-BS4600-G1-M	X000NH5YKT	B01N2KHNRA	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Army Green M	2	0	0	2
+LYQ-BS-ZQ2973-E0-XXL	X000R42O1F	B075R6C7W5	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	1	0	0	1
+LYQ-BS4600-P0-L	X000PMC0QX	B01N4K9T8X	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Purple L	1	0	0	1
+LYQ-BS-ZQ2973-ZL-L	X000NKS9AD	B01N2YM6T1	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	1	0	0	1
+LYQ-BS-ZQ2973-MH-XXL	B075R78TF6	B075R78TF6	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	1	0	0	1
+LYQ-BS4600-B0-XS	X000PLPSCR	B01MZ7Y9AO	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Blue XS	1	0	0	1
+LYQ-BS4600-G1-XS	X000PLPSD1	B01MT79IFZ	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Army Green XS	4	0	0	4
+LYQ-CSM048-ZL-L	X000QNH3E5	B074P5WYND	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	1	0	0	1
+LYQ-BS4600-N0-XS	X000PMA58D	B01N9PTUNY	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Brown XS	2	0	0	2
+LYQ-CSM048-ZL-M	X000QNHF3J	B074P1CCRZ	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	1	0	0	1
+LYQ-BS-ZQ2973-W1-S	X000MWIMGN	B01N42B1XD	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	9	0	0	9
+LYQ-BS-ZQ2973-BD-XXL	X000R492JR	B075R5G91S	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	2	0	0	2
+LYQ-CSM048-GR0-M	X000QNHF2Z	B074P2H27F	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	1	0	0	1
+LYQ-BS-ZQ2973-G7-XXL	B075R61DDD	B075R61DDD	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	2	0	0	2
+LYQ-CSM048-GR0-S	X000QNH4GR	B074P1R4Z1	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	1	0	0	1
+LYQ-CSM048-G0-S	X000QN8VL9	B074P3QBRR	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	3	1	0	2
+LYQ-BS-ZQ2973-KQ-XXL	X000R42UMX	B075R4YM4V	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	2	0	0	2
+LYQ-CSM048-GR1-XL	X000QNHF3T	B074P51FNH	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	2	0	0	2
+LYQ-CSM048-GR0-XL	X000QNHF43	B074NZKCP9	Summer Mae Women's Loose Casual Solid Long Sleeve Jumper Dress with Pockets and Mock Turtleneck	1	0	0	1
+LYQ-BS-ZQ2973-ZL-XL	X000MWIMIB	B01N9MCD0O	Summer Mae Women's Long Sleeve Plain A Line Cable Knit Sweater Dress	1	0	0	1
+LYQ-BS4600-N0-S	X000NNVTMZ	B01N1IYVH5	Summer Mae Women's Long Sleeve Striped Shirt Back Lace Blouse Tunic Brown S	5	0	0	5
+LYQ-EUWH5339-K0-XL	X000RDDT2J	B07648CNQX	Summer Mae Women's Elegant Sexy V Neck Long Slit Dress with Waistband and Pockets	1	0	1	0
+LYQ-WH1312-P0-L	X000QQ95AR	B074W4QLTC	Summer Mae Women's Long Sleeve Knitted Dress V Neck Midi Sweater Split Dress	1	0	0	1
+LYQ-WH1109-G7-M	X000QQ910B	B074V717QH	Summer Mae Women's 3/4 Sleeve Basic Long Bodycon Dress with Solide Color	1	0	0	1
+LYQ-WH1109-DG-S	X000QQ8VDJ	B074V6WV9H	Summer Mae Women's 3/4 Sleeve Basic Long Bodycon Dress with Solide Color	2	0	0	2
+MY-EU1925-G7-2XL	X000RE5Z3T	B07649JN4W	Summer Mae Women Sexy V Neck Oversized Knitted Patchwork Casual Pullovers Sweater Green XXL	1	0	0	1
+MY-SB019-BL-S	B077XGL33J	B077XGL33J	Mocotono Men's Cotton Sweater V- Neck Regular Fit Knitwear Knit Jumper Blue S	1	1	0	0
+MY-WH7622-K0-M	X000R2FF8V	B075FQCSXX	Summer Mae Women's V Neck Cross Wrap Jumper Knitted Ribbed Front Sweater Top M Black	7	0	0	7
+MY-WH7624-G7-S	X000R2FF95	B075FQWK7C	Summer Mae Women's Cold Shoulder Jumper S Light Green	3	0	0	3
+MY-WH7624-BG-M	X000R2FK3B	B075FP41RC	Summer Mae Women's Cold Shoulder Jumper M Beige	4	0	0	4
+MY-WH7624-BG-XL	X000R2FOIR	B075FR2DH2	Summer Mae Women's Cold Shoulder Jumper XL Beige	1	0	0	1
+MY-WH7622-R0-XL	X000R2XEY3	B075FMKF16	Summer Mae Women's V Neck Cross Wrap Jumper Knitted Ribbed Front Sweater Top XL Red	4	0	0	4
+MY-WH7624-G0-M	X000R2FOJ1	B075FR898Y	Summer Mae Women's Cold Shoulder Jumper M Grey	2	0	0	2
+MY-WH7624-G7-L	X000R2EXFR	B075FR3DRT	Summer Mae Women's Cold Shoulder Jumper L Light Green	1	0	0	1
+MY-WH7624-G0-L	X000R2EXG1	B075FQVX3X	Summer Mae Women's Cold Shoulder Jumper L Grey	1	0	0	1
+MY-WH7624-G7-XL	X000R2XFGZ	B075FR28GQ	Summer Mae Women's Cold Shoulder Jumper XL Light Green	2	0	0	2
+MY-WH7622-G0-S	X000R2XNOT	B075FR5716	Summer Mae Women's V Neck Cross Wrap Jumper Knitted Ribbed Front Sweater Top S Grey	3	0	0	3
+MY-WH7622-K0-S	X000R2FOOV	B075FQDVS2	Summer Mae Women's V Neck Cross Wrap Jumper Knitted Ribbed Front Sweater Top S Black	8	0	0	8
+MY-WH7624-G0-S	X000R2XEWF	B075FMMXJ2	Summer Mae Women's Cold Shoulder Jumper S Grey	2	0	0	2
+MY-WH7624-BG-S	X000R2EWQ7	B075FR6QJ2	Summer Mae Women's Cold Shoulder Jumper S Beige	1	0	0	1
+MY-WH7624-G0-XL	X000R2803D	B075FQY3BX	Summer Mae Women's Cold Shoulder Jumper XL Grey	2	0	0	2
+MY-WH7624-BG-L	X000R2XFFL	B075FQYNL9	Summer Mae Women's Cold Shoulder Jumper L Beige	3	0	0	3
+MY-WH7622-K0-XL	X000R2XFGF	B075FQSTN2	Summer Mae Women's V Neck Cross Wrap Jumper Knitted Ribbed Front Sweater Top XL Black	4	0	0	4
+MY-WH7622-KH-S	X000R2FES7	B075FQSXJX	Summer Mae Women's V Neck Cross Wrap Jumper Knitted Ribbed Front Sweater Top S Khaki	2	0	0	2
+MY-WH7672-G0-L	X000R2EXGL	B075FR316B	Summer Mae Women's Cold Shoulder Knitted Pullover Sweater Top L Grey	1	0	0	1
+RE-YZ-BEBD001-R0-S	B07CM3CK9V	B07CM3CK9V	Summer Mae Women Vintage Flounce Leaves Printing High Waisted Bathing Suits Two Piece Bikini Red S (UK 6-8)	2	0	0	2
+RE-YZ-BEWS32-K0-2XL	B07CLZQGDL	B07CLZQGDL	Summer Mae Women One Piece High Neck V-Neckline Mesh Ruched Monokini Swimwear Black XXL	2	0	1	1
+MY-WH7688-W0-S	X000R2ETN3	B075FQTSV4	Summer Mae Women's Cold Shoulder Side Split Jumper Top S White	1	0	0	1
+MY-WH7624-W0-M	X000R2EXMZ	B075FRDJ5H	Summer Mae Women's Cold Shoulder Jumper M White	1	0	0	1
+MY-WH7672-W0-M	X000R2XEXT	B075FQYBRW	Summer Mae Women's Cold Shoulder Knitted Pullover Sweater Top M White	2	0	0	2
+MY-WH7624-W0-XL	X000R2FOJB	B075FQKHHM	Summer Mae Women's Cold Shoulder Jumper XL White	8	0	0	8
+MY-WH7672-W0-XL	X000R280WT	B075FR4WL5	Summer Mae Women's Cold Shoulder Knitted Pullover Sweater Top XL White	1	0	0	1
+MY-WH7624-W0-L	X000R2FOJL	B075FRP18D	Summer Mae Women's Cold Shoulder Jumper L White	3	0	0	3
+MY-WH7672-K0-S	X000R2FESH	B075FQTN5Y	Summer Mae Women's Cold Shoulder Knitted Pullover Sweater Top S Black	1	0	0	1
+MY-WH7688-BG-L	X000R2XEVL	B075FMKBF8	Summer Mae Women's Cold Shoulder Side Split Jumper Top L Beige	1	0	0	1
+RE-YZ-BELE001-W0-S	B07CM2B6BD	B07CM2B6BD	Summer Mae Women Vintage Flounce Polka Dot High Waisted Bathing Suits Two Piece Bikini White S (UK 6-8)	2	1	1	0
+RE-YZ-BEBD001-R0-M	B07CLYTDDB	B07CLYTDDB	Summer Mae Women Vintage Flounce Leaves Printing High Waisted Bathing Suits Two Piece Bikini Red M (UK 8-10)	1	0	0	1
+MY-WH7624-R0-M	X000R2XEWZ	B075FR3DRR	Summer Mae Women's Cold Shoulder Jumper M Red	3	0	0	3
+MY-WH7688-B0-M	X000R28033	B075FRDV2R	Summer Mae Women's Cold Shoulder Side Split Jumper Top M Grey	1	0	0	1
+TX-55554-BO-2XL	B078NLNLRQ	B078NLNLRQ	Mocotono Men's Crew Collar Short Sleeve T-Shirt Blue Small	1	0	0	1
+TX-55554-GO-3XL	B078NK245X	B078NK245X	Mocotono Men's Crew Collar Short Sleeve T-Shirt Green Medium	1	0	0	1
+TX-55554-KO-2XL	B078NLC7WQ	B078NLC7WQ	Mocotono Men's Crew Collar Short Sleeve T-Shirt Black Small	1	0	0	1
+TX-55554-GO-2XL	B078NMR4X3	B078NMR4X3	Mocotono Men's Crew Collar Short Sleeve T-Shirt Green Small	1	0	0	1
+XZ-BS-013GR2-S	X000QPNY9L	B01M0CR4EK	Summer Mae Women's Warm Plush Soft Sole Indoor Slipper	1	0	0	1
+XZ-BS-HMMX360-GR-3637	X000Q4VGBP	B01N8PE78Y	Summer Mae Women Animal Sheep House Shoes Indoor/Outdoor Fluffy Boot Slippers	4	0	0	4
+XZ-BS-PW-2001-N0-36	X000Q6PCM7	B01N1S6RRW	Summer Mae Women Winter Boots Knit Patchwork Warm Snow Shoes Casual	3	0	0	3
+XZ-BS-013WH3-S	X000QPNXYR	B01M0131LI	Summer Mae Women's Warm Plush Soft Sole Indoor Slipper	7	0	0	7
+XZ-BS-013PI3-S	X000QLKPU1	B01M4QQA9K	Summer Mae Women's Warm Plush Soft Sole Indoor Slipper	1	0	0	1
+XZ-BS-HMMX360-GR-4041	X000Q4U1HZ	B01N3XXG1T	Summer Mae Women Animal Sheep House Shoes Indoor/Outdoor Fluffy Boot Slippers	12	0	0	12
+XZ-BS-HMMF360-BE-L	X000QM76CZ	B01N3L1AIZ	Summer Mae Womens/Mens Stitched Faux Suede Faux Fleece Lined Clog Slippers	1	0	0	1
+XZ-WH150903-G2-3738	X000QZR4AV	B075D7D1S1	Summer Mae Women's Knit Faux Fur Linning Slippers With Horn Button	11	0	0	11
+XZ-BS-ZQ7032-B0-24	X000QSVPFX	B01N3OVPP5	Summer Mae Women's Cheerful Mario Warm House Slippers Booties	9	0	0	9
+XZ-WH150903-G1-3536	X000QZR6NV	B075D85KM5	Summer Mae Women's Knit Faux Fur Linning Slippers With Horn Button	2	0	0	2
+XZ-BS-ZQCB3056-E0-24	X000R5MDDX	B01N2JHQGV	Summer Mae Women's Cute Cat Warm House Slippers Booties	2	0	0	2
+XZ-BS-ZQCB3056-R2-24	X000QPQF1P	B01MQLQYKR	Summer Mae Women's Cute Cat Warm House Slippers Booties	1	0	0	1
+XZ-BS-ZQ7032-K0-28	X000QSUWO3	B01MRGTJF3	Summer Mae Women's Cheerful Mario Warm House Slippers Booties	1	0	0	1
+XZ-BS-ZQ7032-K0-24	X000QSUQR1	B01MRGTK3G	Summer Mae Women's Cheerful Mario Warm House Slippers Booties	4	0	0	4
+XZ-WH150903-GR-3738	X000QZR59B	B075CZ5BNK	Summer Mae Women's Knit Faux Fur Linning Slippers With Horn Button	1	0	1	0
+XZ-WH150903-G2-3940	X000QZO373	B075D9M8H4	Summer Mae Women's Knit Faux Fur Linning Slippers With Horn Button	4	0	0	4
+XZ-BS-ZQCB3056-B0-28	X000R5NGFH	B01MYPF70O	Summer Mae Women's Cute Cat Warm House Slippers Booties	9	0	0	9
+XZ-WH1509-B0-3940	X000QZO41D	B075D4T7JT	Summer Mae Women's Warm Plush Leopard Slippers with Ribbon Bowknot	2	0	0	2
+XZ-BS-ZQCB3056-R1-28	X000R5MDBF	B01MRN2YFV	Summer Mae Women's Cute Cat Warm House Slippers Booties	5	0	0	5
+XZ-WH1509-Y0-3536	X000QZR587	B075D1Z8VQ	Summer Mae Women's Warm Plush Leopard Slippers With Ribbon Bowknot	4	0	0	4
+XZ-WH1509-B0-3536	X000QZO477	B075DD2ZZY	Summer Mae Women's Warm Plush Leopard Slippers With Ribbon Bowknot	6	0	0	6
+XZ-WH150903-P0-3536	X000R005LZ	B075D4FC9J	Summer Mae Women's Knit Faux Fur Linning Slippers With Horn Button	11	0	0	11
+XZ-BS-YG7223Co4243	X000QS9L8B	B01M0OETK1	Summer Mae Vintage Arctic Solid Indoor Boot Slippers	3	1	0	2
+XZ-WH1509-W0-3738	X000QZR591	B075D512BH	Summer Mae Women's Warm Plush Leopard Slippers With Ribbon Bowknot	4	0	0	4
+XZ-WH1509-W0-3536	X000R07RJN	B075D4WP3Z	Summer Mae Women's Warm Plush Leopard Slippers with Ribbon Bowknot	3	0	0	3
+XZ-WH150903-GR-3536	X000QZR6OZ	B075CZ2YNY	Summer Mae Women's Knit Faux Fur Linning Slippers With Horn Button	15	0	0	15
+XZ-BS-YG7223Da4445	X000R23Z5L	B01LZDHMA7	Summer Mae Vintage Arctic Solid Indoor Boot Slippers	5	0	0	5
+XZ-BS-YG7223Co4445	X000QS9KEB	B01LZDHSE8	Summer Mae's Vintage Arctic Solid Indoor Boot Slippers	39	0	0	39
+XZ-BS-YG7223Da4243	X000QXJZ0F	B01LZ1VBJE	Summer Mae Vintage Arctic Solid Indoor Boot Slippers	4	0	0	4
+XZ-WHMX006-R0-S	X000QYIOMJ	B075DD8M7Z	Summer Mae Women's Knit Fleece Slippers Striped Warm Fur Lined Boots	6	0	0	6
+XZ-WH6606-BR-39	X000R0DXIR	B07546TF8G	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 6 UK Brown	2	0	0	2
+XZ-WH6606-R0-38	X000R0MIZB	B07545N3Q5	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 5 UK Red	2	0	0	2
+XZ-WH6606-P0-35	X000R0MIYR	B07541F7QC	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 3 UK Pink	2	0	0	2
+XZ-WH6606-R0-35	X000R0DXJ1	B07541JWHK	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 3 UK Red	10	0	0	10
+XZ-WH6606-ZL-35	X000R0G6FJ	B07542R99S	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 3 UK Dark Blue	4	0	0	4
+XZ-WH6606-C0-38	X000R0DXI7	B07545GZJJ	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 5 UK Coffee	1	0	0	1
+XZ-WH6606-C0-37	X000R0MIYH	B07545QCLC	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 4 UK Coffee	2	0	0	2
+XZ-WH6606-R0-39	X000R0G6GX	B07541F9CF	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 6 UK Red	4	0	0	4
+XZ-WH6606-R0-37	X000R0X09J	B07544T8S1	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 4 UK Red	5	0	0	5
+XZ-WHMX006-G0-L	X000QYNNFH	B075D6DJGX	Summer Mae Women's Knit Fleece Slippers Striped Warm Fur Lined Boots	1	0	0	1
+XZ-WH6606-K0-35	X000R0DXD7	B07545N2FV	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 3 UK Black	5	0	0	5
+XZ-WH6606-C0-35	X000R0DXCX	B07545TD18	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 3 UK Coffee	8	0	0	8
+XZ-WH6606-ZL-36	X000R0G6FT	B07545XZJY	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 3.5 UK Dark Blue	6	0	0	6
+XZ-WH6606-P0-40	X000R0X08P	B07545L9QH	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers Pink 7 UK 7 UK Pink	1	0	0	1
+XZ-WH6606-K0-36	X000R0G6G3	B07545TX8S	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers Black 3.5 UK 3.5 UK Black	3	0	0	3
+XZ-WHBH004-P0-3839	X000R01IN9	B075D4X29W	Summer Mae Women's Indoor Slipper Boots With Star Cartoon Printed and Pom Poms, Pink, 5-6 UK	4	0	0	4
+XZ-WH6606-K0-37	X000R0G6OF	B07541F41Z	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 4 UK Black	3	0	0	3
+XZ-WH6606-BR-36	X000R0G6GD	B07541KCSH	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 3.5 UK Brown	1	0	0	1
+XZ-WHMX006-R0-L	X000QYND4D	B075D8QMDM	Summer Mae Women's Knit Fleece Slippers Striped Warm Fur Lined Boots	5	0	0	5
+XZ-WH6606-C0-36	X000R0MHKH	B07545XZJT	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 3.5 UK Coffee	9	0	0	9
+XZ-WHBH004-B0-4041	X000QYNPL9	B075D7R3MX	Summer Mae Women's Indoor Slipper Boots With Star Cartoon Printed and Pom Poms, Blue, 7-8 UK	6	0	0	6
+XZ-WH6606-BR-40	X000R0DXDR	B07545D76P	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 7 UK Brown	3	0	0	3
+XZ-WH6606-BR-37	X000R0DXDH	B07546CC9L	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 4 UK Brown	7	0	0	7
+XZ-WHMX006-G0-S	X000QYML69	B075D4R6B4	Summer Mae Women's Knit Fleece Slippers Striped Warm Fur Lined Boots	1	0	0	1
+XZ-WH6606-K0-39	X000R0MHK7	B07545G7FW	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers Black 6 UK 6 UK Black	2	0	0	2
+XZ-WH6606-R0-40	X000R0WAZJ	B07546N57Z	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 7 UK Red	3	0	0	3
+XZ-WH6606-R0-36	X000R0WAZT	B07541FHLB	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 3.5 UK Red	7	0	0	7
+XZ-WHMX006-R0-M	X000QYIOJH	B075D87GRR	Summer Mae Women's Knit Fleece Slippers Striped Warm Fur Lined Boots	1	0	0	1
+XZ-WH6606-ZL-37	X000R0WAYZ	B07546CN45	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers 4 UK Dark Blue	15	0	0	15
+XZ-WH6606-K0-40	X000R0GU05	B075466RWL	Summer Mae Women's Faux Fur Suede Lined Slip On Flat Moccasins Cozy Slippers Black 7 UK 7 UK Black	1	0	0	1
+YZ-BE5129-K0YH-L	B07CNG7G7K	B07CNG7G7K	Summer Mae Plus Size Floral Swimwear One Piece Swimdress for Women Skirted Swimsuit Black Floral UK 6-8	1	0	0	1
+YZ-BE5129-G0YH-L	B07CLSPV2K	B07CLSPV2K	Summer Mae Plus Size Floral Swimwear One Piece Swimdress for Women Skirted Swimsuit Yellow Floral UK 6-8	1	0	0	1
+YZ-BE5129-G0-L	B07CLVP7DQ	B07CLVP7DQ	Summer Mae Plus Size Floral Swimwear One Piece Swimdress for Women Skirted Swimsuit Green UK 6-8	1	0	0	1
+YZ-BE5129-K0-3XL	B07CLSGRWY	B07CLSGRWY	Summer Mae Plus Size Floral Swimwear One Piece Swimdress for Women Skirted Swimsuit Black UK 18-20	1	0	0	1
+YZ-BE5129-ZLYH-M	B07CLVGYTP	B07CLVGYTP	Summer Mae Plus Size Floral Swimwear One Piece Swimdress for Women Skirted Swimsuit Navy Floral UK 4-6	1	0	0	1
+YZ-BE5129-ZLYH-XL	B07CLWMKNT	B07CLWMKNT	Summer Mae Plus Size Floral Swimwear One Piece Swimdress for Women Skirted Swimsuit Navy Floral UK 10-12	2	1	0	1
+YZ-BE5506-ZL-XS	B07CKT5ZQB	B07CKT5ZQB	Summer Mae Striped Racerback Tankini with Swim Briefs Two Piece Swimsuit for Women Dark Blue XS	1	0	0	1
+YZ-BEC19P-OR-XL	B07CN191W4	B07CN191W4	Summer Mae Women's Two Pieces Bikini Set Twist Halter Bandeau Orange XL	1	0	0	1
+YZ-BEHY025-K0-L	B07CM7JVWW	B07CM7JVWW	Summer Mae Women's One Piece Ruffle Swimwear Backless Cross Monokini Black L	1	0	1	0
+YZ-BETW32-PI-S	B07C2535TF	B07C2535TF	Summer Mae Women's Sexy Detachable Padded Cutout Push up Striped Bikini Set Two Piece Swimsuit Pink Strip S	1	0	0	1
+YZ-BETW32-KTW-M	B07C219DGR	B07C219DGR	Summer Mae Women's Sexy Detachable Padded Cutout Push up Striped Bikini Set Two Piece Swimsuit Black Strip M	1	0	0	1
+YZ-BETW32-KTW-XL	B07CBV5V9J	B07CBV5V9J	Summer Mae Women's Sexy Detachable Padded Cutout Push up Striped Bikini Set Two Piece Swimsuit Black Strip XL	1	0	0	1
+YZ-BETW32-KTW-S	B07C1P3KBF	B07C1P3KBF	Summer Mae Women's Sexy Detachable Padded Cutout Push up Striped Bikini Set Two Piece Swimsuit Black Strip S	1	1	0	0
+YZ-BETW32-BTW-M	B07CBVSYCH	B07CBVSYCH	Summer Mae Women's Sexy Detachable Padded Cutout Push up Striped Bikini Set Two Piece Swimsuit Blue Strip M	2	1	0	1
+YZ-BETW32-PI-L	B07CF83XC5	B07CF83XC5	Summer Mae Women's Sexy Detachable Padded Cutout Push up Striped Bikini Set Two Piece Swimsuit Pink Strip L	1	0	0	1
+YZ-BETW32-PI-XL	B07CBVQLVX	B07CBVQLVX	Summer Mae Women's Sexy Detachable Padded Cutout Push up Striped Bikini Set Two Piece Swimsuit Pink Strip XL	1	0	0	1
+YZ-BS-5505DaXL	X000NJNHDN	B0154PQ95K	Summer Mae Women's Tankini Striped Vintage Swim Dress (Navy X-Large)	2	0	0	2
+YZ-BS-5505DaXS	X000NPKCN5	B00YAIA008	Summer Mae Women's Tankini Striped Vintage Swim Dress (Navy X-Small)	1	0	0	1
+YZ-BS-1580-K0-M	X000NI6SE9	B01NBES3YP	Summer Mae Women's Vintage Baroque Printed Ethnic Style Loose Casual Tunic Dress	1	0	0	1
+YZ-BS-5505K0-M	X000PN9VY1	B071LFK69M	Summer Mae Women's Tankini Striped Vintage Swim Dress (Black Medium)	1	0	1	0
+YZ-BS-5505DaS	X000NJNHA1	B013OSTD48	Summer Mae Women's Tankini Striped Vintage Swim Dress (Navy Small)	2	0	0	2
+YZ-BS-5505DaXXL	X000NJNHR9	B017JO0OBE	Summer Mae Women's Tankini Striped Vintage Swim Dress (Navy XX-Large)	4	0	0	4
+YZ-BS-5505K0-S	X000PM3KVR	B071F8K78X	Summer Mae Women's Tankini Striped Vintage Swim Dress (Black Small)	1	0	0	1
+YZ-BEYF182-R0-XXL	B07BF4PZNM	B07BF4PZNM	Summer Mae Maternity Swimsuit Printing Tankini Halter Top Red XXL	1	1	0	0
+YZ-BS-1580-NB-3XL	X000NIK4LH	B01MXSFHMN	Summer Mae Women's Vintage Baroque Printed Ethnic Style Loose Casual Tunic Dress	1	1	0	0
+YZ-BS-5505Da0L	X000NK54N3	B013OSTKN2	Summer Mae Women's Tankini Striped Vintage Swim Dress (Navy Large)	1	0	0	1
+YZ-BS-5505LbL	X000NOYDHH	B01G3JENB8	Summer Mae Women's Tankini Striped Vintage Swim Dress (Light Blue Large)	1	0	0	1
+YZ-BEYF184-B0-S	B07BF3YL3D	B07BF3YL3D	Summer Mae Maternity Tankini Two Piece Printing Swimsuit Pregnant Swimming Costume for Women Blue S	1	0	0	1
+YZ-BS-5505DaM	X000NH73D5	B013OSTFWS	Summer Mae Women's Tankini Striped Vintage Swim Dress (Navy Medium)	3	0	1	2
+YZ-BS-BS5119ZLXL5XL	X000NJNHLP	B01FXAQVH2	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit  Blue 3XL (UK 16-18)	2	0	2	0
+YZ-BS-BKN1703-R0-L	X000O320B3	B06XCR3R6C	Summer Mae Women's Luxurious Pretty Double Straps Elegant Two Piece Bikini Set	1	0	0	1
+YZ-BS-BS5119ZLXLXL	X000NJNHJH	B01FXAQNIO	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit  Blue M (UK 8-10)	1	0	1	0
+YZ-BS-BShyl5119-YT-2XL	X000NJNHSN	B01HFYMXUI	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit  Black Cherry L (UK 10-12)	10	0	0	10
+YZ-BS-HB8631-PI-S	X000NTZ83P	B06VZ3TRWP	Summer Mae Women's Exotic Bandeau Bikini Set With Ruffles	1	0	1	0
+YZ-BS-HB8631-PI-L	X000NXAWQT	B06WVMNKYJ	Summer Mae Women's Exotic Bandeau Bikini Set with Ruffles	1	0	1	0
+YZ-BS-BShyl5119K0XL	X000NJYD2R	B01EJ5VRJE	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit  Black XL (UK 12-14)	2	2	0	0
+YZ-BS-BShyl5119-YT-3XL	X000NH5YJP	B01HFYMTRK	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit  Black Cherry XL (UK 12-14)	1	0	0	1
+YZ-BS-BShyl5119K0L	X000NJNHRJ	B01EJ5VPSW	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit  Black L (UK 10-12)	1	0	0	1
+YZ-BS-BShyl5119K02XL	X000NJL69F	B01EJ5VT60	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit  Black 2XL (UK 14-16)	1	0	1	0
+YZ-BS-BShyl5119-YH-5XL	X000NLAB1H	B01N1Z5YOP	MiYang Women's Plus-Size Polka Dot Shaping Body One Piece Swim Dresses Swimsuit  Black Flower 3XL (UK 16-18)	1	0	0	1
+YZ-BS-HE9007Se4L	X000NJN3ZF	B015QZRRHW	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear Sea Blue L	1	0	0	1
+YZ-BS-PW2037-B0-L	X000NNCYUL	B06VV1VJCS	Summer Mae Women's Triangle Halter Bikini Set Push up Padded Bikini Floral Printing Crochet Swimwear	1	0	0	1
+YZ-BS-HE9008Se9L	X000NHKVQV	B01MQJP2YK	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear,Navy(two piece),5X(UK size: 24-26)	1	0	0	1
+YZ-BS-HE9007Sa4L	X000NJKI49	B015QZROTS	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear Sapphire Blue L	1	0	0	1
+YZ-BS-HE9007Se8L	X000NJMKYF	B01N1FYKHR	Summer Mae Women's Bowknot Printing Skirt Spa Swimsuit Bathing Swimwear,Navy(one piece),4X(UK size: 22)	11	0	1	10
+YZ-BS-ZQ15827B0S	X000O1BNVN	B01MXNZV6W	Summer Mae Women's Plus Size Ruffled Swimsuit Printed-Hem Ruffled Swim Skirt S	1	0	1	0
+YZ-BS-PW2049-K0-XL	X000OBC7RH	B06X96N7VD	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy Black X-Large(12)	1	0	1	0
+YZ-BS-TJ1245W01L	X000NOYDBN	B01DLSNC8O	Summer Mae Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear	1	0	0	1
+YZ-BS-PW2049-W0-L	X000OMMFKZ	B06X96WTVC	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy White L(10)	2	1	1	0
+YZ-BS1702-GO-XL	X000O2GS0N	B06XCS2MZG	Summer Mae Women's Green One Piece Shaping-Body Swimsuit with White Edges.	1	0	0	1
+YZ-BS-PW2037-R0-L	X000NOUWXL	B06WD32GDD	Summer Mae Women's Triangle Halter Bikini Set Push up Padded Bikini Floral Printing Crochet Swimwear	1	0	0	1
+YZ-BS-PW2049-K0-L	X000OC4ZTT	B06WVHHS2T	Summer Mae Women's Off-Shoulder Bikini-Set with Valance Retro und Trendy Black L(10)	1	0	0	1
+YZ-BS-ZQ15827R2XL	X000NJQ3TN	B01MTQA2ZW	Summer Mae Women's Plus Size Ruffled Tankini Top & Printed-Hem Ruffled Swim Skirt L Black	1	1	0	0
+YZ-BS-TJ124500L	X000O3TGZ1	B01DLSN9BY	Summer Mae Women's Two Pieces Stripes Slim Tankini Suit Bathing Swimwear	1	0	0	1
+YZ-BS-PW2049-P0-L	X000OHPYRB	B06X41M8ZH	Summer Mae Women's Off-Shoulder Bikini-Set With Valance Retro und Trendy Pink L(10)	1	0	1	0
+YZ-CSM022-W0-XL	X000Q8WRPF	B073XJD7W7	Summer Mae Women Swimwear Deep V-Neck Backless Halter Solid Color Monokini	1	0	0	1
+YZ-CSM022-W0-M	X000Q8GSK5	B073XKCCRR	Summer Mae Women Swimwear Deep V-Neck Backless Halter Solid Color Monokini	1	0	0	1
+YZ-MU5506-ZL-XS	B07CKT5ZQB	B07CKT5ZQB	Summer Mae Striped Racerback Tankini with Swim Briefs Two Piece Swimsuit for Women Dark Blue XS	1	0	0	1

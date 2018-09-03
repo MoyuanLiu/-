@@ -1,43 +1,20 @@
-sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
-GB-LUHM035-B0	X001TQAGA9	B07F6546YQ	Best Universal Stroller Organizer Grey Diaper Dag and Cup Holder for Mother Blue Stripe	3	0	3	0
-CWB-WF021-QB-L	B0779RFXY2	B0779RFXY2	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Colorful Strip L	2	0	2	0
-CD-WF-KK	B076J6VD3L	B076J6VD3L	Lastia Placemats Woven Vinyl Heat-resistant Non Skid Washable PVC Waterproof Rectangle Table Mats Set of 4 Khaki	7	0	0	7
-CD-WF117-WM-1	B077QD1DQN	B077QD1DQN	Lastia Set of 4 Natural Jute Browm Round Placemat Hand Woven Dining Table Place Mat - Thanksgiving Dinner Table Decor - Black Friday Deals	4	0	0	4
-CD-WF-CF	B076J9MFHW	B076J9MFHW	Lastia Placemats Woven Vinyl Heat-resistant Non Skid Washable PVC Waterproof Rectangle Table Mats Set of 4 Coffee	3	0	0	3
-CD-WF482-BO-1	B077D32DC6	B077D32DC6	Lastia 100 Cotton Placemats Set Handmade Woven Braided Ribbed Washable Table Mats Set of 4 12" x 18" Blue Rainbow	4	0	0	4
-CD-WF-SG	B076J988J5	B076J988J5	Lastia Placemats Woven Vinyl Heat-resistant Non Skid Washable PVC Waterproof Rectangle Table Mats Set of 4 Silver Grey	4	0	0	4
-CWB-WF021-RB-L	B077B51CYY	B077B51CYY	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Rainbow L	3	0	3	0
-CD-WF-GD	B076J8X97G	B076J8X97G	Lastia Placemats Woven Vinyl Heat-resistant Non Skid Washable PVC Waterproof Rectangle Table Mats Set of 4 Gold	4	0	0	4
-CD-WF001-GR-1	B077TGMRGP	B077TGMRGP	Lastia Creative Braided Edge Round Placemats Japanese-style Round Table Mats, Home PP Woven Mat and Anti-hot Insulation Pad 38CM(light purple)(Set of 4)	3	0	0	3
-BA-FLQ02-SI-6	B075N1KNHS	B075N1KNHS	Lastia 24 pcs Shatterproof Decorative Balls Ornaments for Holiday Party Home Silver 2.36"	6	0	0	6
-CD-WF001-CF-1	B077TH83RP	B077TH83RP	Lastia Creative Braided Edge Round Placemats Japanese-style Round Table Mats, Home PP Woven Mat and Anti-hot Insulation Pad 38CM(light purple)(Set of 4)	7	0	0	7
-GB-LUHM035-P0	X001TQAOQ5	B07F68CBMK	Best Universal Stroller Organizer Grey Diaper Dag and Cup Holder for Mother Purple Cartoon	2	0	2	0
-CD-WF117-GR-1	B0784DMK97	B0784DMK97	Lastia Set of 4 Natural Jute Gray Round Placemat Hand Woven Dining Table Place Mat - Thanksgiving Dinner Table Decor - Black Friday Deals	11	0	0	11
-CWB-WF021-QB-M	B0779RT3RQ	B0779RT3RQ	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Colorful Strip M	4	0	4	0
-GB-LUHM035-BE	X001TQQEZZ	B07F64BTCD	Best Universal Stroller Organizer Grey Diaper Dag and Cup Holder for Mother Beige Stripe	3	0	3	0
-CWB-WF021-QB-S	B0779V1KQL	B0779V1KQL	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Colorful Strip S	4	0	4	0
-CD-WF482-CB-1	B077D4N51C	B077D4N51C	Lastia 100 Cotton Placemats Set Handmade Woven Braided Ribbed Washable Table Mats Set of 4 12" x 18" Cyan Rainbow	3	0	0	3
-CD-WF001-RO-1	B077TSGJTH	B077TSGJTH	Lastia Creative Braided Edge Round Placemats Japanese-style Round Table Mats, Home PP Woven Mat and Anti-hot Insulation Pad 38CM(light purple)(Set of 4)	2	0	0	2
-CWB-WF021-RB-M	B0779ZRTZ3	B0779ZRTZ3	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Rainbow M	5	0	5	0
-CWB-WF021-RB-S	B0779RQHWK	B0779RQHWK	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Rainbow S	4	0	4	0
-QQ-LUHM-801-B0	X001RKMFXD	B07CPW1TRS	Lastia Drain Snake Hair Drain Clog Remover Retractable Cleaning Tool 3 Pack, with Creative Retractable Design for Easy Home Storage Blue	1	1	0	0
-QLQ-LUHM121-WO	X001RWF56Z	B07CXM3QD3	Lastia Hair Drain Catcher Clog Remover Bathroom Tub Strainer Cleaner Tool for Drain Cleaning(2 Pack)	3	1	0	2
-SG-LUHM050-K0	X001TQQPE5	B07F63TBYG	Garden Hose 50 Feet Expandable Lightweight Hose with Solid Brass Connector and 8 Patterns High Pressure Spray Nozzle, Woven Strength Fabric Cover Hose for Home, Garden, Shower Pets Or Wash Car	8	0	8	0
-SB-LUHM100-B0	X001TCP13Z	B07DVH33X4	Lastia Mesh Beach Tote Bag with Zipper Top and Insulated Picnic Cooler and FREE Bonus Waterproof Cellphone Case Blue	1	1	0	0
-GT-WFY1-E3	B077NZLTQX	B077NZLTQX	Elephant Tapestry Wall Hanging Large Wall Decor Mandala for Bedroom Purple (200150cm/7959inches)	2	1	1	0
-QLQ-LUHM121-GM	X001TL3P3T	B07CXM3QD3	Lastia Hair Drain Catcher Clog Remover Bathroom Tub Strainer Cleaner Tool for Drain Cleaning(2 Pack)	19	4	3	12
-SG-LUHM100-K0	X001TQRV2Z	B07F634TZ1	Garden Hose 100feet Heavy Duty Expandable Water Hose and 8 Pattern Sprayer Nozzle, 3/4 Solid Brass Connector and Extra Hose Holder, for Car Cleaning, Watering Lawn and Showering Dogs	5	0	5	0
-QLQ-LUHM121-G0	X001TM50QN	B07CXM3QD3	Lastia Hair Drain Catcher Clog Remover Bathroom Tub Strainer Cleaner Tool for Drain Cleaning(2 Pack)	60	0	60	0
-SQ-LUHM304	X001SVW7FH	B07DKWSJ1Z	Lastia Summer Light Weight Water Gun Pool Beach Swimming Water Soaker for Kids and Adults 8 PCS (11.8In)	9	0	9	0
-YQ-LUHM-F111	X001RLGE4X	B07CQJ8G3M	Bamboo Forks 3.5 Inch, Mini Food Picks for Party, Banquet, Buffet, Catering, and Daily Life. Two Prongs - Blunt End Toothpicks for Appetizer, Cocktail, Fruit, Pastry, Dessert. (One Pack of 110 PCS)	29	1	26	2
-SNT-LUHM001-KT	X001T5DQTD	B07DQN92XD	Clothes and toys organizer Waterproof hamper Foldable laundry basket for storage(Coffee Tower,11x11x13.8In)	5	1	4	0
-SL-LULW818-BO-L	X001O4Q0U1	B078RNM8V8	Baby Sleeping Bag Swaddling Blankets Autumn Winter Baby Stroller Baby Sleep Sack Zipper Design-100% Soft Cotton Ultra-Soft Absorbent - Warm for Baby 12-24 Months 37.4×17.7inch (Blue)	1	0	0	1
-SQ-LUHM354	X001SVSS3H	B07DKV16HS	Lastia Summer Light Weight Water Gun Pool Beach Swimming Water Soaker for Kids and Adults 8 PCS (13.8In)	10	0	6	4
-SNT-LUHM001-HW	X001T66KLN	B07DQP8MPM	Clothes and toys organizer Waterproof hamper Foldable laundry basket for storage(English,11x11x13.8In)	1	1	0	0
-XK-YIWUJS2-BR-7IN	X001S9EXVP	B07D4GDZTQ	Lastia 5x7 Wood Photo Frame Fit For Stands Vertically on Desk Table Top Hinged Double Picture Frames	1	0	0	1
-SQ-LUHM204	X001SVTC8H	B07DKXSV9P	Lastia Summer Light Weight Water Gun Pool Beach Swimming Water Soaker for Kids and Adults 8 PCS (7.9In)	13	0	13	0
-SQ-LUHM404	X001SV3NPZ	B07DKT41YL	Lastia Summer Light Weight Water Gun Pool Beach Swimming Water Soaker for Kids and Adults 8 PCS (15.7In)	18	0	18	0
-ZYL-FLQ06-BF-40	B076P8S1LC	B076P8S1LC	Dirty Clothes Laundry Storage Basket for Bedroom Bathroom Kids Linen Cotton White and Batman 15.7"x15.7"x19.7"	44	3	38	3
+Merchant SKU	Fulfillment Network SKU	ASIN	Title	Reserved Quantity	Reserved - Customer Order	Reserved - FC Transfer	Reserved - FC Processing
+GT-WFTFGT200-220	B076J6VFSP	B076J6VFSP	Tapestry Wall Hanging Mandala Hippie Psychedelic Bohemian Elephant Beach Towel Boho Bedspread Dark Blue Gold Queen Size 59 x 79inches	2	0	0	2
+BDB-WF212-CW-M	B0772JDLB6	B0772JDLB6	Printing Lunch Bags Oxford Cloth Aluminum Foil Insulated Zip Cooler Bag Portable Takeaway Film Pack Lunch Box Package Cartoon Hedgehog	2	0	2	0
+BLT-WF125-COW	B0788KQVVG	B0788KQVVG	Monitor Memo Board Computer Monitors Notes Holder and Reminder Acrylic Message Boards Memo Pads Sticky Board for Paper Sticky Notes Cow	2	0	1	1
+SG-LUHM050-K0	X001TQQPE5	B07F63TBYG	Garden Hose 50 Feet Expandable Lightweight Hose Solid Brass Connector 8 Patterns High Pressure Spray Nozzle, Woven Strength Fabric Cover Hose Home, Garden, Shower Pets Wash Car	3	0	3	0
+JS-LUHM100-ZFX	X001TWGUGR	B07FCJN913	Stainless Steel Cold Stones Chilling Rocks for Whiskey Wine Beverage 8 Cooler Square	1	0	0	1
+JS-LUHM100-KLT	X001TXCIWB	B07FCHZRK5	Whiskey Stones - Stainless Steel Chilling Rocks 6 Skull Heads	3	0	3	0
+SDSZH-RG	B076PCPP68	B076PCPP68	Lastia Christmas Tree Ornaments Assortment 11 Kinds of Accessories Red and Gold	47	0	0	47
+JS-LUHM100-JSZFX	X001TX65GV	B07FCH27G9	Whiskey Stones Chilling Rocks- Set of 8 Titanium Gold Plated Square	1	0	0	1
+SQ-LUHM304	X001SVW7FH	B07DKWSJ1Z	Lastia Summer Light Weight Water Gun Pool Beach Swimming Water Soaker for Kids and Adults 8 PCS (11.8In)	1	1	0	0
+SL-LULW818-PI-L	X001O4DJKF	B078RN1CC8	Baby Sleeping Bag Swaddling Blankets Autumn Winter Baby Stroller Baby Sleep Sack Zipper Design-100% Soft Cotton Ultra-Soft Absorbent - Warm for Baby 12-14 Months 37.4×17.7inch (Pink)	2	0	0	2
+YQ-LUHM-F111	X001RLGE4X	B07CQJ8G3M	Bamboo Forks 3.5 Inch, Mini Food Picks for Party, Banquet, Buffet, Catering, and Daily Life. Two Prongs - Blunt End Toothpicks for Appetizer, Cocktail, Fruit, Pastry, Dessert. (One Pack of 110 PCS)	1	1	0	0
+SG-LUHM100-K0	X001TQRV2Z	B07F634TZ1	Garden Hose 100feet Heavy Duty Expandable Water Hose 8 Pattern Sprayer Nozzle, 3/4 Solid Brass Connector Extra Hose Holder Car Cleaning, Watering Lawn Showering Dogs	1	0	1	0
+XK-YIWUJS2-BR-6IN	X001SAE931	B07D4FWK6H	Lastia 4x6 Wood Photo Frame Fit For Stands Vertically on Desk Table Top Hinged Double Picture Frames	1	0	0	1
+XK-YIWUJS2-BR-7IN	X001S9EXVP	B07D4GDZTQ	Lastia 5x7 Wood Photo Frame Fit For Stands Vertically on Desk Table Top Hinged Double Picture Frames	1	1	0	0
+ZB-WF029-CF-L	B077SSC1TH	B077SSC1TH	Lastia Cotton White Hemp Machine Washable Dinner Picnic Rectangle tablecloth (Coffee,55.1x55.1In)	1	0	0	1
+SQ-LUHM404	X001SV3NPZ	B07DKT41YL	Lastia Summer Light Weight Water Gun Pool Beach Swimming Water Soaker for Kids and Adults 8 PCS (15.7In)	1	0	1	0
+ZYL-FLQ59-BF-32	B078JQ3KLW	B078JQ3KLW	Folding Storage Cube Basket for Bedroom Bathroom Kids Cotton Linen White and Batman 12.5"x12.5"x12.5"	1	0	1	0
 ZYL-FLQ06-BG-40	B075RCQD9P	B075RCQD9P	Laundry Storage Basket Bin for Bedroom Bathroom Kids Linen Cotton White and Plaid 15.7"x15.7"x19.7"	2	0	0	2
-ZYL-FLQ59-BY-32	B078JNY8M1	B078JNY8M1	Collapsible Laundry Storage Basket for Bedroom Bathroom Kids Cotton Linen White and Semicircle 12.5"x12.5"x12.5"	4	0	0	4
-ZDD-FLQ08-PO-28	B075R92YGF	B075R92YGF	Lastia Camping Tripod Stool for Fishing Hiking Outdoor Four Legs Purple 11"x11"x13.7"	1	1	0	0
+ZB-WF029-WO-L	B0784WBNX9	B0784WBNX9	Lastia Cotton White Hemp Machine Washable Dinner Picnic Rectangle tablecloth (Beige,55.1x55.1In)	2	0	0	2

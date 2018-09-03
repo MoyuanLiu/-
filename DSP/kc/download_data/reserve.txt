@@ -1,32 +1,24 @@
-sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
+Merchant SKU	Fulfillment Network SKU	ASIN	Title	Reserved Quantity	Reserved - Customer Order	Reserved - FC Transfer	Reserved - FC Processing
 54-2HQR-70OB	X001FPB0BN	B00115TXRE	Dead Sea Premier Eye Serum.	9	0	0	9
-HF-a10e-MINM	X001REQDTV	B0010BBCFK	Premier Dead Sea Miracle Noir Mask, 2.04 Fluid Ounce	35	3	28	4
-HF-I2e-AABS	X001QEZ2HB	B000VER1RU	Premier Dead Sea Biox Intensive Age Cream/Anti-age Complex, 2.0400-Fluid Ounce	10	0	0	10
-DW-MG8E-BMQG	X0014UY1GP	B00157ZFC0	Premier Dead Sea Body Butter Herbal Scent	1	1	0	0
-5X-E8TX-UKIW	X00171A4VR	B002DYY35Y	Premier Dead Sea Mineral Body Treatment - Salt Scrub - Lemon Aroma	2	1	1	0
-2N-C2ZT-YSNI	X001CPXTFL	B0016VW618	Premier Usa Dead Sea shaving Cream for Men All Skin	1	1	0	0
-58-6A0P-DRT9	X001K6GUYT	B001278VEW	Premier Dead Sea Professional Peeling Mask	1	0	0	1
+HF-I2e-AABS	X001QEZ2HB	B000VER1RU	Premier Dead Sea Biox Intensive Age Cream/Anti-age Complex, 2.0400-Fluid Ounce	10	3	2	5
+HF-T9QA-X3JZ	X001FD46M5	B001561M00	Premier Dead Sea Intensive Biox Thermal Beauty Mask**NEW IN BOX**SAME IN MALL**	3	1	0	2
+3S-1QX9-6RRP	X001MU9L2B	B001DXOWA2	Premier Dead Sea Ageless Future Cell Renewal Cream	1	0	0	1
 6T-8V8W-3S67	X0015FXF93	B000VF5WVG	Premier by Dead Sea Premier Luxury Collection Milk Cleanser, 8.5 fl oz	2	0	0	2
-3E-OBBY-DIEZ	X001BZ317N	B00157XFNQ	Premier Active Moisture Complex - Normal to Dry Skin	2	1	1	0
-HF-a69e-PEFG	X001PZ8VND	B00BD3OU72	Premier Dead Sea Para-pharmaceutical Exfoliating Facial Gel, Brown, 4.3958-Fluid Ounce	3	2	0	1
-HF-a5e-NCFM	X001RDEZG5	B003NQ7P0Q	Premier Dead Sea Nourishing Cream for Men (tube)	46	1	39	6
-HF-a77e-TSSS	X001REPG53	B004H07J80	Premier Dead Sea Aromatherapy Mineral Body Treatment, Silver, Salt Scrub, 425-Grams	2	0	0	2
-HF-f12-FACL	X001Q0JYFL	B003CEA88U	Gratiae Organics Facial Cleansing Lotion, 6.8 Ounce	14	0	14	0
-HF-c7e-LANC	X001S9JTKZ	B002DL9M2G	Premier Dead Sea Luxurious Anti-aging Neck Cream, 2.04 oz	1	0	0	1
-L1-BT23-OVPU	X001HQV4JX	B002DV0KDQ	Premier Dead Sea Luxury Moisture Cream for Multi-Use	2	1	1	0
-HF-a80e-BTBM	X001S9JE3R	B001561M00	Premier Dead Sea Intensive Biox Thermal Beauty Mask**NEW IN BOX**SAME IN MALL**	1	0	0	1
-IM-YEIX-VVX8	X001HAFDZ5	B0016VW618	Premier Usa Dead Sea shaving Cream for Men All Skin	2	0	2	0
-HF-n2ae-NBNK	X001R7T2N7	B004H02GDI	Dead Sea Premier Beautifying Nail Kit Milk and Honey - Body Lotion,Cuticle Oil,Nail File,Buffing Block	15	0	15	0
-HF-g2e-ACRC	X001TJW5HD	B001DXOWA2	Premier Dead Sea Ageless Future Cell Renewal Cream	16	0	16	0
-KN-QWP1-D5XB	X001HBSA3V	B004OF9EPO	Gratiae AHA Cleansing and Peeling Foam	9	5	1	3
-HF-g104e-PCFS	X001S7TVY1	B00117F5PG	Premier Dead Sea Vitamin Concentrated Facial Serum, Vitamin E and C, 1.7-Fluid Ounce	35	1	32	2
-HF-f24-ACPF	X001TJVS53	B004X9BRU6	Gratiae Organics Aha Cleansing and Peeling Foam, 5.1 Ounce	17	0	15	2
-HF-a1e-LCMC	X001Q1E9CX	B000VF5WVG	Premier by Dead Sea Premier Luxury Collection Milk Cleanser, 8.5 fl oz	8	0	8	0
-KP-1178-XPKV	X001K6ASLP	B00158196K	Premier Dead Sea Body Butter Passion Fruit Scent	2	0	1	1
-R0-9P3N-MM7G	X001B57XHH	B0016VW618	Premier Usa Dead Sea shaving Cream for Men All Skin	1	0	0	1
-SM-LSLQ-C3QE	X001B6AOMR	B004X9BSG4	Gratiae Organics Lifting Facial Mask, 1.7 Ounce	7	0	0	7
-PP-7C5M-OKFZ	X001K6E0FZ	B00GU2QXVC	Premier Dead Sea Refining Moisture Cream	60	0	0	60
-PJ-CPH7-5MXE	X001K0YGJ1	B01G3AIYJO	Gratiae Organic Beauty By Nature Exfoliating Body Scrub, Apple/Green Tea and Ginger by Gratiae Organic Beauty By Nature	15	0	0	15
-MY71115K0XXL	B0761SKR3P	B0761SKR3P	ZAIAI Women's Coat with Fur Hood with 90% Down Parka Puffer Jacket Black XL	1	0	0	1
-YI-LW70-5D1O	X001BZTC67	B003Y7CMF2	Premier Dead Sea Instant Stretching and Revitalizing Lifting Mask - 2.04 oz Ounce	3	1	1	1
+0Z-KJNM-D56T	X001HAAVTN	B00157ZFC0	Premier Dead Sea Body Butter Herbal Scent	1	0	0	1
+3E-OBBY-DIEZ	X001BZ317N	B00157XFNQ	Premier Dead Sea Active Moisture Complex - Normal to Dry Skin	3	0	1	2
+CF-7C1X-596L	X001MPQ9NZ	B003Y7EU16	Premier Dead Sea Day Cream Complex (for normal to dry skin)	2	1	1	0
+HF-l3e-TEYG	X001PZ8VNN	B00383XLTS	Premier Dead Sea Biox Intensive Age Treatment Eye Cream Gel	1	0	0	1
+HF-b3e-PWCC	X001Q09JSN	B003Y7D0HQ	Premier Dead Sea Pearl White Cream Complex, 2.04-Fluid Ounce	9	0	7	2
+HF-a69e-PEFG	X001PZ8VND	B00BD3OU72	Premier Dead Sea Para-pharmaceutical Exfoliating Facial Gel, Brown, 4.3958-Fluid Ounce	5	0	0	5
+JQ-N6LK-OQ03	X001B547J9	B01JSONMH6	Gratiae Organic Beauty Renewing Peeling Gel	2	1	1	0
+HF-c7e-LANC	X001S9JTKZ	B002DL9M2G	Premier Dead Sea Luxurious Anti-aging Neck Cream, 2.04 oz	4	2	2	0
+L1-BT23-OVPU	X001HQV4JX	B002DV0KDQ	Premier Dead Sea Luxury Moisture Cream for Multi-Use	2	1	0	1
+MY-16055ZQ-XXL	B0761NGYTK	B0761NGYTK	Womens Hooded Warm Coats Parkas With Fax Fur Jackets Navy XXL	1	0	0	1
+HF-a80e-BTBM	X001S9JE3R	B001561M00	Premier Dead Sea Intensive Biox Thermal Beauty Mask**NEW IN BOX**SAME IN MALL**	2	0	0	2
+HF-a1e-LCMC	X001Q1E9CX	B000VF5WVG	Premier by Dead Sea Premier Luxury Collection Milk Cleanser, 8.5 fl oz	11	6	2	3
+R0-9P3N-MM7G	X001B57XHH	B0016VW618	Premier Usa Dead Sea shaving Cream for Men All Skin	3	0	3	0
+SM-LSLQ-C3QE	X001B6AOMR	B004X9BSG4	Gratiae Organics Lifting Facial Mask, 1.7 Ounce	2	0	0	2
+PP-7C5M-OKFZ	X001K6E0FZ	B00GU2QXVC	Premier Dead Sea Refining Moisture Cream	59	0	0	59
+QW-6H25-PV48	X001HQHY2T	B003NJKS48	Dead Sea Premier Luxury Milk Cleanser	2	2	0	0
+MY16055ZQXXL	B0761NGYTK	B0761NGYTK	Womens Hooded Warm Coats Parkas With Fax Fur Jackets Navy XXL	1	0	0	1
 PV-OG2H-VHEI	X0017633GF	B004X9BTGI	Gratiae Organicss Hand and Nail Care Treatment, 4.08 Ounce	1	0	0	1

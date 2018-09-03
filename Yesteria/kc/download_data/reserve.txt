@@ -1,47 +1,46 @@
-sku	fnsku	asin	product-name	reserved_qty	reserved_customerorders	reserved_fc-transfers	reserved_fc-processing
-DO-YULQ004-PI-11	X001QHK79L	B078Y2G7XW	Reborn Baby Dolls Full Silicone Body Real Looking Eye Closed Pink Outfit Small 10 inches	38	0	38	0
-DO-YULQ008-LGR-16	X001PNOPR1	B0795D6KPS	Reborn Baby Doll Girl Elephant Outfit Look Real Silicone Gray 16 Inches	10	0	10	0
-DO-YULQ111-R2-22	X001PNOLC5	B078X5HG51	Reborn Baby Doll Girl Look Real Rose Red Tutu Skirt 22 Inches	20	0	20	0
-DO-YULQ073-LGR-22	X001Q1D1M7	B0792VRZ89	Reborn Baby Dolls Boy Look Real Silicone Grey Outfit 22 inches	2	0	1	1
-DO-YULQ010-P0-22	X001POT6T7	B078X59HSZ	African American Reborn Baby Dolls Girl Look Real Light Purple Outfit 22 Inches	1	1	0	0
-DO-YULQ061-LGR-22	X001OZM149	B078X5DZRT	Sleeping Silicone Reborn Baby Dolls Boy Look Real Light Gray Outfit 22 inches	1	1	0	0
-DO-YULQ070-PI-16	X001P1L8V9	B079NYR8GC	Silicone Reborn Baby Dolls Girl Look Real Lifelike Toddler White Outfit with Lovely Patterns 16 inches	1	0	0	1
-DO-YULQ001-PI-22	X001OX6MZZ	B079JQCWQ6	Real Looking Reborn Baby Dolls Girl Silicone Pink Outfit 22 Inches	57	1	53	3
-DO-YULQ123-FB-22	X001Q2HXY3	B0792VZN9S	Real Life Reborn Baby Dolls Boy Baseball Sport Style White and Blue Outfit 22 inches	2	0	2	0
-DO-YULQ100-G0-10	X001PTUFGF	B07B9SLG9M	Silicone Reborn Baby Dolls Look Real Boy Knitted Outfit Green 10 Inches	1	0	0	1
-DO-YULQ163-B7-22	X001QYJZ6P	B078XBDF6J	Real Looking Reborn Baby Dolls Twins Boy Silicone Light Blue 22 inches	2	0	0	2
-DO-YULQ171-LGR-22	X001POT6HT	B0795117ZD	Full Silicone Body Real Life Reborn Baby Dolls Boy Light Gray Outfit 22 Inches	1	1	0	0
-DO-YULQ153-TW-20	X001RH01TL	B07CLYNY71	20 inches Realistic Sleeping Reborn Baby Dolls Boy Silicone Vinyl Black and White Striped Outfit	2	2	0	0
-DO-YULQ010-PI-15	X001PSVJ39	B0794ZPQ8B	Real Life Reborn Baby Doll Girl Silicone Pink Outfit 15 inches	3	0	2	1
-DO-YULQ100-B7-22	X001OXEB21	B079JRPXZ8	Real Life Silicone Reborn Baby Dolls Boy Look Real White Light Blue Outfit 22 Inches	25	0	24	1
-DO-YULQ062-PI-22	X001OXH3NP	B079JRDT89	Silicone Reborn Baby Dolls Girl Look Real Eye Closed Pink Outfit 22 inches	1	1	0	0
-DO-YULQ121-PI-22	X001RH0IXF	B07CM347WF	22 inches Real Looking Reborn Baby Dolls Girl Realistic Toddler Silicone Vinyl Pink European Retro Nightdress	5	0	5	0
-DO-YULQ004-B7-11	X001QXUCB3	B078Y5BTZC	Reborn Baby Dolls Full Silicone Body Real Looking Eye Closed Light Blue Outfit Small 10 inches	51	0	51	0
-DO-YULQ153-B7-22	X001Q1DFPP	B07BDDC5WH	Full Silicone Body Reborn Baby Doll Boy Light Blue Outfit with Hippo Pattern 22 inches	1	0	0	1
-DO-YULQ620-NZ-22	X001OVDBZ1	B079JXQJSM	Silicone Reborn Baby Dolls Girl Look Real Denim Dress 22 Inches	1	0	0	1
-DOLL-0601-PI-22	X001OO0PAH	B076J2TBNG	Real Looking Sleeping Reborn Baby Doll Girl Silicone Pink 22 Inches	21	0	20	1
-DOLL-006-PI-10	X001P4AG6T	B076Q7DCP1	African American Sleeping Reborn Baby Doll Look Real Full Body Silicone Pink Outfit 10 Inches	2	2	0	0
-DO-YULQ664-AX-16	X001QMBLRX	B07BSN65PZ	Reborn Baby Dolls Girl Look Real Lifelike Toddler Silicone with Toy Watermelon Red Outfit 16 inches	1	0	0	1
-DO-YULQ230-PI-16	X001P2UNW3	B0795M8J8G	Reborn Baby Dolls Girl Look Real Lifelike Toddler Silicone Vinyl Light Pink Dress 16 Inches	2	1	1	0
-DO-YULQ638-PI-20	X001OZK76N	B07929YDZM	Full Silicone Body Reborn Baby Dolls Girl Look Real Pink Knitted Outfit 22 Inches	19	0	19	0
-DOLL-0630-PI-22	X001PO0VDH	B076J4L24W	Sleeping Reborn Baby Doll Girl Look Real Silicone Pink with Cow Pattern 22 Inches	28	1	27	0
+Merchant SKU	Fulfillment Network SKU	ASIN	Title	Reserved Quantity	Reserved - Customer Order	Reserved - FC Transfer	Reserved - FC Processing
+DO-YULQ063-PI-22	X001P2XTT7	B079P24VZF	Sleeping Reborn Baby Dolls Girls Lifelike Toddler Silicone Pink Outfit with Cat Pattern 22 inches	3	1	2	0
+DO-YULQ004-PI-11	X001QHK79L	B078Y2G7XW	Reborn Baby Dolls Full Silicone Body Real Looking Eye Closed Pink Outfit Small 10 inches	2	1	1	0
+DO-YULQ070-PI-16	X001P1L8V9	B079NYR8GC	Silicone Reborn Baby Dolls Girl Look Real Lifelike Toddler White Outfit 16 Inches	1	0	1	0
+DO-YULQ001-PI-22	X001OX6MZZ	B079JQCWQ6	Yesteria Real Looking Reborn Baby Dolls Girl Silicone Pink Outfit 22 Inches	6	1	5	0
+DO-YULQ021-W0-22	X001P1LB89	B079P52R76	Reborn Baby Dolls Girl Look Real Lifelike Toddler with Toy Rabbit White and Light Gray Outfit 22 inches	1	0	0	1
+DO-YULQ100-B7-22	X001OXEB21	B079JRPXZ8	Yesteria Real Life Silicone Reborn Baby Dolls Boy Look Real White Light Blue Outfit 22 Inches	2	0	0	2
+DO-YULQ150-B7-18	X001Q5NP1Z	B0795QK1TP	Reborn Baby Dolls Boy Lifelike Toddler Silicone Vinyl Light Blue Outfit 18 Inches	2	2	0	0
+DO-YULQ062-PI-22	X001OXH3NP	B079JRDT89	Yesteria Silicone Reborn Baby Dolls Girl Look Real Eye Closed Pink Outfit 22 Inches	1	0	1	0
+DO-YULQ012-PI-22	X001QKBTMR	B076J2H7FC	Reborn Baby Doll Wig Baby Girl Look Real Silicone Pink 22 Inches	4	0	4	0
+DO-YULQ018-B0-18	X001Q18PA5	B0792VG6VZ	Yesteria Reborn Baby Dolls Boy Lifelike Toddler Silicone Vinyl Blue Baby Jumpsuit 18 Inches	1	0	0	1
+DO-YULQ150-PI-20	X001RH0E8J	B07CM664M7	20 inches Real Looking Reborn Baby Dolls Girl Silicone Vinyl Eye Closed Pink Pajama	1	0	0	1
+DO-YULQ620-NZ-22	X001OVDBZ1	B079JXQJSM	Silicone Reborn Baby Dolls Girl Look Real Denim Dress 22 Inches	4	1	3	0
+DO-YULQ704-B0-24	X001S9OBTT	B07D4DDT41	24 inches Reborn Baby Doll Real Looking Toddler Blue Jacket with Crocodile Striped Pants White Shoes	1	0	0	1
+DO-YULQ232-W0-10	X001SVWJ1T	B07DL5ZGP8	10 inches Full Silicone Mini Palm Reborn Baby Doll Look Real Girl Toddler Eye Closed White Dress Flower Hair Band	3	1	1	1
+DO-YULQ187-CV-22	X001V47O1D	B07FYGT2PC	Life Like Reborn Baby Dolls Girl Pink and White Outfit Blonde Curls 22 inches	1	0	1	0
+DO-YULQ610-R2-22	X001P1VIYV	B0793RW7P4	Real Looking Reborn Baby Dolls Girl Silicone Rose Red Outfit 22 Inches	1	1	0	0
+DO-YULQ230-PI-16	X001P2UNW3	B0795M8J8G	Reborn Baby Dolls Girl Look Real Lifelike Toddler Silicone Vinyl Light Pink Dress 16 Inches	1	1	0	0
 DO-YULQ604-PI-22	X001PQ4HKN	B078XB1WC9	Silicone Reborn Baby Dolls Girl Look Real Eye Closed Pink Outfit 22 inches	1	1	0	0
-DO-YULQ638-LGR-20	X001PSQOZR	B07B7G22RT	Full Silicone Body Reborn Baby Dolls Boy Look Real Light Blue Outfit 22 Inches	21	0	20	1
-DOLL-0603-NZ-22	X001OZL7AN	B077SDPC6N	Reborn Baby Doll Girl Look Real Silicone Denim Dress 22 Inches	1	0	0	1
-DO-YULQ173-B7-22	X001Q1TXW9	B07BFVYCH2	Silicone Reborn Baby Dolls Girl Look Real Lifelike Toddler Light Blue Rose Red Outfit with Toy Penguin 22 inches	2	1	0	1
-DOLL-008-W0-22	X001P0G6DZ	B079M128Y6	Sleeping Silicone Reborn Baby Dolls Girl Look Real White Nightdress 22 inches	2	1	0	1
-DO-YULQ620-PI-22	X001OVKEOR	B079JQDDN7	Silicone Reborn Baby Dolls Girl Look Real Eye Closed Pink Outfit 22 Inches	1	0	0	1
-DOLL-0605-PI-22	X001OXET6T	B076J6949M	Realistic Sleeping Reborn Baby Doll Girl Lifelike Silicone Pink 22 Inches	31	4	25	2
-DOLL-010-PI-22	X001OXY7C5	B06XPJWWR4	Reborn Baby Doll Girl Look Real Silicone Pink Outfit 22 Inches	4	0	0	4
-DO-YULQ631-R2-22	X001QMC0KP	B07BSHY6ZL	Full Silicone Body Reborn Baby Dolls Girl Eye Closed Lifelike Toddler Rose Red Outfit 22 inches	1	0	0	1
-DO-YULQ812-W0-18	X001Q2E5HB	B0792VKCCR	Sleeping Reborn Baby Dolls Boy Look Real Lifelike Toddler Silicone Vinyl Panda Outfit 18 inches	1	0	0	1
-DOLL-020-PI-22	X001P0NEXF	B06XPKHVHC	Realistic Real Life Reborn Baby Dolls Girl Silicone Pink Outfit 22 inches	11	0	10	1
-DOLL-9042-B0-22	X001QHA8CR	B076J5RSFF	Reborn Baby Doll Boy Look Real Silicone Blue Outfit 22 inches	2	0	2	0
-YF-YULQ002-B7-20	X001P1RSI1	B079NXJZ52	Reborn Baby Doll Outfits Boy Accessories for 20"- 22" White and Light Blue Pants	1	1	0	0
-YF-YULQ003-W0-20	X001SSBZVH	B077T29TYP	Reborn Baby Doll Outfits Girl Accessories for 20"- 22" White and Cow Pattern	1	1	0	0
-DOLLDRESS-003-PI-20	B076K8YDNV	B076K8YDNV	Reborn Baby Doll Outfits Girl Accessories for 20"- 22" Pink and Cow Pattern	8	0	0	8
-YF-YULQ007-PI-20	X001RZMLPZ	B074P4D14G	Reborn Baby Doll Outfits Girl Accessories for 20"- 22" Pink	8	2	5	1
-DOLLDRESS-003-R2-20	B076KQB6X1	B076KQB6X1	Reborn Baby Doll Outfits Girl Accessories for 20"- 22" Rose Red and Cow Pattern	4	1	1	2
-DOLL-AD011-PI-22	X001PSS24N	B077SGXYL6	Reborn Baby Doll Girl Look Real Silicone Pink Tutu Skirt 22 Inches	1	1	0	0
-DOLL-7056-LGR-11	X001P0HYC7	B077HNP6TL	Yesteria Full Silicone Body Reborn Baby Doll Elephant Outfit Look Real Gray 10 Inches	33	0	33	0
-DOLL-7056-0R-11	X001PSWAHN	B0788NF4TB	African American Reborn Baby Doll Boy Look Real Full Silicone Body Bohemia Style Orange Outfit 10 Inches	1	0	1	0
+DO-YULQ159-R2-22	X001QD15OB	B07BNCFZXN	Reborn Baby Dolls Girl Full Silicone Body Look Real Rose Red Tutu Skirt 22 inches	1	1	0	0
+DO-YULQ638-LGR-20	X001PSQOZR	B07B7G22RT	Yesteria Full Silicone Body Reborn Baby Dolls Boy Look Real Light Blue Outfit 18 inches	5	0	5	0
+DO-YULQ173-B7-22	X001Q1TXW9	B07BFVYCH2	Yesteria Silicone Reborn Baby Dolls Girl Look Real Lifelike Toddler Light Blue Rose Red Outfit with Toy Penguin 22 Inches	1	0	1	0
+DO-YULQ165-B7-16	X001QBINPH	B07BLVB7FH	Soft Silicone Reborn Baby Dolls Boy Look Real Light Blue Outfit 16 inches	2	1	1	0
+DO-YULQ200-W0-10	X001PVQ96D	B07B94LQJR	Cheap Silicone Reborn Baby Dolls Look Real Boy White Outfit with Bee 10 Inches	2	0	2	0
+DO-YULQ620-PI-22	X001OVKEOR	B079JQDDN7	Silicone Reborn Baby Dolls Girl Look Real Eye Closed Pink Outfit 22 Inches	4	1	2	1
+DO-YULQ196-PI-24	X001V0IZRT	B07GDQS6D2	Real Looking Reborn Baby Doll Girl Realistic Toddler Pink Outfit White Shoes with Toy Giraffe 24 inch	1	0	1	0
+DO-YULQ701-PI-22	X001RH0E7Z	B07CM9N213	Yesteria 22 Inches Silicone Reborn Baby Dolls Girl Look Real Rose Red Tutu Skirt with Striped Pants	2	1	0	1
+DOLL-0601-PI-22	X001OO0PAH	B076J2TBNG	Yesteria Real Looking Sleeping Reborn Baby Doll Girl Silicone Pink 22 Inches	3	0	0	3
+DO-YULQ707-PI-24	X001S9OE1T	B07D4DRFYN	24 inches Realistic Reborn Baby Doll Girl Silicone Pink Outfit White Shoes with Toy Giraffe	1	0	0	1
+DOLL-1613-PI-22	B076MW1Y4F	B076MW1Y4F	Yesteria Sleeping Reborn Baby Doll Girl Look Real Silicone Pink Outfit 22 Inches	1	0	0	1
+DOLL-9042-B0-22	X001QHA8CR	B076J5RSFF	Reborn Baby Doll Boy Look Real Silicone Blue Outfit 22 inches	4	0	4	0
+YF-YULQ002-B7-20	X001P1RSI1	B079NXJZ52	Reborn Baby Doll Outfits Boy Accessories for 20"- 22" White and Light Blue Pants	1	0	0	1
+DOLL-1630-R0-22	X001P0GXVZ	B076P99TGC	Yesteria Sleeping Reborn Baby Doll Boy Look Real Full Silicone Body Red Outfit 22 Inches	2	0	2	0
+YF-YULQ003-W0-20	X001SSBZVH	B077T29TYP	Reborn Baby Doll Outfits Girl Accessories for 20"- 22" White and Cow Pattern	2	1	1	0
+DO-YULQ719-B7-16	X001U7C1Y1	B07FNKS38N	Realistic Reborn Baby Doll Girl Newborn Blue Outfit Bear Pattern 16 inches	2	1	1	0
+DOLL-7056-BR-11	X001P0GPEP	B0788P8DCG	African American Reborn Baby Doll Girl Look Real Full Silicone Body Bohemia Style Dress 10 Inches	1	1	0	0
+DOLL-004-LB-10	X001P45Q9B	B076Q71HXL	Full Silicone Body Sleeping Reborn Baby Doll Twins Boy Look Real Light Blue Outfit 11 inches	1	0	0	1
+DOLL-AD011-PI-22	X001PSS24N	B077SGXYL6	Reborn Baby Doll Girl Look Real Silicone Pink Tutu Skirt 22 Inches	1	0	1	0
+YF-YULQ007-PI-20	X001RZMLPZ	B074P4D14G	Reborn Baby Doll Outfits Girl Accessories for 20"- 22" Pink	3	1	1	1
+DOLL-0605-PI-22	X001OXET6T	B076J6949M	Realistic Sleeping Reborn Baby Doll Girl Lifelike Silicone Pink 22 Inches	2	1	1	0
+DOLL-010-PI-22	X001OXY7C5	B06XPJWWR4	Yesteria Reborn Baby Dolls Girl Look Real Silicone Pink Outfit 22 Inches	41	1	0	40
+DO-YULQ705-GR-11	X001OXLCYV	B079JWNR6Z	Yesteria Cheap Reborn Baby Dolls Silicone Full Body Girl Elephant Outfit 10 Inches	1	1	0	0
+DOLL-020-PI-22	X001P0NEXF	B06XPKHVHC	Realistic Real Life Reborn Baby Dolls Girl Silicone Pink Outfit 22 Inches	31	5	20	6
+YF-YULQ003-R2-20	X001U7BF0R	B076KQB6X1	Reborn Baby Doll Outfits Girl Accessories for 20"- 22" Rose Red and Cow Pattern	5	1	4	0
+DOLL-7056-0R-11	X001PSWAHN	B0788NF4TB	African American Reborn Baby Doll Boy Look Real Full Silicone Body Bohemia Style Orange Outfit 10 Inches	1	0	0	1
+YF-YULQ905-B7-20	X001P30V3N	B079NX5R9C	Reborn Baby Doll Outfits Boy Accessories for 20"- 22" Light Blue Outfit	2	0	1	1

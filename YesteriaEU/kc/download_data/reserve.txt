@@ -1,0 +1,32 @@
+Merchant SKU	Fulfillment Network SKU	ASIN	Title	Reserved Quantity	Reserved: Customer Order	Reserved: FC Transfer	Reserved: FC Processing
+DO-YELQ163-R0-22	X000SVPRK7	B076P99TGC	Yesteria Sleeping Reborn Baby Doll Boy Look Real Full Silicone Body Red Outfit 22 Inches	1	0	1	0
+YF-YELQ003-W0-XS	X000UWGVG3	B077T29TYP	Reborn Baby Doll Outfits Girl Accessories for 20"- 22" White and Cow Pattern	1	0	1	0
+YF-YELQ003-R2-XS	X000T0H007	B076KQB6X1	Reborn Baby Doll Outfits Girl for 20"- 22" Rose Red and Cow Pattern	1	0	1	0
+DO-YELQ706-R0-24	X000VAJZ9J	B07D4D6Q9C	Realistic Reborn Toddler Baby Silicone Monkey Coat Blue Pants White Shoes 24 inches	1	0	0	1
+DO-YELQ073-LGR-22	X000UFJEFF	B0792VRZ89	Yesteria Life Like Reborn Baby Dolls Boy Realistic Toddler Silicone Vinyl Grey Outfit 22 Inch	1	0	0	1
+DO-YELQ111-R2-22	X000TT216L	B07BHNQ7QC	Yesteria Realistic Real Life Reborn Baby Doll Girl Silicone Vinyl Tutu Dress Rose Red 22 Inches	4	0	4	0
+DO-YELQ904-B7-22	X000SW4P3V	B076J5RSFF	Yesteria Reborn Baby Doll Boy Look Real Silicone Blue Outfit 22 Inches	1	0	0	1
+DO-YELQ004-B7-10	X000T05I1Z	B076Q71HXL	Yesteria Sleeping Reborn Baby Doll Look Real Full Silicone Body Light Blue Outfit 10 Inches	1	0	1	0
+DO-YELQ601-PI-22	X000SW4P45	B076J2TBNG	Yesteria Real Looking Sleeping Reborn Baby Doll Girl Silicone Pink 22 Inches	10	1	3	6
+DO-YELQ812-W0-18	X000UEWMI7	B0792VKCCR	Yesteria Sleeping Reborn Baby Dolls Boy Realistic Toddler Silicone Vinyl Panda Outfit 18 Inch	1	0	1	0
+DO-YELQ638-LGR-20	X000TUZIWT	B07B7G22RT	Yesteria Full Silicone Body Reborn Baby Dolls Boy Look Real Light Blue Knitted Outfit 18 Inches	19	0	14	5
+DO-YELQ004-PI-10	X000T0CNXV	B076Q8RG21	Yesteria Sleeping Reborn Baby Doll Look Real Full Silicone Body Pink Outfit 10 Inches	4	0	3	1
+DO-YELQ539-PI-16	X000VLDOLD	B07G1WRYLK	Yesteria Real Like Reborn Baby Doll Girl Realistic Soft body Lovely Gift 16 Inches	1	0	1	0
+DO-YELQ705-GR-11	X000T0G6MF	B077HNP6TL	Yesteria Reborn Baby Doll Girl Elephant Outfit Look Real Full Silicone Body Grey 10 Inches	11	0	9	2
+DO-YELQ638-PI-20	X000TT213T	B07929YDZM	Yesteria Full Silicone Body Reborn Baby Doll Girl Look Real Pink Knitted Outfit 18 Inches	2	0	0	2
+DO-YELQ610-R2-22	X000TUXSP3	B07BM7G52Z	Yesteria Real Looking Reborn Baby Dolls Girl Silicone Rose Red Outfit 22 Inches	1	0	0	1
+DO-YELQ001-PI-22	X000SW4KEP	B06XPJWWR4	Yesteria Reborn Baby Doll Girl Look Real Silicone Pink Outfit 22 Inches	17	0	16	1
+YF-YELQ003-PI-XS	X000T0GC65	B076K8YDNV	Reborn Baby Doll Outfits Girl for 20"- 22" Pink and Cow Pattern	3	1	1	1
+YE-YELQ007-PI-XS	X000TW6GU5	B074P4D14G	Yesteria Reborn Baby Doll Outfits Girl for 20"- 22" Pink	2	0	2	0
+DO-YELQ018-B0-18	X000UE6BUH	B0792VG6VZ	Yesteria Real Looking Reborn Baby Dolls Boy Silicone Vinyl Blue Baby Jumpsuit 18 Inch	3	2	1	0
+DO-YELQ161-B7-22	X000SW4KEF	B076MT3BDS	Yesteria Reborn Baby Doll Boy Look Real Silicone Light Blue Outfit 22 Inches	2	1	0	1
+DO-YELQ010-PI-22	X000URMVIF	B079JQCWQ6	Yesteria Real Looking Reborn Baby Dolls Girl Silicone Pink Outfit 22 Inches	18	1	15	2
+DO-YELQ603-NZ-22	X000TT4ANN	B07BHMZT4Y	Yesteria Realistic Reborn Baby Doll Girl Silicone denim Tutu Dress 22 Inches	1	0	1	0
+DO-YELQ985-B7-20	X000UEXC8V	B07CM67KDW	Yesteria 20 Inch Full Silicone Vinyl Body Reborn Baby Dolls Boy Real Looking Naked Toddler with Blue Blanket	12	2	8	2
+DO-YELQ100-B7-22	X000SW4KMH	B077SHDMC8	Realistic Reborn Baby Doll Boy Silicone White and Light Blue Outfit 22 Inches	2	0	2	0
+DO-YELQ011-W0-22	X000T0H5D9	B0788N4FMR	Reborn Baby Doll Girl Look Real White Outfit with Cat Pattern 22 Inches	7	0	7	0
+DO-YELQ062-PI-22	X000UV40NZ	B079JRDT89	Yesteria Silicone Reborn Baby Dolls Girl Look Real Eye Closed Pink Outfit 22 Inches	5	0	0	5
+DO-YELQ012-PI-22	X000UUKXZ5	B076J2H7FC	Reborn Baby Doll Wig Baby Girl Look Real Silicone Pink 22 inches	1	0	0	1
+DO-YELQ161-PI-22	X000SVRFZH	B076MW1Y4F	Yesteria Sleeping Reborn Baby Doll Girl Look Real Silicone Pink Outfit 22 Inches	2	1	1	0
+DO-YELQ708-W0-24	X000V9WZ2J	B07D4DC72D	Reborn Toddler Babies Silicone Vinyl Realistic Toddler Panda Coat Black Pants with Shoes 24 inches	1	1	0	0
+DO-YELQ603-PI-22	X000SVPRJX	B076J6949M	Yesteria Realistic Sleeping Reborn Baby Doll Girl Lifelike Silicone Pink 22 Inches	2	0	2	0

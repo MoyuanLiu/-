@@ -1,29 +1,29 @@
-sku	fnsku	asin	product-name	condition	your-price	mfn-listing-exists	mfn-fulfillable-quantity	afn-listing-exists	afn-warehouse-quantity	afn-fulfillable-quantity	afn-unsellable-quantity	afn-reserved-quantity	afn-total-quantity	per-unit-volume	afn-inbound-working-quantity	afn-inbound-shipped-quantity	afn-inbound-receiving-quantity
-AQD-IUYL330-BK	B07BLQFM2G	B07BLQFM2G	Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Black	New	9.99	No		Yes	1	1	0	0	1	0.02	0	0	0
-AQD-IUYL330-CF	B07BLSQB24	B07BLSQB24	Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Coffee	New	9.99	No		Yes	4	4	0	0	4	0.02	0	0	0
-AQD-IUYL330-DB	B07BLR41F3	B07BLR41F3	Luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Dark Blue	New	9.99	No		Yes	2	2	0	0	2	0.02	0	0	0
-AQD-IUYL330-GR	B07BLX8JTR	B07BLX8JTR	Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Gray	New	9.99	No		Yes	4	4	0	0	4	0.02	0	0	0
+Merchant SKU	Fulfillment Network SKU	ASIN	Title	Condition	Price	MFN Listing Exists	MFN Fulfillable Qty	AFN Listing Exists	AFN Warehouse Qty	AFN Fulfillable Qty	AFN Unsellable Qty	AFN Encumbered Qty	AFN Total Qty	Volume	AFN Inbound Working Qty	AFN Inbound Shipped Qty	AFN Inbound Receiving Qty
+AQD-IUYL330-BK	B07BLQFM2G	B07BLQFM2G	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness Pets Cats Animals Black	New	9.99	No		Yes	5	4	0	1	5	0.03	0	0	0
+AQD-IUYL330-CF	B07BLSQB24	B07BLSQB24	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Coffee	New	10.00	No		Yes	4	4	0	0	4	0.02	0	0	0
+AQD-IUYL330-DB	B07BLR41F3	B07BLR41F3	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Dark Blue	New	9.99	No		Yes	2	2	0	0	5	0.02	0	3	0
+AQD-IUYL330-GR	B07BLX8JTR	B07BLX8JTR	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Gray	New	10.00	No		Yes	3	3	0	0	5	0.02	0	2	0
 AQD-IUYL330-LB	B07BLQJYGV	B07BLQJYGV	Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Light Blue	New	9.99	No		Yes	2	2	0	0	2	0.02	0	0	0
-AQD-IUYL330-OR	B07BLRT4X9	B07BLRT4X9	Luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Orange	New	9.99	No		Yes	4	4	0	0	4	0.02	0	0	0
-AQD-IUYL330-PK	B07BLT8K4B	B07BLT8K4B	Luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Pink	New	9.99	No		Yes	3	3	0	0	3	0.02	0	0	0
-AQD-IUYL330-PP	B07BM3PGBP	B07BM3PGBP	Luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Purple	New	9.99	No		Yes	0	0	0	0	0	0.02	0	0	0
-AQD-IUYL330-RD	B07C8GM14Z	B07C8GM14Z	Luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Red	New	9.99	No		Yes	4	4	0	0	4	0.02	0	0	0
-AQD-IUYL330-YL	B07BLQJYGS	B07BLQJYGS	Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Yellow	New	9.99	No		Yes	2	2	0	0	2	0.02	0	0	0
-AQD-IUYL340-DP	B07C8R5S2P	B07C8R5S2P	Luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Deep Purple	New	9.99	No		Yes	3	3	0	0	3	0.02	0	0	0
-AQD-IUYL340-LP	B07BLXGT2T	B07BLXGT2T	Luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Light Purple	New	9.99	No		Yes	3	3	0	0	3	0.02	0	0	0
-AQD-IUYL340-OR	B07BLRYV4K	B07BLRYV4K	Luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Orange	New	9.99	No		Yes	1	1	0	0	1	0.02	0	0	0
-AQD-IUYL340-PK	B07BLQ5R6S	B07BLQ5R6S	Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Pink	New	9.99	No		Yes	3	3	0	0	3	0.02	0	0	0
-AQD-IUYL340-YL	B07BLSKPGN	B07BLSKPGN	Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Yellow	New	9.99	No		Yes	4	4	0	0	4	0.02	0	0	0
-BBBD-1605A-BL	X001SHJQMD	B07D8S8R3B	360 All Positions Detachable Ergonomic Baby Carrier for Infant Child Todller Blue	New	35.99	No		Yes	5	3	1	1	5	0.21	0	0	0
+AQD-IUYL330-OR	B07BLRT4X9	B07BLRT4X9	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Orange	New	9.99	No		Yes	4	4	0	0	4	0.02	0	0	0
+AQD-IUYL330-PK	B07BLT8K4B	B07BLT8K4B	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Pink	New	9.99	No		Yes	3	3	0	0	3	0.02	0	0	0
+AQD-IUYL330-PP	B07BM3PGBP	B07BM3PGBP	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Purple	New	9.99	No		Yes	5	4	0	1	5	0.02	0	0	0
+AQD-IUYL330-RD	B07C8GM14Z	B07C8GM14Z	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Red	New	9.99	No		Yes	4	4	0	0	4	0.02	0	0	0
+AQD-IUYL330-YL	B07BLQJYGS	B07BLQJYGS	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Yellow	New	9.99	No		Yes	0	0	0	0	5	0.02	0	5	0
+AQD-IUYL340-DP	B07C8R5S2P	B07C8R5S2P	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Deep Purple	New	9.99	No		Yes	3	3	0	0	3	0.02	0	0	0
+AQD-IUYL340-LP	B07BLXGT2T	B07BLXGT2T	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Light Purple	New	9.99	No		Yes	3	3	0	0	3	0.02	0	0	0
+AQD-IUYL340-OR	B07BLRYV4K	B07BLRYV4K	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Orange	New	9.99	No		Yes	1	1	0	0	6	0.02	0	5	0
+AQD-IUYL340-PK	B07BLQ5R6S	B07BLQ5R6S	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Pink	New	9.99	No		Yes	3	3	0	0	3	0.02	0	0	0
+AQD-IUYL340-YL	B07BLSKPGN	B07BLSKPGN	luciphia Dog Seat Belt, 3 Packs Adjustable Vehicle Car Seatbelt Leash Safety Leads Harness for Pets Cats Animals Yellow	New	9.99	No		Yes	4	4	0	0	4	0.02	0	0	0
+BBBD-1605A-BL	X001SHJQMD	B07D8S8R3B	360 All Positions Detachable Ergonomic Baby Carrier for Infant Child Todller Blue	New	35.99	No		Yes	0	0	0	0	0	0.51	0	0	0
 BBBD-1605A-RD	X001SHN8RR	B07C178M2R	BABYLAB 360 All Positions Detachable Ergonomic Baby Carrier For Infant Child Todller Red	New	35.99	No		Yes	2	2	0	0	2	0	0	0	0
 BBBD-BUSB1605A-BL	B07C1KW5X1	B07C1KW5X1	360 All Positions Detachable Ergonomic Baby Carrier For Infant Child Todller Blue	New	35.99	No		Yes	0	0	0	0	0	0.02	0	0	0
-BBBD-BUSB1605A-CF	B07C1LYHW7	B07C1LYHW7	360 All Positions Detachable Ergonomic Baby Carrier For Infant Child Todller Coffee	New	35.99	No		Yes	0	0	0	0	0	0.02	0	0	0
-BBBD-BUSB1605A-PK	B07CBNM1H4	B07CBNM1H4	360 All Positions Detachable Ergonomic Baby Carrier For Infant Child Todller Pink 1	New	35.99	No		Yes	1	0	1	0	1	0.02	0	0	0
+BBBD-BUSB1605A-CF	B07C1LYHW7	B07C1LYHW7	360 All Positions Detachable Ergonomic Baby Carrier for Infant Child Todller Coffee	New	35.99	No		Yes	0	0	0	0	0	0.02	0	0	0
+BBBD-BUSB1605A-PK	B07CBNM1H4	B07CBNM1H4	360 All Positions Detachable Ergonomic Baby Carrier For Infant Child Todller Pink 1	New	35.99	No		Yes	0	0	0	0	0	0.02	0	0	0
 BBBD-BUSB1605A-RD	B07C178M2R	B07C178M2R	BABYLAB 360 All Positions Detachable Ergonomic Baby Carrier For Infant Child Todller Red	New	35.99	No		Yes	0	0	0	0	0	0	0	0	0
 BBBD-BUSB1605B-BL	B07C178LY1	B07C178LY1	360 All Positions Detachable Ergonomic Baby Carrier For Infant Child Todller Blue 2	New	35.99	No		Yes	0	0	0	0	0	0.02	0	0	0
-BBBD-BUSB1605B-PK	B07C1KX15Z	B07C1KX15Z	360 All Positions Detachable Ergonomic Baby Carrier For Infant Child Todller Pink 2	New	35.99	No		Yes	1	0	1	0	1	0.02	0	0	0
-BBBD-BUSB1605B-RD	B07CBPY63R	B07CBPY63R	360 All Positions Detachable Ergonomic Baby Carrier For Infant Child Todller Red 2	New	35.99	No		Yes	0	0	0	0	0	0.02	0	0	0
-BD-LUHM010	X001STCLYL	B07DJ8MH2Q	Baby Carrier Bag and Diaper Travel Backpack Stroller Straps USB Heating Multi-Function Designer Large Capacity Diaper Bags Grey	New	60.99	No		Yes	20	20	0	0	20	0.45	0	0	0
+BBBD-BUSB1605B-PK	B07C1KX15Z	B07C1KX15Z	360 All Positions Detachable Ergonomic Baby Carrier For Infant Child Todller Pink 2	New	35.99	No		Yes	0	0	0	0	0	0.02	0	0	0
+BBBD-BUSB1605B-RD	B07CBPY63R	B07CBPY63R	360 All Positions Detachable Ergonomic Baby Carrier For Infant Child Todller Red 2	New	35.99	No		Yes	1	1	0	0	1	0.02	0	0	0
+BD-LUHM010	X001STCLYL	B07DJ8MH2Q	Baby Carrier Bag and Diaper Travel Backpack Stroller Straps USB Heating Multi-Function Designer Large Capacity Diaper Bags Grey	New	60.99	No		Yes	19	18	0	1	19	0.45	0	0	0
 BD-PUHM101-B0-L	X001STM6EV	B077P3W5CY	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	20.99	No		Yes	0	0	0	0	0	0	0	0	0
 BD-PUHM101-B0-M	X001STMA65	B077PGPW9C	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	20.99	No		Yes	0	0	0	0	0	0	0	0	0
 BD-PUHM101-B0-S	X001SU8A31	B077P4NDQF	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	20.99	No		Yes	0	0	0	0	0	0	0	0	0
@@ -40,6 +40,22 @@ BD-PUHM101-R0-L	X001SU4LRF	B077P98RR5	luciphia The Original Control Dog Harness 
 BD-PUHM101-R0-M	X001STMA33	B077PBWY75	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	20.99	No		Yes	0	0	0	0	0	0	0	0	0
 BD-PUHM101-R0-S	X001SU4NFP	B077PC5F9V	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	20.99	No		Yes	0	0	0	0	0	0	0	0	0
 BD-PUHM101-R0-XL	X001SU8A9P	B07844VFWQ	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	20.99	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-B0-L	X001UTBHRL	B07G842QN1	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-B0-M	X001UTDYVX	B07G88D94R	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-B0-S	X001UT92MX	B07G87YQRD	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-B0-XL	X001UTBHQR	B07G8CSMPR	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-G0-L	X001UTDYTF	B07G82SHTJ	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-G0-M	X001UTDCEH	B07G8BZMCG	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-G0-S	X001UT92QT	B07G86KD95	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-G0-XL	X001UTBHS5	B07G87S5PJ	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-K0-L	X001UTED4P	B07G85ZBV7	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-K0-M	X001UTDG7P	B07G8BCJ9V	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-K0-S	X001UTDI6T	B07G87M8VK	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-K0-XL	X001USXICJ	B07G88YHSW	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-R0-L	X001UTDCX3	B07G86R9SY	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-R0-M	X001UT936N	B07G87WF37	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-R0-S	X001UTBHZ3	B07G8825R5	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BD-PUHM201-R0-XL	X001UTDI91	B07G88D94Y	luciphia The Original Control Dog Harness No Pull & No Choke Design, Luxurious Padded Vest, Eco-Friendly, For Puppies and Dogs	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
 BX-PUHM000-G0-2XL	X001SU7EJ7	B077GTSZMW	luciphia Winter Dog Pet Vest Coat Waterproof Jacket With Zipper Green 2XL	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 BX-PUHM000-G0-3XL	X001SU74JR	B077GSM1VR	luciphia Winter Dog Pet Vest Coat Waterproof Jacket With Zipper Green 3XL	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 BX-PUHM000-G0-4XL	X001SU885B	B077GTC3DD	luciphia Winter Dog Pet Vest Coat Waterproof Jacket With Zipper Green 4XL	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
@@ -80,7 +96,7 @@ BX-PUHM000-R0-L	X001SU886Z	B077GSNNT7	luciphia Winter Dog Pet Vest Coat Waterpro
 BX-PUHM000-R0-M	X001STQKT3	B077GVTBNL	luciphia Winter Dog Pet Vest Coat Waterproof Jacket With Zipper Red M	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 BX-PUHM000-R0-S	X001SU8GZN	B077GVHXJF	luciphia Winter Dog Pet Vest Coat Waterproof Jacket With Zipper Red S	New	12.00	No		Yes	0	0	0	0	0	0.05	0	0	0
 BX-PUHM000-R0-XL	X001SU4NJV	B077GWKKJ5	luciphia Winter Dog Pet Vest Coat Waterproof Jacket With Zipper Red XL	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
-BX-PUHM001-B0-L	X001STQJNP	B077YZQ4GF	SiYang Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Blue,L)	New	12.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM001-B0-L	X001STQJNP	B077YZQ4GF	luciphia Winter Dog Vest Coats Reversible Warm Jackets for Small Medium Dogs Blue L	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 BX-PUHM001-B0-M	X001STQJEJ	B077YZMM76	luciphia Winter Dog Vest Coats Reversible Warm Jackets for Small Medium Dogs Blue M	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 BX-PUHM001-B0-S	X001SU7MO9	B077YTW39Y	luciphia Winter Dog Vest Coats Reversible Warm Jackets for Small Medium Dogs Blue S	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 BX-PUHM001-B0-XL	X001STGUTX	B077Z2SC65	luciphia Winter Dog Vest Coats Reversible Warm Jackets for Small Medium Dogs Blue XL	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
@@ -95,16 +111,150 @@ BX-PUHM001-R0-M	X001SU4NGJ	B077YZQDR4	luciphia Winter Dog Vest Coats Reversible 
 BX-PUHM001-R0-S	X001STM34T	B077Z32JMZ	luciphia Winter Dog Vest Coats Reversible Warm Jackets for Small Medium Dogs Red S	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 BX-PUHM001-R0-XL	X001SU8AA9	B077YZMR5R	luciphia Winter Dog Vest Coats Reversible Warm Jackets for Small Medium Dogs Red XL	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 BX-PUHM001-R0-XS	X001STQJNZ	B077YZMH2D	luciphia Winter Dog Vest Coats Reversible Warm Jackets for Small Medium Dogs Red XS	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
-DZ-IUYL200-BK	B079JD7ZJ2	B079JD7ZJ2	Pet Dog Front Seat Cover For Cars - Hammock Style For Trucks SUV Van Auto Vehicle- Non slip Waterproof	New	50.99	No		Yes	9	9	0	0	9	0.39	0	0	0
-DZ-IUYL200-GR	B079J99WVX	B079J99WVX	Pet Dog Front Seat Cover For Cars - Hammock Style For Trucks SUV Van Auto Vehicle- Non slip Waterproof	New	50.99	No		Yes	5	4	0	1	5	0.38	0	0	0
-DZ-IUYL210-BK	B079JGMFTB	B079JGMFTB	Luciphia Pet Seat Cover With Side Flaps, Dog Viewing Window - Hammock Large Pet Back Seat Cover for Cars, Trucks, SUV - Non slip Waterproof	New	50.99	No		Yes	1	1	0	0	1	0.32	0	0	0
-DZ-IUYL210-GR	B079JD1T5B	B079JD1T5B	Luciphia Pet Seat Cover With Side Flaps, Dog Viewing Window - Hammock Large Pet Back Seat Cover for Cars, Trucks, SUV - Non slip Waterproof	New	50.99	No		Yes	0	0	0	0	0	0.39	0	0	0
-DZ-IUYL220-BK	B079JNPCJ1	B079JNPCJ1	Luciphia Pet Seat Cover With Side Flaps, Dog Viewing Window - Hammock Large Pet Back Seat Cover for Cars, Trucks, SUV - Non slip Waterproof	New	50.99	No		Yes	0	0	0	0	0	0.55	0	0	0
-DZ-IUYL220-GR	B079JLS34D	B079JLS34D	Luciphia Pet Seat Cover With Side Flaps, Dog Viewing Window - Hammock Large Pet Back Seat Cover for Cars, Trucks, SUV - Non slip Waterproof	New	50.99	No		Yes	0	0	0	0	0	0.59	0	0	0
-GS-IUYL270	B079MDCK5Y	B079MDCK5Y	Genuine Leather Pet Dog Leash Leads for Large/ Medium/ Small Dogs Training/ Walking	New	55.99	No		Yes	2	2	0	0	2	0	0	0	0
-GS-IUYL280-1	B079M2W31H	B079M2W31H	Genuine Leather Pet Dog Leash Leads for Large/ Medium/ Small Dogs Training/ Walking	New	10.98	No		Yes	3	3	0	0	3	0.12	0	0	0
-GS-IUYL280-2	B079M1Y4YS	B079M1Y4YS	Genuine Leather Pet Dog Leash Leads for Large/ Medium/ Small Dogs Training/ Walking	New	12.98	No		Yes	3	3	0	0	3	0.08	0	0	0
-GS-IUYL280-3	B079M4C6DT	B079M4C6DT	Genuine Leather Pet Dog Leash Leads for Large/ Medium/ Small Dogs Training/ Walking	New	15.98	No		Yes	3	3	0	0	3	0.09	0	0	0
+BX-PUHM200-G0-2XL	X001UT93IV	B07G8B96XM	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(2XL: Chest Girth 21.3",Green)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-G0-3XL	X001USXIC9	B07G8873P1	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(3XL: Chest Girth 22.8",Green)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-G0-4XL	X001UT93JZ	B07G7Z325K	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(4XL: Chest Girth 24.8",Green)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-G0-5XL	X001UT926T	B07G87BW2Q	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(5XL:Chest Girth 26.8",Green)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-G0-L	X001UTBHQH	B07G8FCDTB	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(L: Chest Girth 18.1",Green)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-G0-M	X001USXIAV	B07G8B6VBK	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(M: Chest Girth 16.5",Green)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-G0-S	X001UTDYUT	B07G8BZMCQ	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(S: Chest Girth 14.2",Green)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-G0-XL	X001UTDYTZ	B07G85D4HH	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(XL: Chest Girth 19.7",Green)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-OR-2XL	X001USXIBZ	B07G7XP35T	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(2XL: Chest Girth 21.3",Orange)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-OR-3XL	X001UTDJPJ	B07G87F72Y	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(3XL: Chest Girth 22.8",Orange)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-OR-4XL	X001UT9269	B07G86SWG2	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(4XL: Chest Girth 24.8",Orange)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-OR-5XL	X001UTDCF1	B07G8B8WV9	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(5XL:Chest Girth 26.8",Orange)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-OR-L	X001UTBH8P	B07G854SQK	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(L: Chest Girth 18.1",Orange)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-OR-M	X001USXIAL	B07G81CXYK	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(M: Chest Girth 16.5",Orange)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-OR-S	X001UTED31	B07G87PK96	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(S: Chest Girth 14.2",Orange)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-OR-XL	X001UT925P	B07G8979YQ	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(XL: Chest Girth 19.7",Orange)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-P0-2XL	X001UTED3B	B07G84FG9M	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(2XL: Chest Girth 21.3",Purple)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-P0-3XL	X001UT927N	B07G7XN4DC	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(3XL: Chest Girth 22.8",Purple)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-P0-4XL	X001UT92N7	B07G88FY9B	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(4XL: Chest Girth 24.8",Purple)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-P0-5XL	X001UTDI73	B07G87WF3V	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(5XL:Chest Girth 26.8",Purple)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-P0-L	X001UT927D	B07G854LFX	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(L: Chest Girth 18.1",Purple)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-P0-M	X001UTED1X	B07G8FXJDG	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(M: Chest Girth 16.5",Purple)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-P0-S	X001UTBI11	B07G86XM5W	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(S: Chest Girth 14.2",Purple)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-P0-XL	X001UT92RX	B07G8BZMCX	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(XL: Chest Girth 19.7",Purple)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-PI-2XL	X001UTD6XJ	B07G85ZBVC	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(2XL: Chest Girth 21.3",Pink)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-PI-3XL	X001UTBI1B	B07G86P16C	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(3XL: Chest Girth 22.8",Pink)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-PI-4XL	X001UTD6XT	B07G891KXC	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(4XL: Chest Girth 24.8",Pink)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-PI-5XL	X001UTDI7X	B07G86QZNH	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(5XL:Chest Girth 26.8",Pink)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-PI-L	X001UT92S7	B07G83F1B3	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(L: Chest Girth 18.1",Pink)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-PI-M	X001UTBI0R	B07G875QLK	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(M: Chest Girth 16.5",Pink)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-PI-S	X001UT926J	B07G86CCQQ	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(S: Chest Girth 14.2",Pink)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-PI-XL	X001UT92MN	B07G84PNN3	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(XL: Chest Girth 19.7",Pink)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-R0-2XL	X001USXICT	B07G84GD1R	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(2XL: Chest Girth 21.3",Red)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-R0-3XL	X001UTBHRV	B07G84WNJP	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(3XL: Chest Girth 22.8",Red)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-R0-4XL	X001UTDI8H	B07G85877R	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(4XL: Chest Girth 24.8",Red)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-R0-5XL	X001UTED45	B07G82HZKM	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(5XL:Chest Girth 26.8",Red)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-R0-L	X001UTED2H	B07G858XB6	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(L: Chest Girth 18.1",Red)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-R0-M	X001UTDG8J	B07G8BKBWW	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(M: Chest Girth 16.5",Red)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-R0-S	X001UTED1N	B07G87TJM3	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(S: Chest Girth 14.2",Red)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM200-R0-XL	X001UTBH71	B07G862XWH	luciphia Winter Dog Coat Vest Winter Coat Warm Dog Apparel for Cold Weather Dog Jacket for Small Medium Large dogs(XL: Chest Girth 19.7",Red)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-B0-L	X001UTBHZN	B07G85JS27	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Blue,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-B0-M	X001UT93IL	B07G84D2D3	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Blue,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-B0-S	X001UTDG7Z	B07G857GKJ	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Blue,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-B0-XL	X001UTBH7L	B07G7XG4M1	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Blue,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-B0-XS	X001UTBH7V	B07G86V4F2	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Blue,XS)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-OR-L	X001UT92OB	B07G81N1M8	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Orange,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-OR-M	X001UTED27	B07G87NJP8	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Orange,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-OR-S	X001UTBHYT	B07G8CQDZC	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Orange,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-OR-XL	X001UT927X	B07G85JS2B	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Orange,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-OR-XS	X001UTBI07	B07G822LKV	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Orange,XS)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-R0-L	X001UTD6X9	B07G87YMZ6	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Red,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-R0-M	X001UT92OL	B07G88LFW5	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Red,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-R0-S	X001UTBH7B	B07G84PLC1	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Red,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-R0-XL	X001UTBK0F	B07G875C6M	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Red,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+BX-PUHM201-R0-XS	X001UTBH9J	B07G83463F	luciphia Winter Waterproof Dog Vest Coats Jackets,Warm Reversible Outwear for Small Medium Large Dogs(Red,XS)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM021-CH-L	X001U2I00P	B077B51CYY	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Rainbow L	New	16.99	No		Yes	0	0	0	0	0	0.03	0	0	0
+CWB-PUHM021-CH-M	X001U2HZPV	B0779ZRTZ3	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Rainbow M	New	16.99	No		Yes	0	0	0	0	0	0.11	0	0	0
+CWB-PUHM021-CH-S	X001U23P6J	B0779RQHWK	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Rainbow S	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM021-CH-XL	X001U23P6T	B0779Z2TS6	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Rainbow XL	New	16.99	No		Yes	0	0	0	0	0	0.19	0	0	0
+CWB-PUHM021-MC-L	X001U2G8G3	B0779QX5JV	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Camouflage L	New	16.99	No		Yes	0	0	0	0	0	0.12	0	0	0
+CWB-PUHM021-MC-M	X001U2HZQ5	B0779W8MFG	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Camouflage M	New	16.99	No		Yes	0	0	0	0	0	0.09	0	0	0
+CWB-PUHM021-MC-S	X001U2G8GD	B0779W68GS	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Camouflage S	New	16.99	No		Yes	0	0	0	0	0	0.06	0	0	0
+CWB-PUHM021-MC-XL	X001U20RU1	B0779YRGR1	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Camouflage XL	New	16.99	No		Yes	0	0	0	0	0	0.11	0	0	0
+CWB-PUHM021-TW-L	X001U2G8FT	B0779RFXY2	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Colorful Strip L	New	16.99	No		Yes	0	0	0	0	0	0.15	0	0	0
+CWB-PUHM021-TW-M	X001U20RTR	B0779RT3RQ	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Colorful Strip M	New	16.99	No		Yes	0	0	0	0	0	0.1	0	0	0
+CWB-PUHM021-TW-S	X001U1PI4H	B0779V1KQL	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Colorful Strip S	New	16.99	No		Yes	0	0	0	0	0	0.05	0	0	0
+CWB-PUHM021-TW-XL	X001U2GSZJ	B0779RQ56M	Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Colorful Strip XL	New	16.99	No		Yes	0	0	0	0	0	0.15	0	0	0
+CWB-PUHM221-CH-L	X001V8WA0T	B07GNBT7W2	luciphia Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Rainbow L	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM221-CH-M	X001V8WA1D	B07GN94B2V	luciphia Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Rainbow M	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM221-CH-S	X001V918R9	B07GNCQZPR	luciphia Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Rainbow S	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM221-CH-XL	X001V91TGT	B07GND8TGZ	luciphia Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Rainbow XL	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM221-MC-L	X001V8W80V	B07GNCZNCD	luciphia Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Camouflage L	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM221-MC-M	X001V928WX	B07GN9ZJ6Q	luciphia Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Camouflage M	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM221-MC-S	X001V93FCP	B07GNB6T6R	luciphia Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Camouflage S	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM221-MC-XL	X001V8Z4BL	B07GNC7527	luciphia Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Camouflage XL	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM221-TW-L	X001V8W80L	B07GNC3JPZ	luciphia Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Colorful Strip L	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM221-TW-M	X001V8W6VH	B07GNFX49Y	luciphia Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Colorful Strip M	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM221-TW-S	X001V8OQ29	B07GNDX81H	luciphia Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Colorful Strip S	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWB-PUHM221-TW-XL	X001V8WA13	B07GNDRXVH	luciphia Pet Carrier Backpack Adjustable Legs Out Front Carrier Bag for Samll Medium Large Dogs Cats Colorful Strip XL	New	16.99	No		Yes	0	0	0	0	0	0	0	0	0
+CWDZ-IULHY-BONE-KK-L	X001UL8S6R	B07G1S35ZF	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.17	0	15	0
+CWDZ-IULHY-BONE-KK-M	X001UL8GP5	B07G27MV9D	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.11	0	15	0
+CWDZ-IULHY-BONE-KK-XL	X001UL8SKN	B07G2KS83F	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.37	0	14	0
+CWDZ-IULHY-BONE-PK-L	X001UL6UC1	B07G27JYRX	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.17	0	15	0
+CWDZ-IULHY-BONE-PK-M	X001UL8SL7	B07G21KSQ5	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.11	0	15	0
+CWDZ-IULHY-BONE-PK-XL	X001UL8SM1	B07G27282Q	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.33	0	14	0
+CWDZ-IULHY-BONE-PP-L	X001UL6H2J	B07G2KZ8VS	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.18	0	15	0
+CWDZ-IULHY-BONE-PP-M	X001ULB3DH	B07G27ZC1P	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.11	0	15	0
+CWDZ-IULHY-BONE-PP-XL	X001UL8SLH	B07G246DPR	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	3	3	0	0	17	0.36	0	14	0
+CWDZ-IULHY-DOT-BL-L	X001UL6SWD	B07G2FJJGW	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.16	0	15	0
+CWDZ-IULHY-DOT-BL-M	X001UKOJGL	B07G27XM96	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.13	0	15	0
+CWDZ-IULHY-DOT-BL-XL	X001UL7TIP	B07G2RFGP3	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.3	0	14	0
+CWDZ-IULHY-DOT-NY-L	X001UL6T59	B07G2C1ZFN	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.18	0	15	0
+CWDZ-IULHY-DOT-NY-M	X001ULB3CX	B07G2617G9	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.11	0	15	0
+CWDZ-IULHY-DOT-NY-XL	X001UL8GOV	B07G253HB8	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.38	0	14	0
+CWDZ-IULHY-DOT-PP-L	X001UL6T5T	B07G2Q2SWK	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.17	0	15	0
+CWDZ-IULHY-DOT-PP-M	X001UL7TIZ	B07G1Y3QJH	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.11	0	15	0
+CWDZ-IULHY-DOT-PP-XL	X001UL8S6H	B07G2CPXY8	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.33	0	14	0
+CWDZ-IULHY-DOT2-CF-L	X001UL8SKX	B07G2PMSTY	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.17	0	15	0
+CWDZ-IULHY-DOT2-CF-M	X001UL8SLR	B07G28X137	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	4	4	0	0	19	0.11	0	15	0
+CWDZ-IULHY-DOT2-CF-XL	X001UL8GOL	B07G29NWFH	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.28	0	14	0
+CWDZ-IULHY-DOT2-PK-L	X001UL7TI5	B07G23JJCB	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.17	0	15	0
+CWDZ-IULHY-DOT2-PK-M	X001UL7NHH	B07G2QDRMD	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.11	0	15	0
+CWDZ-IULHY-DOT2-PK-XL	X001UL6T4Z	B07G2158W8	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	4	4	0	0	18	0.38	0	14	0
+CWDZ-IULHY-DOT2-WT-L	X001UL6SVJ	B07G25389V	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.16	0	15	0
+CWDZ-IULHY-DOT2-WT-M	X001UL6L1B	B07G28B2NQ	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	19	0.1	0	14	0
+CWDZ-IULHY-DOT2-WT-XL	X001UL7NHR	B07G2C1YFR	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.42	0	14	0
+CWDZ-IULHY-ELPH-BL-L	X001UL6SW3	B07G2QF8KJ	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.18	0	15	0
+CWDZ-IULHY-ELPH-BL-M	X001UL6UD5	B07G28293G	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.14	0	15	0
+CWDZ-IULHY-ELPH-BL-XL	X001UL6T4P	B07G2C8QGB	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.34	0	14	0
+CWDZ-IULHY-ELPH-PK-L	X001UL6H97	B07G24QXHG	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.17	0	15	0
+CWDZ-IULHY-ELPH-PK-M	X001UL6UCV	B07G2DH78V	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.13	0	15	0
+CWDZ-IULHY-ELPH-PK-XL	X001UL8GPF	B07G28ZRTX	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.33	0	14	0
+CWDZ-IULHY-ELPH-YL-L	X001UL7THV	B07G23JJBY	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.19	0	15	0
+CWDZ-IULHY-ELPH-YL-M	X001UL6GPH	B07G2L2S2X	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.09	0	15	0
+CWDZ-IULHY-ELPH-YL-XL	X001UL6L1L	B07G2DRFV8	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.32	0	14	0
+CWDZ-IULHY-PAW-CF-L	X001ULB3CD	B07G2BSWX6	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.17	0	15	0
+CWDZ-IULHY-PAW-CF-M	X001UL7TIF	B07G2SQ68F	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.1	0	15	0
+CWDZ-IULHY-PAW-CF-XL	X001ULB3CN	B07G28KW3T	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.32	0	14	0
+CWDZ-IULHY-PAW-PK-L	X001UL6H9H	B07G1ZNCBK	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.17	0	15	0
+CWDZ-IULHY-PAW-PK-M	X001UL6T5J	B07G22NZL4	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.09	0	15	0
+CWDZ-IULHY-PAW-PK-XL	X001UL6GPR	B07G299C4Y	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.33	0	14	0
+CWDZ-IULHY-PAW-WT-L	X001UL6UCL	B07G2C1YFY	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.17	0	15	0
+CWDZ-IULHY-PAW-WT-M	X001UL6UCB	B07G2PMSTW	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	21	0.13	0	16	0
+CWDZ-IULHY-PAW-WT-XL	X001UL6SVT	B07G24D566	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.35	0	14	0
+CWDZ-IULHY-STAR-BL-L	X001UL6H8X	B07G291CSF	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.16	0	15	0
+CWDZ-IULHY-STAR-BL-M	X001UL6SV9	B07G22QMDQ	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	21	0.11	0	16	0
+CWDZ-IULHY-STAR-BL-XL	X001UL6L11	B07G1S5H6Q	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.3	0	14	0
+CWDZ-IULHY-STAR-KK-L	X001UL6GP7	B07G2QYD6R	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	18	0.16	0	13	0
+CWDZ-IULHY-STAR-KK-M	X001ULB3D7	B07G2BHBW5	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.1	0	15	0
+CWDZ-IULHY-STAR-KK-XL	X001UKOJGV	B07G25GC2D	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.36	0	14	0
+CWDZ-IULHY-STAR-PK-L	X001UL6H2T	B07G21XRNR	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	12.99	No		Yes	5	5	0	0	20	0.16	0	15	0
+CWDZ-IULHY-STAR-PK-M	X001UL6GQ1	B07G26TM9G	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	10.99	No		Yes	5	5	0	0	20	0.13	0	15	0
+CWDZ-IULHY-STAR-PK-XL	X001UL6H9R	B07G23P9ZY	luciphia Super Soft Fluffy Premium Fleece Pet Mat Flannel Throw for Dog Puppy Cat Bed Mats	New	18.99	No		Yes	5	5	0	0	19	0.34	0	14	0
+DZ-IUYL200-BK	B079JD7ZJ2	B079JD7ZJ2	luciphia Pet Dog Front Seat Cover For Cars - Hammock Style For Trucks SUV Van Auto Vehicle- Non slip Waterproof	New	50.99	No		Yes	8	8	0	0	8	0.39	0	0	0
+DZ-IUYL200-GR	B079J99WVX	B079J99WVX	luciphia Pet Dog Front Seat Cover For Cars - Hammock Style For Trucks SUV Van Auto Vehicle- Non slip Waterproof	New	50.99	No		Yes	4	4	0	0	4	0.38	0	0	0
+DZ-IUYL210-BK	B079JGMFTB	B079JGMFTB	luciphia Pet Seat Cover With Side Flaps, Dog Viewing Window - Hammock Large Pet Back Seat Cover for Cars, Trucks, SUV - Non slip Waterproof	New	50.99	No		Yes	0	0	0	0	0	0.32	0	0	0
+DZ-IUYL220-BK	B079JNPCJ1	B079JNPCJ1	luciphia Pet Seat Cover With Side Flaps, Dog Viewing Window - Hammock Large Pet Back Seat Cover for Cars, Trucks, SUV - Non slip Waterproof	New	50.99	No		Yes	0	0	0	0	0	0.55	0	0	0
+DZ-IUYL220-GR	B079JLS34D	B079JLS34D	luciphia Pet Seat Cover With Side Flaps, Dog Viewing Window - Hammock Large Pet Back Seat Cover for Cars, Trucks, SUV - Non slip Waterproof	New	50.99	No		Yes	0	0	0	0	0	0.59	0	0	0
+GS-FREE001-K0-S	X001V1LO3Z	B077TDYRN1	Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running ([Chest Girth S]9.8-15.7 [Width]0.4In, Buy Clothes For Free)	New	9.90	No		Yes	0	0	0	0	0	0	0	0	0
+GS-FREE201-K0-S	X001V918RJ	B07GN9GYMZ	Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running ([Chest Girth S]9.8-15.7 [Width]0.4In, Buy Clothes For Free)	New	9.90	No		Yes	0	0	0	0	0	0	0	0	0
+GS-IUYL270	B079MDCK5Y	B079MDCK5Y	luciphia Genuine Leather Pet Dog Leash Leads for Large/Medium/ Small Dogs Training/Walking	New	55.99	No		Yes	2	2	0	0	2	0	0	0	0
+GS-IUYL280-1	B079M2W31H	B079M2W31H	luciphia Genuine Leather Pet Dog Leash Leads for Large/Medium/ Small Dogs Training/Walking	New	10.98	No		Yes	3	3	0	0	3	0.12	0	0	0
+GS-IUYL280-2	B079M1Y4YS	B079M1Y4YS	luciphia Genuine Leather Pet Dog Leash Leads for Large/Medium/ Small Dogs Training/Walking	New	10.00	No		Yes	3	3	0	0	3	0.08	0	0	0
+GS-IUYL280-3	B079M4C6DT	B079M4C6DT	luciphia Genuine Leather Pet Dog Leash Leads for Large/Medium/ Small Dogs Training/Walking	New	15.98	No		Yes	3	3	0	0	3	0.09	0	0	0
 GS-PUHM019-B0-L	X001STM6LJ	B077PFD9LP	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	20.99	No		Yes	0	0	0	0	0	0.04	0	0	0
 GS-PUHM019-B0-M	X001SU8A5J	B07843RDHP	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	20.99	No		Yes	0	0	0	0	0	0.04	0	0	0
 GS-PUHM019-B0-S	X001SU8A95	B077PD7WHY	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	20.99	No		Yes	0	0	0	0	0	0.02	0	0	0
@@ -117,17 +267,68 @@ GS-PUHM019-R0-L	X001SU8ABN	B077PFB34T	luciphia Dog Leash Harness Adjustable & Du
 GS-PUHM019-R0-M	X001SU6NBH	B077P822BJ	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	20.99	No		Yes	0	0	0	0	0	0.02	0	0	0
 GS-PUHM019-R0-S	X001STS2MV	B077P3P1K6	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	20.99	No		Yes	0	0	0	0	0	0.02	0	0	0
 GS-PUHM019-R0-XL	X001STM9Z7	B07843R3WG	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	20.99	No		Yes	0	0	0	0	0	0.15	0	0	0
-GW-LULHY-10	X001SLSCMT	B01M3R3CVA	luciphia Dog Bowl Stainless Steel With Rubber Base that Bowls Wont Slip Perfect for Middle Large Size Dogs Dog Food Bowl Water Bowl	New	20.99	No		Yes	3	3	0	0	3	0.06	0	0	0
-GW-LULHY-4.5	X001SMPR7V	B078HNLGWS	luciphia Pet Food Bowl Stainless Steel Non Skid Pet Paws Doodler Dish Perfect for a Small Dog Cat Kitten Puppy (set of 2)	New	20.99	No		Yes	8	8	0	0	8	0.09	0	0	0
-GW-LULHY-5.1	X001SMP41F	B078H79DCY	luciphia Pet Food Bowl Stainless Steel Non Skid Pet Paws Doodler Dish Perfect for a Small Dog Cat Kitten Puppy (set of 2)	New	20.99	No		Yes	8	8	0	0	8	0	0	0	0
-GW-LULHY-6.2	X001SMQ8KV	B078HD4M37	luciphia Pet Food Bowl Stainless Steel Non Skid Pet Paws Doodler Dish Perfect for a Small Dog Cat Kitten Puppy (set of 2)	New	20.99	No		Yes	10	10	0	0	10	0.23	0	0	0
-GW-LULHY-7.6	X001SLKA0B	B019V6RKPQ	luciphia Dog Bowl Stainless Steel With Rubber Base that Bowls Wont Slip Perfect for Middle Large Size Dogs Dog Food Bowl Water Bowl	New	20.99	No		Yes	4	4	0	0	4	0.27	0	0	0
-GW-LULHY-8.8	X001SMP35H	B019V6P53K	luciphia Dog Bowl Stainless Steel With Rubber Base that Bowls Wont Slip Perfect for Middle Large Size Dogs Dog Food Bowl Water Bowl	New	20.99	No		Yes	3	3	0	0	3	0.2	0	0	0
-HZB-QJTZ-IUYL300310	B07B9WYZG3	B07B9WYZG3	luciphia Pet Grooming Kit - Dog Cat Nail Clipper, Deshedding Brush, Dematting Comb Rake, Pin Brush Trimmer, Travel Storage Bag 6-in-1 Grooming Tools Kit Box Set	New	38.99	No		Yes	13	13	0	0	13	0.38	0	0	0
-KZ-LY021-BK-32	B077Z3FG6P	B077Z3FG6P	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
-KZ-LY021-BK-34	B077YWH21S	B077YWH21S	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
-KZ-LY021-BK-36	B077Z7RY9J	B077Z7RY9J	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
-KZ-LY021-BK-38	B077Z7RP45	B077Z7RP45	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	0	0	0	0	0		0	0	0
+GS-PUHM219-B0-L	X001USXIBF	B07G85HMBP	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+GS-PUHM219-B0-M	X001UTDI8R	B07G7YCYQ5	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+GS-PUHM219-B0-S	X001UTDYV3	B07G82PXNW	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+GS-PUHM219-B0-XL	X001UTBHPN	B07G88QBSK	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+GS-PUHM219-K0-L	X001USXI9R	B07G8954KX	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+GS-PUHM219-K0-M	X001UTBH85	B07G87YQRP	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+GS-PUHM219-K0-S	X001UT93JP	B07G87PSM5	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+GS-PUHM219-K0-XL	X001UTDCXD	B07G85W7XP	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+GS-PUHM219-R0-L	X001UTD6Y3	B07G875JPS	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+GS-PUHM219-R0-M	X001UTBHR1	B07G88B1XD	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+GS-PUHM219-R0-S	X001UTBH8F	B07G7YJGNL	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+GS-PUHM219-R0-XL	X001UT92NR	B07G851RFK	luciphia Dog Leash Harness Adjustable & Durable Leash Set & Heavy Duty Denim Dog Leash Collar for Small Perfect for Daily Training Walking Running	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+GW-IUHM-BONE-BK-L	X001U3ZR5P	B07FM7ZNYH	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Black,L(31.4x25.5In)	New	35.99	No		Yes	30	30	0	0	30	0.65	0	0	0
+GW-IUHM-BONE-BK-M	X001U4KX85	B07FM5RG53	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Black,M(27.5x21.6In)	New	30.99	No		Yes	30	30	0	0	30	0.27	0	0	0
+GW-IUHM-BONE-BK-S	X001U4L5EL	B07FM9Z4WW	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Black,S(23.6x17.7In)	New	25.99	No		Yes	30	18	0	12	30	0.11	0	0	0
+GW-IUHM-BONE-BK-XL	X001U3BFGZ	B07FM6X6DD	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Black,XL(35.4x29.5In)	New	40.99	No		Yes	20	14	0	6	20	0.96	0	0	0
+GW-IUHM-BONE-CF-L	X001U3BFV5	B07FM6XD9K	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Coffee,L(31.4x25.5In)	New	35.99	No		Yes	30	30	0	0	30	0.73	0	0	0
+GW-IUHM-BONE-CF-M	X001U4KTAR	B07FMJZCZ9	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Coffee,M(27.5x21.6In)	New	30.99	No		Yes	62	46	0	16	62	0.5	0	0	0
+GW-IUHM-BONE-CF-S	X001U4EY2V	B07FM6XK1D	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Coffee,S(23.6x17.7In)	New	25.99	No		Yes	30	30	0	0	30	0.36	0	0	0
+GW-IUHM-BONE-CF-XL	X001U4EY3P	B07FMM4Q16	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Coffee,XL(35.4x29.5In)	New	40.99	No		Yes	21	9	0	12	21	0	0	0	0
+GW-IUHM-BONE-GR-L	X001U4XTXL	B07FM5RQDQ	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Grey,L(31.4x25.5In)	New	35.99	No		Yes	31	11	0	20	31	0.36	0	0	0
+GW-IUHM-BONE-GR-M	X001U3BFGF	B07FMLX98P	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Grey,M(27.5x21.6In)	New	30.99	No		Yes	30	7	0	23	30	0.28	0	0	0
+GW-IUHM-BONE-GR-S	X001U3ZR55	B07FM6MGV9	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Grey,S(23.6x17.7In)	New	25.99	No		Yes	30	5	0	25	30	0.38	0	0	0
+GW-IUHM-BONE-GR-XL	X001U4KWT5	B07FM6XTK8	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Grey,XL(35.4x29.5In)	New	40.99	No		Yes	20	19	1	0	20	0.47	0	0	0
+GW-IUHM-BONE-LB-L	X001U4EY3F	B07FM6LVGV	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Sky Blue,L(31.4x25.5In)	New	35.99	No		Yes	9	7	0	2	11	0.45	0	1	1
+GW-IUHM-BONE-LB-M	X001U3ZR3R	B07FMJ7PGR	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Sky Blue,M(27.5x21.6In)	New	30.99	No		Yes	9	4	0	5	11	0.47	0	1	1
+GW-IUHM-BONE-LB-S	X001U3BFH9	B07FM5RNMG	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Sky Blue,S(23.6x17.7In)	New	25.99	No		Yes	19	7	0	12	20	0.38	0	1	0
+GW-IUHM-BONE-LB-XL	X001U3BIUD	B07FMBYQDN	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Sky Blue,XL(35.4x29.5In)	New	40.99	No		Yes	8	1	0	7	11	0.92	0	1	2
+GW-IUHM-BONE-PK-L	X001U4KWTF	B07FM8ZD2W	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Pink,L(31.4x25.5In)	New	35.99	No		Yes	10	6	0	4	10	0.92	0	0	0
+GW-IUHM-BONE-PK-M	X001U3ZRBT	B07FM6X9XD	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Pink,M(27.5x21.6In)	New	30.99	No		Yes	10	6	0	4	10	0.86	0	0	0
+GW-IUHM-BONE-PK-S	X001U3BFUV	B07FM6X922	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Pink,S(23.6x17.7In)	New	25.99	No		Yes	20	8	0	12	20	0.36	0	0	0
+GW-IUHM-BONE-PK-XL	X001U4L5EV	B07FM7ZB3H	luciphia Textiles Reversible Rectangle Pet Bed with Dog Paw and Bone Printing Bone-Pink,XL(35.4x29.5In)	New	40.99	No		Yes	10	5	0	5	10	0.86	0	0	0
+GW-IUHM-PAW-CF-L	X001U3ZRU5	B07FMF521W	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Coffee,L(31.4x25.5In)	New	35.99	No		Yes	26	1	0	25	30	0	0	0	4
+GW-IUHM-PAW-CF-M	X001U4L5F5	B07FM6XPBL	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Coffee,M(27.5x21.6In)	New	30.99	No		Yes	30	11	0	19	30	0.34	0	0	0
+GW-IUHM-PAW-CF-S	X001U3BIU3	B07FM6XH9K	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Coffee,S(23.6x17.7In)	New	25.99	No		Yes	34	13	0	21	36	0	0	0	2
+GW-IUHM-PAW-CF-XL	X001U4EY35	B07FM5R5JH	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Coffee,XL(35.4x29.5In)	New	40.99	No		Yes	20	3	0	17	20	0.54	0	0	0
+GW-IUHM-PAW-GN-L	X001U3BFVP	B07FM6WPSH	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Green,L(31.4x25.5In)	New	35.99	No		Yes	9	2	0	7	10	0.58	0	1	0
+GW-IUHM-PAW-GN-M	X001U3ZR5F	B07FM5RP8F	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Green,M(27.5x21.6In)	New	30.99	No		Yes	9	9	0	0	11	0	0	1	1
+GW-IUHM-PAW-GN-S	X001U3ZR41	B07FM6Y6QN	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Green,S(23.6x17.7In)	New	25.99	No		Yes	18	2	0	16	19	0.29	0	1	0
+GW-IUHM-PAW-GN-XL	X001U4L5IR	B07FMBSW8Q	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Green,XL(35.4x29.5In)	New	40.99	No		Yes	9	3	0	6	10	0	0	1	0
+GW-IUHM-PAW-LB-L	X001U4KWSV	B07FMBSRLC	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Sky Blue,L(31.4x25.5In)	New	35.99	No		Yes	9	0	0	9	10	0	0	0	1
+GW-IUHM-PAW-LB-M	X001U4EY2L	B07FM6WZNK	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Sky Blue,M(27.5x21.6In)	New	30.99	No		Yes	10	10	0	0	10	0.34	0	0	0
+GW-IUHM-PAW-LB-S	X001U3BFRJ	B07FM1B31D	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Sky Blue,S(23.6x17.7In)	New	25.99	No		Yes	21	4	0	17	21	0.22	0	0	0
+GW-IUHM-PAW-LB-XL	X001U3ZR37	B07FM1PWXY	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Sky Blue,XL(35.4x29.5In)	New	40.99	No		Yes	10	10	0	0	10	0.74	0	0	0
+GW-IUHM-PAW-OR-L	X001U3BFVF	B07FM1N386	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Orange,L(31.4x25.5In)	New	35.99	No		Yes	10	9	1	0	10	0.36	0	0	0
+GW-IUHM-PAW-OR-M	X001U4L5FF	B07FM1N358	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Orange,M(27.5x21.6In)	New	30.99	No		Yes	8	8	0	0	8	0.25	0	0	0
+GW-IUHM-PAW-OR-S	X001U3BISZ	B07FMJ852H	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Orange,S(23.6x17.7In)	New	25.99	No		Yes	20	6	0	14	20	0.38	0	0	0
+GW-IUHM-PAW-OR-XL	X001U4L5EB	B07FMD84PY	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Orange,XL(35.4x29.5In)	New	40.99	No		Yes	9	5	0	4	9	0.5	0	0	0
+GW-IUHM-PAW-PK-L	X001U3BFR9	B07FM7Z6C9	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Pink,L(31.4x25.5In)	New	35.99	No		Yes	10	6	0	4	10	0.41	0	0	0
+GW-IUHM-PAW-PK-M	X001U3BFGP	B07FMJ672F	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Pink,M(27.5x21.6In)	New	30.99	No		Yes	10	10	0	0	10	0.34	0	0	0
+GW-IUHM-PAW-PK-S	X001U4L5E1	B07FMC5GL6	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Pink,S(23.6x17.7In)	New	25.99	No		Yes	20	7	0	13	20	0.27	0	0	0
+GW-IUHM-PAW-PK-XL	X001U4XTXV	B07FM7ZXWX	luciphia Rectangle Pet Dog Sofa Bed - Comfortable Two-Sided Cushion, Paw and Bone Patterned Linen Fabric Cover, Square Bed for Dog and Cat, Water-Resistant Bottom PAW-Pink,XL(35.4x29.5In)	New	40.99	No		Yes	10	10	0	0	10	0.5	0	0	0
+GW-LULHY-10	X001SLSCMT	B01M3R3CVA	luciphia Stainless Steel Pet Dog Bowl For Small Middle Large Cats Dogs Calibre-10In	New	20.99	No		Yes	23	23	0	0	23	0.68	0	0	0
+GW-LULHY-4.5	X001SMPR7V	B078HNLGWS	luciphia 2 Packs Stainless Steel Pet Dog Bowl For Small Middle Large Cats Dogs Calibre-4.5In	New	20.99	No		Yes	8	8	0	0	8	0.09	0	0	0
+GW-LULHY-5.1	X001SMP41F	B078H79DCY	luciphia 2 Packs Stainless Steel Pet Dog Bowl For Small Middle Large Cats Dogs Calibre-5.1In	New	20.99	No		Yes	8	8	0	0	8	0.06	0	0	0
+GW-LULHY-6.2	X001SMQ8KV	B078HD4M37	luciphia 2 Pack Stainless Steel Pet Dog Bowl For Small Middle Large Cats Dogs Calibre-6.3In	New	20.99	No		Yes	6	6	0	0	6	0.23	0	0	0
+GW-LULHY-7.6	X001SLKA0B	B019V6RKPQ	luciphia Stainless Steel Pet Dog Bowl For Small Middle Large Cats Dogs Calibre-7.7In	New	20.99	No		Yes	24	24	0	0	24	0.27	0	0	0
+GW-LULHY-8.8	X001SMP35H	B019V6P53K	luciphia Stainless Steel Pet Dog Bowl For Small Middle Large Cats Dogs Calibre-8.9In	New	20.99	No		Yes	22	22	0	0	22	0.2	0	0	0
+HZB-QJTZ-IUYL300310	B07B9WYZG3	B07B9WYZG3	luciphia Pet Grooming Kit - Dog Cat Nail Clipper, Deshedding Brush, Dematting Comb Rake, Pin Brush Trimmer, Travel Storage Bag 6-in-1 Grooming Tools Kit Box Set	New	32.99	No		Yes	0	0	0	0	0	0.38	0	0	0
+KZ-LY021-BK-32	B077Z3FG6P	B077Z3FG6P	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	1	1	0	0	1		0	0	0
+KZ-LY021-BK-34	B077YWH21S	B077YWH21S	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	1	1	0	0	1		0	0	0
+KZ-LY021-BK-36	B077Z7RY9J	B077Z7RY9J	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	2	2	0	0	2		0	0	0
 KZ-LY021-BK-40	B077Z1TXX5	B077Z1TXX5	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	2	2	0	0	2		0	0	0
 KZ-LY021-BL-32	B077YWH5DT	B077YWH5DT	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
 KZ-LY021-BL-34	B0785Q5CB9	B0785Q5CB9	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
@@ -135,61 +336,64 @@ KZ-LY021-BL-36	B077Z629JV	B077Z629JV	Luciphia Men's Fit Straight Leg Casual Pant
 KZ-LY021-BL-38	B077Z5M1T9	B077Z5M1T9	Luciphia Men's Fit Straight Leg Casual Pants	New	12.00	No		Yes	1	1	0	0	1		0	0	0
 KZ-LY021-BL-40	B077Z1SBLC	B077Z1SBLC	Luciphia Men's Fit Straight Leg Casual Pants	New	12.00	No		Yes	2	2	0	0	2		0	0	0
 KZ-LY021-GY-32	B0785PHFJC	B0785PHFJC	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
-KZ-LY021-GY-34	B077Z1SFPY	B077Z1SFPY	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
+KZ-LY021-GY-34	B077Z1SFPY	B077Z1SFPY	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	2	2	0	0	2		0	0	0
 KZ-LY021-GY-36	B077YWGZ93	B077YWGZ93	Luciphia Men's Fit Straight Leg Casual Pants	New	12.00	No		Yes	3	3	0	0	3		0	0	0
 KZ-LY021-GY-38	B077Z1QNCD	B077Z1QNCD	Luciphia Men's Fit Straight Leg Casual Pants	New	12.00	No		Yes	2	2	0	0	2		0	0	0
 KZ-LY021-GY-40	B077YWGW7H	B077YWGW7H	Luciphia Men's Fit Straight Leg Casual Pants	New	15.00	No		Yes	3	3	0	0	3		0	0	0
-KZ-LY021-KK-32	B0785PS8WV	B0785PS8WV	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	1	1	0	0	1		0	0	0
-KZ-LY021-KK-34	B0785SC1FB	B0785SC1FB	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
-KZ-LY021-KK-38	B077Z5LR3B	B077Z5LR3B	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	2	2	0	0	2		0	0	0
-KZ-LY021-KK-40	B077YWGXBQ	B077YWGXBQ	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
-KZ-LY021-NY-32	B077Z7RK81	B077Z7RK81	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	2	2	0	0	2		0	0	0
-KZ-LY021-NY-34	B077Z617BX	B077Z617BX	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
-KZ-LY021-NY-36	B0785RM358	B0785RM358	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	1	1	0	0	1		0	0	0
-KZ-LY021-NY-38	B077Z1QPRQ	B077Z1QPRQ	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
-KZ-LY021-NY-40	B077Z3FG6V	B077Z3FG6V	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
+KZ-LY021-KK-32	B0785PS8WV	B0785PS8WV	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	0	0	0	0	0		0	0	0
+KZ-LY021-KK-34	B0785SC1FB	B0785SC1FB	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	0	0	0	0	0		0	0	0
+KZ-LY021-KK-38	B077Z5LR3B	B077Z5LR3B	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	1	1	0	0	1		0	0	0
+KZ-LY021-KK-40	B077YWGXBQ	B077YWGXBQ	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	2	2	0	0	2		0	0	0
+KZ-LY021-NY-32	B077Z7RK81	B077Z7RK81	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	0	0	0	0	0		0	0	0
+KZ-LY021-NY-34	B077Z617BX	B077Z617BX	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	1	1	0	0	1		0	0	0
+KZ-LY021-NY-36	B0785RM358	B0785RM358	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	0	0	0	0	0		0	0	0
+KZ-LY021-NY-38	B077Z1QPRQ	B077Z1QPRQ	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	0	0	0	0	0		0	0	0
+KZ-LY021-NY-40	B077Z3FG6V	B077Z3FG6V	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	0	0	0	0	0		0	0	0
 KZ-LY021-WR-32	B077Z7R3DQ	B077Z7R3DQ	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
 KZ-LY021-WR-34	B0785PV9GH	B0785PV9GH	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
 KZ-LY021-WR-36	B0785P964M	B0785P964M	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
 KZ-LY021-WR-38	B077Z7QZZY	B077Z7QZZY	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
-KZ-LY021-WR-40	B077YWGR1B	B077YWGR1B	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	3	3	0	0	3		0	0	0
-LGQ-IUYL100-BL	B0798PCSXB	B0798PCSXB	Luciphia Retractable Dog Walking Leash 16 ft for Small Medium Large Dogs - Up To 88 lb Dog - Ergonomic Grip - Waste Bag Dispenser and Collapsible Water Bowl included	New	17.90	No		Yes	8	8	0	0	8	0.19	0	0	0
-LGQ-IUYL100-GN	B0798NZCMN	B0798NZCMN	Luciphia Retractable Dog Walking Leash 16 ft for Small Medium Large Dogs - Up To 88 lb Dog - Ergonomic Grip - Waste Bag Dispenser and Collapsible Water Bowl included	New	17.90	No		Yes	8	8	0	0	8	0.11	0	0	0
-LGQ-IUYL100-PK	B0798PX336	B0798PX336	Luciphia Retractable Dog Walking Leash 16 ft for Small Medium Large Dogs - Up To 88 lb Dog - Ergonomic Grip - Waste Bag Dispenser and Collapsible Water Bowl included	New	17.90	No		Yes	6	3	2	1	6	0.19	0	0	0
-LGQ-IUYL100-RD	B0798PY6XT	B0798PY6XT	Luciphia Retractable Pet Dog Walking Leash for Small Medium Large Dogs - Ergonomic Grip - Waste Bag Dispenser and Collapsible Water Bowl included	New	17.98	No		Yes	8	8	0	0	8	0.16	0	0	0
-LGQ-IUYL100-WT	B0798P1DCX	B0798P1DCX	Luciphia Retractable Dog Walking Leash 16 ft for Small Medium Large Dogs - Up To 88 lb Dog - Ergonomic Grip - Waste Bag Dispenser and Collapsible Water Bowl included	New	17.90	No		Yes	12	12	0	0	12	0.24	0	0	0
-LGQ-IUYL100-YL	B0798NZTJD	B0798NZTJD	Luciphia Retractable Dog Walking Leash 16 ft for Small Medium Large Dogs - Up To 88 lb Dog - Ergonomic Grip - Waste Bag Dispenser and Collapsible Water Bowl included	New	17.90	No		Yes	20	20	0	0	20	0.22	0	0	0
-LYQ-WF7125-BO-2X	B077XTXJ7Q	B077XTXJ7Q	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic 2XL Dress Blue	New	35.00	No		Yes	3	3	0	0	3	0.12	0	0	0
-LYQ-WF7125-BO-L	B077XX3FN9	B077XX3FN9	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress L Blue	New	35.00	No		Yes	4	4	0	0	4	0.12	0	0	0
-LYQ-WF7125-BO-M	B077XX612Q	B077XX612Q	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress M Blue	New	35.00	No		Yes	1	0	0	1	1	0.12	0	0	0
-LYQ-WF7125-BO-S	B077XRHLYX	B077XRHLYX	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress S Blue	New	35.00	No		Yes	4	4	0	0	4	0.12	0	0	0
-LYQ-WF7125-BO-XL	B077XQDLK8	B077XQDLK8	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress XL Blue	New	35.00	No		Yes	4	4	0	0	4	0.12	0	0	0
-LYQ-WF7125-K0-2L	B077XX5X7K	B077XX5X7K	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress 2XL Black	New	35.00	No		Yes	5	5	0	0	5	0.12	0	0	0
-LYQ-WF7125-KO-L	B077XVSQHX	B077XVSQHX	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress L Black	New	35.00	No		Yes	4	4	0	0	4	0.12	0	0	0
-LYQ-WF7125-KO-M	B077XTZVP8	B077XTZVP8	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress M Black	New	35.00	No		Yes	4	4	0	0	4	0.12	0	0	0
-LYQ-WF7125-KO-S	B077XQBJQ8	B077XQBJQ8	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress S Black	New	35.00	No		Yes	5	5	0	0	5	0.12	0	0	0
-LYQ-WF7125-KO-XL	B077XVV8MB	B077XVV8MB	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress XL Black	New	35.00	No		Yes	4	4	0	0	4	0.12	0	0	0
-LYQ-WF7125-NO-2L	B0785HZPS2	B0785HZPS2	Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress 2XL Brown	New	35.00	No		Yes	5	5	0	0	5	0.12	0	0	0
-LYQ-WF7125-NO-L	B077XRZBGV	B077XRZBGV	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress L Brown	New	35.00	No		Yes	3	3	0	0	3	0.12	0	0	0
-LYQ-WF7125-NO-S	B0785L1H91	B0785L1H91	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress S Brown	New	35.00	No		Yes	5	5	0	0	5	0.12	0	0	0
-LYQ-WF7125-NO-XL	B077XV3LFS	B077XV3LFS	Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress XL Brown	New	35.00	No		Yes	5	5	0	0	5	0.12	0	0	0
-LYQ-WF7125-NO-XS	B077XX5QDF	B077XX5QDF	Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress XS Brown	New	35.00	No		Yes	3	3	0	0	3	0.12	0	0	0
-LYQ-WF7125-PO-2L	B077XVSW32	B077XVSW32	Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress 2XL Purple	New	35.00	No		Yes	3	3	0	0	3	0.12	0	0	0
-LYQ-WF7125-PO-L	B077XQBVHJ	B077XQBVHJ	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress L Purple	New	35.00	No		Yes	5	5	0	0	5	0.12	0	0	0
-LYQ-WF7125-PO-M	B077XTXHVH	B077XTXHVH	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress M Purple	New	35.00	No		Yes	2	2	0	0	2	0.12	0	0	0
-LYQ-WF7125-PO-S	B0785K545N	B0785K545N	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress S Purple	New	35.00	No		Yes	5	5	0	0	5	0.12	0	0	0
-LYQ-WF7125-PO-XL	B0785L1RRG	B0785L1RRG	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress XL Purple	New	35.00	No		Yes	4	4	0	0	4	0.12	0	0	0
-LYQ-WF7125-PO-XS	B0785JC4N5	B0785JC4N5	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress XS Purple	New	35.00	No		Yes	3	3	0	0	3	0.12	0	0	0
-LYQ-WF7125-WO-2L	B077XQDLK1	B077XQDLK1	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress 2XL White	New	35.00	No		Yes	4	4	0	0	4	0.12	0	0	0
-LYQ-WF7125-WO-M	B077XRYWSK	B077XRYWSK	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress M White	New	35.00	No		Yes	0	0	0	0	0	0.12	0	0	0
-LYQ-WF7125-WO-XL	B077XTXG7X	B077XTXG7X	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress XL White	New	35.00	No		Yes	0	0	0	0	0	0.12	0	0	0
-LYQ-WF7125-WO-XS	B077XRZ4P9	B077XRZ4P9	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress XS White	New	35.00	No		Yes	1	1	0	0	1	0.12	0	0	0
-MJ-IUYL230-BL-L	X001OWXULF	B079GNVPFC	Luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Blue 31 x 13 inch	New	25.99	No		Yes	1	1	0	0	1	0	0	0	0
-MJ-IUYL230-BL-S	X001OWQEJP	B079GN5DSL	Luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Blue 19 x 13 inch	New	18.99	No		Yes	4	4	0	0	4	0	0	0	0
-MJ-IUYL230-CF-L	X001OX068T	B079GTFGYN	luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Coffee 31 x 13 inch	New	25.99	No		Yes	4	4	0	0	4	0	0	0	0
-MJ-IUYL230-CF-S	X001OWR7JV	B079GQWL9S	Luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Coffee 19 x 13 inch	New	18.99	No		Yes	2	2	0	0	2	0	0	0	0
-MJ-IUYL230-PK-L	X001OVSWZP	B079GQ7X19	Luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Pink 31 x 13 inch	New	25.99	No		Yes	5	5	0	0	5	0	0	0	0
-MJ-IUYL230-PK-S	X001OVSWZF	B079GS1ZJR	Luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Pink 19 x 13 inch	New	18.99	No		Yes	3	3	0	0	3	0	0	0	0
+KZ-LY021-WR-40	B077YWGR1B	B077YWGR1B	Luciphia Men's Fit Straight Leg Casual Pants	New	40.00	No		Yes	2	2	0	0	2		0	0	0
+LGQ-IUYL100-BL	B0798PCSXB	B0798PCSXB	luciphia Retractable Dog Walking Leash 16 ft Small Medium Large Dogs - Up To 88 lb Dog - Ergonomic Grip - Waste Bag Dispenser Collapsible Water Bowl included	New	18.90	No		Yes	13	13	0	0	13	0.19	0	0	0
+LGQ-IUYL100-GN	B0798NZCMN	B0798NZCMN	luciphia Retractable Dog Walking Leash 16 ft Small Medium Large Dogs - Up To 88 lb Dog - Ergonomic Grip - Waste Bag Dispenser Collapsible Water Bowl included	New	18.90	No		Yes	7	7	0	0	7	0.11	0	0	0
+LGQ-IUYL100-PK	B0798PX336	B0798PX336	luciphia Retractable Dog Walking Leash 16 ft Small Medium Large Dogs - Up To 88 lb Dog - Ergonomic Grip - Waste Bag Dispenser Collapsible Water Bowl included	New	18.90	No		Yes	16	12	0	4	16	0.19	0	0	0
+LGQ-IUYL100-RD	B0798PY6XT	B0798PY6XT	luciphia Retractable Pet Dog Walking Leash Small Medium Large Dogs - Ergonomic Grip - Waste Bag Dispenser Collapsible Water Bowl included	New	18.90	No		Yes	7	5	0	2	7	0.16	0	0	0
+LGQ-IUYL100-WT	B0798P1DCX	B0798P1DCX	luciphia Retractable Dog Walking Leash 16 ft Small Medium Large Dogs - Up To 88 lb Dog - Ergonomic Grip - Waste Bag Dispenser Collapsible Water Bowl included	New	18.90	No		Yes	6	6	0	0	6	0.24	0	0	0
+LGQ-IUYL100-YL	B0798NZTJD	B0798NZTJD	luciphia Retractable Dog Walking Leash 16 ft Small Medium Large Dogs - Up To 88 lb Dog - Ergonomic Grip - Waste Bag Dispenser Collapsible Water Bowl included	New	18.90	No		Yes	21	21	0	0	21	0.22	0	0	0
+LYQ-WF7125-BO-2X	B077XTXJ7Q	B077XTXJ7Q	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic 2XL Dress Blue	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-BO-L	B077XX3FN9	B077XX3FN9	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress L Blue	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-BO-M	B077XX612Q	B077XX612Q	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress M Blue	New	35.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-BO-S	B077XRHLYX	B077XRHLYX	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress S Blue	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-BO-XL	B077XQDLK8	B077XQDLK8	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress XL Blue	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-K0-2L	B077XX5X7K	B077XX5X7K	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress 2XL Black	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-KO-L	B077XVSQHX	B077XVSQHX	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress L Black	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-KO-M	B077XTZVP8	B077XTZVP8	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress M Black	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-KO-S	B077XQBJQ8	B077XQBJQ8	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress S Black	New	35.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-KO-XL	B077XVV8MB	B077XVV8MB	Luciphia Women's Tops Long Sleeve A-Line Lace Stitching Trim Casual Tunic Dress XL Black	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-NO-2L	B0785HZPS2	B0785HZPS2	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress 2XL Brown	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-NO-L	B077XRZBGV	B077XRZBGV	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress L Brown	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-NO-S	B0785L1H91	B0785L1H91	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress S Brown	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-NO-XL	B077XV3LFS	B077XV3LFS	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress XL Brown	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-NO-XS	B077XX5QDF	B077XX5QDF	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress XS Brown	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-PO-2L	B077XVSW32	B077XVSW32	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress 2XL Purple	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-PO-L	B077XQBVHJ	B077XQBVHJ	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress L Purple	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-PO-M	B077XTXHVH	B077XTXHVH	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress M Purple	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-PO-S	B0785K545N	B0785K545N	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress S Purple	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-PO-XL	B0785L1RRG	B0785L1RRG	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress XL Purple	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-PO-XS	B0785JC4N5	B0785JC4N5	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress XS Purple	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-WO-2L	B077XQDLK1	B077XQDLK1	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress 2XL White	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-WO-M	B077XRYWSK	B077XRYWSK	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress M White	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-WO-XL	B077XTXG7X	B077XTXG7X	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress XL White	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+LYQ-WF7125-WO-XS	B077XRZ4P9	B077XRZ4P9	Women's Tops Long Sleeve A-line Lace Stitching Trim Casual Tunic Dress XS White	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+MJ-IUYL230-BL-L	X001OWXULF	B079GNVPFC	luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Blue 31 x 13 inch	New	25.99	No		Yes	10	0	0	10	20	0.02	0	0	10
+MJ-IUYL230-BL-S	X001OWQEJP	B079GN5DSL	luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Blue 19 x 13 inch	New	18.99	No		Yes	7	7	0	0	7	0.1	0	0	0
+MJ-IUYL230-CF-L	X001OX068T	B079GTFGYN	luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Coffee 31 x 13 inch	New	25.99	No		Yes	15	0	0	15	15	0.15	0	0	0
+MJ-IUYL230-CF-S	X001OWR7JV	B079GQWL9S	luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Coffee 19 x 13 inch	New	18.99	No		Yes	10	10	0	0	10	0.11	0	0	0
+MJ-IUYL230-PK-L	X001OVSWZP	B079GQ7X19	luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Pink 31 x 13 inch	New	25.99	No		Yes	10	0	0	10	20	0.02	0	0	10
+MJ-IUYL230-PK-S	X001OVSWZF	B079GS1ZJR	luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Pink 19 x 13 inch	New	18.99	No		Yes	6	6	0	0	6	0.1	0	0	0
+MMDC-IUHM100-BK	X001U3ZR3H	B07FMJ852L	luciphia Cat Hammock Bed Comfortable Hanging Pet for Cats/Dogs/Rabbits/Small Animals Black 21.6x16.9In	New	22.99	No		Yes	11	0	0	11	11	0.04	0	0	0
+MMDC-IUHM100-BL	X001U3BFNN	B07FM7ZQJJ	luciphia Cat Hammock Bed Comfortable Hanging Pet for Cats/Dogs/Rabbits/Small Animals Blue 21.6x16.9In	New	22.99	No		Yes	11	0	0	11	11	0.03	0	0	0
+MMDC-IUHM100-PK	X001U4L5J1	B07FMJW6W8	luciphia Cat Hammock Bed Comfortable Hanging Pet for Cats/Dogs/Rabbits/Small Animals Pink 21.6x16.9In	New	22.99	No		Yes	10	0	0	10	10	0.04	0	0	0
 MY-PUHM001-OR-10	X001SU4NJ1	B077N24PG2	luciphia Winter Dog Sweater Vest Warm Coat for Small Medium Dogs	New	10.00	No		Yes	0	0	0	0	0	0.06	0	0	0
 MY-PUHM001-OR-12	X001SU6MQN	B077N3LV33	luciphia Winter Dog Sweater Vest Warm Coat for Small Medium Dogs	New	10.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 MY-PUHM001-OR-14	X001SU7EKL	B077MXMG77	luciphia Winter Dog Sweater Vest Warm Coat for Small Medium Dogs	New	10.00	No		Yes	0	0	0	0	0	0.09	0	0	0
@@ -224,6 +428,50 @@ MY-PUHM036-B0-M	X001SU7EJR	B0784T4MYY	luciphia Warm Pet Dog Sweater Hoodies For 
 MY-PUHM036-B0-S	X001STQJM1	B077SDZ32V	luciphia Warm Pet Dog Sweater Hoodies For Small Dogs	New	10.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 MY-PUHM036-B0-XL	X001SU74IX	B078C5JLZV	luciphia Warm Pet Dog Sweater Hoodies For Small Dogs	New	10.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 MY-PUHM036-B0-XXL	X001SU6MOF	B077SSQFMX	luciphia Warm Pet Dog Sweater Hoodies For Small Dogs	New	10.00	No		Yes	0	0	0	0	0	0.02	0	0	0
+MY-PUHM201-OR-10	X001UT92RD	B07G89FCVG	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Orange,XS)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-OR-12	X001UTD6WZ	B07G84ST7Y	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Orange,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-OR-14	X001UTED2R	B07G7ZVY3H	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Orange,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-OR-16	X001UT92R3	B07G87P4YR	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Orange,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-OR-20	X001UTED3L	B07G89HYXM	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Orange,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-OR-24	X001UTD6WF	B07G87H9P7	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Orange,XXL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-OR-28	X001UTDYTP	B07G873179	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Orange,XXXL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-OR-8	X001UT92NH	B07G85FS5N	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Orange,XXS)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-R0-10	X001UTD6VV	B07G83DX23	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Red,XS)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-R0-12	X001UTD6VL	B07G87CSG4	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Red,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-R0-14	X001UT92O1	B07G87WF3H	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Red,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-R0-16	X001UTDI87	B07G8DG4F3	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Red,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-R0-20	X001UTBHPX	B07G8B746Q	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Red,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-R0-24	X001UT9273	B07G84137T	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Red,XXL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-R0-28	X001UTDYVN	B07G84B3YC	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Red,XXXL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-R0-8	X001UTDYVD	B07G83H92R	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Red,XXS)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-ZL-10	X001UTD9TZ	B07G89R8FM	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Blue,XS)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-ZL-12	X001UTD9TP	B07G84QX78	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Blue,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-ZL-14	X001UTED4F	B07G89FFKV	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Blue,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-ZL-16	X001UTBH6R	B07G87TN82	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Blue,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-ZL-20	X001UTBHYJ	B07G89RDC1	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Blue,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-ZL-24	X001USXID3	B07G854DZ1	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Blue,XXL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-ZL-28	X001UTD6W5	B07G84CFGV	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Blue,XXXL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM201-ZL-8	X001UT936X	B07G89R4WV	luciphia Dog Clothes Winter Woolen Sweater Knitwear Puppy Clothing Warm Coat for Small Medium and large Dog(Blue,XXS)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM235-R0-L	X001UTCUWR	B07G88Y7QP	luciphia Pet Dog Clothes Dog Hoodies Coats Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Red,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM235-R0-M	X001UTDCER	B07G86NNB8	luciphia Pet Dog Clothes Dog Hoodies Coats Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Red,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM235-R0-S	X001UTBH8Z	B07G85J47D	luciphia Pet Dog Clothes Dog Hoodies Coats Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Red,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM235-R0-XL	X001UTDG7F	B07G86QZN1	luciphia Pet Dog Clothes Dog Hoodies Coats Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Red,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM235-R0-XXL	X001UTED1D	B07G8326VV	luciphia Pet Dog Clothes Dog Hoodies Coats Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Red,XXL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM236-B0-L	X001UTDCXX	B07G86LP7Q	luciphia Pet Dog Clothes Dog Hoodies Coats Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Blue,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM236-B0-M	X001UTDG93	B07G87RTCG	luciphia Pet Dog Clothes Dog Hoodies Coats Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Blue,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM236-B0-S	X001UTED3V	B07G85BP4Y	luciphia Pet Dog Clothes Dog Hoodies Coats Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Blue,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM236-B0-XL	X001UTDG89	B07G889YZH	luciphia Pet Dog Clothes Dog Hoodies Coats Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Blue,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM236-B0-XXL	X001UTDI7D	B07G851HJ3	luciphia Pet Dog Clothes Dog Hoodies Coats Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Blue,XXL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM282-B0-L	X001UTBI1L	B07G8515M8	luciphia Pet Dog Clothes Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Blue,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM282-B0-M	X001UT9377	B07G875MW4	luciphia Pet Dog Clothes Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Blue,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM282-B0-S	X001UT92RN	B07G8DJ8S1	luciphia Pet Dog Clothes Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Blue,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM282-B0-XL	X001UTDYT5	B07G86M4QB	luciphia Pet Dog Clothes Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Blue,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM282-B0-XS	X001USXIB5	B07G85P988	luciphia Pet Dog Clothes Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Blue,XS)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM282-R0-L	X001UTBH99	B07G8973BS	luciphia Pet Dog Clothes Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Red,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM282-R0-M	X001UTBI0H	B07G8H6NZM	luciphia Pet Dog Clothes Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Red,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM282-R0-S	X001UT93JF	B07G8973BR	luciphia Pet Dog Clothes Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Red,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM282-R0-XL	X001USXIBP	B07G86JM8Q	luciphia Pet Dog Clothes Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Red,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+MY-PUHM282-R0-XS	X001UT93J5	B07G86JBHD	luciphia Pet Dog Clothes Pet Vintage Themed Holiday Festive Dog Sweater Dog Accessories(Red,XS)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
 MY-PUHM582-B0-L	X001STM6H3	B07843N7TB	luciphia Warm Pet Dog Sweater Hoodies For Small Dogs	New	10.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 MY-PUHM582-B0-M	X001SU74MT	B077P3Q2LJ	luciphia Warm Pet Dog Sweater Hoodies For Small Dogs	New	10.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 MY-PUHM582-B0-S	X001SU885L	B077P6GQ66	luciphia Warm Pet Dog Sweater Hoodies For Small Dogs	New	10.00	No		Yes	0	0	0	0	0	0.02	0	0	0
@@ -234,17 +482,30 @@ MY-PUHM582-R0-M	X001SU7MNP	B07844WCH2	luciphia Warm Pet Dog Sweater Hoodies For 
 MY-PUHM582-R0-S	X001SU8A3V	B077P76342	luciphia Warm Pet Dog Sweater Hoodies For Small Dogs	New	10.00	No		Yes	0	0	0	0	0	0.07	0	0	0
 MY-PUHM582-R0-XL	X001SU6MQD	B077P6GSLS	luciphia Warm Pet Dog Sweater Hoodies For Small Dogs	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
 MY-PUHM582-R0-XS	X001STQKTD	B077P6DN7F	luciphia Warm Pet Dog Sweater Hoodies For Small Dogs	New	10.00	No		Yes	0	0	0	0	0	0.08	0	0	0
-Pajamas-sb001-GR-L	B0747L9WY7	B0747L9WY7	MOCOTONO Men's Linen Pajamas Long Sleeve Sleep Pants Sleepwear	New	10.98	No		Yes	2	0	2	0	2	0.15	0	0	0
-Pajamas-sb001-GR-M	B0747HDWTR	B0747HDWTR	MOCOTONO Men's Linen Pajamas Long Sleeve Sleep Pants Sleepwear	New	10.98	No		Yes	0	0	0	0	0	0.15	0	0	0
-Pajamas-sb001-GR-XL	B0747KBY7M	B0747KBY7M	MOCOTONO Men's Linen Pajamas Long Sleeve Sleep Pants Sleepwear	New	10.98	No		Yes	0	0	0	0	0	0.15	0	0	0
-Pajamas-sb001-KK-L	B0747N5SR9	B0747N5SR9	MOCOTONO Men's Linen Pajamas Long Sleeve Sleep Pants Sleepwear	New	10.98	No		Yes	1	0	1	0	1	0.15	0	0	0
-Pajamas-sb001-KK-M	B0747PFMT4	B0747PFMT4	MOCOTONO Men's Linen Pajamas Long Sleeve Sleep Pants Sleepwear	New	10.98	No		Yes	0	0	0	0	0	0.15	0	0	0
-Pajamas-sb001-KK-XL	B0747SC2YK	B0747SC2YK	MOCOTONO Men's Linen Pajamas Long Sleeve Sleep Pants Sleepwear	New	10.98	No		Yes	1	0	0	1	1	0.15	0	0	0
-Pajamas-sb001-NY-L	B0747KCD4P	B0747KCD4P	MOCOTONO Men's Linen Pajamas Long Sleeve Sleep Pants Sleepwear	New	10.98	No		Yes	0	0	0	0	0	0.15	0	0	0
-Pajamas-sb001-NY-M	B0747QGRJ7	B0747QGRJ7	MOCOTONO Men's Linen Pajamas Long Sleeve Sleep Pants Sleepwear	New	10.98	No		Yes	0	0	0	0	0	0.15	0	0	0
-Pajamas-sb001-NY-XL	B0747M5Y1K	B0747M5Y1K	MOCOTONO Men's Linen Pajamas Long Sleeve Sleep Pants Sleepwear	New	10.98	No		Yes	0	0	0	0	0	0.15	0	0	0
-Pajamas-sb001-WT-M	B0747P1RP8	B0747P1RP8	MOCOTONO Men's Linen Pajamas Long Sleeve Sleep Pants Sleepwear	New	10.98	No		Yes	0	0	0	0	0	0.15	0	0	0
-Pajamas-sb001-WT-XL	B0747MN5MG	B0747MN5MG	MOCOTONO Men's Linen Pajamas Long Sleeve Sleep Pants Sleepwear	New	10.98	No		Yes	2	0	2	0	2	0.15	0	0	0
+Pajamas-sb001-GR-L	B0747L9WY7	B0747L9WY7		Unknown					2	0	2	0	2		0	0	0
+Pajamas-sb001-GR-M	B0747HDWTR	B0747HDWTR		Unknown					0	0	0	0	0		0	0	0
+Pajamas-sb001-GR-XL	B0747KBY7M	B0747KBY7M		Unknown					0	0	0	0	0		0	0	0
+Pajamas-sb001-KK-L	B0747N5SR9	B0747N5SR9		Unknown					1	0	1	0	1		0	0	0
+Pajamas-sb001-KK-M	B0747PFMT4	B0747PFMT4	luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Coffee 31 x 13 inch	New	10.98	No		Yes	0	0	0	0	0	0.15	0	0	0
+Pajamas-sb001-KK-XL	B0747SC2YK	B0747SC2YK		Unknown					0	0	0	0	0		0	0	0
+Pajamas-sb001-NY-M	B0747QGRJ7	B0747QGRJ7		Unknown					0	0	0	0	0		0	0	0
+Pajamas-sb001-WT-M	B0747P1RP8	B0747P1RP8		Unknown					0	0	0	0	0		0	0	0
+Pajamas-sb001-WT-XL	B0747MN5MG	B0747MN5MG	luciphia Ultra Absorbent Microfiber Drying Pet Towel for Dogs Cats Coffee 31 x 13 inch	New	10.99	No		Yes	2	0	2	0	2	0.15	0	0	0
+RY-PUHM216-B0-L	X001UTBHRB	B07G85PZTD	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Blue,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-B0-M	X001UT936D	B07G84FB4Z	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Blue,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-B0-S	X001UT925Z	B07G8B421W	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Blue,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-B0-XL	X001UTDYU9	B07G867JJ2	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Blue,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-B0-XXL	X001UTBHZD	B07G8743FC	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Blue,XXL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-KQ-L	X001UTBHQ7	B07G84QX71	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Khaki,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-KQ-M	X001USXIAB	B07G86PG1L	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Khaki,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-KQ-S	X001UTDCXN	B07G85DLC2	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Khaki,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-KQ-XL	X001UTD6VB	B07G87PK91	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Khaki,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-KQ-XXL	X001UTD6WP	B07G87C7M7	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Khaki,XXL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-PI-L	X001UTBHZX	B07G87YM2R	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Pink,L)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-PI-M	X001UTDG9D	B07G8547JK	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Pink,M)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-PI-S	X001UTDG8T	B07G85J47H	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Pink,S)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-PI-XL	X001USXIA1	B07G8H6NZH	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Pink,XL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
+RY-PUHM216-PI-XXL	X001UTDI7N	B07G8D3T1V	luciphia Dog Winter Coat Turtleneck Fleece Coat Jacket for Small Medium Dogs(Pink,XXL)	New	10.00	No		Yes	0	0	0	0	0	0	0	0	0
 RY-PUHM716-B0-L	X001SU6N9J	B077MXLJYR		Unknown					0	0	0	0	0		0	0	0
 RY-PUHM716-B0-M	X001SU8H0H	B077N5HSXR		Unknown					0	0	0	0	0		0	0	0
 RY-PUHM716-B0-S	X001STS06J	B0784285GH		Unknown					0	0	0	0	0		0	0	0
@@ -262,113 +523,99 @@ RY-PUHM716-PI-XL	X001SU7MP3	B077MXLJYL	luciphia Fleece Dog Vest Coat Turtleneck 
 RY-PUHM716-PI-XXL	X001SU74IN	B07842CPN5	luciphia Fleece Dog Vest Coat Turtleneck Jacket for Small Medium Dogs Orange XL	New	12.00	No		Yes	0	0	0	0	0	0.02	0	0	0
 SCF-A01-007	B075XH7C42	B075XH7C42	Women's Floral Satin Silk Scarf Sheer Fashion Neckerchief Shawl	New	66.00	No		Yes	0	0	0	0	0	0.04	0	0	0
 SCF-A01-008	B075XCHJXX	B075XCHJXX	Women's Floral Satin Silk Scarf Sheer Fashion Neckerchief Shawl	New	66.00	No		Yes	0	0	0	0	0	0.04	0	0	0
-SCF-A01-009	B075XCBHHN	B075XCBHHN	Women's Floral Satin Silk Scarf Sheer Fashion Neckerchief Shawl	New	66.00	No		Yes	4	4	0	0	4	0.04	0	0	0
-SCF-A01-010	B075XH273G	B075XH273G	Women's Floral Satin Silk Scarf Sheer Fashion Neckerchief Shawl	New	66.00	No		Yes	6	6	0	0	6	0.04	0	0	0
-SCF-A01-011	B075XBDWFK	B075XBDWFK	Women's Floral Satin Silk Scarf Sheer Fashion Neckerchief Shawl	New	66.00	No		Yes	2	2	0	0	2	0.04	0	0	0
-SCF-A01-012	B075X946ZN	B075X946ZN	Women's Floral Satin Silk Scarf Sheer Fashion Neckerchief Shawl	New	66.00	No		Yes	5	5	0	0	5	0.04	0	0	0
-SCF-A01-013	B075XFT9C9	B075XFT9C9	Women's Floral Satin Silk Scarf Sheer Fashion Neckerchief Shawl	New	66.00	No		Yes	7	7	0	0	7	0.04	0	0	0
-SCF-B01-001	B075XDV8DB	B075XDV8DB	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	6	6	0	0	6	0.03	0	0	0
-SCF-B01-002	B075XFH141	B075XFH141	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	6	6	0	0	6	0.03	0	0	0
-SCF-B01-003	B075XHVZNY	B075XHVZNY	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	4	4	0	0	4	0.03	0	0	0
-SCF-B01-004	B075XH1TBD	B075XH1TBD	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	10	10	0	0	10	0.03	0	0	0
-SCF-B01-005	B075XGCNH2	B075XGCNH2	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	4	3	0	1	4	0.03	0	0	0
-SCF-B01-006	B075XG5JVY	B075XG5JVY	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	2	2	0	0	2	0.03	0	0	0
-SCF-B01-007	B075XCJ63F	B075XCJ63F	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	6	6	0	0	6	0.03	0	0	0
-SCF-B01-008	B075XH35SF	B075XH35SF	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	6	6	0	0	6	0.03	0	0	0
-SCF-B01-009	B075XF8TFV	B075XF8TFV	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	3	3	0	0	3	0.03	0	0	0
-SCF-B01-011	B075XDTMSM	B075XDTMSM	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	6	5	0	1	6	0.03	0	0	0
-SCF-B01-012	B075XHCCFQ	B075XHCCFQ	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	6	6	0	0	6	0.03	0	0	0
-SCF-B01-013	B075XCS3QN	B075XCS3QN	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	6	6	0	0	6	0.03	0	0	0
-SCF-B01-014	B075X9JZX3	B075X9JZX3	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	6	6	0	0	6	0.03	0	0	0
-SCF-B01-015	B075XF6KDQ	B075XF6KDQ	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	6	6	0	0	6	0.03	0	0	0
-SCF-B01-016	B075XD8MYM	B075XD8MYM	Luciphia Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	5	5	0	0	5	0.03	0	0	0
-SCF-B01-017	B075XJLDVB	B075XJLDVB	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	7	7	0	0	7	0.03	0	0	0
-SCF-B01-018	B075XC664H	B075XC664H	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	7	7	0	0	7	0.03	0	0	0
-SCF-B01-019	B075XF75YS	B075XF75YS	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	7	7	0	0	7	0.01	0	0	0
-SCF-B01-020	B075XFQC8B	B075XFQC8B	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	6	6	0	0	6	0.01	0	0	0
-SCF-B01-021	B075XJBNCS	B075XJBNCS	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	7	7	0	0	7	0.01	0	0	0
-SCF-B01-022	B075XG6Z6C	B075XG6Z6C	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	50.00	No		Yes	7	7	0	0	7	0.01	0	0	0
-SCF-C01-002	B075WSLPCB	B075WSLPCB	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	0	0	0	0	0	0.07	0	0	0
-SCF-C01-003	B075WQNT6B	B075WQNT6B	Luciphia Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	4	4	0	0	4	0.07	0	0	0
-SCF-C01-005	B075WR57PJ	B075WR57PJ	Luciphia Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	2	2	0	0	2	0.07	0	0	0
-SCF-C01-006	B075WS87MQ	B075WS87MQ	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	0	0	0	0	0	0.07	0	0	0
-SCF-C01-007	B075WSXH1N	B075WSXH1N	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	5	4	0	1	5	0.07	0	0	0
-SCF-C01-008	B075WNZJSF	B075WNZJSF	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	4	4	0	0	4	0.07	0	0	0
-SCF-C01-009	B075WT1YRZ	B075WT1YRZ	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	5	5	0	0	5	0.07	0	0	0
-SCF-C01-010	B075WT9XBG	B075WT9XBG	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	6	6	0	0	6	0.07	0	0	0
-SCF-C01-011	B075WSSK1M	B075WSSK1M	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	7	7	0	0	7	0.07	0	0	0
-SCF-C01-012	B075WQJ859	B075WQJ859	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	5	5	0	0	5	0.07	0	0	0
-SCF-C01-013	B075WSZF3P	B075WSZF3P	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	4	4	0	0	4	0.07	0	0	0
-SCF-C01-014	B075WRD5KM	B075WRD5KM	Luciphia Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	3	3	0	0	3	0.07	0	0	0
-SCF-C01-016	B075WT1YR6	B075WT1YR6	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	7	7	0	0	7	0.07	0	0	0
-SCF-C01-017	B075WTKCN3	B075WTKCN3	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	1	1	0	0	1	0.07	0	0	0
-SCF-C01-018	B075WQQC8L	B075WQQC8L	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	4	4	0	0	4	0.07	0	0	0
-SCF-C01-019	B075WTH7BJ	B075WTH7BJ	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	1	1	0	0	1	0.07	0	0	0
-SCF-C01-020	B075WTKCMZ	B075WTKCMZ	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	66.00	No		Yes	0	0	0	0	0	0.07	0	0	0
-SCF-D01-004	B075WT8RQN	B075WT8RQN	Luciphia Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	2	2	0	0	2	0.01	0	0	0
-SCF-D01-006	B075WRWK44	B075WRWK44	Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	5	5	0	0	5	0.01	0	0	0
-SCF-D01-007	B075WPHHKW	B075WPHHKW	Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	4	4	0	0	4	0.01	0	0	0
-SCF-D01-009	B075WPX32B	B075WPX32B	Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	5	5	0	0	5	0.01	0	0	0
-SCF-D01-011	B075WSLZ5G	B075WSLZ5G	Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	0	0	0	0	0	0.01	0	0	0
-SCF-D01-012	B075WPSRD1	B075WPSRD1	Luciphia Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	1	1	0	0	1	0.01	0	0	0
-SCF-D01-015	B075WRTSV9	B075WRTSV9	Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	2	2	0	0	2	0.01	0	0	0
-SCF-D01-017	B075WSD44L	B075WSD44L	Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	1	1	0	0	1	0.01	0	0	0
+SCF-A01-009	B075XCBHHN	B075XCBHHN	Women's Floral Satin Silk Scarf Sheer Fashion Neckerchief Shawl	New	7.00	No		Yes	0	0	0	0	0	0.04	0	0	0
+SCF-A01-010	B075XH273G	B075XH273G	Women's Floral Satin Silk Scarf Sheer Fashion Neckerchief Shawl	New	7.00	No		Yes	6	6	0	0	6	0.04	0	0	0
+SCF-A01-011	B075XBDWFK	B075XBDWFK	Women's Floral Satin Silk Scarf Sheer Fashion Neckerchief Shawl	New	7.00	No		Yes	0	0	0	0	0	0.04	0	0	0
+SCF-A01-012	B075X946ZN	B075X946ZN	Women's Floral Satin Silk Scarf Sheer Fashion Neckerchief Shawl	New	7.00	No		Yes	3	3	0	0	3	0.04	0	0	0
+SCF-A01-013	B075XFT9C9	B075XFT9C9	Women's Floral Satin Silk Scarf Sheer Fashion Neckerchief Shawl	New	7.00	No		Yes	5	5	0	0	5	0.04	0	0	0
+SCF-B01-001	B075XDV8DB	B075XDV8DB	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	10.00	No		Yes	4	3	0	1	4	0.03	0	0	0
+SCF-B01-002	B075XFH141	B075XFH141	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	10.00	No		Yes	5	4	0	1	5	0.03	0	0	0
+SCF-B01-003	B075XHVZNY	B075XHVZNY	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	10.00	No		Yes	2	1	0	1	2	0.03	0	0	0
+SCF-B01-004	B075XH1TBD	B075XH1TBD	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	7.00	No		Yes	6	6	0	0	6	0.03	0	0	0
+SCF-B01-005	B075XGCNH2	B075XGCNH2	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	10.00	No		Yes	0	0	0	0	0	0.03	0	0	0
+SCF-B01-006	B075XG5JVY	B075XG5JVY	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	10.00	No		Yes	0	0	0	0	0	0.03	0	0	0
+SCF-B01-007	B075XCJ63F	B075XCJ63F	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	10.00	No		Yes	6	6	0	0	6	0.03	0	0	0
+SCF-B01-008	B075XH35SF	B075XH35SF	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	10.00	No		Yes	2	2	0	0	2	0.03	0	0	0
+SCF-B01-009	B075XF8TFV	B075XF8TFV	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	10.00	No		Yes	2	2	0	0	2	0.03	0	0	0
+SCF-B01-011	B075XDTMSM	B075XDTMSM	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	7.00	No		Yes	4	2	0	2	4	0.03	0	0	0
+SCF-B01-012	B075XHCCFQ	B075XHCCFQ	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	7.00	No		Yes	5	5	0	0	5	0.03	0	0	0
+SCF-B01-013	B075XCS3QN	B075XCS3QN	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	7.00	No		Yes	3	2	0	1	3	0.03	0	0	0
+SCF-B01-014	B075X9JZX3	B075X9JZX3	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	10.00	No		Yes	6	6	0	0	6	0.03	0	0	0
+SCF-B01-015	B075XF6KDQ	B075XF6KDQ	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	7.00	No		Yes	6	5	0	1	6	0.03	0	0	0
+SCF-B01-016	B075XD8MYM	B075XD8MYM	Luciphia Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	10.00	No		Yes	4	4	0	0	4	0.03	0	0	0
+SCF-B01-017	B075XJLDVB	B075XJLDVB	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	7.00	No		Yes	5	4	0	1	5	0.03	0	0	0
+SCF-B01-018	B075XC664H	B075XC664H	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	10.00	No		Yes	6	5	0	1	6	0.03	0	0	0
+SCF-B01-019	B075XF75YS	B075XF75YS	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	7.00	No		Yes	6	6	0	0	6	0.01	0	0	0
+SCF-B01-020	B075XFQC8B	B075XFQC8B	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	10.00	No		Yes	5	5	0	0	5	0.03	0	0	0
+SCF-B01-021	B075XJBNCS	B075XJBNCS	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	7.00	No		Yes	5	5	0	0	5	0.01	0	0	0
+SCF-B01-022	B075XG6Z6C	B075XG6Z6C	Women's Large Print Floral Chiffon Scarf Poncho Shawl	New	7.00	No		Yes	5	5	0	0	5	0.03	0	0	0
+SCF-C01-003	B075WQNT6B	B075WQNT6B	Luciphia Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	4	4	0	0	4	0.07	0	0	0
+SCF-C01-005	B075WR57PJ	B075WR57PJ	Luciphia Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	1	1	0	0	1	0.07	0	0	0
+SCF-C01-007	B075WSXH1N	B075WSXH1N	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	4	4	0	0	4	0.07	0	0	0
+SCF-C01-008	B075WNZJSF	B075WNZJSF	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	4	4	0	0	4	0.07	0	0	0
+SCF-C01-009	B075WT1YRZ	B075WT1YRZ	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	3	2	0	1	3	0.07	0	0	0
+SCF-C01-010	B075WT9XBG	B075WT9XBG	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	2	1	0	1	2	0.07	0	0	0
+SCF-C01-011	B075WSSK1M	B075WSSK1M	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	7	7	0	0	7	0.07	0	0	0
+SCF-C01-012	B075WQJ859	B075WQJ859	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	5	5	0	0	5	0.07	0	0	0
+SCF-C01-013	B075WSZF3P	B075WSZF3P	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	4	4	0	0	4	0.07	0	0	0
+SCF-C01-014	B075WRD5KM	B075WRD5KM	Luciphia Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	2	2	0	0	2	0.07	0	0	0
+SCF-C01-016	B075WT1YR6	B075WT1YR6	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	7	7	0	0	7	0.07	0	0	0
+SCF-C01-017	B075WTKCN3	B075WTKCN3	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	0	0	0	0	0	0.07	0	0	0
+SCF-C01-018	B075WQQC8L	B075WQQC8L	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	2	2	0	0	2	0.07	0	0	0
+SCF-C01-019	B075WTH7BJ	B075WTH7BJ	Women's Large Print Silk Scarf Floral Square Pashmina Shawl	New	7.00	No		Yes	0	0	0	0	0	0.07	0	0	0
+SCF-D01-004	B075WT8RQN	B075WT8RQN	Women's Lightweight Floral Square Silk Scarf Shawl	New	7.00	No		Yes	2	2	0	0	2	0.01	0	0	0
+SCF-D01-006	B075WRWK44	B075WRWK44	Women's Lightweight Floral Square Silk Scarf Shawl	New	7.00	No		Yes	5	5	0	0	5	0.01	0	0	0
+SCF-D01-007	B075WPHHKW	B075WPHHKW	Women's Lightweight Floral Square Silk Scarf Shawl	New	7.00	No		Yes	3	3	0	0	3	0.01	0	0	0
+SCF-D01-009	B075WPX32B	B075WPX32B	Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	0	0	0	0	0	0.01	0	0	0
+SCF-D01-012	B075WPSRD1	B075WPSRD1	Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	0	0	0	0	0	0.01	0	0	0
+SCF-D01-015	B075WRTSV9	B075WRTSV9	Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	0	0	0	0	0	0.01	0	0	0
+SCF-D01-017	B075WSD44L	B075WSD44L	Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	0	0	0	0	0	0.01	0	0	0
 SCF-SJ006-Puzzle-OS	B073V1XLYJ	B073V1XLYJ		Unknown					0	0	0	0	0		0	0	0
-SCF010-A01	B074SH987F	B074SH987F	Luciphia Floral Scarves: Women's Large Sheer Scarf Beach Sarong Cover-up	New	20.00	No		Yes	0	0	0	0	0	0.01	0	0	0
-SCF010-A05	B074SHT4W7	B074SHT4W7	Luciphia Floral Scarves: Women's Large Sheer Scarf Beach Sarong Cover-up	New	20.00	No		Yes	0	0	0	0	0	0.01	0	0	0
-SKS-B334	B071ZMLVSV	B071ZMLVSV		Unknown					0	0	0	0	0		0	0	0
+SCF-SJ008-GR-OS	B073VHZTSH	B073VHZTSH	Lightweight Fashion Cashmere Neck Hair Scarf Shawl Gray Silver	New	7.00	No		Yes	1	1	0	0	1	0.08	0	0	0
 ST-K157-B0-32	B073Q1437J	B073Q1437J	MOCOTONO Men's Casual Slim Fit Cotton Multi-Pocket Twill Cargo Shorts Sapphire Blue Tag 32/US 30	New	32.56	No		Yes	0	0	0	0	0	0.14	0	0	0
 ST-K157-KQ-32	B073PZDYM9	B073PZDYM9	MOCOTONO Men's Casual Slim Fit Cotton Multi-Pocket Twill Cargo Shorts Khaki 1 Tag 32/US 30	New	32.56	No		Yes	0	0	0	0	0	0.14	0	0	0
-ST-K559-KQ-34	B073QHBYV3	B073QHBYV3		Unknown					0	0	0	0	0		0	0	0
-ST-K559-KQ-44	B073QH2KWY	B073QH2KWY	Mens Twill Cargo Shorts Slim Fit Short Pants Khaki 2 Tag 44/US 42	New	35.56	No		Yes	1	1	0	0	1	0.08	0	0	0
+ST-K559-KQ-44	B073QH2KWY	B073QH2KWY	Mens Twill Cargo Shorts Slim Fit Short Pants Khaki 2 Tag 44/US 42	New	35.56	No		Yes	1	0	0	1	1	0.08	0	0	0
 ST-K559-OR-32	B073QGK1FW	B073QGK1FW		Unknown					0	0	0	0	0		0	0	0
-ST005-BK-S	B074P3WK1B	B074P3WK1B	MOCOTONO Men's Long Sleeve Cotton Plaid Button Down Casual Shirts Black Small	New	39.98	No		Yes	8	8	0	0	8	0.21	0	0	0
+ST005-BK-S	B074P3WK1B	B074P3WK1B	MOCOTONO Men's Long Sleeve Cotton Plaid Button Down Casual Shirts Black Small	New	39.98	No		Yes	0	0	0	0	0	0.21	0	0	0
 ST005-BL1-L	B074NWD9JL	B074NWD9JL		Unknown					0	0	0	0	0		0	0	0
-ST005-BL2-S	B074P5N47H	B074P5N47H	MOCOTONO Men's Long Sleeve Cotton Plaid Button Down Casual Shirts Sapphire Small	New	39.98	No		Yes	9	9	0	0	9	0.14	0	0	0
+ST005-BL2-S	B074P5N47H	B074P5N47H	MOCOTONO Men's Long Sleeve Cotton Plaid Button Down Casual Shirts Sapphire Small	New	39.98	No		Yes	0	0	0	0	0	0.14	0	0	0
 ST005-GN-S	B074NZHLJW	B074NZHLJW	MOCOTONO Men's Long Sleeve Cotton Plaid Button Down Casual Shirts Green Small	New	39.98	No		Yes	0	0	0	0	0	0.14	0	0	0
-ST005-RD-S	B074P34K32	B074P34K32	MOCOTONO Men's Long Sleeve Cotton Plaid Button Down Casual Shirts Red Small	New	39.98	No		Yes	0	0	0	0	0	0.21	0	0	0
-ST005-RD1-M	B074NRHJQL	B074NRHJQL	MOCOTONO Men's Long Sleeve Cotton Plaid Button Down Casual Shirts Scarlet Medium	New	22.98	No		Yes	0	0	0	0	0	0.21	0	0	0
-ST005-RD1-S	B074NWPZS3	B074NWPZS3	MOCOTONO Men's Long Sleeve Cotton Plaid Button Down Casual Shirts Scarlet Small	New	39.98	No		Yes	0	0	0	0	0	0.14	0	0	0
 ST006-BK-XL	B074NVHR58	B074NVHR58		Unknown					0	0	0	0	0		0	0	0
-ST006-BL-S	B074P2B6M8	B074P2B6M8	MOCOTONO Men's Long Sleeve Standard Fit Plaid Checked Button up Casual Shirts Blue Small	New	15.98	No		Yes	11	11	0	0	11	0.15	0	0	0
-ST006-BL2-S	B074NVH8G2	B074NVH8G2	MOCOTONO Men's Long Sleeve Standard Fit Plaid Checked Button up Casual Shirts Sapphire Small	New	39.98	No		Yes	3	3	0	0	3	0.15	0	0	0
+ST006-BL-S	B074P2B6M8	B074P2B6M8	MOCOTONO Men's Long Sleeve Standard Fit Plaid Checked Button Up Casual Shirts Blue Small	New	15.98	No		Yes	0	0	0	0	0	0.15	0	0	0
+ST006-BL2-S	B074NVH8G2	B074NVH8G2	MOCOTONO Men's Long Sleeve Standard Fit Plaid Checked Button Up Casual Shirts Sapphire Small	New	39.98	No		Yes	0	0	0	0	0	0.15	0	0	0
 ST006-CF-M	B074P1DYRF	B074P1DYRF		Unknown					0	0	0	0	0		0	0	0
-ST006-CF-S	B074NQZMVQ	B074NQZMVQ	MOCOTONO Men's Long Sleeve Standard Fit Plaid Checked Button up Casual Shirts Coffee Small	New	39.98	No		Yes	5	5	0	0	5	0.15	0	0	0
-ST006-GN-M	B074NZX79C	B074NZX79C	MOCOTONO Men's Long Sleeve Standard Fit Plaid Checked Button up Casual Shirts Green Medium	New	22.98	No		Yes	0	0	0	0	0	0.15	0	0	0
-ST006-GN-S	B074P1LKV2	B074P1LKV2	MOCOTONO Men's Long Sleeve Standard Fit Plaid Checked Button up Casual Shirts Green Small	New	39.98	No		Yes	9	8	0	1	9	0.15	0	0	0
+ST006-CF-S	B074NQZMVQ	B074NQZMVQ	MOCOTONO Men's Long Sleeve Standard Fit Plaid Checked Button Up Casual Shirts Coffee Small	New	10.00	No		Yes	0	0	0	0	0	0.15	0	0	0
+ST006-GN-M	B074NZX79C	B074NZX79C	MOCOTONO Men's Long Sleeve Standard Fit Plaid Checked Button Up Casual Shirts Green Medium	New	22.98	No		Yes	0	0	0	0	0	0.15	0	0	0
+ST006-GN-S	B074P1LKV2	B074P1LKV2	MOCOTONO Men's Long Sleeve Standard Fit Plaid Checked Button Up Casual Shirts Green Small	New	39.98	No		Yes	0	0	0	0	0	0.15	0	0	0
 ST006-RD1-S	B074P5J7Y8	B074P5J7Y8		Unknown					0	0	0	0	0		0	0	0
 ST006-RD2-XL	B074P6BFX9	B074P6BFX9		Unknown					0	0	0	0	0		0	0	0
 ST084-H15-S	B06XPWLNQP	B06XPWLNQP		Unknown					0	0	0	0	0		0	0	0
 ST084-H15-XXL	B06XPWWWTB	B06XPWWWTB		Unknown					0	0	0	0	0		0	0	0
 ST085-LB916-M	B06XYZHW8G	B06XYZHW8G	Men's Solid Color Oxford Long Sleeve Button Down Casual Shirt Light Blue Medium	New	39.98	No		Yes	0	0	0	0	0	0.08	0	0	0
-ST085-LB916-S	B06XYZF3QP	B06XYZF3QP	Men's Solid Color Oxford Long Sleeve Button Down Casual Shirt Light Blue Small	New	10.00	No		Yes	1	1	0	0	1	0.19	0	0	0
-ST122-N0-2XL	B06Y2NBHKP	B06Y2NBHKP		Unknown					0	0	0	0	0		0	0	0
+ST085-LB916-S	B06XYZF3QP	B06XYZF3QP	Men's Solid Color Oxford Long Sleeve Button Down Casual Shirt Light Blue Small	New	10.00	No		Yes	0	0	0	0	0	0.19	0	0	0
 ST122-WR-S	B06Y2SFW95	B06Y2SFW95		Unknown					0	0	0	0	0		0	0	0
-ST155-AG-30	B071JY11V7	B071JY11V7	MiCotton Men's Casual Cotton Military Cargo Shorts Army Camo Muti-Pockects Work Shorts Army Green 30	New	40.89	No		Yes	3	3	0	0	3	0.27	0	0	0
+ST155-AG-30	B071JY11V7	B071JY11V7	MiCotton Men's Casual Cotton Military Cargo Shorts Army Camo Muti-Pockects Work Shorts Army Green 30	New	40.89	No		Yes	0	0	0	0	0	0.27	0	0	0
 ST155-AG-32	B071JXZVZV	B071JXZVZV	MiCotton Men's Casual Cotton Military Cargo Shorts Army Camo Muti-Pockects Work Shorts Army Green 32	New	40.89	No		Yes	1	1	0	0	1	0.27	0	0	0
 ST155-AG-38	B0721B4X7S	B0721B4X7S	MiCotton Men's Casual Cotton Military Cargo Shorts Army Camo Muti-Pockects Work Shorts Army Green 38	New	40.89	No		Yes	0	0	0	0	0	0.27	0	0	0
 ST166-B28-4-L	B072PQ55W6	B072PQ55W6		Unknown					0	0	0	0	0		0	0	0
 ST166-B28-4-S	B072J7L6PX	B072J7L6PX		Unknown					0	0	0	0	0		0	0	0
 ST166-B28-4-XXL	B0719P8LD3	B0719P8LD3		Unknown					0	0	0	0	0		0	0	0
-ST166-K33-1-L	B072PQ4DG7	B072PQ4DG7		Unknown					0	0	0	0	0		0	0	0
 ST166-K33-1-S	B0711XBBFZ	B0711XBBFZ		Unknown					0	0	0	0	0		0	0	0
 ST166-K33-1-XL	B072PQ6GGL	B072PQ6GGL		Unknown					0	0	0	0	0		0	0	0
 ST166-K33-1-XXL	B072J7L582	B072J7L582		Unknown					0	0	0	0	0		0	0	0
-ST166-K33-4-L	B072PQWBGT	B072PQWBGT		Unknown					0	0	0	0	0		0	0	0
 ST166-K33-4-M	B0711XBC78	B0711XBC78		Unknown					0	0	0	0	0		0	0	0
-ST166-K33-4-S	B07173Q2FN	B07173Q2FN	Men's Long Sleeve Flannel Plaid Dress Shirt Western Button Down Shirts White and Navy Small	New	39.98	No		Yes	5	5	0	0	5	0.12	0	0	0
-ST168-K77-4-XL	B071FQCLMM	B071FQCLMM	MiCotton Men's 100% Cotton Lounge Sleep Pajama Pants Boxers Plaid Sleepwear Navy and White X-Large	New	28.99	No		Yes	0	0	0	0	0	0.04	0	0	0
-ST170-LB-L	B073PPTS8L	B073PPTS8L	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Light Blue, Large	New	22.98	No		Yes	0	0	0	0	0	0.05	0	0	0
+ST166-K33-4-S	B07173Q2FN	B07173Q2FN	MOCOTONO Men's Long Sleeve Flannel Plaid Dress Shirt Western Button Down Shirts White and Navy Small	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
+ST167-BK-XXL	B07173XFVT	B07173XFVT		Unknown					0	0	0	0	0		0	0	0
+ST167-K0-XXL	B07173XFVT	B07173XFVT		Unknown					0	0	0	0	0		0	0	0
+ST170-LB-L	B073PPTS8L	B073PPTS8L		Unknown					0	0	0	0	0		0	0	0
 ST170-LB-M	B073PQ752P	B073PQ752P	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Light Blue, Medium	New	21.98	No		Yes	0	0	0	0	0	0.02	0	0	0
-ST170-LB-S	B073PPS7FM	B073PPS7FM	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Light Blue, Small	New	39.98	No		Yes	1	1	0	0	1	0.02	0	0	0
+ST170-LB-S	B073PPS7FM	B073PPS7FM	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Light Blue, Small	New	39.98	No		Yes	0	0	0	0	0	0.02	0	0	0
 ST170-LB-XL	B073PP3ZWD	B073PP3ZWD		Unknown					0	0	0	0	0		0	0	0
 ST170-LB-XXL	B073PQKB9N	B073PQKB9N		Unknown					0	0	0	0	0		0	0	0
 ST170-LG-L	B073PP886W	B073PP886W		Unknown					0	0	0	0	0		0	0	0
 ST170-LG-M	B073PP2K9L	B073PP2K9L		Unknown					0	0	0	0	0		0	0	0
-ST170-LG-S	B073PPSG6W	B073PPSG6W	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Light Gray, Small	New	39.98	No		Yes	2	0	2	0	2	0.05	0	0	0
+ST170-LG-S	B073PPSG6W	B073PPSG6W	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Light Gray, Small	New	39.98	No		Yes	1	1	0	0	1	0.05	0	0	0
 ST170-LG-XXL	B073PQFZ61	B073PQFZ61		Unknown					0	0	0	0	0		0	0	0
-ST170-PK-M	B073PQ115V	B073PQ115V		Unknown					0	0	0	0	0		0	0	0
-ST170-PK-XL	B073PPHGFF	B073PPHGFF		Unknown					0	0	0	0	0		0	0	0
 ST170-PK-XXL	B073PPMWTH	B073PPMWTH		Unknown					0	0	0	0	0		0	0	0
 ST170-SA-M	B073PPT2TW	B073PPT2TW		Unknown					0	0	0	0	0		0	0	0
 ST170-SA-S	B073PPY7H7	B073PPY7H7	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Blue, Small	New	39.98	No		Yes	0	0	0	0	0	0.05	0	0	0
@@ -376,205 +623,231 @@ ST170-SA-XXL	B073PPT4YQ	B073PPT4YQ		Unknown					0	0	0	0	0		0	0	0
 ST170-WR-L	B073PPT6WC	B073PPT6WC		Unknown					0	0	0	0	0		0	0	0
 ST170-WR-S	B073PQ59J8	B073PQ59J8		Unknown					0	0	0	0	0		0	0	0
 ST170-WR-XL	B073PPP5ZG	B073PPP5ZG		Unknown					0	0	0	0	0		0	0	0
-ST170-WT-M	B073PQ4WFY	B073PQ4WFY		Unknown					0	0	0	0	0		0	0	0
-ST170-WT-S	B073PQ7X4Y	B073PQ7X4Y		Unknown					0	0	0	0	0		0	0	0
 ST170-ZL-L	B073PQ7KG6	B073PQ7KG6		Unknown					0	0	0	0	0		0	0	0
 ST170-ZL-M	B073PPP5ZQ	B073PPP5ZQ		Unknown					0	0	0	0	0		0	0	0
 ST170-ZL-S	B073PPTRXC	B073PPTRXC	Mocotono Men's Short Sleeve Oxford Button Down Casual Shirt, Navy, Small	New	12.98	No		Yes	0	0	0	0	0	0.07	0	0	0
 ST170-ZL-XL	B073PQRR85	B073PQRR85		Unknown					0	0	0	0	0		0	0	0
 ST171-LB916-M	B073PPWDT7	B073PPWDT7		Unknown					0	0	0	0	0		0	0	0
-ST171-LB916-S	B073PQ6BZ4	B073PQ6BZ4	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Light Blue,Small	New	39.98	No		Yes	2	2	0	0	2	0.13	0	0	0
-ST171-LB916-XXL	B073PPFLNM	B073PPFLNM	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Light Blue,XX-Large	New	39.98	No		Yes	3	3	0	0	3	0.17	0	0	0
+ST171-LB916-S	B073PQ6BZ4	B073PQ6BZ4	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Light Blue,Small	New	39.98	No		Yes	0	0	0	0	0	0.13	0	0	0
+ST171-LB916-XXL	B073PPFLNM	B073PPFLNM	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Light Blue,XX-Large	New	39.98	No		Yes	1	0	1	0	1	0.17	0	0	0
 ST171-Sa911-L	B073PQLFVZ	B073PQLFVZ		Unknown					0	0	0	0	0		0	0	0
 ST171-Sa911-M	B073PQD5PP	B073PQD5PP		Unknown					0	0	0	0	0		0	0	0
-ST171-Sa911-S	B073PQXDQX	B073PQXDQX	Men's Oxford Long Sleeve Button Down Dress Shirt With Pocket,Sapphire,Small	New	39.98	No		Yes	13	13	0	0	13	0.17	0	0	0
+ST171-Sa911-S	B073PQXDQX	B073PQXDQX	Men's Oxford Long Sleeve Button Down Dress Shirt with Pocket,Sapphire,Small	New	39.98	No		Yes	0	0	0	0	0	0.17	0	0	0
 ST171-Sa911-XL	B073PPGD16	B073PPGD16		Unknown					0	0	0	0	0		0	0	0
 ST171-W902-M	B073PPH3QV	B073PPH3QV		Unknown					0	0	0	0	0		0	0	0
 ST171-W902-XL	B073PPNYCZ	B073PPNYCZ		Unknown					0	0	0	0	0		0	0	0
 ST172-BK-L	B074SWFPBT	B074SWFPBT	Men's Long Sleeve Formal Business Dress Shirts Black Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
-ST172-BK-M	B074T24DYN	B074T24DYN	Men's Long Sleeve Formal Business Dress Shirts Black Medium	New	35.99	No		Yes	6	6	0	0	6	0.21	0	0	0
-ST172-BK-S	B074SNMHQJ	B074SNMHQJ	Men's Long Sleeve Formal Business Dress Shirts Black Small	New	35.99	No		Yes	2	2	0	0	2	0.21	0	0	0
+ST172-BK-M	B074T24DYN	B074T24DYN	Men's Long Sleeve Formal Business Dress Shirts Black Medium	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-BK-S	B074SNMHQJ	B074SNMHQJ	Men's Long Sleeve Formal Business Dress Shirts Black Small	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
 ST172-BK-XL	B074SXT551	B074SXT551	Men's Long Sleeve Formal Business Dress Shirts Black X-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
-ST172-BL-L	B074SZ6CL6	B074SZ6CL6	Men's Long Sleeve Formal Business Dress Shirts Blue Large	New	35.99	No		Yes	5	5	0	0	5	0.21	0	0	0
-ST172-BL-M	B074SZ4SDW	B074SZ4SDW	Men's Long Sleeve Formal Business Dress Shirts Blue Medium	New	35.99	No		Yes	15	15	0	0	15	0.21	0	0	0
-ST172-BL-S	B074SZCMCP	B074SZCMCP	Men's Long Sleeve Formal Business Dress Shirts Blue Small	New	35.99	No		Yes	14	14	0	0	14	0.21	0	0	0
-ST172-BL-XL	B074SNP44C	B074SNP44C	Men's Long Sleeve Formal Business Dress Shirts Blue X-Large	New	35.99	No		Yes	5	5	0	0	5	0.21	0	0	0
-ST172-BL-XXL	B074SQ5PJS	B074SQ5PJS	Men's Long Sleeve Formal Business Dress Shirts Blue XX-Large	New	35.99	No		Yes	6	6	0	0	6	0.21	0	0	0
-ST172-GR-L	B074SLPFD9	B074SLPFD9	Men's Long Sleeve Formal Business Dress Shirts Gray Large	New	35.99	No		Yes	18	18	0	0	18	0.21	0	0	0
-ST172-GR-M	B074T17WTF	B074T17WTF	Men's Long Sleeve Formal Business Dress Shirts Gray Medium	New	35.99	No		Yes	14	14	0	0	14	0.21	0	0	0
-ST172-GR-S	B074SL7P58	B074SL7P58	Men's Long Sleeve Formal Business Dress Shirts Gray Small	New	35.99	No		Yes	19	19	0	0	19	0.21	0	0	0
-ST172-GR-XL	B074SLTLS9	B074SLTLS9	Men's Long Sleeve Formal Business Dress Shirts Gray X-Large	New	35.99	No		Yes	13	13	0	0	13	0.21	0	0	0
-ST172-GR-XXL	B074SXQ5MY	B074SXQ5MY	Men's Long Sleeve Formal Business Dress Shirts Gray XX-Large	New	35.99	No		Yes	14	14	0	0	14	0.21	0	0	0
-ST172-NY-L	B074SQ1FJK	B074SQ1FJK	Men's Long Sleeve Formal Business Dress Shirts Navy Large	New	35.99	No		Yes	16	16	0	0	16	0.21	0	0	0
-ST172-NY-M	B074SPWGPS	B074SPWGPS	Men's Long Sleeve Formal Business Dress Shirts Navy Medium	New	35.99	No		Yes	14	14	0	0	14	0.21	0	0	0
-ST172-NY-S	B074SYY7Q7	B074SYY7Q7	Men's Long Sleeve Formal Business Dress Shirts Navy Small	New	35.99	No		Yes	16	16	0	0	16	0.21	0	0	0
-ST172-NY-XL	B074SMS5NT	B074SMS5NT	Men's Long Sleeve Formal Business Dress Shirts Navy X-Large	New	35.99	No		Yes	16	16	0	0	16	0.21	0	0	0
-ST172-NY-XXL	B074SLZVWD	B074SLZVWD	Men's Long Sleeve Formal Business Dress Shirts Navy XX-Large	New	35.99	No		Yes	10	10	0	0	10	0.21	0	0	0
-ST172-PK-L	B074SQ5R3F	B074SQ5R3F	Men's Long Sleeve Formal Business Dress Shirts Pink Large	New	35.99	No		Yes	18	18	0	0	18	0.21	0	0	0
-ST172-PK-M	B074SZKQMT	B074SZKQMT	Men's Long Sleeve Formal Business Dress Shirts Pink Medium	New	35.99	No		Yes	18	18	0	0	18	0.21	0	0	0
-ST172-PK-S	B074SZQ1LP	B074SZQ1LP	Men's Long Sleeve Formal Business Dress Shirts Pink Small	New	35.99	No		Yes	18	18	0	0	18	0.05	0	0	0
-ST172-PK-XL	B074SXQT5Z	B074SXQT5Z	Men's Long Sleeve Formal Business Dress Shirts Pink X-Large	New	35.99	No		Yes	18	18	0	0	18	0.21	0	0	0
-ST172-PK-XXL	B074SYXBT8	B074SYXBT8	Men's Long Sleeve Formal Business Dress Shirts Pink XX-Large	New	35.99	No		Yes	18	18	0	0	18	0.21	0	0	0
-ST172-PP-L	B074T25JWG	B074T25JWG	Men's Long Sleeve Formal Business Dress Shirts Purple Large	New	35.99	No		Yes	5	5	0	0	5	0.21	0	0	0
-ST172-PP-M	B074SMT9CV	B074SMT9CV	Men's Long Sleeve Formal Business Dress Shirts Purple Medium	New	35.99	No		Yes	4	4	0	0	4	0.21	0	0	0
-ST172-PP-S	B074SN4V6M	B074SN4V6M	Men's Long Sleeve Formal Business Dress Shirts Purple Small	New	35.99	No		Yes	7	7	0	0	7	0.21	0	0	0
-ST172-PP-XL	B074SM144J	B074SM144J	Men's Long Sleeve Formal Business Dress Shirts Purple X-Large	New	35.99	No		Yes	2	2	0	0	2	0.21	0	0	0
-ST172-WR-L	B074SM3B1W	B074SM3B1W	Men's Long Sleeve Formal Business Dress Shirts Wine Red Large	New	35.99	No		Yes	10	10	0	0	10	0.21	0	0	0
-ST172-WR-M	B074SXT999	B074SXT999	Men's Long Sleeve Formal Business Dress Shirts Wine Red Medium	New	35.99	No		Yes	13	13	0	0	13	0.21	0	0	0
-ST172-WR-S	B074SYX9RW	B074SYX9RW	Men's Long Sleeve Formal Business Dress Shirts Wine Red Small	New	35.99	No		Yes	14	14	0	0	14	0.21	0	0	0
-ST172-WR-XL	B074SY2NWC	B074SY2NWC	Men's Long Sleeve Formal Business Dress Shirts Wine Red X-Large	New	35.99	No		Yes	8	8	0	0	8	0.21	0	0	0
-ST172-WR-XXL	B074SQ5NX1	B074SQ5NX1	Men's Long Sleeve Formal Business Dress Shirts Wine Red XX-Large	New	35.99	No		Yes	12	12	0	0	12	0.21	0	0	0
-ST172-WT1-L	B074SWPTKB	B074SWPTKB	Men's Long Sleeve Formal Business Dress Shirts Water White Large	New	35.99	No		Yes	15	15	0	0	15	0.21	0	0	0
-ST172-WT1-M	B074SNMJJ9	B074SNMJJ9	Men's Long Sleeve Formal Business Dress Shirts Water White Medium	New	35.99	No		Yes	16	16	0	0	16	0.21	0	0	0
-ST172-WT1-S	B074SZCXH9	B074SZCXH9	Men's Long Sleeve Formal Business Dress Shirts Water White Small	New	35.99	No		Yes	11	10	0	1	11	0.21	0	0	0
-ST172-WT1-XL	B074SZJPSD	B074SZJPSD	Men's Long Sleeve Formal Business Dress Shirts Water White X-Large	New	35.99	No		Yes	17	17	0	0	17	0.21	0	0	0
-ST172-WT1-XXL	B074SKM7WZ	B074SKM7WZ	Men's Long Sleeve Formal Business Dress Shirts Water White XX-Large	New	35.99	No		Yes	15	15	0	0	15	0.21	0	0	0
-ST172-WT2-L	B074SWFPBG	B074SWFPBG	Men's Long Sleeve Formal Business Dress Shirts White Large	New	35.99	No		Yes	15	15	0	0	15	0.21	0	0	0
-ST172-WT2-M	B074SKGP6T	B074SKGP6T	Men's Long Sleeve Formal Business Dress Shirts White Medium	New	35.99	No		Yes	3	3	0	0	3	0.21	0	0	0
-ST172-WT2-S	B074SNVWHH	B074SNVWHH	Men's Long Sleeve Formal Business Dress Shirts White Small	New	35.99	No		Yes	7	7	0	0	7	0.21	0	0	0
+ST172-BL-L	B074SZ6CL6	B074SZ6CL6	Men's Long Sleeve Formal Business Dress Shirts Blue Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-BL-M	B074SZ4SDW	B074SZ4SDW	Men's Long Sleeve Formal Business Dress Shirts Blue Medium	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-BL-S	B074SZCMCP	B074SZCMCP	Men's Long Sleeve Formal Business Dress Shirts Blue Small	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-BL-XL	B074SNP44C	B074SNP44C	Men's Long Sleeve Formal Business Dress Shirts Blue X-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-BL-XXL	B074SQ5PJS	B074SQ5PJS	Men's Long Sleeve Formal Business Dress Shirts Blue XX-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-GR-L	B074SLPFD9	B074SLPFD9	Men's Long Sleeve Formal Business Dress Shirts Gray Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-GR-M	B074T17WTF	B074T17WTF	Men's Long Sleeve Formal Business Dress Shirts Gray Medium	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-GR-S	B074SL7P58	B074SL7P58	Men's Long Sleeve Formal Business Dress Shirts Gray Small	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-GR-XL	B074SLTLS9	B074SLTLS9	Men's Long Sleeve Formal Business Dress Shirts Gray X-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-GR-XXL	B074SXQ5MY	B074SXQ5MY	Men's Long Sleeve Formal Business Dress Shirts Gray XX-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-NY-L	B074SQ1FJK	B074SQ1FJK	Men's Long Sleeve Formal Business Dress Shirts Navy Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-NY-M	B074SPWGPS	B074SPWGPS	Men's Long Sleeve Formal Business Dress Shirts Navy Medium	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-NY-S	B074SYY7Q7	B074SYY7Q7	Men's Long Sleeve Formal Business Dress Shirts Navy Small	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-NY-XL	B074SMS5NT	B074SMS5NT	Men's Long Sleeve Formal Business Dress Shirts Navy X-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-NY-XXL	B074SLZVWD	B074SLZVWD	Men's Long Sleeve Formal Business Dress Shirts Navy XX-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-PK-L	B074SQ5R3F	B074SQ5R3F	Men's Long Sleeve Formal Business Dress Shirts Pink Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-PK-M	B074SZKQMT	B074SZKQMT	Men's Long Sleeve Formal Business Dress Shirts Pink Medium	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-PK-S	B074SZQ1LP	B074SZQ1LP	Men's Long Sleeve Formal Business Dress Shirts Pink Small	New	35.99	No		Yes	0	0	0	0	0	0.05	0	0	0
+ST172-PK-XL	B074SXQT5Z	B074SXQT5Z	Men's Long Sleeve Formal Business Dress Shirts Pink X-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-PK-XXL	B074SYXBT8	B074SYXBT8	Men's Long Sleeve Formal Business Dress Shirts Pink XX-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-PP-L	B074T25JWG	B074T25JWG	Men's Long Sleeve Formal Business Dress Shirts Purple Large	New	35.99	No		Yes	1	1	0	0	1	0.21	0	0	0
+ST172-PP-M	B074SMT9CV	B074SMT9CV	Men's Long Sleeve Formal Business Dress Shirts Purple Medium	New	10.00	No		Yes	3	3	0	0	3	0.21	0	0	0
+ST172-PP-S	B074SN4V6M	B074SN4V6M	Men's Long Sleeve Formal Business Dress Shirts Purple Small	New	35.99	No		Yes	1	1	0	0	1	0.21	0	0	0
+ST172-PP-XL	B074SM144J	B074SM144J	Men's Long Sleeve Formal Business Dress Shirts Purple X-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-WR-L	B074SM3B1W	B074SM3B1W	Men's Long Sleeve Formal Business Dress Shirts Wine Red Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-WR-M	B074SXT999	B074SXT999	Men's Long Sleeve Formal Business Dress Shirts Wine Red Medium	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-WR-S	B074SYX9RW	B074SYX9RW	Men's Long Sleeve Formal Business Dress Shirts Wine Red Small	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-WR-XL	B074SY2NWC	B074SY2NWC	Men's Long Sleeve Formal Business Dress Shirts Wine Red X-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-WR-XXL	B074SQ5NX1	B074SQ5NX1	Men's Long Sleeve Formal Business Dress Shirts Wine Red XX-Large	New	35.99	No		Yes	1	1	0	0	1	0.21	0	0	0
+ST172-WT1-L	B074SWPTKB	B074SWPTKB	Men's Long Sleeve Formal Business Dress Shirts Water White Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-WT1-M	B074SNMJJ9	B074SNMJJ9	Men's Long Sleeve Formal Business Dress Shirts Water White Medium	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-WT1-S	B074SZCXH9	B074SZCXH9	Men's Long Sleeve Formal Business Dress Shirts Water White Small	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-WT1-XL	B074SZJPSD	B074SZJPSD	Men's Long Sleeve Formal Business Dress Shirts Water White X-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-WT1-XXL	B074SKM7WZ	B074SKM7WZ	Men's Long Sleeve Formal Business Dress Shirts Water White XX-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-WT2-L	B074SWFPBG	B074SWFPBG	Men's Long Sleeve Formal Business Dress Shirts White Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-WT2-M	B074SKGP6T	B074SKGP6T	Men's Long Sleeve Formal Business Dress Shirts White Medium	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
+ST172-WT2-S	B074SNVWHH	B074SNVWHH	Men's Long Sleeve Formal Business Dress Shirts White Small	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
 ST172-WT2-XL	B074SL2P7T	B074SL2P7T	Men's Long Sleeve Formal Business Dress Shirts White X-Large	New	35.99	No		Yes	2	2	0	0	2	0.21	0	0	0
 ST172-WT2-XXL	B074SZQ5DF	B074SZQ5DF	Men's Long Sleeve Formal Business Dress Shirts White XX-Large	New	35.99	No		Yes	0	0	0	0	0	0.21	0	0	0
-ST173-BK-L	B074SM144F	B074SM144F		Unknown					0	0	0	0	0		0	0	0
-ST173-BK-S	B074SM5RZS	B074SM5RZS	Men's Short Sleeve Formal Dress Shirts Black Small	New	39.98	No		Yes	1	1	0	0	1	0.12	0	0	0
+ST173-BK-S	B074SM5RZS	B074SM5RZS	Men's Short Sleeve Formal Dress Shirts Black Small	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
 ST173-BK-XL	B074T17WT8	B074T17WT8	Men's Short Sleeve Formal Dress Shirts Black X-Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
 ST173-BK-XXL	B074SPJFZZ	B074SPJFZZ	Men's Short Sleeve Formal Dress Shirts Black XX-Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
-ST173-BL-L	B074SWQY9F	B074SWQY9F	Men's Short Sleeve Formal Dress Shirts Blue Large	New	10.00	No		Yes	6	6	0	0	6	0.12	0	0	0
-ST173-BL-M	B074SXT27T	B074SXT27T	Men's Short Sleeve Formal Dress Shirts Blue Medium	New	39.98	No		Yes	3	1	0	2	3	0.12	0	0	0
-ST173-BL-S	B074SZJYJJ	B074SZJYJJ	Men's Short Sleeve Formal Dress Shirts Blue Small	New	39.98	No		Yes	9	9	0	0	9	0.12	0	0	0
-ST173-BL-XXL	B074ST3T2H	B074ST3T2H	Men's Short Sleeve Formal Dress Shirts Blue XX-Large	New	39.98	No		Yes	1	0	0	1	1	0.12	0	0	0
+ST173-BL-L	B074SWQY9F	B074SWQY9F	Men's Short Sleeve Formal Dress Shirts Blue Large	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+ST173-BL-M	B074SXT27T	B074SXT27T	Men's Short Sleeve Formal Dress Shirts Blue Medium	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
+ST173-BL-S	B074SZJYJJ	B074SZJYJJ	Men's Short Sleeve Formal Dress Shirts Blue Small	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
+ST173-BL-XXL	B074ST3T2H	B074ST3T2H	Men's Short Sleeve Formal Dress Shirts Blue XX-Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
 ST173-GR-L	B074SL2W76	B074SL2W76	Men's Short Sleeve Formal Dress Shirts Gray Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
-ST173-GR-M	B074SMCKFY	B074SMCKFY	Men's Short Sleeve Formal Dress Shirts Gray Medium	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
-ST173-GR-S	B074SVYFJC	B074SVYFJC	Men's Short Sleeve Formal Dress Shirts Gray Small	New	10.00	No		Yes	11	11	0	0	11	0.12	0	0	0
+ST173-GR-S	B074SVYFJC	B074SVYFJC	Men's Short Sleeve Formal Dress Shirts Gray Small	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
 ST173-GR-XL	B074SMTJC1	B074SMTJC1	Men's Short Sleeve Formal Dress Shirts Gray X-Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
-ST173-GR-XXL	B074SL2XHK	B074SL2XHK	Men's Short Sleeve Formal Dress Shirts Gray XX-Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
 ST173-NY-L	B074SLG3XL	B074SLG3XL	Men's Short Sleeve Formal Dress Shirts Navy Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
 ST173-NY-M	B074SN3YQP	B074SN3YQP	Men's Short Sleeve Formal Dress Shirts Navy Medium	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
-ST173-NY-S	B074SNF6PC	B074SNF6PC	Men's Short Sleeve Formal Dress Shirts Navy Small	New	39.98	No		Yes	13	13	0	0	13	0.12	0	0	0
+ST173-NY-S	B074SNF6PC	B074SNF6PC	Men's Short Sleeve Formal Dress Shirts Navy Small	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
 ST173-NY-XL	B074SMGT88	B074SMGT88	Men's Short Sleeve Formal Dress Shirts Navy X-Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
-ST173-NY-XXL	B074SXC7GW	B074SXC7GW	Men's Short Sleeve Formal Dress Shirts Navy XX-Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
-ST173-PK-L	B074SLMBT9	B074SLMBT9	MOCOTONO Men's Short Sleeve Formal Dress Shirts Pink Large	New	12.98	No		Yes	8	8	0	0	8	0.12	0	0	0
-ST173-PK-M	B074SKGH3S	B074SKGH3S	MOCOTONO Men's Short Sleeve Formal Dress Shirts Pink Medium	New	12.98	No		Yes	1	0	0	1	1	0.12	0	0	0
-ST173-PK-S	B074SL9T1Y	B074SL9T1Y	MOCOTONO Men's Short Sleeve Formal Dress Shirts Pink Small	New	12.98	No		Yes	9	9	0	0	9	0.12	0	0	0
-ST173-PK-XL	B074SZD1GM	B074SZD1GM	MOCOTONO Men's Short Sleeve Formal Dress Shirts Pink X-Large	New	12.98	No		Yes	6	6	0	0	6	0.12	0	0	0
-ST173-PK-XXL	B074SVP22M	B074SVP22M	MOCOTONO Men's Short Sleeve Formal Dress Shirts Pink XX-Large	New	12.98	No		Yes	3	3	0	0	3	0.12	0	0	0
-ST173-PP-L	B074SL2ZGP	B074SL2ZGP	Men's Short Sleeve Formal Dress Shirts Purple Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
+ST173-PK-L	B074SLMBT9	B074SLMBT9	MOCOTONO Men's Short Sleeve Formal Dress Shirts Pink Large	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+ST173-PK-M	B074SKGH3S	B074SKGH3S	MOCOTONO Men's Short Sleeve Formal Dress Shirts Pink Medium	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+ST173-PK-S	B074SL9T1Y	B074SL9T1Y	MOCOTONO Men's Short Sleeve Formal Dress Shirts Pink Small	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+ST173-PK-XL	B074SZD1GM	B074SZD1GM	MOCOTONO Men's Short Sleeve Formal Dress Shirts Pink X-Large	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+ST173-PK-XXL	B074SVP22M	B074SVP22M	MOCOTONO Men's Short Sleeve Formal Dress Shirts Pink XX-Large	New	10.00	No		Yes	1	0	0	1	1	0.12	0	0	0
 ST173-PP-S	B074SL9Y3C	B074SL9Y3C	Men's Short Sleeve Formal Dress Shirts Purple Small	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
-ST173-WR-L	B074SPF7P1	B074SPF7P1	MOCOTONO Men's Short Sleeve Formal Dress Shirts Wine Red Large	New	10.00	No		Yes	6	6	0	0	6	0.12	0	0	0
-ST173-WR-M	B074SN3YQT	B074SN3YQT	MOCOTONO Men's Short Sleeve Formal Dress Shirts Wine Red Medium	New	10.00	No		Yes	9	9	0	0	9	0.12	0	0	0
-ST173-WR-S	B074SK47ZJ	B074SK47ZJ	Men's Short Sleeve Formal Dress Shirts Wine Red Small	New	10.00	No		Yes	12	12	0	0	12	0.12	0	0	0
-ST173-WR-XL	B074SZC8W1	B074SZC8W1	MOCOTONO Men's Short Sleeve Formal Dress Shirts Wine Red X-Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
+ST173-WR-L	B074SPF7P1	B074SPF7P1	MOCOTONO Men's Short Sleeve Formal Dress Shirts Wine Red Large	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+ST173-WR-M	B074SN3YQT	B074SN3YQT	MOCOTONO Men's Short Sleeve Formal Dress Shirts Wine Red Medium	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
+ST173-WR-S	B074SK47ZJ	B074SK47ZJ	Men's Short Sleeve Formal Dress Shirts Wine Red Small	New	10.00	No		Yes	0	0	0	0	0	0.12	0	0	0
 ST173-WR-XXL	B074SWV9C3	B074SWV9C3	MOCOTONO Men's Short Sleeve Formal Dress Shirts Wine Red XX-Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
-ST173-WT1-L	B074SZJ4QG	B074SZJ4QG	Men's Short Sleeve Formal Dress Shirts Water White Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
-ST173-WT1-M	B074SLG7RS	B074SLG7RS	Men's Short Sleeve Formal Dress Shirts Water White Medium	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
-ST173-WT1-S	B074SXT853	B074SXT853	Men's Short Sleeve Formal Dress Shirts Water White Small	New	39.98	No		Yes	7	7	0	0	7	0.12	0	0	0
-ST173-WT1-XXL	B074SLSTCC	B074SLSTCC		Unknown					0	0	0	0	0		0	0	0
-ST173-WT2-S	B074SZQ3FG	B074SZQ3FG	Men's Short Sleeve Formal Dress Shirts White Small	New	39.98	No		Yes	2	0	0	2	2	0.12	0	0	0
-ST173-WT2-XL	B074SXSPPD	B074SXSPPD	Men's Short Sleeve Formal Dress Shirts White X-Large	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
-SZ-IUYL002	B079JF8TQM	B079JF8TQM	luciphia Pet Grooming Glove Tool Set + Furniture Pet Hair Remover Mitt - For Cat & Dog - Long & Short Fur - Slicker Brush and Pet Steel Comb Included	New	13.99	No		Yes	5	5	0	0	5	0	0	0	0
-TZ-IUYL240-BEAR-L	X001SNKCGL	B07DFBHNBF	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bear Large	New	30.99	No		Yes	9	8	0	1	39	0.24	20	10	0
-TZ-IUYL240-BEAR-M	X001SNZ531	B07DFC3CFS	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bear Medium	New	20.99	No		Yes	5	5	0	0	55	0	20	30	0
-TZ-IUYL240-BEAR-S	X001SNGXAF	B07DF6DDNM	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bear Small	New	15.99	No		Yes	6	1	0	5	136	0	19	111	0
-TZ-IUYL240-BONE-L	B079HRST93	B079HRST93	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bone Large	New	25.99	No		Yes	0	0	0	0	0	0.33	0	0	0
-TZ-IUYL240-BONE-M	B079HPCGB9	B079HPCGB9	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bone Medium	New	18.99	No		Yes	1	0	1	0	1	0.18	0	0	0
-TZ-IUYL240-BONE-S	B079HQW62H	B079HQW62H	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bone Small	New	13.99	No		Yes	2	0	2	0	2	0.11	0	0	0
-TZ-IUYL240-DOT-L	B07C16NFVZ	B07C16NFVZ	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Dot Large	New	25.99	No		Yes	0	0	0	0	0	0.29	0	0	0
-TZ-IUYL240-DOT-M	B07CBPJCK5	B07CBPJCK5	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Dot Medium	New	18.99	No		Yes	0	0	0	0	0	0.15	0	0	0
-TZ-IUYL240-DOT-S	B07CBPWQZT	B07CBPWQZT	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Dot Small	New	13.99	No		Yes	0	0	0	0	0	0.11	0	0	0
-TZ-IUYL240-DOT2-L	X001SNKCHF	B07DFBKQ2D	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Dot2 Large	New	30.99	No		Yes	4	4	0	0	56	0.38	20	32	0
-TZ-IUYL240-DOT2-M	X001SNGQR5	B07DF81JBH	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Dot2 Medium	New	20.99	No		Yes	13	4	0	9	67	0	20	34	0
-TZ-IUYL240-DOT2-S	X001SO0HNN	B07DF9YBBV	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Dot2 Small	New	15.99	No		Yes	0	0	0	0	101	0.07	19	82	0
-TZ-IUYL240-ELPH-L	B07BGW4LWX	B07BGW4LWX	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Elephant Large	New	25.99	No		Yes	0	0	0	0	0	0.17	0	0	0
-TZ-IUYL240-ELPH-M	B07BGSSQLV	B07BGSSQLV	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Elephant Medium	New	18.99	No		Yes	1	0	1	0	1	0.19	0	0	0
-TZ-IUYL240-ELPH-S	B07BGWTSX6	B07BGWTSX6	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Elephant Small	New	13.99	No		Yes	1	0	1	0	1	0.13	0	0	0
-TZ-IUYL240-LOVE-L	X001SWAB31	B07DL5W2R6	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Love Large	New	30.99	No		Yes	19	19	0	0	29	0.26	0	10	0
-TZ-IUYL240-LOVE-M	X001SW002D	B07DL53SBF	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Love Medium	New	20.99	No		Yes	13	12	0	1	43	0.18	0	30	0
-TZ-IUYL240-LOVE-S	X001SVZZGP	B07DL5G8KV	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Love Small	New	15.99	No		Yes	13	13	0	0	53	0	0	40	0
-TZ-IUYL240-PAW-L	B079HP2RFZ	B079HP2RFZ	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Paw Large	New	25.99	No		Yes	15	15	0	0	15	0.3	0	0	0
-TZ-IUYL240-PAW-M	B079HPLTVC	B079HPLTVC	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Paw Medium	New	18.99	No		Yes	2	0	2	0	2	0.22	0	0	0
-TZ-IUYL240-PAW-S	B079HQPJP2	B079HQPJP2	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Paw Small	New	13.99	No		Yes	3	0	3	0	3	0.12	0	0	0
-TZ-IUYL240-RABBIT-L	X001SNZ5FT	B07DFBM9N3	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Rabbit Large	New	30.99	No		Yes	19	18	0	1	49	0.32	20	10	0
-TZ-IUYL240-RABBIT-M	X001SNBSCD	B07DF6XZQC	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Rabbit Medium	New	20.99	No		Yes	10	10	0	0	60	0.14	20	30	0
-TZ-IUYL240-RABBIT-S	X001SNYGA9	B07DFCKR8T	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Rabbit Small	New	15.99	No		Yes	17	17	0	0	110	0.12	19	74	0
-TZ-IUYL240-STAR-L	B079HRYZ8F	B079HRYZ8F	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Large	New	25.99	No		Yes	13	13	0	0	13	0.28	0	0	0
-TZ-IUYL240-STAR-M	B079HQGKS9	B079HQGKS9	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Medium	New	18.99	No		Yes	17	17	0	0	17	0.18	0	0	0
-TZ-IUYL240-STAR-S	B079HS8H93	B079HS8H93	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Small	New	12.99	No		Yes	0	0	0	0	0	0.11	0	0	0
-TZ-IUYL240-STRAWBERRY-L	B07C1P3Z1B	B07C1P3Z1B	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Large	New	25.99	No		Yes	21	21	0	0	21	0.08	0	0	0
-TZ-IUYL240-STRAWBERRY-M	B07CBR7LCS	B07CBR7LCS	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Medium	New	18.99	No		Yes	31	31	0	0	31	0.17	0	0	0
-TZ-IUYL240-STRAWBERRY-S	B07CBPP52D	B07CBPP52D	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Small	New	12.99	No		Yes	0	0	0	0	0	0.11	0	0	0
-TZ-IUYL240LHY-BONE-L	X001SMOCMH	B079HRST93	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bone Large	New	24.99	No		Yes	63	60	0	3	105	0.33	0	40	2
-TZ-IUYL240LHY-BONE-M	X001SMPN1B	B079HPCGB9	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bone Medium	New	18.99	No		Yes	68	54	0	14	186	0.18	0	118	0
-TZ-IUYL240LHY-BONE-S	X001SMPZ0F	B079HQW62H	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bone Small	New	13.99	No		Yes	80	80	0	0	395	0.11	0	315	0
-TZ-IUYL240LHY-DOT-L	X001SMP3RF	B07C16NFVZ	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Dot Large	New	24.99	No		Yes	81	81	0	0	126	0.29	0	45	0
-TZ-IUYL240LHY-DOT-M	X001SIN10Z	B07CBPJCK5	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Dot Medium	New	18.99	No		Yes	111	105	3	3	216	0.15	45	60	0
-TZ-IUYL240LHY-DOT-S	X001SHIRH3	B07CBPWQZT	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Dot Small	New	13.99	No		Yes	79	76	2	1	354	0.11	20	255	0
-TZ-IUYL240LHY-ELPH-L	X001SMPN1L	B07BGW4LWX	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Elephant Large	New	24.99	No		Yes	75	73	0	2	155	0.17	0	60	20
-TZ-IUYL240LHY-ELPH-M	X001SMPLHR	B07BGSSQLV	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Elephant Medium	New	18.99	No		Yes	102	99	0	3	279	0.19	0	175	2
-TZ-IUYL240LHY-ELPH-S	X001SLRYUF	B07BGWTSX6	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Elephant Small	New	13.99	No		Yes	155	150	0	5	455	0.13	30	270	0
-TZ-IUYL240LHY-PAW-L	X001SMP2FD	B079HP2RFZ	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Paw Large	New	24.99	No		Yes	79	75	0	4	119	0.3	0	40	0
-TZ-IUYL240LHY-PAW-M	X001SMPVCH	B079HPLTVC	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Paw Medium	New	18.99	No		Yes	91	79	0	12	358	0.22	35	232	0
-TZ-IUYL240LHY-PAW-S	X001SMP2F3	B079HQPJP2	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Paw Small	New	13.99	No		Yes	108	98	0	10	313	0.12	0	203	2
-TZ-IUYL240LHY-STAR-L	X001SMPZ0P	B079HRYZ8F	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Large	New	23.99	No		Yes	88	88	0	0	88	0.28	0	0	0
-TZ-IUYL240LHY-STAR-M	X001SMQ56X	B079HQGKS9	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Medium	New	18.99	No		Yes	110	110	0	0	110	0.18	0	0	0
-TZ-IUYL240LHY-STAR-S	X001SMQI8D	B079HS8H93	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Small	New	13.99	No		Yes	52	52	0	0	100	0.11	0	40	8
-TZ-IUYL240LHY-STRAWBERRY-L	X001SLY9ET	B07C1P3Z1B	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Large	New	24.99	No		Yes	20	18	0	2	94	0.08	0	74	0
-TZ-IUYL240LHY-STRAWBERRY-M	X001SLYK4N	B07CBR7LCS	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Medium	New	18.99	No		Yes	50	50	0	0	100	0.17	0	50	0
-TZ-IUYL240LHY-STRAWBERRY-S	X001SMQ56N	B07CBPP52D	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Small	New	13.99	No		Yes	40	36	0	4	200	0.11	26	134	0
+ST173-WT1-S	B074SXT853	B074SXT853	Men's Short Sleeve Formal Dress Shirts Water White Small	New	39.98	No		Yes	1	1	0	0	1	0.12	0	0	0
+ST173-WT2-S	B074SZQ3FG	B074SZQ3FG	Men's Short Sleeve Formal Dress Shirts White Small	New	39.98	No		Yes	0	0	0	0	0	0.12	0	0	0
+SZ-IUYL002	B079JF8TQM	B079JF8TQM	luciphia Pet Grooming Glove Tool Set + Furniture Pet Hair Remover Mitt - For Cat & Dog - Long & Short Fur - Slicker Brush and Pet Steel Comb Included	New	12.99	No		Yes	3	3	0	0	3	0.02	0	0	0
+TZ-CAHM240-BEAR-L	X001ULG7R9	B07G2TKH72		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-BEAR-M	X001UKYPZL	B07G2HK4LR		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-BEAR-S	X001UKYQ05	B07G2GK8ZK		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-BONE-L	X001ULG7QZ	B07G2J4CCP		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-BONE-M	X001UKZ375	B07G2HT2XT		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-BONE-S	X001ULC0LV	B07G2C1J1X		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-CHRISMAS-L	X001ULFBHB	B07G2GG3FG		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-CHRISMAS-M	X001ULD75T	B07G2JK88P		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-CHRISMAS-S	X001ULCFG1	B07G2CDB9N		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-DOT-L	X001ULEQ77	B07G2FZJ1T		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-DOT-M	X001ULCF1L	B07G2DBC11		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-DOT-S	X001ULEQ7H	B07G2F95T9		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-DOT2-L	X001ULEQ7R	B07G2CQMRB		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-DOT2-M	X001ULFBGR	B07G2G9KXB		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-DOT2-S	X001UKYQ0P	B07G2JKPHB		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-ELPH-L	X001ULC0M5	B07G2BHFL7		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-ELPH-M	X001ULFNDN	B07G2DMWYP		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-ELPH-S	X001ULCFGB	B07G2CRRYT		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-LOVE-L	X001ULFBGH	B07G2QCTTK		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-LOVE-M	X001ULBURL	B07G2C9V8N		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-LOVE-S	X001UKYPS3	B07G2C7LXR		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-PAW-L	X001UKYPZV	B07G2F3B36		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-PAW-M	X001UKYPGZ	B07G2QCW7J		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-PAW-S	X001ULFNDD	B07G2J4CCG		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-RABBIT-L	X001ULFBH1	B07G2J672C		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-RABBIT-M	X001UKYPRT	B07G2H6MVD		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-RABBIT-S	X001UKYPRJ	B07G2D1R88		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-STAR-L	X001ULG7RJ	B07G2D9NZP		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-STAR-M	X001ULD75J	B07G2JF5SV		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-STAR-S	X001UKZFQJ	B07G2DFQH7		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-STRAWBERRY-L	X001UKZ36V	B07G2CV2C7		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-STRAWBERRY-M	X001ULC0MF	B07G2HNK7F		Unknown					0	0	0	0	0		0	0	0
+TZ-CAHM240-STRAWBERRY-S	X001ULEQ81	B07G2HDHQR		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-BEAR-L	X001SNKCGL	B07DFBHNBF	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bear Large	New	24.99	No		Yes	12	7	0	5	32	0.24	20	0	0
+TZ-IUYL240-BEAR-M	X001SNZ531	B07DFC3CFS	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bear Medium	New	18.99	No		Yes	2	0	0	2	22	0.16	20	0	0
+TZ-IUYL240-BEAR-S	X001SNGXAF	B07DF6DDNM	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bear Small	New	13.99	No		Yes	21	5	0	16	40	0.08	19	0	0
+TZ-IUYL240-BONE-L	B079HRST93	B079HRST93		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-BONE-M	B079HPCGB9	B079HPCGB9		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-BONE-S	B079HQW62H	B079HQW62H		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-CHRISMAS-L	X001U8YW3X	B07FPF48R8	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Christmas Large	New	30.99	No		Yes	11	0	0	11	11	0	0	0	0
+TZ-IUYL240-CHRISMAS-M	X001U8DAOP	B07FPDR28G	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Christmas Medium	New	24.99	No		Yes	10	0	0	10	10	0	0	0	0
+TZ-IUYL240-CHRISMAS-S	X001U9MEWD	B07FPGNFXV	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Christmas Small	New	18.99	No		Yes	22	0	0	22	22	0.14	0	0	0
+TZ-IUYL240-DOT-L	B07C16NFVZ	B07C16NFVZ		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-DOT-M	B07CBPJCK5	B07CBPJCK5		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-DOT-S	B07CBPWQZT	B07CBPWQZT		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-DOT2-L	X001SNKCHF	B07DFBKQ2D	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Dot2 Large	New	24.99	No		Yes	20	13	0	7	40	0.38	20	0	0
+TZ-IUYL240-DOT2-M	X001SNGQR5	B07DF81JBH	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Dot2 Medium	New	18.99	No		Yes	58	27	0	31	115	0.23	20	37	0
+TZ-IUYL240-DOT2-S	X001SO0HNN	B07DF9YBBV	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Dot2 Small	New	13.99	No		Yes	30	18	0	12	188	0.07	19	139	0
+TZ-IUYL240-ELPH-L	B07BGW4LWX	B07BGW4LWX		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-ELPH-M	B07BGSSQLV	B07BGSSQLV		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-ELPH-S	B07BGWTSX6	B07BGWTSX6		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-LOVE-L	X001SWAB31	B07DL5W2R6	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Love Large	New	24.99	No		Yes	17	4	0	13	17	0.26	0	0	0
+TZ-IUYL240-LOVE-M	X001SW002D	B07DL53SBF	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Love Medium	New	18.99	No		Yes	20	18	0	2	25	0.18	0	5	0
+TZ-IUYL240-LOVE-S	X001SVZZGP	B07DL5G8KV	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Love Small	New	13.99	No		Yes	8	6	0	2	8	0.08	0	0	0
+TZ-IUYL240-PAW-L	B079HP2RFZ	B079HP2RFZ		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-PAW-M	B079HPLTVC	B079HPLTVC		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-PAW-S	B079HQPJP2	B079HQPJP2		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-RABBIT-L	X001SNZ5FT	B07DFBM9N3	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Rabbit Large	New	24.99	No		Yes	8	8	0	0	40	0.32	20	12	0
+TZ-IUYL240-RABBIT-M	X001SNBSCD	B07DF6XZQC	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Rabbit Medium	New	18.99	No		Yes	13	7	0	6	43	0.14	20	10	0
+TZ-IUYL240-RABBIT-S	X001SNYGA9	B07DFCKR8T	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Rabbit Small	New	13.99	No		Yes	92	85	0	7	111	0.12	19	0	0
+TZ-IUYL240-STAR-L	B079HRYZ8F	B079HRYZ8F	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Large	New	24.99	No		Yes	1	0	0	1	1	0.28	0	0	0
+TZ-IUYL240-STAR-M	B079HQGKS9	B079HQGKS9	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Medium	New	18.99	No		Yes	1	0	0	1	1	0.07	0	0	0
+TZ-IUYL240-STAR-S	B079HS8H93	B079HS8H93		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240-STRAWBERRY-L	B07C1P3Z1B	B07C1P3Z1B	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Large	New	24.99	No		Yes	8	8	0	0	8	0.08	0	0	0
+TZ-IUYL240-STRAWBERRY-M	B07CBR7LCS	B07CBR7LCS	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Medium	New	18.99	No		Yes	9	9	0	0	9	0.17	0	0	0
+TZ-IUYL240-STRAWBERRY-S	B07CBPP52D	B07CBPP52D		Unknown					0	0	0	0	0		0	0	0
+TZ-IUYL240LHY-BONE-L	X001SMOCMH	B079HRST93	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bone Large	New	24.99	No		Yes	15	8	1	6	37	0.33	0	20	2
+TZ-IUYL240LHY-BONE-M	X001SMPN1B	B079HPCGB9	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bone Medium	New	18.99	No		Yes	96	65	0	31	109	0.18	0	13	0
+TZ-IUYL240LHY-BONE-S	X001SMPZ0F	B079HQW62H	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Bone Small	New	13.99	No		Yes	180	148	2	30	180	0.11	0	0	0
+TZ-IUYL240LHY-DOT-L	X001SMP3RF	B07C16NFVZ	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Dot Large	New	24.99	No		Yes	65	53	0	12	65	0.29	0	0	0
+TZ-IUYL240LHY-DOT-M	X001SIN10Z	B07CBPJCK5	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Dot Medium	New	18.99	No		Yes	49	47	0	2	154	0.15	45	60	0
+TZ-IUYL240LHY-DOT-S	X001SHIRH3	B07CBPWQZT	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Dot Small	New	13.99	No		Yes	122	105	1	16	227	0.11	20	85	0
+TZ-IUYL240LHY-ELPH-L	X001SMPN1L	B07BGW4LWX	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Elephant Large	New	24.99	No		Yes	11	1	0	10	91	0.32	0	60	20
+TZ-IUYL240LHY-ELPH-M	X001SMPLHR	B07BGSSQLV	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Elephant Medium	New	18.99	No		Yes	89	70	1	18	161	0.19	0	70	2
+TZ-IUYL240LHY-ELPH-S	X001SLRYUF	B07BGWTSX6	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Elephant Small	New	13.99	No		Yes	227	177	1	49	257	0.13	30	0	0
+TZ-IUYL240LHY-PAW-L	X001SMP2FD	B079HP2RFZ	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Paw Large	New	24.99	No		Yes	63	26	1	36	64	0.3	0	0	1
+TZ-IUYL240LHY-PAW-M	X001SMPVCH	B079HPLTVC	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Paw Medium	New	18.99	No		Yes	146	92	3	51	327	0.22	35	146	0
+TZ-IUYL240LHY-PAW-S	X001SMP2F3	B079HQPJP2	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Paw Small	New	13.99	No		Yes	142	90	1	51	207	0.12	0	63	2
+TZ-IUYL240LHY-STAR-L	X001SMPZ0P	B079HRYZ8F	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Large	New	24.99	No		Yes	43	42	1	0	43	0.28	0	0	0
+TZ-IUYL240LHY-STAR-M	X001SMQ56X	B079HQGKS9	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Medium	New	18.99	No		Yes	62	61	0	1	62	0.07	0	0	0
+TZ-IUYL240LHY-STAR-S	X001SMQI8D	B079HS8H93	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Cat Star Small	New	13.99	No		Yes	40	35	0	5	48	0.11	0	0	8
+TZ-IUYL240LHY-STRAWBERRY-L	X001SLY9ET	B07C1P3Z1B	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Large	New	24.99	No		Yes	77	77	0	0	77	0.08	0	0	0
+TZ-IUYL240LHY-STRAWBERRY-M	X001SLYK4N	B07CBR7LCS	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Medium	New	18.99	No		Yes	79	78	1	0	79	0.17	0	0	0
+TZ-IUYL240LHY-STRAWBERRY-S	X001SMQ56N	B07CBPP52D	luciphia 1 Pack 3 Blankets Super Soft Fluffy Premium Fleece Pet Blanket Flannel Throw for Dog Puppy Strawberry Small	New	13.99	No		Yes	130	130	0	0	156	0.11	26	0	0
 TZ-SY240-BONE-S	X001TLK2UD	B079G3D72G		Unknown					0	0	0	0	0		0	0	0
 TZ-SY240-ELPH-S	X001TM1IHN	B07BGYNNNN		Unknown					0	0	0	0	0		0	0	0
 TZ-SY240-STRAWBERRY-S	X001TM1C1F	B07C8B4SK9		Unknown					0	0	0	0	0		0	0	0
-XQ-IUYL260-BK-M	B079GQ697Z	B079GQ697Z	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	3	3	0	0	3	0.03	0	0	0
-XQ-IUYL260-BK-S	B079GPRVHY	B079GPRVHY	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	13	13	0	0	13	0.03	0	0	0
-XQ-IUYL260-BL1-M	B079GQ99MR	B079GQ99MR	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	6	6	0	0	6	0.04	0	0	0
-XQ-IUYL260-BL1-S	B079GQZMQ2	B079GQZMQ2	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	9	9	0	0	9	0.04	0	0	0
-XQ-IUYL260-BL2-M	B079GR91JK	B079GR91JK	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	12	12	0	0	12	0.03	0	0	0
-XQ-IUYL260-BL2-S	B079GLZ6K8	B079GLZ6K8	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	12	12	0	0	12	0.04	0	0	0
-XQ-IUYL260-GN-M	B079GML28B	B079GML28B	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	10	10	0	0	10	0.04	0	0	0
-XQ-IUYL260-GN-S	B079GQ2C5K	B079GQ2C5K	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	10	10	0	0	10	0.04	0	0	0
-XQ-IUYL260-PK-M	B079GRXYH8	B079GRXYH8	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	4	3	0	1	4	0.04	0	0	0
-XQ-IUYL260-PK-S	B079GMMWG2	B079GMMWG2	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	5	4	0	1	5	0.03	0	0	0
-XQ-IUYL260-PP-M	B079GQB66Z	B079GQB66Z	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	4	4	0	0	4	0.04	0	0	0
-XQ-IUYL260-PP-S	B079GNL7BD	B079GNL7BD	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	6	6	0	0	6	0.04	0	0	0
-XQ-IUYL260-RD-M	B079GS81P9	B079GS81P9	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	6	6	0	0	6	0.04	0	0	0
-XQ-IUYL260-RD-S	B079GM3BXL	B079GM3BXL	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	3	3	0	0	3	0.04	0	0	0
-XQ-IUYL260-YL-M	B079GPD2NN	B079GPD2NN	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	4	4	0	0	4	0.04	0	0	0
-XQ-IUYL260-YL-S	B079GQYYYF	B079GQYYYF	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.90	No		Yes	5	5	0	0	5	0.03	0	0	0
-XQ-IUYL320-BK-L	B07C8GM23V	B07C8GM23V	Luciphia Cute Leather Dog Collar Black Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-BK-M	B07BLV8M7G	B07BLV8M7G	Luciphia Cute Leather Dog Collar Black Medium	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-BK-S	B07BLZDS36	B07BLZDS36	Luciphia Cute Leather Dog Collar Black Small	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-BK-XL	B07BLXSN84	B07BLXSN84	Luciphia Cute Leather Dog Collar Black X-Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-BL-L	B07BLR3VDW	B07BLR3VDW	luciphia Cute Leather Dog Collar Blue Large	New	9.90	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-BL-M	B07BLTCKF4	B07BLTCKF4	Luciphia Cute Leather Dog Collar Blue Medium	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-BL-S	B07BLXLBHX	B07BLXLBHX	Luciphia Cute Leather Dog Collar Blue Small	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-BL-XL	B07BLRNMV5	B07BLRNMV5	Luciphia Cute Leather Dog Collar Blue X-Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-CF-L	B07BLT6QLH	B07BLT6QLH	Luciphia Cute Leather Dog Collar Coffee Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-CF-M	B07BLV5B1Y	B07BLV5B1Y	Luciphia Cute Leather Dog Collar Coffee Medium	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-CF-S	B07BLV93M6	B07BLV93M6	Luciphia Cute Leather Dog Collar Coffee Small	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-CF-XL	B07BLRWWB9	B07BLRWWB9	Luciphia Cute Leather Dog Collar Coffee X-Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-DB-L	B07BLT8Z76	B07BLT8Z76	Luciphia Cute Leather Dog Collar Dark Blue Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-DB-M	B07BLS3RH4	B07BLS3RH4	Luciphia Cute Leather Dog Collar Dark Blue Medium	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-DB-S	B07BLZ5PS4	B07BLZ5PS4	Luciphia Cute Leather Dog Collar Dark Blue Small	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-DB-XL	B07BLRTLGM	B07BLRTLGM	Luciphia Cute Leather Dog Collar Dark Blue X-Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-GN-L	B07BLRDXJK	B07BLRDXJK	Luciphia Cute Leather Dog Collar Green Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-GN-M	B07C8GHD9F	B07C8GHD9F	Luciphia Cute Leather Dog Collar Green Medium	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-GN-S	B07BLXYK2X	B07BLXYK2X	Luciphia Cute Leather Dog Collar Green Small	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-GN-XL	B07BLXHTK7	B07BLXHTK7	Luciphia Cute Leather Dog Collar Green X-Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-PK-L	B07BLV93M3	B07BLV93M3	Luciphia Cute Leather Dog Collar Pink Large	New	15.00	No		Yes	2	2	0	0	2	0	0	0	0
-XQ-IUYL320-PK-M	B07BLT9556	B07BLT9556	Luciphia Cute Leather Dog Collar Pink Medium	New	15.00	No		Yes	2	2	0	0	2	0	0	0	0
-XQ-IUYL320-PK-S	B07BLWPJFH	B07BLWPJFH	Luciphia Cute Leather Dog Collar Pink Small	New	15.00	No		Yes	3	3	0	0	3	0	0	0	0
-XQ-IUYL320-PK-XL	B07BLZ8QQW	B07BLZ8QQW	Luciphia Cute Leather Dog Collar Pink X-Large	New	15.00	No		Yes	1	1	0	0	1	0	0	0	0
-XQ-IUYL320-PP-L	B07BLVMB53	B07BLVMB53	Luciphia Cute Leather Dog Collar Purple Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-PP-M	B07BLWQZKS	B07BLWQZKS	Luciphia Cute Leather Dog Collar Purple Medium	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-PP-S	B07BLSR168	B07BLSR168	Luciphia Cute Leather Dog Collar Purple Small	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-PP-XL	B07BLRLRW6	B07BLRLRW6	Luciphia Cute Leather Dog Collar Purple X-Large	New	15.00	No		Yes	3	3	0	0	3	0	0	0	0
-XQ-IUYL320-RD-L	B07BLXBP85	B07BLXBP85	Luciphia Cute Leather Dog Collar Red Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-RD-M	B07BLRWPX4	B07BLRWPX4	Luciphia Cute Leather Dog Collar Red Medium	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-RD-S	B07BLYK979	B07BLYK979	Luciphia Cute Leather Dog Collar Red Small	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-RD-XL	B07BLX976V	B07BLX976V	Luciphia Cute Leather Dog Collar Red X-Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-YL-L	B07BLTGHH9	B07BLTGHH9	Luciphia Cute Leather Dog Collar Yellow Large	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-YL-M	B07BLSNYZP	B07BLSNYZP	Luciphia Cute Leather Dog Collar Yellow Medium	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-YL-S	B07BLSLVNQ	B07BLSLVNQ	Luciphia Cute Leather Dog Collar Yellow Small	New	15.00	No		Yes	4	4	0	0	4	0	0	0	0
-XQ-IUYL320-YL-XL	B07BLVSWRJ	B07BLVSWRJ	Luciphia Cute Leather Dog Collar Yellow X-Large	New	15.00	No		Yes	3	3	0	0	3	0	0	0	0
-scarf-0001-Blue	B073GY4FL6	B073GY4FL6	Luciphia Womem's Floral Print 100% Silk Square Scarf Neckerchief  20x20 Inches	New	42.00	No		Yes	2	2	0	0	2	0.01	0	0	0
-scarf-0001-Peony	B073GX87XH	B073GX87XH	Luciphia Womem's Floral Print 100% Silk Square Scarf Neckerchief  20x20 Inches	New	10.00	No		Yes	10	10	0	0	10	0.01	0	0	0
-scarf-0001-Plum	B073GYQ88V	B073GYQ88V	Luciphia Womem's Floral Print 100% Silk Square Scarf Neckerchief  20x20 Inches	New	42.00	No		Yes	0	0	0	0	0	0.01	0	0	0
-scarf-001-blueheart	B073GXT1YF	B073GXT1YF	Luciphia Womem's Floral Print 100% Silk Square Scarf Neckerchief  20x20 Inches	New	42.00	No		Yes	7	7	0	0	7	0.01	0	0	0
+XQ-IUYL260-BK-M	B079GQ697Z	B079GQ697Z	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	0	0	0	0	0	0.03	0	0	0
+XQ-IUYL260-BK-S	B079GPRVHY	B079GPRVHY	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	6	6	0	0	6	0.03	0	0	0
+XQ-IUYL260-BL1-M	B079GQ99MR	B079GQ99MR	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	1	1	0	0	1	0.04	0	0	0
+XQ-IUYL260-BL1-S	B079GQZMQ2	B079GQZMQ2	Luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	4	4	0	0	4	0.04	0	0	0
+XQ-IUYL260-BL2-M	B079GR91JK	B079GR91JK	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	12	12	0	0	12	0.03	0	0	0
+XQ-IUYL260-BL2-S	B079GLZ6K8	B079GLZ6K8	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	11	11	0	0	11	0.04	0	0	0
+XQ-IUYL260-GN-M	B079GML28B	B079GML28B	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	10	10	0	0	10	0.04	0	0	0
+XQ-IUYL260-GN-S	B079GQ2C5K	B079GQ2C5K	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	9	9	0	0	9	0.04	0	0	0
+XQ-IUYL260-PK-M	B079GRXYH8	B079GRXYH8	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	1	0	1	0	1	0.04	0	0	0
+XQ-IUYL260-PK-S	B079GMMWG2	B079GMMWG2	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	0	0	0	0	0	0.03	0	0	0
+XQ-IUYL260-PP-M	B079GQB66Z	B079GQB66Z	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	4	4	0	0	4	0.04	0	0	0
+XQ-IUYL260-PP-S	B079GNL7BD	B079GNL7BD	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	1	1	0	0	1	0.04	0	0	0
+XQ-IUYL260-RD-M	B079GS81P9	B079GS81P9	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	1	0	0	1	1	0.04	0	0	0
+XQ-IUYL260-RD-S	B079GM3BXL	B079GM3BXL	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	0	0	0	0	0	0.04	0	0	0
+XQ-IUYL260-YL-M	B079GPD2NN	B079GPD2NN	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	0	0	0	0	0	0.04	0	0	0
+XQ-IUYL260-YL-S	B079GQYYYF	B079GQYYYF	luciphia Cute PU Leather Dog Collar with Adorable Flowers	New	9.99	No		Yes	0	0	0	0	0	0.03	0	0	0
+XQ-IUYL320-BK-L	B07C8GM23V	B07C8GM23V	luciphia Cute Leather Dog Collar Black Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-BK-M	B07BLV8M7G	B07BLV8M7G	luciphia Cute Leather Dog Collar Black Medium	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-BK-S	B07BLZDS36	B07BLZDS36	luciphia Cute Leather Dog Collar Black Small	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-BK-XL	B07BLXSN84	B07BLXSN84	luciphia Cute Leather Dog Collar Black X-Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-BL-L	B07BLR3VDW	B07BLR3VDW	luciphia Cute Leather Dog Collar Blue Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-BL-M	B07BLTCKF4	B07BLTCKF4	luciphia Cute Leather Dog Collar Blue Medium	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-BL-S	B07BLXLBHX	B07BLXLBHX	luciphia Cute Leather Dog Collar Blue Small	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-BL-XL	B07BLRNMV5	B07BLRNMV5	luciphia Cute Leather Dog Collar Blue X-Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-CF-L	B07BLT6QLH	B07BLT6QLH	luciphia Cute Leather Dog Collar Coffee Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-CF-M	B07BLV5B1Y	B07BLV5B1Y	luciphia Cute Leather Dog Collar Coffee Medium	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-CF-S	B07BLV93M6	B07BLV93M6	luciphia Cute Leather Dog Collar Coffee Small	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-CF-XL	B07BLRWWB9	B07BLRWWB9	luciphia Cute Leather Dog Collar Coffee X-Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-DB-L	B07BLT8Z76	B07BLT8Z76	luciphia Cute Leather Dog Collar Dark Blue Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-DB-M	B07BLS3RH4	B07BLS3RH4	luciphia Cute Leather Dog Collar Dark Blue Medium	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-DB-S	B07BLZ5PS4	B07BLZ5PS4	luciphia Cute Leather Dog Collar Dark Blue Small	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-DB-XL	B07BLRTLGM	B07BLRTLGM	luciphia Cute Leather Dog Collar Dark Blue X-Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-GN-L	B07BLRDXJK	B07BLRDXJK	luciphia Cute Leather Dog Collar Green Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-GN-M	B07C8GHD9F	B07C8GHD9F	luciphia Cute Leather Dog Collar Green Medium	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-GN-S	B07BLXYK2X	B07BLXYK2X	luciphia Cute Leather Dog Collar Green Small	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-GN-XL	B07BLXHTK7	B07BLXHTK7	luciphia Cute Leather Dog Collar Green X-Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-PK-L	B07BLV93M3	B07BLV93M3	luciphia Cute Leather Dog Collar Pink Large	New	9.99	No		Yes	1	1	0	0	1	0	0	0	0
+XQ-IUYL320-PK-M	B07BLT9556	B07BLT9556	luciphia Cute Leather Dog Collar Pink Medium	New	9.99	No		Yes	2	2	0	0	2	0	0	0	0
+XQ-IUYL320-PK-S	B07BLWPJFH	B07BLWPJFH	luciphia Cute Leather Dog Collar Pink Small	New	9.99	No		Yes	3	3	0	0	3	0	0	0	0
+XQ-IUYL320-PK-XL	B07BLZ8QQW	B07BLZ8QQW	luciphia Cute Leather Dog Collar Pink X-Large	New	9.99	No		Yes	1	1	0	0	1	0	0	0	0
+XQ-IUYL320-PP-L	B07BLVMB53	B07BLVMB53	luciphia Cute Leather Dog Collar Purple Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-PP-M	B07BLWQZKS	B07BLWQZKS	luciphia Cute Leather Dog Collar Purple Medium	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-PP-S	B07BLSR168	B07BLSR168	luciphia Cute Leather Dog Collar Purple Small	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-PP-XL	B07BLRLRW6	B07BLRLRW6	luciphia Cute Leather Dog Collar Purple X-Large	New	9.99	No		Yes	3	3	0	0	3	0	0	0	0
+XQ-IUYL320-RD-L	B07BLXBP85	B07BLXBP85	luciphia Cute Leather Dog Collar Red Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-RD-M	B07BLRWPX4	B07BLRWPX4	luciphia Cute Leather Dog Collar Red Medium	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-RD-S	B07BLYK979	B07BLYK979	luciphia Cute Leather Dog Collar Red Small	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-RD-XL	B07BLX976V	B07BLX976V	luciphia Cute Leather Dog Collar Red X-Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-YL-L	B07BLTGHH9	B07BLTGHH9	luciphia Cute Leather Dog Collar Yellow Large	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-YL-M	B07BLSNYZP	B07BLSNYZP	luciphia Cute Leather Dog Collar Yellow Medium	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-YL-S	B07BLSLVNQ	B07BLSLVNQ	luciphia Cute Leather Dog Collar Yellow Small	New	9.99	No		Yes	4	4	0	0	4	0	0	0	0
+XQ-IUYL320-YL-XL	B07BLVSWRJ	B07BLVSWRJ	luciphia Cute Leather Dog Collar Yellow X-Large	New	9.99	No		Yes	3	3	0	0	3	0	0	0	0
+ZB-PUHM-DTLS-140*200CM	X001V3885Z	B07GGV1821	luciphia Map Printed Lace Table Cloth Round&Rectangular&Oval Table(55x78.6In)	New	28.99	No		Yes	0	0	0	0	0	0	0	0	0
+ZB-PUHM-DTLS-140*220CM	X001V31WKD	B07GHCLGQ3	luciphia Map Printed Lace Table Cloth for Round&Rectangular&Oval Table(55x86.5In)	New	29.99	No		Yes	0	0	0	0	0	0	0	0	0
+ZB-PUHM-XHW0-140*160CM	X001V38HJ7	B07GGRRDCK	luciphia Cotton Linen Tablecloth Macrame Lace Table Cloths Rectangle for Dinner and Everyday Use(Beige,55.1x63In)	New	20.99	No		Yes	0	0	0	0	0	0	0	0	0
+scarf-0001-Blue	B073GY4FL6	B073GY4FL6	Women's Lightweight Floral Square Silk Scarf Shawl	New	42.00	No		Yes	0	0	0	0	0	0.01	0	0	0
+scarf-0001-Peony	B073GX87XH	B073GX87XH	Women's Lightweight Floral Square Silk Scarf Shawl (21 x 21", Peony)	New	7.00	No		Yes	2	2	0	0	2	0.01	0	0	0
+scarf-001-blueheart	B073GXT1YF	B073GXT1YF	Women's Lightweight Floral Square Silk Scarf Shawl	New	7.00	No		Yes	7	7	0	0	7	0.01	0	0	0

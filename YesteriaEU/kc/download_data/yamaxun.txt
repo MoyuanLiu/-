@@ -1,0 +1,67 @@
+Merchant SKU	Fulfillment Network SKU	ASIN	Title	Condition	Price	MFN Listing Exists	MFN Fulfillable Qty	AFN Listing Exists	AFN Warehouse Qty	AFN Fulfillable Qty	AFN Unsellable Qty	AFN Encumbered Qty	AFN Total Qty	Volume	AFN Inbound Working Qty	AFN Inbound Shipped Qty	AFN Inbound Receiving Qty
+DO-YELQ001-PI-22	X000SW4KEP	B06XPJWWR4	Yesteria Reborn Baby Doll Girl Look Real Silicone Pink Outfit 22 Inches	New	129.99	No		Yes	102	85	0	17	112	10886.42	0	10	0
+DO-YELQ004-B7-10	X000T05I1Z	B076Q71HXL	Yesteria Sleeping Reborn Baby Doll Look Real Full Silicone Body Light Blue Outfit 10 Inches	New	79.99	No		Yes	38	37	0	1	38	2100	0	0	0
+DO-YELQ004-PI-10	X000T0CNXV	B076Q8RG21	Yesteria Sleeping Reborn Baby Doll Look Real Full Silicone Body Pink Outfit 10 Inches	New	79.99	No		Yes	43	39	0	4	43	4963.15	0	0	0
+DO-YELQ010-PI-22	X000URMVIF	B079JQCWQ6	Yesteria Real Looking Reborn Baby Dolls Girl Silicone Pink Outfit 22 Inches	New	119.99	No		Yes	25	7	0	18	25	16896.05	0	0	0
+DO-YELQ011-PI-22	X000TT213J	B077SGXYL6	Yesteria Reborn Baby Doll Girl Look Real Silicone Pink Tutu Skirt 22 Inches	New	129.99	No		Yes	28	28	0	0	28	12585.27	0	0	0
+DO-YELQ011-W0-22	X000T0H5D9	B0788N4FMR	Reborn Baby Doll Girl Look Real White Outfit with Cat Pattern 22 Inches	New	129.99	No		Yes	30	23	0	7	39	18480.02	0	9	0
+DO-YELQ012-PI-22	X000UUKXZ5	B076J2H7FC	Reborn Baby Doll Wig Baby Girl Look Real Silicone Pink 22 inches	New	119.99	No		Yes	15	14	0	1	15	16782.98	0	0	0
+DO-YELQ018-B0-18	X000UE6BUH	B0792VG6VZ	Yesteria Real Looking Reborn Baby Dolls Boy Silicone Vinyl Blue Baby Jumpsuit 18 Inch	New	129.99	No		Yes	12	8	1	3	12	13664.03	0	0	0
+DO-YELQ018-P4-16	X000TT1XQZ	B07BHMXQ7H	Yesteria Reborn Baby Dolls Girl Look Real Silicone Light Purple Outfit 16 Inches	New	109.99	No		Yes	15	15	0	0	30	15240.95	0	15	0
+DO-YELQ039-R0-22	X000V6G9ZL	B07F73THXK	Yesteria Realistic Reborn Baby Doll Girl Toddler Plaid Princess Dress 24 Inches	New	256.00	No		Yes	0	0	0	0	0	34700.43	0	0	0
+DO-YELQ062-PI-22	X000UV40NZ	B079JRDT89	Yesteria Silicone Reborn Baby Dolls Girl Look Real Eye Closed Pink Outfit 22 Inches	New	119.99	No		Yes	14	8	1	5	24	10435.28	0	10	0
+DO-YELQ070-PI-16	X000UULE99	B079NYR8GC	Silicone Reborn Baby Dolls Girl Look Real White Outfit with Lovely Patterns 16 inches	New	109.99	No		Yes	10	10	0	0	10	9905.32	0	0	0
+DO-YELQ073-LGR-22	X000UFJEFF	B0792VRZ89	Yesteria Life Like Reborn Baby Dolls Boy Realistic Toddler Silicone Vinyl Grey Outfit 22 Inch	New	129.99	No		Yes	9	8	0	1	16	18107.71	0	7	0
+DO-YELQ100-B7-22	X000SW4KMH	B077SHDMC8	Realistic Reborn Baby Doll Boy Silicone White and Light Blue Outfit 22 Inches	New	129.99	No		Yes	11	8	1	2	11	12585.27	0	0	0
+DO-YELQ101-B7-22	X000UVINCT	B079JRPXZ8	Yesteria Real Life Silicone Reborn Baby Dolls Boy Look Real White Outfit 22 Inches	New	119.99	No		Yes	30	29	1	0	30	11073.56	0	0	0
+DO-YELQ111-PI-22	X000T05IAL	B0788N9R3H	Yesteria Reborn Baby Doll Girl Look Real Rose Red Tutu Skirt 22 Inches	New	129.99	No		Yes	18	18	0	0	18	22589.57	0	0	0
+DO-YELQ111-R2-22	X000TT216L	B07BHNQ7QC	Yesteria Realistic Real Life Reborn Baby Doll Girl Silicone Vinyl Tutu Dress Rose Red 22 Inches	New	129.99	No		Yes	31	27	0	4	37	12638.03	0	6	0
+DO-YELQ123-W0-22	X000UEWM55	B07CM52CNC	Yesteria 22 Inch Real Looking Reborn Baby Dolls Girl Silicone Vinyl White European Retro Nightdress	New	129.99	No		Yes	3	3	0	0	3	13137.67	0	0	0
+DO-YELQ150-PI-20	X000UULJZD	B07CM664M7	Real Looking Reborn Baby Dolls Girl Silicone Vinyl Eye Closed Pink Pajama 20 inches	New	119.99	No		Yes	2	2	0	0	2	6200.87	0	0	0
+DO-YELQ152-B7-22	X000T0G6MP	B0784T23ZQ	Realistic Sleeping Reborn Baby Doll Boy Silicone Light Blue Outfit with Hippo Pattern 22 Inches	New	129.99	No		Yes	3	3	0	0	8	20942.67	0	5	0
+DO-YELQ161-B7-22	X000SW4KEF	B076MT3BDS	Yesteria Reborn Baby Doll Boy Look Real Silicone Light Blue Outfit 22 Inches	New	129.99	No		Yes	13	10	1	2	13	16911.61	0	0	0
+DO-YELQ161-PI-22	X000SVRFZH	B076MW1Y4F	Yesteria Sleeping Reborn Baby Doll Girl Look Real Silicone Pink Outfit 22 Inches	New	129.99	No		Yes	36	34	0	2	36	14632.01	0	0	0
+DO-YELQ163-R0-22	X000SVPRK7	B076P99TGC	Yesteria Sleeping Reborn Baby Doll Boy Look Real Full Silicone Body Red Outfit 22 Inches	New	159.99	No		Yes	19	17	1	1	19	19936.17	0	0	0
+DO-YELQ170-SH-22	X000VB64M9	B07F72X354	Yesteria Real Looking Reborn Baby Doll Girl Toddler Floral Princess Dress 24 Inches	New	256.00	No		Yes	5	5	0	0	5	27936.99	0	0	0
+DO-YELQ173-B7-21	X000UU8VY5	B07BFVYCH2	Silicone Reborn Baby Dolls Girl Look Real Lifelike Toddler Light Blue Rose Red Outfit with Toy Penguin 22 inches	New	119.99	No		Yes	0	0	0	0	5	22299.52	0	5	0
+DO-YELQ203-P4-22	X000UVOLFR	B07DGB6SHX	Yesteria Real Looking Sleeping Reborn Baby Dolls Girl Silicone Light Purple Tutu Skirt 22 Inches	New	119.99	No		Yes	8	8	0	0	8	20033.35	0	0	0
+DO-YELQ230-PI-16	X000UU739T	B07DDB7VBP	Reborn Baby Dolls Girl Look Real Lifelike Toddler Silicone Vinyl Light Pink Dress 16 inches	New	109.99	No		Yes	7	7	0	0	7	12299.97	0	0	0
+DO-YELQ504-PI-22	X000VAY1T3	B07F71667Y	Yesteria Realistic Reborn Baby Doll Girl Toddler Pink Princess Dress 24 Inches	New	256.00	No		Yes	9	9	0	0	9	28728	0	0	0
+DO-YELQ539-PI-16	X000VLDOLD	B07G1WRYLK	Yesteria Real Like Reborn Baby Doll Girl Realistic Soft body Lovely Gift 16 Inches	New	119.00	No		Yes	3	2	0	1	3	21482.95	0	0	0
+DO-YELQ601-PI-22	X000SW4P45	B076J2TBNG	Yesteria Real Looking Sleeping Reborn Baby Doll Girl Silicone Pink 22 Inches	New	129.99	No		Yes	58	47	1	10	58	17555.95	0	0	0
+DO-YELQ602-PI-22	X000SVPRIT	B076J4L24W	Yesteria Sleeping Reborn Baby Doll Girl Look Real Silicone Pink with Cow Pattern Outfit 22 Inches	New	129.99	No		Yes	49	49	0	0	49	16587.97	0	0	0
+DO-YELQ603-NZ-22	X000TT4ANN	B07BHMZT4Y	Yesteria Realistic Reborn Baby Doll Girl Silicone denim Tutu Dress 22 Inches	New	129.99	No		Yes	14	13	0	1	39	10080.01	0	25	0
+DO-YELQ603-PI-22	X000SVPRJX	B076J6949M	Yesteria Realistic Sleeping Reborn Baby Doll Girl Lifelike Silicone Pink 22 Inches	New	129.99	No		Yes	24	22	0	2	24	4085.79	0	0	0
+DO-YELQ610-R2-22	X000TUXSP3	B07BM7G52Z	Yesteria Real Looking Reborn Baby Dolls Girl Silicone Rose Red Outfit 22 Inches	New	129.99	No		Yes	29	27	1	1	29	17200.03	0	0	0
+DO-YELQ611-TW-22	X000TT217P	B0793RG3PM	Yesteria Real Life Silicone Reborn Baby Dolls Boy Look Real Striped Jumpsuit 22 Inches	New	129.99	No		Yes	8	8	0	0	8	11208.75	0	0	0
+DO-YELQ638-LGR-20	X000TUZIWT	B07B7G22RT	Yesteria Full Silicone Body Reborn Baby Dolls Boy Look Real Light Blue Knitted Outfit 18 Inches	New	159.99	No		Yes	102	83	0	19	102	13499.99	0	0	0
+DO-YELQ638-PI-20	X000TT213T	B07929YDZM	Yesteria Full Silicone Body Reborn Baby Doll Girl Look Real Pink Knitted Outfit 18 Inches	New	159.99	No		Yes	8	6	0	2	14	7463.49	0	6	0
+DO-YELQ663-PI-15	X000UVFG2T	B07BRK2R83	Yesteria Real Life Reborn Baby Dolls Girl Look Real Silicone Vinyl Pink Outfit 15 Inches	New	109.99	No		Yes	10	10	0	0	10	15997.22	0	0	0
+DO-YELQ701-PI-22	X000UVTU8Z	B07CM9N213	Yesteria 22 Inches Silicone Reborn Baby Dolls Girl Look Real Rose Red Tutu Skirt with Striped Pants	New	119.99	No		Yes	2	2	0	0	2	11399.99	0	0	0
+DO-YELQ705-0R-10	X000T05C2F	B0788NF4TB	Yesteria African American Reborn Baby Doll Boy Look Real Full Silicone Body Bohemia Style Orange Outfit 10 Inches	New	79.99	No		Yes	24	24	0	0	24	6390.95	0	0	0
+DO-YELQ705-BR-10	X000T0CPNT	B0788P8DCG	Yesteria African American Reborn Baby Doll Girl Look Real Full Silicone Body Bohemia Style Outfit 10 Inches	New	79.99	No		Yes	25	25	0	0	25	2703.87	0	0	0
+DO-YELQ705-GR-11	X000T0G6MF	B077HNP6TL	Yesteria Reborn Baby Doll Girl Elephant Outfit Look Real Full Silicone Body Grey 10 Inches	New	79.99	No		Yes	15	4	0	11	30	2703.87	0	15	0
+DO-YELQ706-R0-24	X000VAJZ9J	B07D4D6Q9C	Realistic Reborn Toddler Baby Silicone Monkey Coat Blue Pants White Shoes 24 inches	New	256.00	No		Yes	1	0	0	1	3	45129.97	0	2	0
+DO-YELQ707-PI-24	X000V68UU3	B07D4DRFYN	Realistic Reborn Toddler Baby Doll Girl Silicone Pink Outfit White Shoes with Toy Giraffe 24 inches	New	256.00	No		Yes	0	0	0	0	5	9999.06	0	5	0
+DO-YELQ708-W0-24	X000V9WZ2J	B07D4DC72D	Reborn Toddler Babies Silicone Vinyl Realistic Toddler Panda Coat Black Pants with Shoes 24 inches	New	256.00	No		Yes	1	0	0	1	1	22620.05	0	0	0
+DO-YELQ709-B7-24	X000W5SWMT	B07D4DDT41	Reborn Baby Doll Girl Look Real Toddler Realistic Silicone Vinyl Soft Body Blue Jacket with Frog Pattern 24 Inches	New	256.00	No		Yes	0	0	0	0	0	26047.24	0	0	0
+DO-YELQ709-b7-24	X000W5NDFF	B07GS2FFSV		Unknown					0	0	0	0	0		0	0	0
+DO-YELQ812-W0-18	X000UEWMI7	B0792VKCCR	Yesteria Sleeping Reborn Baby Dolls Boy Realistic Toddler Silicone Vinyl Panda Outfit 18 Inch	New	129.99	No		Yes	14	13	0	1	25	17968.74	0	11	0
+DO-YELQ904-B7-22	X000SW4P3V	B076J5RSFF	Yesteria Reborn Baby Doll Boy Look Real Silicone Blue Outfit 22 Inches	New	129.99	No		Yes	107	106	0	1	107	15400.07	0	0	0
+DO-YELQ985-B7-20	X000UEXC8V	B07CM67KDW	Yesteria 20 Inch Full Silicone Vinyl Body Reborn Baby Dolls Boy Real Looking Naked Toddler with Blue Blanket	New	159.99	No		Yes	18	5	1	12	20	7939.53	0	2	0
+DO-YULQ012-PI-22	X000UU86IV	B076J2H7FC		Unknown					0	0	0	0	0		0	0	0
+DO-YULQ062-PI-22	X000UWR0VX	B079JRDT89		Unknown					0	0	0	0	0		0	0	0
+DO-YULQ070-PI-16	X000UUL05H	B079NYR8GC		Unknown					0	0	0	0	0		0	0	0
+DO-YULQ100-B7-22	X000UWJGF1	B079JRPXZ8		Unknown					0	0	0	0	0		0	0	0
+DO-YULQ150-PI-20	X000UU806T	B07CM664M7		Unknown					0	0	0	0	0		0	0	0
+DO-YULQ203-P4-22	X000UWC59F	B07DGB6SHX		Unknown					0	0	0	0	0		0	0	0
+DO-YULQ230-PI-16	X000UU806J	B07DDB7VBP		Unknown					0	0	0	0	0		0	0	0
+NZ-YELQ052-ZH-4	X000UR2CQV	B07D795CB6	4 Pcs Reborn Baby Doll Magnet Dummy Pacifier Supplies Accessories Transparent Blue Green Pink	New	29.99	No		Yes	10	10	0	0	10		0	0	0
+YE-YELQ007-PI-XS	X000TW6GU5	B074P4D14G	Reborn Baby Doll Outfits Girl for 20"- 22" Pink	New	49.99	No		Yes	44	42	0	2	44	1406.83	0	0	0
+YF-YELQ002-B7-20	X000UWGU73	B079NXJZ52	Reborn Baby Doll Outfits Boy Accessories for 20"- 22" White and Light Blue Pants	New	49.99	No		Yes	4	4	0	0	4	1147.09	0	0	0
+YF-YELQ003-PI-XS	X000T0GC65	B076K8YDNV	Reborn Baby Doll Outfits Girl for 20"- 22" Pink and Cow Pattern	New	49.99	No		Yes	28	25	0	3	28	1566.93	0	0	0
+YF-YELQ003-R2-XS	X000T0H007	B076KQB6X1	Reborn Baby Doll Outfits Girl for 20"- 22" Rose Red and Cow Pattern	New	49.99	No		Yes	40	39	0	1	40	774.29	0	0	0
+YF-YELQ003-W0-XS	X000UWGVG3	B077T29TYP	Reborn Baby Doll Outfits Girl Accessories for 20"- 22" White and Cow Pattern	New	49.99	No		Yes	3	2	0	1	8	2042.48	0	5	0
+YF-YELQ162-B7-20	X000UWAIWV	B079P28VV3	Reborn Baby Doll Outfits Boy Accessories for 20"- 22" Light Blue Outfit	New	49.99	No		Yes	4	4	0	0	4	2002.66	0	0	0
+YF-YELQ602-PI-20	X000UWGU7N	B079P55XYW	Reborn Baby Doll Outfits Boy Accessories for 20"- 22" Pink Outfit	New	49.99	No		Yes	4	4	0	0	4	1229.03	0	0	0
+YF-YELQ905-B7-20	X000UWGU7D	B079NX5R9C	Reborn Baby Doll Outfits Boy Accessories for 20"- 22" Light blue Outfit	New	49.99	No		Yes	4	4	0	0	4	1846.82	0	0	0
